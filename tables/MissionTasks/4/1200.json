@@ -1,0 +1,19 @@
+{
+  "id": 1200,
+  "tasks": [
+    {
+      "IconID": 2928,
+      "gate_version": "march2011content",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 0,
+      "locStatus": 2,
+      "localize": true,
+      "target": 1150,
+      "targetGroup": "1250,1350,1450,1151,1251",
+      "targetValue": 75,
+      "taskParam1": null,
+      "taskType": 30,
+      "uid": 1667
+    }
+  ]
+}

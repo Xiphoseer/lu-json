@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6172,
+    "2": 12356,
+    "9": 0
+  },
+  "description": "Assembly Scout Wrench",
+  "displayName": "NPC Assembly Scout Wrench",
+  "gate_version": null,
+  "id": 12567,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Assembly Scout Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 970
+    }
+  ],
+  "type": "Loot"
+}

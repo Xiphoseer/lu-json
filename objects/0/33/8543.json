@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3832,
+    "2": 8097,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Key of Imagination",
+  "gate_version": null,
+  "id": 8543,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Key of Imagination",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

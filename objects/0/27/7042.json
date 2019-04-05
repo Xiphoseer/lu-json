@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5074,
+    "40": 2352,
+    "5": 977
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7042,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Lightning Flash Trigger  (Humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

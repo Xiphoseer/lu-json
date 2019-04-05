@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6034,
+    "2": 12032
+  },
+  "description": "Automatically equiped when Jolly Beard is worn",
+  "displayName": "Jolly Beard Back/Neck Proxy",
+  "gate_version": "dec2010content",
+  "id": 12284,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Jolly Beard Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Avant Gardens",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1100.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 10.390000343322754,
+  "gate_version": null,
+  "ghostdistance": 250.0,
+  "ghostdistance_min": 150.0,
+  "heightInChunks": 11,
+  "locStatus": 2,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": "Avant_Gardens",
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 31,
+  "population_soft_cap": 22,
+  "scriptID": 654,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": 200.0,
+  "thumbnail": null,
+  "widthInChunks": 11,
+  "zoneControlTemplate": null,
+  "zoneID": 1100,
+  "zoneName": "01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz"
+}

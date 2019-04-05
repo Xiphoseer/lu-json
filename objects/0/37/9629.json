@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4650,
+    "2": 9475,
+    "3": 4191,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "King Leo's Castle Model",
+  "gate_version": null,
+  "id": 9629,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward King Leo Castle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

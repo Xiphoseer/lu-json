@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 5029,
+    "2": 10768,
+    "9": 0
+  },
+  "description": "Test Laser",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11016,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shuriken Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 486
+    }
+  ],
+  "type": "Shooting Gallery"
+}

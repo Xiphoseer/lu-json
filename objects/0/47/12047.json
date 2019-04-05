@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11796,
+    "25": 0,
+    "27": 0,
+    "3": 5842,
+    "48": 72,
+    "5": 1331,
+    "7": 1672
+  },
+  "description": "Draw bridge",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12047,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Center draw bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12880,
+    "25": 0,
+    "27": 0,
+    "3": 6372
+  },
+  "description": "Smash Targets for NT Mini-Game",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 13104,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT-SmashTargetOne",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

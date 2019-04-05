@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND Use only",
+  "components": {
+    "11": 5353,
+    "2": 10752,
+    "3": 5019,
+    "42": 0
+  },
+  "description": "GF Property Pushback Model - Ice Barrier",
+  "displayName": "GF Property Pushback Model - Ice Barrier",
+  "gate_version": null,
+  "id": 10999,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Property Pushback Model - Ice Barrier",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

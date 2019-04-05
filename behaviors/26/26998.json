@@ -1,0 +1,14 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/26/26998.json"
+    }
+  },
+  "behaviorID": 26998,
+  "effectHandle": "soapspray",
+  "effectID": 0,
+  "parameters": {
+    "target_caster": 0.0
+  },
+  "templateID": 32
+}

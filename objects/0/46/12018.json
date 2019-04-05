@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11767,
+    "3": 5816
+  },
+  "description": "Rocket Launcher Tube",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12018,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL_Rocket_Launcher_Tube",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

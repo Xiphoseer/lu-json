@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 7314,
+    "2": 14536,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Kai's First Gi",
+  "gate_version": "njhub",
+  "id": 15843,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kai's First Gi",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

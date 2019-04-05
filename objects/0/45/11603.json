@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5654,
+    "2": 11355,
+    "3": 5447,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Barn Porch Corner Model",
+  "gate_version": "march2011content",
+  "id": 11603,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Barn Porch Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

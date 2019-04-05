@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3080,
+    "3": 1783,
+    "5": 536
+  },
+  "description": "Youreeka: the switch for the blue bouncer at the hazmat building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3529,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Hazmat Switch Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

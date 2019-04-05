@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6380,
+    "25": 0,
+    "27": 0,
+    "3": 3009,
+    "48": 147,
+    "7": 675
+  },
+  "description": "Moving Platform for Gnarled forest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6819,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

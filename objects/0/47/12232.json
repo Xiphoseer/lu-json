@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11979,
+    "3": 5974
+  },
+  "description": "Console in that controls the bridge",
+  "displayName": "",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 12232,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Bridge Console",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

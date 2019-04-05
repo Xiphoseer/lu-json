@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7437,
+    "3": 3545
+  },
+  "description": "RACE-GFTrack11_TRACK_CanopyAscent",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7879,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-GFTrack11_TRACK_CanopyAscent",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

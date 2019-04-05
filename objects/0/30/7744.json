@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3258,
+    "2": 7300,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Witch Robe",
+  "gate_version": null,
+  "id": 7744,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Witch Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

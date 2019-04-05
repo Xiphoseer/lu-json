@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3150,
+    "2": 7060,
+    "5": 1083,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Samurai Leggings 3",
+  "gate_version": null,
+  "id": 7495,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Samurai Legs 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

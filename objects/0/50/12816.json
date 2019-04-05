@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Valiant Weapon",
+  "components": {
+    "11": 6357,
+    "2": 12605,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "The Doomslicer",
+  "gate_version": "valiantweapons",
+  "id": 12816,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Sorcerer Valiant Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1036
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1270
+    }
+  ],
+  "type": "Loot"
+}

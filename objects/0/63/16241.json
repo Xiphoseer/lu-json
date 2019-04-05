@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Lightning element blade spinner trap",
+  "components": {
+    "2": 14957,
+    "25": 39,
+    "27": 0,
+    "3": 7668,
+    "39": 115,
+    "5": 1676,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Lightning - Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16241,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

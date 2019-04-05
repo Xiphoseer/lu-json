@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Earth Kit",
+  "components": {
+    "11": 7027,
+    "2": 13881,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Earth and rocket directly to the Ninjago Caves!",
+  "displayName": "Pants of Quakes",
+  "gate_version": "njhub",
+  "id": 14172,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Spinjitzu Pants Pants of Quakes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6124,
+    "3": 2318,
+    "35": 246,
+    "39": 0,
+    "5": 625,
+    "7": 305
+  },
+  "description": "__MG__AG Spaceship Mission Giver",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 6576,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Spaceship Bob 001 DO NOT USE",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

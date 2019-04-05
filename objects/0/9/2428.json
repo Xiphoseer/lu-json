@@ -1,0 +1,48 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 7,
+    "2": 2101,
+    "3": 1152,
+    "5": 81
+  },
+  "description": "NP missiongiver",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 2428,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Art Lover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

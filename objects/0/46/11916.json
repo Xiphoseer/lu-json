@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11664,
+    "3": 5750
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11916,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Life Powerup 3 points",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 2,
+      "skillID": 903
+    }
+  ],
+  "type": "Powerup"
+}

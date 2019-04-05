@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 858,
+    "2": 1768,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Black Pirate Scarf",
+  "gate_version": null,
+  "id": 1890,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Pirate Scarf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

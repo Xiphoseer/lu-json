@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10058,
+    "3": 4512
+  },
+  "description": "animated property kiosk/plaque",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10217,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property Kiosk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2800,
+    "2": 6299,
+    "28": 35,
+    "3": 2963,
+    "42": 0,
+    "63": 26
+  },
+  "description": "Modular Car F Bumper",
+  "displayName": "Modular Car Front Bumper #4",
+  "gate_version": null,
+  "id": 6759,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car F Bumper 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago consumable sold by Johnny Umami; Medwards to determine buffs",
+  "components": {
+    "11": 7127,
+    "2": 14193,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Yucki-Yaki",
+  "gate_version": "njhub",
+  "id": 14504,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yucki-Yaki",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1502
+    }
+  ],
+  "type": "Loot"
+}

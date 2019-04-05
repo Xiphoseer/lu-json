@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10481,
+    "25": 0,
+    "27": 0,
+    "3": 4769
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 11428,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - PiratronScoutShip",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

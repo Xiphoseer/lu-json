@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For NetDevil use only.",
+  "components": {
+    "11": 5444,
+    "2": 10861
+  },
+  "description": "NS Property Pushback - Blocker",
+  "displayName": "BEHAVIOR - NS Property Pushback - Blocker",
+  "gate_version": null,
+  "id": 11110,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BEHAVIOR - NS Property Pushback - Blocker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

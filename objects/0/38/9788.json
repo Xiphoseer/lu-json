@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test for Yegge",
+  "components": {
+    "11": 4755,
+    "2": 9624
+  },
+  "description": "Test for Yegge",
+  "displayName": "Test Player won't see this item",
+  "gate_version": null,
+  "id": 9788,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Dual Wield Offhand Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

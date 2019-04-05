@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Assembly Breadcrumb 2",
+  "components": {
+    "2": 13300,
+    "23": 58,
+    "40": 6654,
+    "7": 1832
+  },
+  "description": "Assembly Logo for Breadcrumb 2",
+  "displayName": "NT - Assembly Logo Breadcrumb 2",
+  "gate_version": "nexustower",
+  "id": 13563,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Assembly Logo Breadcrumb 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

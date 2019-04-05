@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Behavior for ambient models",
+  "components": {
+    "11": 5460,
+    "2": 10912
+  },
+  "description": "Basic critter behavior",
+  "displayName": "Mouse Behavior",
+  "gate_version": null,
+  "id": 11163,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mouse Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Salamunky model",
+  "components": {
+    "11": 6686,
+    "2": 13276
+  },
+  "description": "A behavior makes a model into a patroling enemy.",
+  "displayName": "Scared Salamunky Behavior",
+  "gate_version": null,
+  "id": 13542,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Scared Salamunky Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

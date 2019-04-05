@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit",
+  "components": {
+    "11": 7568,
+    "2": 15023,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Fire and rocket directly to the Ninjago Caves!",
+  "displayName": "Hood of Flames",
+  "gate_version": "njhub",
+  "id": 16277,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Hood Hood of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1572
+    }
+  ],
+  "type": "Loot"
+}

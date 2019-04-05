@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14760,
+    "3": 7570,
+    "7": 2098
+  },
+  "description": "NJ mon -Maelstrom weapons crate Smashable",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16040,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ mon -Maelstrom weapons crate Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

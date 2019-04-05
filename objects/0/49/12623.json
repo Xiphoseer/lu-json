@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6191,
+    "2": 12413,
+    "9": 0
+  },
+  "description": "Venture Scout Armor",
+  "displayName": "NPC Venture Scout Armor",
+  "gate_version": null,
+  "id": 12623,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Venture Scout Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 342
+    }
+  ],
+  "type": "Loot"
+}

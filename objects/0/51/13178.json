@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2490,
+    "2": 4137,
+    "28": 3,
+    "3": 2554,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "TEST ROCKET Ian Hall Nose Cone",
+  "gate_version": null,
+  "id": 13178,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "MOD TEST ROCKET Ian Hall Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

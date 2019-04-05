@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4853,
+    "2": 9847,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": null,
+  "id": 10020,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Ryans Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 10
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing",
+  "components": {
+    "11": 3745,
+    "2": 8006,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Shortsword",
+  "gate_version": null,
+  "id": 8451,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Shortsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 276
+    }
+  ],
+  "type": "Loot"
+}

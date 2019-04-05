@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 185,
+    "2": 5407,
+    "3": 2318,
+    "35": 184,
+    "7": 305,
+    "73": 26
+  },
+  "description": "__MG__AG Mission Giver",
+  "displayName": "Vector Longview - Venture League Scout",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 6012,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Venture Scout",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

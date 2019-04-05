@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 7510,
+    "2": 14899,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Valiant Space Ranger's Cape",
+  "gate_version": "levelprogression",
+  "id": 16181,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Space Ranger Cape Back/Neck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1093
+    }
+  ],
+  "type": "Loot"
+}

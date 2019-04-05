@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7252,
+    "2": 14449,
+    "28": 405,
+    "3": 7448,
+    "42": 0,
+    "63": 36
+  },
+  "description": null,
+  "displayName": "LEGO Club Rear Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14762,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car LEGO Club Car Rear Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

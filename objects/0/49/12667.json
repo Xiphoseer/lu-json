@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 3 AP + AOE heals armor and friendly turrets!",
+  "components": {
+    "11": 6215,
+    "2": 12456,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Handy Spanner",
+  "gate_version": "auramar",
+  "id": 12667,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Handy Spanner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1136
+    }
+  ],
+  "type": "Loot"
+}

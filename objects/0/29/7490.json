@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3145,
+    "2": 7055,
+    "5": 1411,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Space Ranger Pants 1",
+  "gate_version": "factionkit2",
+  "id": 7490,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Space Ranger Legs 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

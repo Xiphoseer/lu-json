@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4526,
+    "2": 9297,
+    "28": 182,
+    "3": 4067,
+    "42": 0,
+    "63": 3
+  },
+  "description": null,
+  "displayName": "Burst Tamale Engine Panel",
+  "gate_version": null,
+  "id": 9438,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car4_EnginePanel1_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

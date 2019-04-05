@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Maelstrom Dark Blade",
+  "components": {
+    "11": 6958,
+    "2": 13725
+  },
+  "description": "",
+  "displayName": "NPC Maelstrom Dark Blade",
+  "gate_version": "njhub",
+  "id": 14015,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Maelstrom Dark Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

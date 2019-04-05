@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5270,
+    "2": 10661,
+    "3": 4935,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Brown Silver Dining Table Model",
+  "gate_version": null,
+  "id": 10814,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward BrownSilverDiningTable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

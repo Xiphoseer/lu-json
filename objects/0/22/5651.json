@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5074,
+    "40": 2352
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 5651,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trigger Rectangle Box (Humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

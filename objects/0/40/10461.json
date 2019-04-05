@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5165,
+    "2": 10304
+  },
+  "description": "This Behavior will enable your model to follow and flee from players.",
+  "displayName": "Basic AI Behavior",
+  "gate_version": null,
+  "id": 10461,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Basic AI",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,40 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/34/35229.json"
+    }
+  },
+  "behaviorID": 35229,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "action": 35230.0,
+    "angle": 90.0,
+    "angle_weight": 0.0,
+    "check_env": 0.0,
+    "distance_weight": 0.0,
+    "far_height": 0.0,
+    "far_width": 0.0,
+    "height": 2.200000047683716,
+    "lower_bound": -0.5,
+    "max range": 8.0,
+    "max targets": 1.0,
+    "method": 1.0,
+    "min range": 0.0,
+    "miss action": 35244.0,
+    "near_height": 0.0,
+    "near_width": 0.0,
+    "offset_x": 0.0,
+    "offset_y": 0.0,
+    "offset_z": 0.0,
+    "target_enemy": 1.0,
+    "target_friend": 0.0,
+    "target_self": 0.0,
+    "target_team": 0.0,
+    "upper_bound": 5.0,
+    "use_attack_priority": 1.0,
+    "use_picked_target": 1.0,
+    "use_target_position": 0.0
+  },
+  "templateID": 2
+}

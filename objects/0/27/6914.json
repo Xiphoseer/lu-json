@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6476,
+    "3": 3042
+  },
+  "description": "For Cassie",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 64,
+      "iconState": 65
+    }
+  ],
+  "id": 6914,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Rocket Build Volume Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

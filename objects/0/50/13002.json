@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6841,
+    "2": 13469,
+    "3": 6789,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Assembly Device Core Model",
+  "gate_version": "nexustower",
+  "id": 13002,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Assembly Device Core",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

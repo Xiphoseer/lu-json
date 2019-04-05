@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6635,
+    "2": 13117
+  },
+  "description": null,
+  "displayName": "NPC Vampire Hair Vendor",
+  "gate_version": "nexustower",
+  "id": 13389,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Vampire Hair Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

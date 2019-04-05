@@ -1,0 +1,48 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restores caster for 9 Imagination. 5 AP 5 IP. Deals 4/18 dmg piercing",
+  "components": {
+    "11": 7360,
+    "2": 14647,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Thought Blade",
+  "gate_version": "njhub",
+  "id": 15955,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Thought Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1464
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1549
+    }
+  ],
+  "type": "Loot"
+}

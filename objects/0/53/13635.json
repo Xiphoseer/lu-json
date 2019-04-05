@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13372,
+    "3": 6694,
+    "7": 1855
+  },
+  "description": "smashable gate between rooms 6 and 7 for the earth dungeon",
+  "displayName": "NJ - Ancient Smashable Gate",
+  "gate_version": "njhub",
+  "id": 13635,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ancient Smashable Gate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 509 - Hidden",
+  "components": {
+    "11": 3093,
+    "2": 7001
+  },
+  "description": null,
+  "displayName": "Hammer Brick 1",
+  "gate_version": null,
+  "id": 7436,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hammer Piece 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

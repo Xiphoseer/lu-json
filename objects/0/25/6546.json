@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "3": 2816
+  },
+  "description": "Only blocks the gameplay camera.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6546,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Camera-only Blocking Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

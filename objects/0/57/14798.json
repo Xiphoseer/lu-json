@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "offhand for dual wield katana with ninja speed",
+  "components": {
+    "11": 7271,
+    "2": 14485,
+    "9": 0
+  },
+  "description": "offhand for dual wield katana with ninja speed",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 14798,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Black Katana with Ninja Speed - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1444
+    }
+  ],
+  "type": "Loot"
+}

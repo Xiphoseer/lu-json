@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9997,
+    "3": 4500
+  },
+  "description": "Spider Cave area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10159,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Spider cave glom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

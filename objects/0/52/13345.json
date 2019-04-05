@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6620,
+    "2": 13073,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Jiu Jitsu Master Trophy Vendor",
+  "gate_version": "nexustower",
+  "id": 13345,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Jiu Jitsu Master Trophy Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

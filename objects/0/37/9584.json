@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4614,
+    "2": 9435,
+    "3": 4163,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Axe Cart Model",
+  "gate_version": null,
+  "id": 9584,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Axe Cart",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

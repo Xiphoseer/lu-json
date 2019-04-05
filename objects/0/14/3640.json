@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "3": 1034,
+    "5": 543
+  },
+  "description": "A client side trigger to start a scripted event in NP scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3640,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Scene 2 Clientside Scripted Event Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

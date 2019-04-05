@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15262,
+    "3": 7905,
+    "67": 37,
+    "78": 41
+  },
+  "description": "Launch pad to Nexus Tower from Ninjago Monastery",
+  "displayName": "",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 16513,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJHub - NT Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

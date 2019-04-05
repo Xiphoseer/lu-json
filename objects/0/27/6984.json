@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6564,
+    "3": 3086
+  },
+  "description": "Canopy card used behind trees",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6984,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Canopy Card",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

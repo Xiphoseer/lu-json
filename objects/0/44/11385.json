@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5542,
+    "2": 11158,
+    "9": 0
+  },
+  "description": "Used by PR to set up composites",
+  "displayName": "Hat of Grid Lines GM ONLY",
+  "gate_version": null,
+  "id": 11385,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Hat of Grid Lines GM ONLY",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 382
+    }
+  ],
+  "type": "Loot"
+}

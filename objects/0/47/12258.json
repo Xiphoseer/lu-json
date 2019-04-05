@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 441,
+    "2": 12005,
+    "3": 1777,
+    "35": 543,
+    "5": 1538,
+    "7": 305,
+    "73": 112
+  },
+  "description": "__MG__Nexus Tower Hael Storm",
+  "displayName": "Hael Storm - Venture League Faction Leader",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12258,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Hael Storm",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

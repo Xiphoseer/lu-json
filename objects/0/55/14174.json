@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7029,
+    "2": 13883,
+    "9": 0
+  },
+  "description": "test hael hair",
+  "displayName": "test hael hair",
+  "gate_version": "buildNexusTower",
+  "id": 14174,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "test hael hair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

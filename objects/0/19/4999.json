@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4421,
+    "3": 2318,
+    "35": 123,
+    "5": 730,
+    "7": 472
+  },
+  "description": "AG - Race Course NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4999,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Course Fan Male",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

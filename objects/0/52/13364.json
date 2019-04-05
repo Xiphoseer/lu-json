@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13092,
+    "3": 6498
+  },
+  "description": "Main Cavern Ice sheet 3rd hole thats broken out",
+  "displayName": "NJ - Ice Boss Break Hole 3",
+  "gate_version": "njhub",
+  "id": 13364,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Boss Break Hole 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 474,
+    "2": 12433,
+    "3": 1777,
+    "35": 567,
+    "7": 307,
+    "9": 0
+  },
+  "description": "TEST.  PLEASE DELETE ME.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12645,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "TOOLS_DONOTPLACE_DELETEMEPLEASE",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 52
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

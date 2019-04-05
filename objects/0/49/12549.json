@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 damage with knockdown on each bullet",
+  "components": {
+    "11": 6161,
+    "2": 12340,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Exceptional Pea Shooter",
+  "gate_version": "auramar",
+  "id": 12549,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Pea Shooter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 990
+    }
+  ],
+  "type": "Loot"
+}

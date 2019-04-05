@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4101,
+    "3": 1777,
+    "35": 101,
+    "7": 305
+  },
+  "description": "Mission giver to test mission type 0",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4683,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TestMission0",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

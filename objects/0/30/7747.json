@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3261,
+    "2": 7303,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Overalls",
+  "gate_version": null,
+  "id": 7747,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Construction Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

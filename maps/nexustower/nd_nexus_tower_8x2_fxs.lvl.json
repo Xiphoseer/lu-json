@@ -1,0 +1,105 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 12,
+      "value_2": 0,
+      "value_3": 64,
+      "value_4": 0,
+      "version": 48
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 2201170739217,
+          "lot": 14051,
+          "pos": {
+            "pos": {
+              "x": -380.5279541015625,
+              "y": 1140.8585205078125,
+              "z": -12.873380661010742
+            },
+            "rot": {
+              "w": 0.3173045814037323,
+              "x": 0.0,
+              "y": 0.948323667049408,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 2201170739218,
+          "lot": 13832,
+          "pos": {
+            "pos": {
+              "x": -402.32000732421875,
+              "y": 1157.199951171875,
+              "z": -29.030000686645508
+            },
+            "rot": {
+              "w": 0.8949732780456543,
+              "x": 0.0,
+              "y": 0.4461197555065155,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

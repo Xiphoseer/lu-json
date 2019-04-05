@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13515,
+    "3": 6808,
+    "5": 1469,
+    "7": 1868,
+    "9": 0
+  },
+  "description": "Blue X in CP that",
+  "displayName": "Blue X",
+  "gate_version": "nexustower",
+  "id": 13775,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - blue X",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

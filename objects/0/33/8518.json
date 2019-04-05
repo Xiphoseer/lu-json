@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Johnny Thunder Bag",
+  "components": {
+    "11": 3812,
+    "2": 8072
+  },
+  "description": "NPC Johnny Thunder Bag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8518,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Johnny Thunder Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

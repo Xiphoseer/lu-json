@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test",
+  "components": {
+    "11": 2556,
+    "2": 1910,
+    "9": 0
+  },
+  "description": "Increases your speed for a short time",
+  "displayName": "Manic Motion Potion",
+  "gate_version": null,
+  "id": 6195,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Speed Boost Consumable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 181
+    }
+  ],
+  "type": "Loot"
+}

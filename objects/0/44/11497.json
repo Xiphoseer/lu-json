@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11245,
+    "3": 5343
+  },
+  "description": "fx_fv_race_drill_test",
+  "displayName": "fx_fv_race_drill_test",
+  "gate_version": null,
+  "id": 11497,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_fv_race_drill_test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 3912,
+    "2": 8227,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Kettle Helmet",
+  "gate_version": null,
+  "id": 8673,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kettle Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

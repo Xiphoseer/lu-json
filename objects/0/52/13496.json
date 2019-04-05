@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6651,
+    "2": 13211,
+    "3": 6600,
+    "42": 0
+  },
+  "description": "A model with Behaviors for your property.",
+  "displayName": "Reward Micro Spider",
+  "gate_version": null,
+  "id": 13496,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Micro Spider",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

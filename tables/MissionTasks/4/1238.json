@@ -1,0 +1,19 @@
+{
+  "id": 1238,
+  "tasks": [
+    {
+      "IconID": 3055,
+      "gate_version": "nimbusinstance",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 0,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12586,
+      "targetGroup": "12587,12588,12589,12590,12591,12600,12602,12604,12605,12609,12610,12611,12612,12653,11999,12467,12468,12469",
+      "targetValue": 250,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 1719
+    }
+  ]
+}

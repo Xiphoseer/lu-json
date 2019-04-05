@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7195,
+    "2": 14386,
+    "28": 371,
+    "3": 7409,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "LEGO Club Rocket Nose Cone",
+  "gate_version": "ftcommunityitems",
+  "id": 14698,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LEGO Club Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

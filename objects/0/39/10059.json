@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Alarm sounds when close",
+  "components": {
+    "11": 4883,
+    "2": 9895
+  },
+  "description": "Alarm sounds when close",
+  "displayName": "Proximity Alarm Behavior",
+  "gate_version": null,
+  "id": 10059,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Proximity Alarm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

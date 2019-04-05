@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 3863,
+    "2": 8164,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Ruffled and Striped Shirt",
+  "gate_version": null,
+  "id": 8607,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ruffled and Striped Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

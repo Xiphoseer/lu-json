@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12335,
+    "23": 50,
+    "40": 6174,
+    "7": 1741
+  },
+  "description": "Collectible Spawner for VE Collectable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12543,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VE Instance - Collectable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "11": 7069,
+    "2": 6457,
+    "30": 8,
+    "5": 948,
+    "7": 719,
+    "9": 0
+  },
+  "description": "test of the new modular vehicle",
+  "displayName": "Old Test Car",
+  "gate_version": null,
+  "id": 6730,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Modular Vehicle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 583
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 594
+    }
+  ],
+  "type": "Vehicle"
+}

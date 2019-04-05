@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5291,
+    "3": 2422,
+    "7": 496
+  },
+  "description": "a maelstrom infected chest for gnarled forest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5864,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Maelstrom Infected Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

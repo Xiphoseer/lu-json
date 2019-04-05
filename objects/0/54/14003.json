@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6955,
+    "2": 13714,
+    "9": 0
+  },
+  "description": "3 damage projectile",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14003,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "3 Dmg Projectile Double Bullet B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 847
+    }
+  ],
+  "type": "Shooting Gallery"
+}

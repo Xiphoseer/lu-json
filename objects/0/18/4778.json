@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4189,
+    "25": 0,
+    "27": 0,
+    "3": 2150
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4778,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship Piston",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5069,
+    "3": 2346
+  },
+  "description": "Placeable rock around AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5648,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Small Rock 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6651,
+    "17": 509,
+    "2": 13297,
+    "31": 28,
+    "48": 191,
+    "60": 135,
+    "7": 1849,
+    "9": 0
+  },
+  "description": "Rebuildable enemy for the earth dungeon",
+  "displayName": "Skeleton Miner",
+  "gate_version": "njhub",
+  "id": 13558,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Miner QB",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 943
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1122
+    }
+  ],
+  "type": "Rebuildables"
+}

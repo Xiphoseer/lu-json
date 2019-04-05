@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6865,
+    "2": 13498
+  },
+  "description": "Used in the nexus tower mission chain",
+  "displayName": "Horseman Disguise Head Proxy",
+  "gate_version": "nexustower",
+  "id": 13758,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Horseman Disguise Head Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

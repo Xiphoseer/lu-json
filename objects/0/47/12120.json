@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11869,
+    "20": 5885,
+    "23": 40,
+    "7": 1660
+  },
+  "description": "Collectible Spawner for FV Racing Collectible Flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12120,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Racing Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

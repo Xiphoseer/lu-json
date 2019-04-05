@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12079,
+    "3": 6019
+  },
+  "description": "mesh for blizzard effects",
+  "displayName": "fx_race_nim_snow_blizzard",
+  "gate_version": null,
+  "id": 12329,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "blizzard_mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

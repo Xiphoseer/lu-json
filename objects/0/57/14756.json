@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7246,
+    "2": 14443,
+    "28": 399,
+    "3": 7442,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Master Driver Side Panels",
+  "gate_version": "ftcommunityitems",
+  "id": 14756,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Grey Indy Car Side Panels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5492,
+    "3": 2546,
+    "48": 65
+  },
+  "description": "rebuildable version of finish line flags for AG mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6097,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Rebuild Finish Line",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

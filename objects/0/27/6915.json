@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6477,
+    "3": 3043,
+    "5": 979
+  },
+  "description": "Modular Build flashing tail volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6915,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Tail Volume Flashing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

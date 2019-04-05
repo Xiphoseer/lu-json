@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "16": 9,
+    "2": 6430,
+    "35": 269,
+    "7": 306
+  },
+  "description": "more testing",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 6875,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test commit",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

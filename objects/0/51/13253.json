@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6549,
+    "2": 12985,
+    "28": 305,
+    "3": 6446,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "TEST IAN HALL FOR SUBMIT Engine",
+  "gate_version": null,
+  "id": 13253,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST MOD IAN HALL FOR SUBMIT Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

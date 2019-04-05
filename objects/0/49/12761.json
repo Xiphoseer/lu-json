@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6309,
+    "2": 12551,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Double Blaster",
+  "gate_version": "nexustower",
+  "id": 12761,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Double Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1241
+    }
+  ],
+  "type": "Loot"
+}

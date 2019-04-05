@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7200,
+    "2": 14391,
+    "28": 376,
+    "3": 7414,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Duck Rocket Engine",
+  "gate_version": "ftcommunityitems",
+  "id": 14703,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Duck Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

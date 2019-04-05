@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10764,
+    "3": 5025
+  },
+  "description": "FV Race Track Side Wall",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack06_TRACK_FVParadoxWallRIGHT",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP + Damage lasers",
+  "components": {
+    "11": 6217,
+    "2": 12458,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sapphire Scepter",
+  "gate_version": "nexustower",
+  "id": 12669,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Gem Scepter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1202
+    }
+  ],
+  "type": "Loot"
+}

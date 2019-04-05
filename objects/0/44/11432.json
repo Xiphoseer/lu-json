@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Ranged",
+  "components": {
+    "11": 5544,
+    "2": 11183,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Improved Revolver",
+  "gate_version": null,
+  "id": 11432,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Revolver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 893
+    }
+  ],
+  "type": "Loot"
+}

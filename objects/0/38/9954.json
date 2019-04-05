@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4821,
+    "2": 9782,
+    "53": 37
+  },
+  "description": "Double-click to get the yellow Starter Car modules!",
+  "displayName": "Hyperstarter Yellow Pack for Beta",
+  "gate_version": null,
+  "id": 9954,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hyperstarter Yellow Pack for Beta",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

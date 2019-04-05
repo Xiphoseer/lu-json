@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 IP 4 AP + FX",
+  "components": {
+    "11": 6093,
+    "2": 12188,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Flogmore's Hat",
+  "gate_version": "auramar",
+  "id": 12435,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flogmore's Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    }
+  ],
+  "type": "Loot"
+}

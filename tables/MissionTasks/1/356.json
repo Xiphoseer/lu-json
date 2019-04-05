@@ -1,0 +1,33 @@
+{
+  "id": 356,
+  "tasks": [
+    {
+      "IconID": 2969,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 353,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 540
+    },
+    {
+      "IconID": 2967,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 355,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 542
+    }
+  ]
+}

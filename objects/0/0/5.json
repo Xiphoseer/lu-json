@@ -1,0 +1,16 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "description": "User generated NPC that was saved to an XML",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "User NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5890,
+    "2": 11591,
+    "3": 5683,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Camera Model",
+  "gate_version": null,
+  "id": 11839,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Camera",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

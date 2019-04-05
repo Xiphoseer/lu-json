@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6106,
+    "2": 12233,
+    "53": 89
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "Mach Lava Car Pack",
+  "gate_version": "FVracetrack",
+  "id": 12462,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Mach Lava Car Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

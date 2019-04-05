@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7306,
+    "3": 3425,
+    "5": 1062
+  },
+  "description": "New Venture rocket launcher",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 84,
+      "iconState": 69
+    }
+  ],
+  "id": 7750,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Planet rocket launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

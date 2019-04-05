@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ice  element projectile spinner trap",
+  "components": {
+    "2": 14947,
+    "25": 30,
+    "27": 0,
+    "3": 7658,
+    "39": 115,
+    "5": 1666,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Ice  - Projectile Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16231,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice - Projectile Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

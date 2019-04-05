@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6138,
+    "2": 12276,
+    "3": 6143,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Mobile Drilling Rig Model",
+  "gate_version": "auramar",
+  "id": 12505,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Mobile Drill",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

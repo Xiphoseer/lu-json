@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11895,
+    "3": 5904
+  },
+  "description": "Nexus Tower G15-Shell",
+  "displayName": "NT G15-Shell",
+  "gate_version": null,
+  "id": 12146,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G15-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

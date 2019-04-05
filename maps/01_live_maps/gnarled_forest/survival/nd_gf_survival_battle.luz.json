@@ -1,0 +1,4856 @@
+{
+  "map_description": "asdfef",
+  "map_filename": "nd_gf_survival_battle.raw",
+  "map_name": "sdfaef",
+  "paths": [
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "Base_MobA",
+      "number_to_maintain": 1,
+      "object_id": 70918499991565,
+      "path_version": 12,
+      "respawn_time": 4,
+      "spawned_lot": 6974,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 0,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 25.142152786254883,
+              "y": 308.9324645996094,
+              "z": 82.7221908569336
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 1,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -22.118553161621094,
+              "y": 309.98724365234375,
+              "z": 80.09921264648438
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 2,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -35.37858200073242,
+              "y": 312.32354736328125,
+              "z": 69.07288360595703
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 3,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -27.792495727539063,
+              "y": 311.5887756347656,
+              "z": 74.7290267944336
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 4,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -69.53582763671875,
+              "y": 312.1671142578125,
+              "z": -10.777482032775879
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobA",
+            "spawner_node_id": 5,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -80.88652038574219,
+              "y": 308.4887390136719,
+              "z": -38.533302307128906
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "Base_MobB",
+      "number_to_maintain": 1,
+      "object_id": 70918499991566,
+      "path_version": 12,
+      "respawn_time": 3,
+      "spawned_lot": 6975,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 0,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -73.39947509765625,
+              "y": 307.32318115234375,
+              "z": -19.140905380249023
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 1,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -79.7076416015625,
+              "y": 308.44342041015625,
+              "z": -37.31974792480469
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 2,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -39.10686492919922,
+              "y": 311.5520935058594,
+              "z": 63.608856201171875
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 3,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -33.23785400390625,
+              "y": 310.41595458984375,
+              "z": 75.37942504882813
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 4,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 25.18831443786621,
+              "y": 308.9642028808594,
+              "z": 86.60799407958984
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobB",
+            "spawner_node_id": 5,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 7.302886486053467,
+              "y": 308.8722839355469,
+              "z": 87.7884521484375
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "Base_MobC",
+      "number_to_maintain": 1,
+      "object_id": 70918499991567,
+      "path_version": 12,
+      "respawn_time": 1,
+      "spawned_lot": 6976,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobC",
+            "spawner_node_id": 0,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 12.434287071228027,
+              "y": 299.99365234375,
+              "z": 35.76755142211914
+            },
+            "rot": {
+              "w": 0.3931376338005066,
+              "x": 0.0,
+              "y": 0.9194796085357666,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobC",
+            "spawner_node_id": 1,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 49.90489196777344,
+              "y": 298.820068359375,
+              "z": 7.1621246337890625
+            },
+            "rot": {
+              "w": 0.17708241939544678,
+              "x": 0.0,
+              "y": 0.9841960668563843,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobC",
+            "spawner_node_id": 2,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 27.034561157226563,
+              "y": 298.2207946777344,
+              "z": -64.30513000488281
+            },
+            "rot": {
+              "w": 0.9438008666038513,
+              "x": 0.0,
+              "y": 0.3305146098136902,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobC",
+            "spawner_node_id": 3,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -27.36752700805664,
+              "y": 299.7017822265625,
+              "z": -56.36394500732422
+            },
+            "rot": {
+              "w": 0.5955216884613037,
+              "x": 0.0,
+              "y": 0.8033392429351807,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Base_MobC",
+            "spawner_node_id": 4,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 16.636674880981445,
+              "y": 295.71417236328125,
+              "z": -49.732994079589844
+            },
+            "rot": {
+              "w": 0.9066758155822754,
+              "x": 0.0,
+              "y": 0.42182815074920654,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobA_01",
+      "number_to_maintain": 1,
+      "object_id": 70918499991568,
+      "path_version": 12,
+      "respawn_time": 4,
+      "spawned_lot": 6974,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 0,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 17.22184181213379,
+              "y": 309.7149353027344,
+              "z": 91.49111938476563
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 1,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 23.668100357055664,
+              "y": 308.9137878417969,
+              "z": 90.27693939208984
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 2,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 26.438556671142578,
+              "y": 309.3583984375,
+              "z": 80.03812408447266
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 3,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -31.418771743774414,
+              "y": 311.79962158203125,
+              "z": 72.71197509765625
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 4,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -44.68815994262695,
+              "y": 312.15264892578125,
+              "z": 62.827659606933594
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_01",
+            "spawner_node_id": 5,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 2.04193377494812,
+              "y": 309.2061767578125,
+              "z": 85.5139389038086
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobA_02",
+      "number_to_maintain": 1,
+      "object_id": 70918499991569,
+      "path_version": 12,
+      "respawn_time": 4,
+      "spawned_lot": 6974,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_02",
+            "spawner_node_id": 0,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -72.97176361083984,
+              "y": 315.80615234375,
+              "z": -5.495869159698486
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_02",
+            "spawner_node_id": 1,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -78.43143463134766,
+              "y": 305.6766052246094,
+              "z": -28.25536346435547
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_02",
+            "spawner_node_id": 2,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -82.58712768554688,
+              "y": 305.7927551269531,
+              "z": -34.35110092163086
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_02",
+            "spawner_node_id": 3,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -70.06803894042969,
+              "y": 305.4441223144531,
+              "z": -17.388269424438477
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_02",
+            "spawner_node_id": 4,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -70.89867401123047,
+              "y": 313.26141357421875,
+              "z": -10.650838851928711
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobA_03",
+      "number_to_maintain": 1,
+      "object_id": 70918499991570,
+      "path_version": 12,
+      "respawn_time": 4,
+      "spawned_lot": 6974,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_03",
+            "spawner_node_id": 0,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 103.5594711303711,
+              "y": 302.0350341796875,
+              "z": -66.72694396972656
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_03",
+            "spawner_node_id": 1,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 105.52581024169922,
+              "y": 302.39935302734375,
+              "z": -60.48029708862305
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_03",
+            "spawner_node_id": 2,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 113.30999755859375,
+              "y": 302.6361389160156,
+              "z": -54.27965545654297
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_03",
+            "spawner_node_id": 3,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 117.30950164794922,
+              "y": 303.3006896972656,
+              "z": -46.58914566040039
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobA_03",
+            "spawner_node_id": 4,
+            "spawntemplate": 6974,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 97.42584228515625,
+              "y": 302.1747741699219,
+              "z": -71.75212860107422
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobB_01",
+      "number_to_maintain": 1,
+      "object_id": 70918499991571,
+      "path_version": 12,
+      "respawn_time": 3,
+      "spawned_lot": 6975,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_01",
+            "spawner_node_id": 0,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 18.102123260498047,
+              "y": 309.2565002441406,
+              "z": 89.68897247314453
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_01",
+            "spawner_node_id": 1,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -26.466320037841797,
+              "y": 311.083251953125,
+              "z": 75.31580352783203
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_01",
+            "spawner_node_id": 2,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -36.04253387451172,
+              "y": 312.0900573730469,
+              "z": 67.34928894042969
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_01",
+            "spawner_node_id": 3,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -1.8693597316741943,
+              "y": 309.7259216308594,
+              "z": 84.01298522949219
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_01",
+            "spawner_node_id": 4,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 26.791208267211914,
+              "y": 309.0885009765625,
+              "z": 82.61434173583984
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobB_02",
+      "number_to_maintain": 1,
+      "object_id": 70918499991572,
+      "path_version": 12,
+      "respawn_time": 3,
+      "spawned_lot": 6975,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_02",
+            "spawner_node_id": 0,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -70.33840942382813,
+              "y": 316.01080322265625,
+              "z": -3.935854434967041
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_02",
+            "spawner_node_id": 1,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -80.41224670410156,
+              "y": 305.0604248046875,
+              "z": -27.24424171447754
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_02",
+            "spawner_node_id": 2,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -73.65534210205078,
+              "y": 312.7906799316406,
+              "z": -11.672791481018066
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_02",
+            "spawner_node_id": 3,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -83.9690933227539,
+              "y": 305.8465881347656,
+              "z": -34.4599723815918
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_02",
+            "spawner_node_id": 4,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -76.30506134033203,
+              "y": 306.1322937011719,
+              "z": -20.035987854003906
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobB_03",
+      "number_to_maintain": 1,
+      "object_id": 70918499991573,
+      "path_version": 12,
+      "respawn_time": 3,
+      "spawned_lot": 6975,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_03",
+            "spawner_node_id": 0,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 114.41744995117188,
+              "y": 302.8946533203125,
+              "z": -50.378868103027344
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_03",
+            "spawner_node_id": 1,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 107.34508514404297,
+              "y": 302.2701721191406,
+              "z": -57.179012298583984
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_03",
+            "spawner_node_id": 2,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 101.02146911621094,
+              "y": 301.93023681640625,
+              "z": -70.44576263427734
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_03",
+            "spawner_node_id": 3,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 105.7547378540039,
+              "y": 302.5704650878906,
+              "z": -64.98596954345703
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 2.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobB_03",
+            "spawner_node_id": 4,
+            "spawntemplate": 6975,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 200.0,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 114.33646392822266,
+              "y": 303.8619384765625,
+              "z": -43.28953552246094
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobC_01",
+      "number_to_maintain": 1,
+      "object_id": 70918499991574,
+      "path_version": 12,
+      "respawn_time": 1,
+      "spawned_lot": 6976,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_01",
+            "spawner_node_id": 0,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -11.493435859680176,
+              "y": 303.3825988769531,
+              "z": 52.61388397216797
+            },
+            "rot": {
+              "w": 0.3305138051509857,
+              "x": 0.0,
+              "y": 0.94380122423172,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_01",
+            "spawner_node_id": 1,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 38.132301330566406,
+              "y": 293.7413330078125,
+              "z": -17.74639320373535
+            },
+            "rot": {
+              "w": 0.49999791383743286,
+              "x": 0.0,
+              "y": 0.8660266995429993,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_01",
+            "spawner_node_id": 2,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 61.575111389160156,
+              "y": 297.7413635253906,
+              "z": -47.9776611328125
+            },
+            "rot": {
+              "w": 0.8043749332427979,
+              "x": 0.0,
+              "y": -0.5941219925880432,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_01",
+            "spawner_node_id": 3,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -40.32926559448242,
+              "y": 301.3848876953125,
+              "z": -20.0242919921875
+            },
+            "rot": {
+              "w": 0.4138977527618408,
+              "x": 0.0,
+              "y": 0.910323441028595,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_01",
+            "spawner_node_id": 4,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -21.38864517211914,
+              "y": 299.28057861328125,
+              "z": -76.72979736328125
+            },
+            "rot": {
+              "w": 0.805928111076355,
+              "x": 0.0,
+              "y": 0.592013418674469,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobC_02",
+      "number_to_maintain": 1,
+      "object_id": 70918499991575,
+      "path_version": 12,
+      "respawn_time": 1,
+      "spawned_lot": 6976,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_02",
+            "spawner_node_id": 0,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -61.311893463134766,
+              "y": 302.62811279296875,
+              "z": -44.301456451416016
+            },
+            "rot": {
+              "w": 0.6045969128608704,
+              "x": 0.0,
+              "y": 0.796531617641449,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_02",
+            "spawner_node_id": 1,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 1.4969735145568848,
+              "y": 298.3653869628906,
+              "z": -77.33689880371094
+            },
+            "rot": {
+              "w": 0.9235451221466064,
+              "x": 0.0,
+              "y": 0.3834897577762604,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_02",
+            "spawner_node_id": 2,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 31.500768661499023,
+              "y": 298.8788757324219,
+              "z": -6.0398945808410645
+            },
+            "rot": {
+              "w": 0.45398738980293274,
+              "x": 0.0,
+              "y": 0.8910080790519714,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_02",
+            "spawner_node_id": 3,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -3.014995574951172,
+              "y": 301.4773864746094,
+              "z": 9.644923210144043
+            },
+            "rot": {
+              "w": 0.48404461145401,
+              "x": 0.0,
+              "y": 0.8750433921813965,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_02",
+            "spawner_node_id": 4,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 12.845172882080078,
+              "y": 308.6441650390625,
+              "z": 82.02204132080078
+            },
+            "rot": {
+              "w": -0.10973332077264786,
+              "x": 0.0,
+              "y": 0.9939611554145813,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "MobC_03",
+      "number_to_maintain": 1,
+      "object_id": 70918499991576,
+      "path_version": 12,
+      "respawn_time": 1,
+      "spawned_lot": 6976,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_03",
+            "spawner_node_id": 0,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 71.91883087158203,
+              "y": 298.99676513671875,
+              "z": -34.364158630371094
+            },
+            "rot": {
+              "w": 0.7343214154243469,
+              "x": 0.0,
+              "y": -0.6788018941879272,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_03",
+            "spawner_node_id": 1,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -25.409278869628906,
+              "y": 307.6932678222656,
+              "z": 66.12065887451172
+            },
+            "rot": {
+              "w": 0.2973726987838745,
+              "x": 0.0,
+              "y": 0.9547614455223083,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_03",
+            "spawner_node_id": 2,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 18.674800872802734,
+              "y": 302.25439453125,
+              "z": 62.25017166137695
+            },
+            "rot": {
+              "w": 0.03053971193730831,
+              "x": 0.0,
+              "y": 0.9995335936546326,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_03",
+            "spawner_node_id": 3,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": 45.608604431152344,
+              "y": 299.9764709472656,
+              "z": -66.50249481201172
+            },
+            "rot": {
+              "w": 0.926856517791748,
+              "x": 0.0,
+              "y": -0.37541577219963074,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "aggroRadius": 51.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "currency": 0,
+            "explode_factor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "name": "",
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 4,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "MobC_03",
+            "spawner_node_id": 4,
+            "spawntemplate": 6976,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 51.0,
+            "wanderRadius": 51.0
+          },
+          "pos": {
+            "pos": {
+              "x": -59.11343002319336,
+              "y": 301.36236572265625,
+              "z": -8.993558883666992
+            },
+            "rot": {
+              "w": 0.33955836296081543,
+              "x": 0.0,
+              "y": 0.9405850172042847,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": false,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "Rewards_01",
+      "number_to_maintain": 1,
+      "object_id": 70918499991577,
+      "path_version": 12,
+      "respawn_time": 30,
+      "spawned_lot": 6414,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "-46.6794\u001f302.4320\u001f-50.1686",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 0,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -46.67939376831055,
+              "y": 301.4931640625,
+              "z": -50.1685905456543
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "1.2427\u001f298.4473\u001f-61.5183",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 1,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 1.2426948547363281,
+              "y": 297.9990539550781,
+              "z": -61.51826095581055
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "62.1858\u001f298.6744\u001f-10.7315",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 2,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 58.8054084777832,
+              "y": 298.3987121582031,
+              "z": -16.86849021911621
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "30.8847\u001f300.3922\u001f26.6404",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 3,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 30.84786605834961,
+              "y": 300.3964538574219,
+              "z": 25.970603942871094
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "-2.8380\u001f302.1568\u001f47.9975",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 4,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -2.838010787963867,
+              "y": 302.01959228515625,
+              "z": 47.99750518798828
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "imaginationoverride": -1,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "quickbuild_activator_scale": 1.0,
+            "quickbuild_cinematic": "",
+            "quickbuild_cinematic_lead_in": 0.0,
+            "quickbuild_single_build": false,
+            "quickbuild_single_build_player_flag": 0,
+            "quickbuild_single_build_shared": false,
+            "quickbuild_skip_slam": false,
+            "rebuild_activators": "45.9483\u001f297.3284\u001f-55.2076",
+            "rebuild_reset_time": 20.0,
+            "renderCullingGroup": 0,
+            "set_faction": 25,
+            "smashable_loot_matrix": -1,
+            "spawnActivator": true,
+            "spawnNetNameForSpawnGroupOnSmash": "",
+            "spawner_name": "Rewards_01",
+            "spawner_node_id": 5,
+            "spawnsGroupOnSmash": false,
+            "spawntemplate": 6414,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 45.94826889038086,
+              "y": 297.6783752441406,
+              "z": -55.207584381103516
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": true,
+      "behavior": 0,
+      "max_to_spawn": -1,
+      "name": "Crate_01",
+      "number_to_maintain": 1,
+      "object_id": 70918499991578,
+      "path_version": 12,
+      "respawn_time": 10,
+      "spawned_lot": 7844,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 0,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": -15.44698715209961,
+              "y": 302.10809326171875,
+              "z": 40.46339416503906
+            },
+            "rot": {
+              "w": 0.6283777356147766,
+              "x": -0.03323468565940857,
+              "y": 0.7767677903175354,
+              "z": -0.02585807628929615
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 1,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 11.803960800170898,
+              "y": 300.3861389160156,
+              "z": 11.377461433410645
+            },
+            "rot": {
+              "w": 0.5901656150817871,
+              "x": 0.014261907897889614,
+              "y": 0.8056183457374573,
+              "z": 0.04980200156569481
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 2,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 45.024105072021484,
+              "y": 293.3122863769531,
+              "z": -34.62128829956055
+            },
+            "rot": {
+              "w": 0.561107873916626,
+              "x": -0.009852328337728977,
+              "y": 0.8266012072563171,
+              "z": 0.04232584312558174
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 3,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 91.77555847167969,
+              "y": 300.5840759277344,
+              "z": -50.40964889526367
+            },
+            "rot": {
+              "w": 0.7814902663230896,
+              "x": -0.004367173183709383,
+              "y": -0.6238759756088257,
+              "z": 0.005719454027712345
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 4,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 34.33753967285156,
+              "y": 296.35906982421875,
+              "z": -50.299652099609375
+            },
+            "rot": {
+              "w": 0.7411346435546875,
+              "x": 0.08989086747169495,
+              "y": 0.659696102142334,
+              "z": 0.08625643700361252
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 5,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": -13.343958854675293,
+              "y": 298.8968811035156,
+              "z": -67.42123413085938
+            },
+            "rot": {
+              "w": 0.7954725623130798,
+              "x": 0.0,
+              "y": 0.6059896349906921,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 6,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": -33.083003997802734,
+              "y": 300.365478515625,
+              "z": -37.83303451538086
+            },
+            "rot": {
+              "w": 0.5234911441802979,
+              "x": 0.02802947349846363,
+              "y": 0.8513190746307373,
+              "z": 0.02066984213888645
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 7,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": -63.13467788696289,
+              "y": 302.39593505859375,
+              "z": -26.548702239990234
+            },
+            "rot": {
+              "w": 0.5174633264541626,
+              "x": 0.04749450460076332,
+              "y": 0.8541918396949768,
+              "z": 0.018228521570563316
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 8,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 17.93096160888672,
+              "y": 300.613037109375,
+              "z": 49.39553451538086
+            },
+            "rot": {
+              "w": 0.18823742866516113,
+              "x": 0.0,
+              "y": 0.982123613357544,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 9,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": -13.282422065734863,
+              "y": 306.20391845703125,
+              "z": 71.7740707397461
+            },
+            "rot": {
+              "w": 0.35673788189888,
+              "x": 0.0,
+              "y": 0.9342045187950134,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "set_faction": 6,
+            "smashable_loot_matrix": -1,
+            "spawner_name": "Crate_01",
+            "spawner_node_id": 10,
+            "spawntemplate": 7844,
+            "startsQBActivator": false
+          },
+          "pos": {
+            "pos": {
+              "x": 43.37440490722656,
+              "y": 296.40716552734375,
+              "z": -8.229585647583008
+            },
+            "rot": {
+              "w": 0.728285014629364,
+              "x": -0.11155163496732712,
+              "y": 0.6750339865684509,
+              "z": -0.038551948964595795
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": true,
+      "behavior": 0,
+      "max_to_spawn": 8,
+      "name": "Smash_01",
+      "number_to_maintain": 8,
+      "object_id": 70918499991579,
+      "path_version": 12,
+      "respawn_time": 0,
+      "spawned_lot": 1805,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 0,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 37.32843780517578,
+              "y": 300.5333557128906,
+              "z": 31.515884399414063
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 1,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 43.134342193603516,
+              "y": 300.541015625,
+              "z": 25.472030639648438
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 2,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 48.89164352416992,
+              "y": 300.611572265625,
+              "z": 19.63444709777832
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 3,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 53.3001823425293,
+              "y": 300.30230712890625,
+              "z": 14.694625854492188
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 4,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 56.446319580078125,
+              "y": 299.7839660644531,
+              "z": 8.27472972869873
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 5,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 61.124393463134766,
+              "y": 299.3514099121094,
+              "z": 1.1827980279922485
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 6,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 65.33375549316406,
+              "y": 299.603271484375,
+              "z": -5.216945171356201
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 7,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 70.36531829833984,
+              "y": 300.12744140625,
+              "z": -12.165760040283203
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 8,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 75.85405731201172,
+              "y": 300.7296447753906,
+              "z": -17.467607498168945
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 9,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 34.62163543701172,
+              "y": 300.67755126953125,
+              "z": 33.137847900390625
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 10,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 30.388925552368164,
+              "y": 300.6729736328125,
+              "z": 36.896610260009766
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 11,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 27.509193420410156,
+              "y": 300.87213134765625,
+              "z": 40.99686050415039
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 12,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 27.640090942382813,
+              "y": 300.85467529296875,
+              "z": 47.66403579711914
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 13,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 32.8099250793457,
+              "y": 301.042236328125,
+              "z": 52.931427001953125
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 14,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": 38.66242218017578,
+              "y": 301.24566650390625,
+              "z": 58.313507080078125
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 15,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -19.10850715637207,
+              "y": 300.4573669433594,
+              "z": -85.09767150878906
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 16,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -25.293289184570313,
+              "y": 300.62921142578125,
+              "z": -83.2586669921875
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 17,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -29.068431854248047,
+              "y": 300.45660400390625,
+              "z": -80.51818084716797
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 18,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -32.404117584228516,
+              "y": 300.727294921875,
+              "z": -75.48324584960938
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 19,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -38.689002990722656,
+              "y": 301.6850280761719,
+              "z": -74.64511108398438
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 20,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -44.09265899658203,
+              "y": 301.96563720703125,
+              "z": -70.96139526367188
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 21,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -47.57423782348633,
+              "y": 302.0235595703125,
+              "z": -67.08512878417969
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 22,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -54.28532028198242,
+              "y": 302.45166015625,
+              "z": -64.81185913085938
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 23,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -59.18851089477539,
+              "y": 302.7646789550781,
+              "z": -62.551448822021484
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 24,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -63.47578048706055,
+              "y": 302.9784851074219,
+              "z": -59.57362747192383
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 25,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -68.1363525390625,
+              "y": 303.5506286621094,
+              "z": -57.90639114379883
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 26,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -73.77884674072266,
+              "y": 303.8949890136719,
+              "z": -52.903873443603516
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 27,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -76.65435028076172,
+              "y": 303.9801940917969,
+              "z": -49.424468994140625
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        },
+        {
+          "config": {
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "create_physics": true,
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "renderCullingGroup": 0,
+            "set_faction": 6,
+            "smashable_loot_matrix": 227,
+            "spawner_name": "Smash_01",
+            "spawner_node_id": 28,
+            "spawntemplate": 1805,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "pos": {
+            "pos": {
+              "x": -82.9125747680664,
+              "y": 304.84527587890625,
+              "z": -45.26566696166992
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "revision": 112,
+  "scenes": [
+    {
+      "filename": "nd_gf_survival_battle.lvl",
+      "id": 0,
+      "is_audio": 0,
+      "name": "Global Scene"
+    }
+  ],
+  "something": "",
+  "spawnpoint": {
+    "pos": {
+      "x": 8.407790785948902e-44,
+      "y": 0.0,
+      "z": -1.5875744819641113
+    },
+    "rot": {
+      "w": 0.0,
+      "x": -8.028764568734914e-06,
+      "y": 6.740972046526276e-38,
+      "z": 1.401298464324817e-44
+    }
+  },
+  "transitions": [],
+  "version": 36,
+  "world_id": 58001
+}

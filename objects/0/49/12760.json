@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 dmg + Weak Block ability",
+  "components": {
+    "11": 6308,
+    "2": 12550,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Elite Sword of Blocking",
+  "gate_version": "auramar",
+  "id": 12760,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Sword of Blocking",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1144
+    }
+  ],
+  "type": "Loot"
+}

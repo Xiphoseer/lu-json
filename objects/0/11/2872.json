@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Team 11",
+  "components": {
+    "2": 162,
+    "3": 1041,
+    "5": 294
+  },
+  "description": "Team 11",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2872,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Contest 11 Contest Coin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for any model",
+  "components": {
+    "11": 6745,
+    "2": 13362
+  },
+  "description": "A behavior that makes a model damage a player on touch.",
+  "displayName": "Damage Behavior",
+  "gate_version": null,
+  "id": 13626,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Damage Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5634,
+    "2": 11335,
+    "3": 5427,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Wall Model 4",
+  "gate_version": null,
+  "id": 11583,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Wall 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

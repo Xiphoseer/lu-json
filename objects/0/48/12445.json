@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12199,
+    "3": 6111,
+    "7": 1723
+  },
+  "description": "This is only to be used on the spaceship in AG, it has special properties and should not be used anywhere else",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12445,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VE Instance- Ship - smashable long crate - Common Engines",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

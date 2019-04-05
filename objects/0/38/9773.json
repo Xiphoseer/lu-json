@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Village stable, vendor, and axe cart",
+  "components": {
+    "11": 4750,
+    "2": 9610,
+    "53": 32
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Medieval Model Pack 1",
+  "gate_version": null,
+  "id": 9773,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Medieval Model Pack 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

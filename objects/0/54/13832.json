@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13571,
+    "3": 6840
+  },
+  "description": "fx_nt_maproom_crux",
+  "displayName": "fx_nt_maproom_crux",
+  "gate_version": "auramar",
+  "id": 13832,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_nt_maproom_crux",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

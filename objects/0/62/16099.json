@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 7470,
+    "2": 14818,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Zane's First Gi Pants",
+  "gate_version": "njhub",
+  "id": 16099,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Zane's First Gi Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

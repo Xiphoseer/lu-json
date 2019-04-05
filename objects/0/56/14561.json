@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward 1 AP 1 IP",
+  "components": {
+    "11": 7153,
+    "2": 14244,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Yellow Frog's Egg",
+  "gate_version": "ftcommunityitems",
+  "id": 14561,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hatchling Frog's Egg - Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1398
+    }
+  ],
+  "type": "Loot"
+}

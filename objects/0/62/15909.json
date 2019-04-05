@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Left handed ninjago weapon with 6/24 dmg + 3 IP",
+  "components": {
+    "11": 7324,
+    "2": 14601,
+    "9": 0
+  },
+  "description": "Fires a powerful shot",
+  "displayName": "Stinger",
+  "gate_version": "njhub",
+  "id": 15909,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Stinger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1477
+    }
+  ],
+  "type": "Loot"
+}

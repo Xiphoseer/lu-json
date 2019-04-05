@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4011,
+    "2": 8747,
+    "7": 910,
+    "9": 0
+  },
+  "description": "Projectile that turns into an imagination powerup when it hits",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9294,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Imagination Projectile 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 616
+    }
+  ],
+  "type": "Shooting Gallery"
+}

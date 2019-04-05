@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13907,
+    "3": 7051,
+    "67": 2,
+    "78": 8
+  },
+  "description": "Launch pad to Nimbus Station in Nexus Tower",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14199,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - NS Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

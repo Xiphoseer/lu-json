@@ -1,0 +1,473 @@
+{
+  "_embedded": {
+    "Factions": [
+      {
+        "enemyList": "1",
+        "faction": 0,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "129",
+        "faction": 128,
+        "factionList": "128",
+        "factionListFriendly": true,
+        "friendList": "4,6"
+      },
+      {
+        "enemyList": "0,4,6,12,24,36,100,101,106,108,109,110,111,112,116,665,888",
+        "faction": 1,
+        "factionList": "3,11,13,16,20,21,22,23,25,26,27,28,31,37,38,55,88,99,29,107,113,114,115,777",
+        "factionListFriendly": true,
+        "friendList": "3,11,13,16,20,21,22,23,25,26,27,28,31,37,38,55,88,99,29,107,113,114,115,500,777"
+      },
+      {
+        "enemyList": "128",
+        "faction": 129,
+        "factionList": "129",
+        "factionListFriendly": true,
+        "friendList": "1,4,6"
+      },
+      {
+        "enemyList": null,
+        "faction": 2,
+        "factionList": "2",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 3,
+        "factionList": "",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1,16,111,777",
+        "faction": 4,
+        "factionList": "1,16,111,777",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 5,
+        "factionList": "5",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1,3,6,106,113",
+        "faction": 6,
+        "factionList": "1,3,6,106,113",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 7,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 8,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "0,4,6,12,24,29,36,100,101,106,108,109,110,111,112,665,888",
+        "faction": 777,
+        "factionList": "1,3,6,9,10,11,20,21,22,23,25,26,27,28,31,35,40,99,29,50,51,52,55,104,105",
+        "factionListFriendly": true,
+        "friendList": "1,3,6,9,10,11,20,21,22,23,25,26,27,28,31,35,40,99,29,50,51,52,55,104,105,777"
+      },
+      {
+        "enemyList": null,
+        "faction": 9,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "4",
+        "faction": 10,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 778,
+        "factionList": "778",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1",
+        "faction": 11,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 12,
+        "factionList": "6,1,7,9,3,5,106",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 13,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 14,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 16,
+        "factionList": "35",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 20,
+        "factionList": "1,22",
+        "factionListFriendly": true,
+        "friendList": "1,22"
+      },
+      {
+        "enemyList": null,
+        "faction": 21,
+        "factionList": "1,23",
+        "factionListFriendly": true,
+        "friendList": "1,23"
+      },
+      {
+        "enemyList": null,
+        "faction": 22,
+        "factionList": "1,20,23",
+        "factionListFriendly": true,
+        "friendList": "1,20,23"
+      },
+      {
+        "enemyList": null,
+        "faction": 23,
+        "factionList": "1,21,22",
+        "factionListFriendly": true,
+        "friendList": "1,21,22"
+      },
+      {
+        "enemyList": null,
+        "faction": 24,
+        "factionList": "",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 25,
+        "factionList": "26",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1,665",
+        "faction": 665,
+        "factionList": "665",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 26,
+        "factionList": "25",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 27,
+        "factionList": "28,31",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 28,
+        "factionList": "27,31,40",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 29,
+        "factionList": "1",
+        "factionListFriendly": true,
+        "friendList": "1"
+      },
+      {
+        "enemyList": "1,2,3",
+        "faction": 99998,
+        "factionList": "1,2,3",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 31,
+        "factionList": "27,28",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "4",
+        "faction": 99999,
+        "factionList": "1,2,3",
+        "factionListFriendly": true,
+        "friendList": "1,2,3"
+      },
+      {
+        "enemyList": "1,37",
+        "faction": 36,
+        "factionList": "1,37",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "",
+        "faction": 37,
+        "factionList": "",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1,37",
+        "faction": 38,
+        "factionList": "1,37",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "4",
+        "faction": 55,
+        "factionList": "4",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1",
+        "faction": 88,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 99,
+        "factionList": "10",
+        "factionListFriendly": false,
+        "friendList": "1"
+      },
+      {
+        "enemyList": "6,101",
+        "faction": 100,
+        "factionList": "6,101",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "6,100",
+        "faction": 101,
+        "factionList": "6,100",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "6",
+        "faction": 106,
+        "factionList": "6",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "106",
+        "faction": 107,
+        "factionList": "106",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "109",
+        "faction": 108,
+        "factionList": "109",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "108",
+        "faction": 109,
+        "factionList": "108",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "109",
+        "faction": 110,
+        "factionList": "109",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 111,
+        "factionList": "112",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 112,
+        "factionList": "111",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "0,4,6,12,24,29,36,100,101,106,108,109,110,111,112,665,888",
+        "faction": 113,
+        "factionList": "1",
+        "factionListFriendly": true,
+        "friendList": "1"
+      },
+      {
+        "enemyList": "1",
+        "faction": 114,
+        "factionList": "1",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "4",
+        "faction": 115,
+        "factionList": "4",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "1,116",
+        "faction": 116,
+        "factionList": "116",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": "4",
+        "faction": 500,
+        "factionList": "500",
+        "factionListFriendly": true,
+        "friendList": "1"
+      },
+      {
+        "enemyList": null,
+        "faction": 117,
+        "factionList": "117",
+        "factionListFriendly": false,
+        "friendList": "1,118,119,120,121,122,123,124,125"
+      },
+      {
+        "enemyList": null,
+        "faction": 118,
+        "factionList": "118",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "120",
+        "faction": 119,
+        "factionList": "119",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "119",
+        "faction": 120,
+        "factionList": "120",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "1,4",
+        "faction": 888,
+        "factionList": "1,4",
+        "factionListFriendly": false,
+        "friendList": null
+      },
+      {
+        "enemyList": null,
+        "faction": 121,
+        "factionList": "121",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "123",
+        "faction": 122,
+        "factionList": "122",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "122",
+        "faction": 123,
+        "factionList": "123",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "121",
+        "faction": 124,
+        "factionList": "124",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "118",
+        "faction": 125,
+        "factionList": "125",
+        "factionListFriendly": false,
+        "friendList": "117,1"
+      },
+      {
+        "enemyList": "127",
+        "faction": 126,
+        "factionList": "127",
+        "factionListFriendly": true,
+        "friendList": "1,4,6"
+      },
+      {
+        "enemyList": "126",
+        "faction": 127,
+        "factionList": "126",
+        "factionListFriendly": true,
+        "friendList": "4,6"
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/Factions/index.json"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4221,
+    "3": 2169,
+    "48": 47,
+    "5": 667,
+    "7": 439
+  },
+  "description": "CTF Blue Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4810,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Blue Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

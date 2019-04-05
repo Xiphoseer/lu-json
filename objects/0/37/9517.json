@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 4651,
+    "2": 9369,
+    "28": 225,
+    "3": 4100,
+    "42": 0
+  },
+  "description": "Nimbus Modular Build rocket cockpit",
+  "displayName": "Nimbus Rocket Cockpit",
+  "gate_version": null,
+  "id": 9517,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Nimbus Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6184,
+    "2": 12360,
+    "5": 1373,
+    "7": 1747,
+    "9": 0
+  },
+  "description": "Object spawned by think bomb skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12570,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawned Stink Bomb Locus",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 999
+    }
+  ],
+  "type": "Smashables"
+}

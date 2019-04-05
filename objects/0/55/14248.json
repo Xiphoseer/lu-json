@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13948,
+    "3": 7086,
+    "67": 18,
+    "78": 23
+  },
+  "description": "Launch pad to Nimbus Station in Gnarled Forest",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14248,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - NS Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

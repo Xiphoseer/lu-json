@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Cage model",
+  "components": {
+    "11": 6738,
+    "2": 13355
+  },
+  "description": "A behavior that makes a model move up and down and sound an alarm.",
+  "displayName": "Cage Behavior",
+  "gate_version": null,
+  "id": 13618,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cage Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

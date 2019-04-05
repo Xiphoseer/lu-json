@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5754,
+    "2": 11455,
+    "3": 5547,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Feed Trough Model",
+  "gate_version": "march2011content",
+  "id": 11703,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Feedtrough",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

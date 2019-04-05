@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9557,
+    "23": 28,
+    "40": 4242,
+    "7": 306
+  },
+  "description": "Collectible Spawner for Johnny Thunder's mission object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9985,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Johnny Thunder Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

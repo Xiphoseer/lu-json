@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 3915,
+    "2": 8230,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cadet Helm",
+  "gate_version": null,
+  "id": 8676,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cadet Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

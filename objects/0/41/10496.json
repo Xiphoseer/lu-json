@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10341,
+    "3": 4656,
+    "39": 5,
+    "5": 1228
+  },
+  "description": "model that puts player in an instance for AG Survival",
+  "displayName": "",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 124,
+      "iconState": 69
+    }
+  ],
+  "id": 10496,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Survival Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

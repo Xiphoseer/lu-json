@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3275,
+    "2": 7322,
+    "3": 3436,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Workbench with Toolbox Model",
+  "gate_version": null,
+  "id": 7766,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Racer Work Bench 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

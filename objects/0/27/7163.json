@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3/3/3 with Pull",
+  "components": {
+    "11": 3022,
+    "2": 6743,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7163,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Saw of Pulling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 278
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 316
+    }
+  ],
+  "type": "Loot"
+}

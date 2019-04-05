@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1608,
+    "2": 2607,
+    "5": 568,
+    "7": 406
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 57,
+      "iconState": 65
+    }
+  ],
+  "id": 3714,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP Sheep",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

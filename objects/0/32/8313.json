@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3876,
+    "2": 7872,
+    "7": 872,
+    "9": 0
+  },
+  "description": "fireball the maelstrom dragon shoots",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8313,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Maelstrom Dragon Fireball",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 511
+    }
+  ],
+  "type": "Shooting Gallery"
+}

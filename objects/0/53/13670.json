@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6780,
+    "2": 13408,
+    "3": 6728,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Straight Petting Zoo Fence Model 2",
+  "gate_version": "april2011content",
+  "id": 13670,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence PettingZoo Straight 2 ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10160,
+    "3": 4551,
+    "5": 1217,
+    "7": 1548,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Maelstrom Geyser",
+  "gate_version": null,
+  "id": 10314,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Maelstrom Geyser",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 607
+    }
+  ],
+  "type": "Environmental"
+}

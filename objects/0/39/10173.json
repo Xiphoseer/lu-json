@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4959,
+    "2": 10012,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Pod 6 Captain Shirt",
+  "gate_version": null,
+  "id": 10173,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pod 6 Captain Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

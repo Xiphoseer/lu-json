@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Frakjaw in Fire Cave, only on mission 1834",
+  "components": {
+    "11": 7139,
+    "2": 14206
+  },
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "displayName": "Jaw Bone",
+  "gate_version": "njhub",
+  "id": 14521,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Jaw Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

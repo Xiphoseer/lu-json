@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3097,
+    "2": 7007,
+    "5": 1411,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Space Ranger Helmet 1",
+  "gate_version": "factionkit2",
+  "id": 7442,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Space Ranger Head 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1088
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6135,
+    "2": 12273,
+    "3": 6140,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Ribcage Bridge Model",
+  "gate_version": "auramar",
+  "id": 12502,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Ribcage Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

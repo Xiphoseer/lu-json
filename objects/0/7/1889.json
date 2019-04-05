@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 4 IP +Tiger Kata",
+  "components": {
+    "11": 857,
+    "2": 1767,
+    "9": 0
+  },
+  "description": "Pass Paradox Force Fields, Rocket to the Great Tree",
+  "displayName": "Red Ninja Hood - Maelstrom Infused",
+  "gate_version": null,
+  "id": 1889,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Ninja Hood - Maelstrom Infused",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 636
+    }
+  ],
+  "type": "Loot"
+}

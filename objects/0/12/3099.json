@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1477,
+    "2": 2563,
+    "5": 337,
+    "7": 27,
+    "9": 0
+  },
+  "description": "NP Wicked Lawn Mower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3099,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Evil Robotanist",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

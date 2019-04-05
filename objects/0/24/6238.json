@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5693,
+    "40": 2593,
+    "5": 832
+  },
+  "description": "Another top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6238,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test MR - Oil Slick Piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

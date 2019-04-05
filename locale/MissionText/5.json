@@ -1,0 +1,1568 @@
+{
+  "1281": {
+    "accept_chat_bubble": "Be careful around all that Maelstrom energy. I don't trust that place.",
+    "chat_state_1": "I don't know why they gotta mess with Maelstrom so close to the Beam anyhow.",
+    "chat_state_2": "Head down to the Paradox area and look for any power panels that might be a problem.",
+    "chat_state_3": "You got a real knack for this stuff! I ain't seen a single power fluctuation since you got started.",
+    "completion_succeed_tip": "Return to Augie Ninewells in the Nexus Core.",
+    "in_progress": "Repair the 7 overcharged power panels in the Paradox area of Nexus Tower.",
+    "offer": "I heard them Paradox mopes have been messin' with the power grid. Can you check any open power panel you see in that area?",
+    "ready_to_complete": "Much better. We need the power stabilized so's we can get back to building!"
+  },
+  "1282": {
+    "accept_chat_bubble": "Simply interact with a drinking fountain in the Tower to collect some water.",
+    "chat_state_1": "Particulate matter in the air makes for an unsafe research environment.",
+    "chat_state_2": "My systems do not allow me to drink water but I have read it tastes like melted ice.",
+    "chat_state_3": "Water is a crucial element in any cleaning operation. Also when making soups and popsicles.",
+    "completion_succeed_tip": "Return to the Nexus Naomi console with the clean water.",
+    "in_progress": "Collect some clean water from a drinking fountain in Nexus Tower.",
+    "offer": "Dirt levels in the Tower are unnaturally high! Can you help me clean up? Start by collecting some clean water from one of the drinking fountains.",
+    "ready_to_complete": "We pride ourselves on clean, drinkable tap water. Now we need some fizzy hiccup tablets."
+  },
+  "1283": {
+    "accept_chat_bubble": "Search all of the hallways until you find the remaining 7 dirt clouds.",
+    "chat_state_1": "My systems operate so much better without all that schmutz in the air.",
+    "chat_state_2": "You may want to use a Quicksicle to move through the hallways at a faster speed.",
+    "chat_state_3": "I can only imagine how you clean up Maelstrom on the battlefields!",
+    "completion_succeed_tip": "Return to the Nexus Naomi console in the Sentinel War Room.",
+    "in_progress": "Use the Soap Gun to clean up 7 dirt clouds throughout the hallways of Nexus Tower.",
+    "offer": "Now that the other areas are shining and bright, the hallways look even dirtier. Can you clean them up for me?",
+    "ready_to_complete": "I detect a 0.05% sediment and dirt level throughout the Tower! Except for Hael Storm's dirty parrots."
+  },
+  "1290": {
+    "completion_succeed_tip": "Against the Posts",
+    "description": "Smash 5 lamp posts in Frostburgh."
+  },
+  "1291": {
+    "accept_chat_bubble": "Simply build the Property Scanning device on any Property world. I'll do the rest.",
+    "chat_state_1": "This device will be the first step in Assembly's grandest building project yet!",
+    "chat_state_2": "If we can track each of the pieces of Planet Crux, there must be a way to reassemble it!",
+    "chat_state_3": "Our signal receptors are at full capacity! That's a good sign.",
+    "completion_succeed_tip": "Return to Dr. Overbuild in the Nexus Core of Nexus Tower.",
+    "in_progress": "Build the Property Scanning Device on any Property world, then return to Dr. Overbuild.",
+    "offer": "These Property Scanners will allow me to track the location of every Property world in the Universe. Build this device on a Property and let's test it!",
+    "ready_to_complete": "Signal received loud and clear! Now we just need to do the same for every single chunk of Planet Crux. Oh dear."
+  },
+  "1292": {
+    "accept_chat_bubble": "Every time I run out o' crackers, they fly away.",
+    "chat_state_1": "Curse those feathered fleabags!",
+    "chat_state_2": "Can't be a pirate without a parrot, what says you?",
+    "chat_state_3": "There's me lovelies! Huzzah!",
+    "completion_succeed_tip": "Return Hael's parrots to the Venture League Observatory.",
+    "in_progress": "Find all 10 of Hael Storm's escaped parrots in Nexus Tower.",
+    "offer": "Those blasted parrots o' mine have gotten loose again in the Tower. Catch them for me, will ye?",
+    "ready_to_complete": "Back at home, safe and sound. I just love the sound of squawkin' birdies!"
+  },
+  "1293": {
+    "accept_chat_bubble": "I'll be rooting for you! From over here, that is.",
+    "chat_state_1": "Where'd all this Maelstrom come from?",
+    "chat_state_2": "That generator's pumping out a whole lot of ugly!",
+    "chat_state_3": "Wow, look at you go.",
+    "completion_succeed_tip": "You cleared the Maelstrom from this Property! Return to the Property Guard.",
+    "in_progress": "Find a way to <font color='#FF7F00'>reach the Imagination Orb</font> and clear the Property.",
+    "offer": "The Maelstrom has infected this Property! <font color='#FF7F00'>Smash and rebuild that Maelstrom Generator</font> to reach that Imagination Orb!",
+    "ready_to_complete": "This Property is now clear! Claim it and start building your next masterpiece!"
+  },
+  "1295": {
+    "accept_chat_bubble": "Take a deep breath and clear your mind. Do not shy away from the visions, however horrible they may be.",
+    "chat_state_1": "Your heart must be steeled for the secrets we have to share here.",
+    "chat_state_2": "Ever since the explosion of Planet Crux, I have wondered what truly happened aboard the Venture Koi.",
+    "chat_state_3": "Direct contact with the Maelstrom is too much for most normal Minifigures to bear.",
+    "completion_succeed_tip": "Speak to Vanda Darkflame and tell her what you saw in the Shadow Orb.",
+    "in_progress": "Use Vanda Darkflame's Shadow Orb to look into the Maelstrom.",
+    "offer": "We must understand the true nature of the Maelstrom if we are going to prevail. Use this Shadow Orb to look deep into the heart of the Maelstrom itself.",
+    "ready_to_complete": "The vision is the same for all. The black hat, the terrifying smile. It can only be my old mentor, Baron Typhonus. What has happened to him?"
+  },
+  "1296": {
+    "accept_chat_bubble": "Forbidden Valley is dangerous, but it is nothing compared to Crux Prime!",
+    "chat_state_1": "I can't let you go to Crux Prime until you're ready.",
+    "chat_state_2": "Gather those items from Forbidden Valley, to prove you can handle Crux Prime.",
+    "chat_state_3": "Crux Prime is ready for you, but are you ready for Crux Prime?",
+    "completion_succeed_tip": "Return to Nexus Tower and talk to Duke Exeter in the Sentinel Command Center.",
+    "in_progress": "Retrieve 5 Cracked Ronin's Helms and 1 Splintered Lance from enemies in Forbidden Valley. Return them to Duke Exeter in Nexus Tower",
+    "offer": "We need you on the battlefield below. But first, prove you can survive a mission in Forbidden Valley!",
+    "ready_to_complete": "Okay, so you can handle a few Ronin and Horsemen. But Crux Prime's got hundreds of them! You've been warned."
+  },
+  "1297": {
+    "accept_chat_bubble": "Use your Spinjitzu powers to destroy 3 of the Skeleton Engineers!",
+    "chat_state_1": "Pistons, gears and jets of flame! Dark arts from the Underworld!",
+    "chat_state_2": "Be careful of their strange flame-belching weapons!",
+    "chat_state_3": "Did you dismantle the Engineers?",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 3 Skeleton Engineers in the Maelstrom Quarry on Crux Prime.",
+    "offer": "The Skeleton Engineers are masters of strange technology! Smash 3 of the Engineers to disrupt the Skeleton mining effort!",
+    "ready_to_complete": "Not even those Engineers can figure out how to create Spinjitzu! Haha!"
+  },
+  "1298": {
+    "accept_chat_bubble": "Do you have a Pet? You may need one to dig up the location shown on this map!",
+    "chat_state_1": "My Skeletonese is pretty rusty, but I think I can figure this out!",
+    "chat_state_2": "Something is buried at the far end of the Skeletons' canyon. Go and dig it up!",
+    "chat_state_3": "What a strange little beast you have found!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Perform a Pet Dig at the far end of the Maelstrom Quarry, then tame the Pet that appears.",
+    "offer": "I have studied these map pages and they lead to some kind of buried creature. Go and find out what it is!",
+    "ready_to_complete": "Of course it's friendly! All Dragons love Ninjas, even the Skeleton ones!"
+  },
+  "1299": {
+    "accept_chat_bubble": "Do you know the Sorceress of whom I speak? She may be able to help us with our new friend.",
+    "chat_state_1": "Hideous, but lovable. Sadly I cannot say the same for the other Skeletons.",
+    "chat_state_2": "I hear there is a whole planet where animals play and roam free. Take your new Pet there!",
+    "chat_state_3_turnin": "Skeletons and Maelstrom? How dreadful!",
+    "completion_succeed_tip": "Fly to Pet Cove and talk to Coalessa about your new Skeleton Dragon Pet.",
+    "in_progress": "Go to Pet Cove and talk to Coalessa about the Skeleton Dragon Pet.",
+    "offer": "I hear there is a Sorceress who can speak to animals! Go and show her your strange new friend!",
+    "ready_to_complete": "Oh, it's a bony little thing, isn't it? I bet it loves to dig!"
+  },
+  "1300": {
+    "accept_chat_bubble": "There must be more Bone Digs on Crux Prime. Use your Skeleton Pet to dig them up!",
+    "chat_state_1": "Fascinating! They build not with bricks, but with bones!",
+    "chat_state_2": "Use your Skeleton Pet to dig up 10 more bones on Crux Prime!",
+    "chat_state_3": "What bony creation will I build for you today?",
+    "completion_succeed_tip": "Return the 10 bones to Mardolf the Orange in Nimbus Station.",
+    "in_progress": "Find 10 more bones from Bone Digs on Crux Prime, then take them back to Mardolf in Nimbus Station.",
+    "offer": "The Skeletons use bones to design their strange vehicles! Bring me 10 more bones and I will build another part for you!",
+    "offer_repeatable": "For every 10 bones you bring me from Bone Digs, I will build you a new Skeleton vehicle part!",
+    "ready_to_complete": "These bones create something new each time, so choose something and see what you get!"
+  },
+  "1301": {
+    "accept_chat_bubble": "This Crystal contains some dark secret the Skeletons want to protect!",
+    "chat_state_1": "Maelstrom, you call it? That is the dark power surrounding this world?",
+    "chat_state_2": "This Maelstrom is too strong for me to study. We need more help.",
+    "chat_state_3_turnin": "You again! Brought me anything interesting?",
+    "completion_succeed_tip": "Talk to Echs Ray, the Paradox Scientist in Forbidden Valley.",
+    "in_progress": "Take the Maelstrom Crystal to Echs Ray, the Paradox Scientist in Forbidden Valley.",
+    "offer": "So the Paradox of Nexus Force, they study the Maelstrom? Perhaps a scientist can study this Crystal you took from Nuckal.",
+    "ready_to_complete": "You've just come from Crux Prime? How goes the battle against the Maelstrom?"
+  },
+  "1302": {
+    "accept_chat_bubble": "Build the console and then interact with it to analyze the Skeletons' Crystal.",
+    "chat_state_1": "And you say the Skeletons are mining for this on Crux Prime?",
+    "chat_state_2": "Build the console, then interact with it.",
+    "chat_state_3": "I've finished reviewing the data.",
+    "completion_succeed_tip": "Return to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "in_progress": "Build Echs Ray's console and then interact with it to analyze the Maelstrom Crystal.",
+    "offer": "This Crystal is made from concentrated Maelstrom! Build the console behind me so that we can analyze this sample.",
+    "ready_to_complete": "The Skeletons may be trying to use the Maelstrom to forge weapons and power their machines!"
+  },
+  "1303": {
+    "accept_chat_bubble": "I will continue studying this, but you must return to Crux Prime!",
+    "chat_state_1": "Just when we thought the Maelstrom was destructive enough already.",
+    "chat_state_2": "Hurry back to your friend Neido and share my findings with him!",
+    "chat_state_3_turnin": "Was your Paradox scientist able to learn anything?",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "offer": "If the Skeletons are using the Maelstrom to build weapons, they will be more dangerous than ever! You must warn Neido!",
+    "ready_to_complete": "Of course. The Skeletons mine for Maelstrom because it provides protection from Spinjitzu!"
+  },
+  "1305": {
+    "accept_chat_bubble": "The Skeletons need Maelstrom - but they fear Spinjitzu! Go and show them fear!",
+    "chat_state_1": "Every time we smash a Skeleton, more appear! We must do something!",
+    "chat_state_2": "No Maelstrom means no weapons! Stop those Skeletons!",
+    "chat_state_3": "Haha! The sound of smashing bones is like wind chimes on the breezes of Ninjago!",
+    "chat_state_4": "Come back later, there are always more Skeletons to smash!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 2 Skeleton Drilling Rigs, 2 Skeleton Watchtowers and 4 Bone Fracture Bombs on Crux Prime.",
+    "offer": "Now that we know why the Skeletons search for Maelstrom, we must prevent them from mining for more of it!",
+    "offer_repeatable": "Ready to smash more of the Skeletons and their infernal machines?",
+    "ready_to_complete": "No mining, no Maelstrom! How do you like that, Lord Garmadon?"
+  },
+  "1306": {
+    "accept_chat_bubble": "The Skeletons need Maelstrom - but they fear Spinjitzu! Go and show them fear!",
+    "chat_state_1": "Every time we smash a Skeleton, more appear! We must do something!",
+    "chat_state_2": "No Maelstrom means no weapons! Stop those Skeletons!",
+    "chat_state_3": "Haha! The sound of smashing bones is like wind chimes on the breezes of Ninjago!",
+    "chat_state_4": "Come back later, there are always more Skeletons to smash!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 15 Skeleton Miners, 6 Skeleton Engineers and 3 Skeleton Pit Bosses on Crux Prime.",
+    "offer": "Now that we know why the Skeletons search for Maelstrom, we must prevent them from mining for more of it!",
+    "offer_repeatable": "Ready to smash more of the Skeletons and their infernal machines?",
+    "ready_to_complete": "No mining, no Maelstrom! Such sad, sad Skeletons."
+  },
+  "1307": {
+    "accept_chat_bubble": "The Skeletons need Maelstrom - but they fear Spinjitzu! Go and show them fear!",
+    "chat_state_1": "Every time we smash a Skeleton, more appear! We must do something!",
+    "chat_state_2": "No Maelstrom means no weapons! Stop those Skeletons!",
+    "chat_state_3": "Haha! The sound of smashing bones is like wind chimes on the breezes of Ninjago!",
+    "chat_state_4": "Come back later, there are always more Skeletons to smash!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 2 Skeleton Pit Bosses and 6 Skeleton Watchmen on Crux Prime.",
+    "offer": "Now that we know why the Skeletons search for Maelstrom, we must prevent them from mining for more of it!",
+    "offer_repeatable": "Ready to smash more of the Skeletons and their infernal machines?",
+    "ready_to_complete": "If the Skeletons cannot walk, then they cannot mine for Maelstrom! Haha!"
+  },
+  "1308": {
+    "accept_chat_bubble": "The Skeletons need Maelstrom - but they fear Spinjitzu! Go and show them fear!",
+    "chat_state_1": "Every time we smash a Skeleton, more appear! We must do something!",
+    "chat_state_2": "No Maelstrom means no weapons! Stop those Skeletons!",
+    "chat_state_3": "Haha! The sound of smashing bones is like wind chimes on the breezes of Ninjago!",
+    "chat_state_4": "Come back later, there are always more Skeletons to smash!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 2 Skeleton Drilling Rigs, 15 Skeleton Miners and rebuild 5 Skeleton Growlspeakers on Crux Prime.",
+    "offer": "Now that we know why the Skeletons search for Maelstrom, we must prevent them from mining for more of it!",
+    "offer_repeatable": "Ready to smash more of the Skeletons and their infernal machines?",
+    "ready_to_complete": "No mining, no Maelstrom! No other way to spin that story! Haha!"
+  },
+  "1309": {
+    "accept_chat_bubble": "The Skeletons need Maelstrom - but they fear Spinjitzu! Go and show them fear!",
+    "chat_state_1": "Every time we smash a Skeleton, more appear! We must do something!",
+    "chat_state_2": "No Maelstrom means no weapons! Stop those Skeletons!",
+    "chat_state_3": "Haha! The sound of smashing bones is like wind chimes on the breezes of Ninjago!",
+    "chat_state_4": "Come back later, there are always more Skeletons to smash!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash 4 Bone Fracture Bombs, 6 Skeleton Watchmen and rebuild 5 Skeleton Growlspeakers on Crux Prime.",
+    "offer": "Now that we know why the Skeletons search for Maelstrom, we must prevent them from mining for more of it!",
+    "offer_repeatable": "Ready to smash more of the Skeletons and their infernal machines?",
+    "ready_to_complete": "No mining, no Maelstrom! How do you like that, Lord Garmadon?"
+  },
+  "1310": {
+    "accept_chat_bubble": "Come back after you've smashed enough of that debris. 10 should be plenty!",
+    "chat_state_1": "I've got some missions for you to do, but you'll need supplies first!",
+    "chat_state_2": "Search the battlefield, there are chunks of that red space debris everywhere.",
+    "chat_state_3": "Got a little more pep in your step now, huh?",
+    "completion_succeed_tip": "Return to Sherland Powers on Crux Prime.",
+    "in_progress": "Smash 10 pieces of wreckage from the Venture Koi.",
+    "offer": "I've been able to stay alive out here by smashing the red space wreckage lying around. Smash 10 to find Life and Imagination!",
+    "ready_to_complete": "You're right, I bet those pieces are from the Venture Koi! That was the spaceship of the 4 explorers!"
+  },
+  "1311": {
+    "completion_succeed_tip": "Fright Speed Bodywork!",
+    "description": "Collect the Fright Speed Car front and rear bumpers and side panels."
+  },
+  "1312": {
+    "completion_succeed_tip": "Fright Speed Engine Work!",
+    "description": "Find a Fright Speed Car Engine Panel and Rear Panel."
+  },
+  "1313": {
+    "completion_succeed_tip": "Morbid Orbit Collector!",
+    "description": "Collect all three Morbid Orbit rocket parts."
+  },
+  "1314": {
+    "completion_succeed_tip": "Starskull Collector!",
+    "description": "Collect all three Starskull Rocket parts."
+  },
+  "1315": {
+    "completion_succeed_tip": "Terror Comet Collector!",
+    "description": "Collect all three Terror Comet Rocket parts."
+  },
+  "1316": {
+    "completion_succeed_tip": "Skeleton Rocket Collector!",
+    "description": "Collect all 9 Skeleton Rocket parts."
+  },
+  "1317": {
+    "completion_succeed_tip": "Fright Speed Mechanic!",
+    "description": "Collect all five Fright Speed car parts."
+  },
+  "1318": {
+    "completion_succeed_tip": "The Prideful Pet Tamer!",
+    "description": "Tame a Lion Pet."
+  },
+  "1319": {
+    "accept_chat_bubble": "Be careful not to be seen.",
+    "chat_state_1": "I need a stealthy agent for a very delicate job.",
+    "chat_state_2": "Equip the box and move around the Sentinel Command Center to eavesdrop on Duke Exeter.",
+    "chat_state_3": "Did the disguise work?",
+    "completion_succeed_tip": "Return to Vanda Darkflame in Nexus Tower and tell her what you've learned.",
+    "in_progress": "Vanda Darkflame wants you to spy on Duke Exeter while wearing a Sentinel Box Disguise. Buy the disguise from Sutoro Hatto.",
+    "offer": "Duke only contacts us when he needs something for the battle. Buy a disguise from Sutoro Hatto and spy on Duke in his Command Center.",
+    "ready_to_complete": "That's it? Nothing about the Baron? Maybe this darkness is making me paranoid."
+  },
+  "1320": {
+    "accept_chat_bubble": "Overbuild expects us to tell him everything.",
+    "chat_state_1": "Dr. Overbuild is working on something new, I know it.",
+    "chat_state_2": "I suppose I can ask him myself, but this way is much more fun.",
+    "chat_state_3": "Did you get close enough to hear anything?",
+    "completion_succeed_tip": "Return to Vanda Darkflame in Nexus Tower and tell her what you've learned.",
+    "in_progress": "Buy an Assembly Box Disguise from Sutoro Hatto, then wear it to spy on Dr. Overbuild. Report to Vanda to tell her what you hear.",
+    "offer": "Dr. Overbuild is always working on secret projects. I want to know what he's up to! Buy a disguise from Sutoro Hatto and spy on Overbuild.",
+    "ready_to_complete": "Dr. Overbuild likes to dance? I never knew that. I wonder if he knows the cha-cha."
+  },
+  "1321": {
+    "accept_chat_bubble": "Without the Shards, the Imagimeter base is useless.",
+    "chat_state_1": "Do you know what the Imagimeter is?",
+    "chat_state_2": "Don't let those foul birds see you! Parrots are like alarm clocks with wings.",
+    "chat_state_3": "Did he reveal anything worthwhile?",
+    "completion_succeed_tip": "Return to Vanda Darkflame in Nexus Tower and tell her what you've learned.",
+    "in_progress": "Buy a Venture League Box Disguise from Sutoro Hatto, then wear it to spy on Hael Storm. Report back to Vanda to tell her what you hear.",
+    "offer": "Hael Storm has recovered the Imagimeter Base from Crux Prime. Buy a disguise from Sutoro Hatto and find out what Hael knows about the missing Shards.",
+    "ready_to_complete": "I wonder why he wants the Imagimeter Shards. Most likely some treasure he wants to find."
+  },
+  "1322": {
+    "accept_chat_bubble": "Get rid of that Maelstrom! I have allergies, you know.",
+    "chat_state_1": "Maelstrom! It's all over the place!",
+    "chat_state_2": "That generator's the big problem here - get rid of it!",
+    "chat_state_3": "Much better. I can breathe now.",
+    "completion_succeed_tip": "You cleared the Maelstrom from this Property! Return to the Property Guard.",
+    "in_progress": "Find a way to reach the Imagination Orb and clear the Property.",
+    "offer": "The Maelstrom has infected this Property! Smash that generator and rebuild it to reach that Imagination Orb!",
+    "ready_to_complete": "This place is so much nicer without all that Maelstrom gunk. Ready to start building?"
+  },
+  "1324": {
+    "accept_chat_bubble": "If ya see Gwen Tweenbangle, tell her the Thunder sends his best.",
+    "chat_state_1": "Hope you got some good gear - you're gonna need it for this one.",
+    "chat_state_2": "Alright, go find them treasure chests!",
+    "chat_state_3": "Tower's a big place. Good on ya for findin' all of them chests!",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find the 15 floating treasure chests that Johnny Thunder hid in Nexus Tower.",
+    "offer": "Been to Nexus Tower yet? The Thunder has. Been all over that place. And of course, I hid some chests for you to find!",
+    "ready_to_complete": "You ain't just a treasure hunter, mate - you're a regular treasure hero!"
+  },
+  "1325": {
+    "completion_succeed_tip": "Picky Shopper 1!",
+    "description": "Interact with 3 of the vendors in Nexus Tower."
+  },
+  "1326": {
+    "completion_succeed_tip": "Picky Shopper 2!",
+    "description": "Interact with 4 more vendors in Nexus Tower."
+  },
+  "1327": {
+    "completion_succeed_tip": "Picky Shopper 3!",
+    "description": "Interact with 6 more vendors in Nexus Tower."
+  },
+  "1328": {
+    "completion_succeed_tip": "Picky Shopper 4!",
+    "description": "Interact with 4 more vendors in Nexus Tower."
+  },
+  "1329": {
+    "completion_succeed_tip": "Thirsty Traveler!",
+    "description": "Interact with the water fountains in Nexus Tower 25 times."
+  },
+  "1330": {
+    "completion_succeed_tip": "Speedy Traveler 1!",
+    "description": "Use any of the shortcuts in Nexus Tower 20 times."
+  },
+  "1331": {
+    "completion_succeed_tip": "Speedy Traveler 2!",
+    "description": "Use any of the shortcuts in Nexus Tower 20 more times."
+  },
+  "1332": {
+    "completion_succeed_tip": "Speedy Traveler 3!",
+    "description": "Use any of the shortcuts in Nexus Tower 40 more times."
+  },
+  "1333": {
+    "completion_succeed_tip": "Mr. Clean!",
+    "description": "Use the Soap Gun to clean up 24 dirt clouds in Nexus Tower."
+  },
+  "1334": {
+    "completion_succeed_tip": "Faction Pet Tamer!",
+    "description": "Tame your Faction pet in Nexus Tower."
+  },
+  "1336": {
+    "completion_succeed_tip": "You Got Bank 1!",
+    "description": "Expand 120 slots in your Vault account."
+  },
+  "1340": {
+    "completion_succeed_tip": "Combat Challenger 1!",
+    "description": "Score 100 damage points at the Combat Challenge in Nexus Tower."
+  },
+  "1341": {
+    "completion_succeed_tip": "Combat Challenger 2!",
+    "description": "Score 240 damage points at the Combat Challenge in Nexus Tower."
+  },
+  "1342": {
+    "completion_succeed_tip": "Combat Challenger 3!",
+    "description": "Score 290 damage points at the Combat Challenge in Nexus Tower."
+  },
+  "1344": {
+    "completion_succeed_tip": "Gaze Into the Abyss!",
+    "description": "Look into the Maelstrom Orb in Nexus Tower 15 times."
+  },
+  "1346": {
+    "completion_succeed_tip": "Sleeping On The Job!",
+    "description": "Use an Action Emote to wake up the Sentinel Checkpoint Guard in Nexus Tower."
+  },
+  "1350": {
+    "completion_succeed_tip": "Like Clockwork 1!",
+    "description": "Complete 25 Daily Missions."
+  },
+  "1351": {
+    "completion_succeed_tip": "Like Clockwork 2!",
+    "description": "Complete 100 Daily Missions."
+  },
+  "1352": {
+    "completion_succeed_tip": "Like Clockwork 3!",
+    "description": "Complete 250 Daily Missions."
+  },
+  "1353": {
+    "completion_succeed_tip": "Like Clockwork 4!",
+    "description": "Complete 500 Daily Missions."
+  },
+  "1354": {
+    "completion_succeed_tip": "Like Clockwork 5!",
+    "description": "Complete 1000 Daily Missions."
+  },
+  "1356": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 5 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 5 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 5 Blue Imaginite and I will add 10 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1357": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 10 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 10 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 10 Blue Imaginite and I will add 10 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1358": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 25 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 25 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 25 Blue Imaginite and I will add 20 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1359": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 30 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 30 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 30 Blue Imaginite and I will add 20 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1360": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 50 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 50 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 50 Blue Imaginite and I will add 30 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1361": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 100 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 100 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 100 Blue Imaginite and I will add 30 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1362": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "If you bring me more Blue Imaginite, I can add more capacity to your Vault account.",
+    "completion_succeed_tip": "Take 150 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 150 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 150 Blue Imaginite and I will add 40 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1363": {
+    "accept_chat_bubble": "See your Faction Vendor in the Tower for Blue Imaginite.",
+    "chat_state_1": "Would you like more space in your Vault account?",
+    "chat_state_2": "You can buy Blue Imaginite from your Faction Vendor here in the Tower.",
+    "chat_state_3": "I require Blue Imaginite to upgrade your Vault account.",
+    "chat_state_4": "Your Vault account is now at its maximum size!",
+    "completion_succeed_tip": "Take 200 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "in_progress": "Take 200 Blue Imaginite to the Nexus Naomi console in Nexus Tower to expand your Vault account.",
+    "offer": "Bring me 200 Blue Imaginite and I will add 40 additional slots for Items and Models to your Vault account!",
+    "ready_to_complete": "Thank you. I will now increase the capacity of your Vault account."
+  },
+  "1364": {
+    "completion_succeed_tip": "Back-Alley Buyer!",
+    "description": "Buy any 3 items from Mr. Ree, the Shady Vendor in Nexus Tower."
+  },
+  "1366": {
+    "completion_succeed_tip": "Creative Flow 1!",
+    "description": "Quick Build any of the Imagination pipes in Nexus Tower 10 times."
+  },
+  "1367": {
+    "completion_succeed_tip": "Creative Flow 2!",
+    "description": "Quick Build any of the Imagination pipes in Nexus Tower 20 more times."
+  },
+  "1368": {
+    "completion_succeed_tip": "Creative Flow 3!",
+    "description": "Quick Build any of the Imagination pipes in Nexus Tower 40 more times."
+  },
+  "1369": {
+    "completion_succeed_tip": "Nexus Tower Achiever 1!",
+    "description": "Complete 10 Missions or Achievements in Nexus Tower."
+  },
+  "1370": {
+    "completion_succeed_tip": "Nexus Tower Achiever 2!",
+    "description": "Complete 10 more Missions or Achievements in Nexus Tower, for a total of 20."
+  },
+  "1371": {
+    "completion_succeed_tip": "Nexus Tower Achiever 3!",
+    "description": "Complete 20 more Missions or Achievements in Nexus Tower, for a total of 40."
+  },
+  "1372": {
+    "completion_succeed_tip": "The Knight's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Knight gear."
+  },
+  "1373": {
+    "completion_succeed_tip": "The Knight's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Knight gear."
+  },
+  "1374": {
+    "completion_succeed_tip": "The Knight's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Knight gear."
+  },
+  "1377": {
+    "accept_chat_bubble": "Just follow the logos. They'll take you straight to Duke Exeter.",
+    "chat_state_1": "I can help you find your way to the Faction Leaders!",
+    "chat_state_2": "Follow the Sentinel logos and you'll find Duke Exeter. He can usually be found in his Command Center.",
+    "chat_state_3_turnin": "The Maelstrom must be stopped!",
+    "completion_succeed_tip": "Follow the Sentinel logos to find Duke Exeter in Nexus Tower.",
+    "in_progress": "Follow the Sentinel logos to find Duke Exeter in Nexus Tower.",
+    "offer": "Do you need help finding the Sentinel Faction? I can lead you straight to Duke Exeter.",
+    "offer_repeatable": "Do you need help finding the Sentinel Faction? I can lead you straight to Duke Exeter.",
+    "ready_to_complete": "At ease, Minifigure. Good to have you with us."
+  },
+  "1378": {
+    "accept_chat_bubble": "Just follow the logos. They'll take you straight to Dr. Overbuild.",
+    "chat_state_1": "I can help you find your way to the Faction Leaders!",
+    "chat_state_2": "Follow the Assembly logos and you'll find Dr. Overbuild. He can usually be found studying the Imagination Nexus.",
+    "chat_state_3_turnin": "Fascinating. Is there nothing that Imagination cannot build?",
+    "completion_succeed_tip": "Follow the Assembly logos to find Dr. Overbuild in Nexus Tower.",
+    "in_progress": "Follow the Assembly logos to find Dr. Overbuild in Nexus Tower.",
+    "offer": "Do you need help finding the Assembly Faction? I can lead you straight to Dr. Overbuild.",
+    "offer_repeatable": "Do you need  help finding the Assembly Faction? I can lead you straight to Dr. Overbuild.",
+    "ready_to_complete": "Greetings, Minifigure! You have the spark of Imagination about you!"
+  },
+  "1379": {
+    "accept_chat_bubble": "Just follow the logos. They'll take you straight to Hael Storm.",
+    "chat_state_1": "I can help you find your way to the Faction Leaders!",
+    "chat_state_2": "Follow the Venture League logos and you'll find Hael Storm. He can usually be found peering through his great telescope.",
+    "chat_state_3_turnin": "Just look at all them worlds out there, just waitin' to be discovered!",
+    "completion_succeed_tip": "Follow the Venture League logos to find Hael Storm in Nexus Tower.",
+    "in_progress": "Follow the Venture League logos to find Hael Storm in Nexus Tower.",
+    "offer": "Do you need help finding the Venture League Faction? I can lead you straight to Hael Storm.",
+    "offer_repeatable": "Do you need  help finding the Venture League? I can lead you straight to Hael Storm.",
+    "ready_to_complete": "So you've found the Venture League, have you? We attract seekers and dreamers alike!"
+  },
+  "1380": {
+    "accept_chat_bubble": "Just follow the logos. They'll take you straight to Vanda Darkflame.",
+    "chat_state_1": "I can help you find your way to the Faction Leaders!",
+    "chat_state_2": "Follow the Paradox logos and you'll find Vanda Darkflame. She can usually be found in her dark Laboratory.",
+    "chat_state_3_turnin": "True power and knowledge comes from within.",
+    "completion_succeed_tip": "Follow the Paradox logos to find Vanda Darkflame in Nexus Tower.",
+    "in_progress": "Follow the Paradox logos to find Vanda Darkflame in Nexus Tower.",
+    "offer": "Do you need help finding Paradox Faction? I can lead you straight to Vanda Darkflame.",
+    "offer_repeatable": "Do you need  help finding the Paradox Faction? I can lead you straight to Vanda Darkflame.",
+    "ready_to_complete": "Paradox welcomes you, Minifigure. Can you keep a secret?"
+  },
+  "1381": {
+    "accept_chat_bubble": "Use the Launch Pad behind me and you'll be on your way!",
+    "chat_state_1": "After all this time, I can't believe Nexus Tower is finally done!",
+    "chat_state_2": "Nexus Tower was built to protect the Imagination Nexus, the purest source of Imagination in the Universe.",
+    "chat_state_3_turnin": "Welcome to Nexus Tower, protector of the Imagination Nexus and headquarters to the Nexus Force.",
+    "completion_succeed_tip": "Use the launch pad beyond the Nimbus Station Race Place to fly to Nexus Tower. Then talk to Nexus Naomi.",
+    "in_progress": "Fly to Nexus Tower and talk to Nexus Naomi.",
+    "offer": "Ready to visit the greatest construction in the Universe? Use this launch pad to fly to Nexus Tower! Check in with Nexus Naomi once you arrive.",
+    "ready_to_complete": "Welcome, Minifigure! I am Nexus Naomi, the ambassador and operating system for Nexus Tower!"
+  },
+  "1383": {
+    "accept_chat_bubble": "Go on then, I'm not going to hold yer hand.",
+    "chat_state_1": "You look like a sad ol' pack monkey with alla that stuff!",
+    "chat_state_2": "Search the Sentinel War Room for a console with that blue Nexus Naomi lass. She'll get ya sorted.",
+    "chat_state_3_turnin": "Hello! What may I assist you with?",
+    "completion_succeed_tip": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "in_progress": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "offer": "Look at all that booty yer luggin' around! You need a Vault account so's you can store it all! Find the Nexus Naomi console in the War Room to get sorted out.",
+    "ready_to_complete": "Welcome, Minifigure. Hael Storm has authorized you for a Vault account!"
+  },
+  "1384": {
+    "accept_chat_bubble": "Now what do these things eat, anyways? Coalessa might know.",
+    "chat_state_1": "Did ye see that? It's hidin' in the pipe!",
+    "chat_state_2": "C'mon out, little Stegosaurrr!",
+    "chat_state_3_turnin": "Hael's found a new pet, you say?",
+    "completion_succeed_tip": "Talk to Coalessa in Pet Cove about the mysterious Venture League pet.",
+    "in_progress": "Hael Storm wants you to talk to Coalessa in Pet Cove about a Venture League pet.",
+    "offer": "There be a strange pet here. Old. Dangerous. Go ask Coalessa about how ye can tame it.",
+    "ready_to_complete": "A Stegosaurus, you say? I know just the treat to coax it out!"
+  },
+  "1385": {
+    "accept_chat_bubble": "Hael may try to eat it himself. He needs a bit of taming himself!",
+    "chat_state_1": "Okay, hurry back to Nexus Tower before this melts!",
+    "chat_state_2": "I'm sure the Stegosaur will love this!",
+    "chat_state_3_turnin": "Somethin' smells delicious-like!",
+    "completion_succeed_tip": "Take the Stegosaurus Treat back to Hael Storm in Nexus Tower.",
+    "in_progress": "Take the Stegosaurus Treat back to Hael Storm in Nexus Tower.",
+    "offer": "Take this Stegosaurus Treat back to Hael Storm. Don't let him eat it himself!",
+    "ready_to_complete": "Arr, that looks scrrrumptious! I might try a bit meself!"
+  },
+  "1386": {
+    "accept_chat_bubble": "If the Stegosaurrr won't eat it, I sure will.",
+    "chat_state_1": "How could anything resist a banana split?",
+    "chat_state_2": "Did ye lure it out yet, matey?",
+    "chat_state_3": "Well done, mate! What a plum pet.",
+    "completion_succeed_tip": "Show Hael Storm your new Stegosaurus.",
+    "in_progress": "Interact with the bowl in the Venture League Observatory, then tame the Stegosaurus pet.",
+    "offer": "If ye put that treat into the bowl, I reckon the Stegosaurrr will come down to have a gander.",
+    "ready_to_complete": "Ye got 'im! Keep a sharp eye out for them tail spikes, though."
+  },
+  "1387": {
+    "accept_chat_bubble": "I wonder what kind of pet Coalessa will find for you?",
+    "chat_state_1": "You've been doing fantastic work!",
+    "chat_state_2": "I prefer my charming robo-dog to the real thing. We have a special history.",
+    "chat_state_3_turnin": "Dr. Overbuild said you'd be coming! He spoke very highly of you!",
+    "completion_succeed_tip": "Talk to Coalessa in Pet Cove about an Assembly pet.",
+    "in_progress": "Talk to Coalessa in Pet Cove about an Assembly pet.",
+    "offer": "As thanks for being such a great member of Assembly, I've arranged to have Coalessa find a very special pet for you. Go and see her.",
+    "ready_to_complete": "Yes, I know just the pet for you! But you'll have to get the pieces from those awful Skeletons on Crux Prime!"
+  },
+  "1388": {
+    "completion_succeed_tip": "The Nexus Tower Story!",
+    "description": "Read all of the Story Plaques in Nexus Tower."
+  },
+  "1389": {
+    "accept_chat_bubble": "Check the pipe in the Storeroom if you don't see the Cat. Such an unruly beast!",
+    "chat_state_1": "I would have preferred a more logical pet!",
+    "chat_state_2": "If that Cat has crawled into the pipe up there, use the console to flush it out.",
+    "chat_state_3": "A nice Robot Parakeet would have been so much more pleasant!",
+    "completion_succeed_tip": "Return to Dr. Overbuild in the Nexus Core.",
+    "in_progress": "Tame the Saber Cat in the Assembly Storeroom in Nexus Tower.",
+    "offer": "That Saber Cat is a savage nuisance! No sooner had I reassembled him than it ran away! It's in the Storerooms above. Go and tame it!",
+    "ready_to_complete": "I wonder why Coalessa chose this pet? Perhaps she thinks I am getting long in the tooth!"
+  },
+  "1390": {
+    "accept_chat_bubble": "I wonder what's in the egg? Not a omelette, I hope!",
+    "chat_state_1": "An egg is not a pet! There must be something inside.",
+    "chat_state_2": "The Assembly mystic's name is Coalessa. Ask her about the egg.",
+    "chat_state_3_turnin": "A Sentinel pet, you say?",
+    "completion_succeed_tip": "Talk to Coalessa in Pet Cove about the egg.",
+    "in_progress": "Talk to Coalessa in Pet Cove about the egg.",
+    "offer": "I hear there is an Assembly mystic on a world called Pet Cove who may be able to help hatch this egg. Seek her out!",
+    "ready_to_complete": "An egg is the perfect Sentinel pet! It comes with its own armor!"
+  },
+  "1391": {
+    "accept_chat_bubble": "Place the egg in the nest and the seagull will do the rest!",
+    "chat_state_1": "How can we get that egg to hatch?",
+    "chat_state_2": "I can't wait to see what's inside the egg!",
+    "chat_state_3": "You should have your new Sentinel pet soon!",
+    "completion_succeed_tip": "Return to Coalessa in Pet Cove.",
+    "in_progress": "Put the egg in the seagull's nest on top of the Pet Cove Lighthouse.",
+    "offer": "An egg needs to be warm and cozy before it will hatch! Put it in the seagull's nest up there on top of the Lighthouse!",
+    "ready_to_complete": "It's a good thing that seagull decided to cooperate. I think the egg may have already hatched!"
+  },
+  "1392": {
+    "accept_chat_bubble": "What will you name your new Gryphon pet?",
+    "chat_state_1": "What a wonderful Sentinel pet!",
+    "chat_state_2": "I'm so excited for you!",
+    "chat_state_3": "You've done it! It's magnificent.",
+    "completion_succeed_tip": "Return to Coalessa in Pet Cove.",
+    "in_progress": "Tame the Gryphon pet in Pet Cove.",
+    "offer": "A Gryphon! I thought they were a myth! I'll bet it would willingly serve a Sentinel soldier like you. Try taming it!",
+    "ready_to_complete": "I've never seen anything like it! I wonder if it's related to Nancy?"
+  },
+  "1393": {
+    "accept_chat_bubble": "Coalessa said the pet was ferocious, whatever it is.",
+    "chat_state_1": "What do you think would make the perfect Paradox pet?",
+    "chat_state_2": "Coalessa lives in Pet Cove with her animal friends. It's very sunny there. I've never been.",
+    "chat_state_3_turnin": "Are you the agent that Vanda mentioned? She must trust you very much!",
+    "completion_succeed_tip": "Talk to Coalessa in Pet Cove about a Paradox pet.",
+    "in_progress": "Vanda Darkflame wants you to talk to Coalessa in Pet Cove about a Paradox pet.",
+    "offer": "You have served Paradox well so far. I have asked Coalessa to find a special pet for you. Go and see her in Pet Cove.",
+    "ready_to_complete": "I know of the perfect pet for you, but it won't be easy to find."
+  },
+  "1394": {
+    "accept_chat_bubble": "Imagine, a vampire frog! Eating flies and kissing princesses! Blegh!",
+    "chat_state_1": "She tried to turn me into a frog! I guess I shouldn't have insulted her hat.",
+    "chat_state_2": "It vas an uncommonly ugly hat, but don't tell her that!",
+    "chat_state_3_turnin": "How is Rutger doing? Hopping mad, is he? Hee hee hee!",
+    "completion_succeed_tip": "Talk to Olivia Nightshade in the Paradox Vendor area of Nexus Tower.",
+    "in_progress": "Deliver Rutger Hemoglobin's apology to Olivia Nightshade in the Paradox Vendor area of Nexus Tower.",
+    "offer": "I need Olivia Nightshade's help to brew ze dye, but she tried to turn me into a frog for insulting her hat. Vill you tell her I'm sorry?",
+    "ready_to_complete": "What, he is not a frog? Then my spell has failed. Oh well, apology accepted. I'll help him with his dye."
+  },
+  "1396": {
+    "accept_chat_bubble": "Go and tell Rutger the dye will be ready soon. A witch must work in private!",
+    "chat_state_1": "I cannot avoid Rutger's charms for long, he is rather handsome, don't you think? Hee hee hee!",
+    "chat_state_2": "I will make sure Rutger's dye is the richest, most vibrant purple. Perhaps I may even get a new hat!",
+    "chat_state_3_turnin": "Vat is happening to me? It must be Olivia's spell! I am feeling all froggy!!",
+    "completion_succeed_tip": "Return to Rutger Hemoglobin in the Paradox Vendor area of Nexus Tower.",
+    "in_progress": "Return to Rutger Hemoglobin in the Paradox Vendor area of Nexus Tower.",
+    "offer": "Okay, tell Rutger I'll help him brew his dye. But about my hat, not another word!",
+    "ready_to_complete": "Olivia's spell vas not so veak as I thought. I am feeling rather purplish under ze collar!"
+  },
+  "1398": {
+    "accept_chat_bubble": "Vat are you vaiting for? Hurry to Dr. Overbuild and find me a cure!",
+    "chat_state_1": "I thought frogs were green, not purple. Vat kind of a horrible spell is zis?",
+    "chat_state_2": "Does my tongue look longer to you? I zink I vill swoon.",
+    "chat_state_3_turnin": "Something's wrong with Rutger? Tell me what happened.",
+    "completion_succeed_tip": "Talk to Dr. Overbuild in the Nexus Core about a cure for Rutger Hemoglobin.",
+    "in_progress": "Talk to Dr. Overbuild in the Nexus Core about a cure for Rutger Hemoglobin.",
+    "offer": "She has cursed me after all! That vitch! Dr. Overbuild vill know vat to do. Vill you go and ask him for help?",
+    "ready_to_complete": "Rutger turning into a frog, you say? Preposterous! This bears investigation."
+  },
+  "1399": {
+    "accept_chat_bubble": "A blast of Imagination should cure Rutger's sickness.",
+    "chat_state_1": "Magic? That's rubbish. I don’t think Olivia's spell could have done that.",
+    "chat_state_2": "If this doesn't work, we'll need to find a princess!",
+    "chat_state_3_turnin": "I am feeling better als ready! Vat magic has the Dr. given you?",
+    "completion_succeed_tip": "Talk to Rutger Hemoglobin and see how he's feeling now.",
+    "in_progress": "Equip the Imagination Backpack and charge it at the Beam. Then activate it near Rutger Hemoglobin.",
+    "offer": "Rutger has infected himself working with those Maelstrom samples. Charge this Imagination Backpack near the Beam, then activate it near Rutger.",
+    "ready_to_complete": "I feel so much better! Ze Maelstrom samples infected me? Vell, I guess zat's ze end of my experiment."
+  },
+  "1404": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find Cannon Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Score 75,000 points in the Cannon Cove Shooting Gallery in Gnarled Forest.",
+    "offer": "How's your aim? Can you score 75,000 in the Cannon Cove Shooting Gallery?",
+    "offer_repeatable": "Score 75,000 points in the Cannon Cove Shooting Gallery in Gnarled Forest.",
+    "ready_to_complete": "Bet you sunk a whole Maelstrom fleet today!"
+  },
+  "1405": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Keelhaul Canyon Racetrack.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 smashables on the Keelhaul Canyon Racetrack.",
+    "offer": "Feelin' a little road rage? Smash 10 smashables on the Keelhaul Canyon Racetrack!",
+    "offer_repeatable": "Smash 10 Smashables on the Keelhaul Canyon Racetrack.",
+    "ready_to_complete": "Lotta smashin' out there today! Hope none of it was you!"
+  },
+  "1406": {
+    "accept_chat_bubble": "Head to Race Place to find Vertigo Loop.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 smashables on the Vertigo Loop Racetrack.",
+    "offer": "Ready for some high-speed smashing? Smash 10 smashables on the Vertigo Loop Racetrack!",
+    "offer_repeatable": "Smash 10 smashables on the Vertigo Loop Racetrack.",
+    "ready_to_complete": "Good smashing! How's your bumper?"
+  },
+  "1407": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find the Dragonmaw Chasm Racetrack.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 Smashables on the Dragonmaw Chasm Racetrack.",
+    "offer": "How about some high-speed mayhem? Smash 10 Smashables on the Dragonmaw Chasm Racetrack!",
+    "offer_repeatable": "Smash 10 Smashables on the Dragonmaw Chasm Racetrack.",
+    "ready_to_complete": "You didn't see any Dragons out there, did you?"
+  },
+  "1408": {
+    "accept_chat_bubble": "Try the tracks Vertigo Loop, Keelhaul Canyon or Dragonmaw Chasm.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Compete in 5 races on any racetrack.",
+    "offer": "Ready for some white-knuckle fun? Get out there and compete in 5 races on any track!",
+    "offer_repeatable": "Compete in 5 races on any racetrack.",
+    "ready_to_complete": "That's the kind of drive we need in the Nexus Force!"
+  },
+  "1409": {
+    "accept_chat_bubble": "There are flowers all over LEGO Universe! Look for the little green buds.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Use your Water Sprayer to grow 15 flowers.",
+    "offer": "Got a green thumb? Use your Water Sprayer to grow 15 flowers today!",
+    "offer_repeatable": "Use your Water Sprayer to grow 15 flowers.",
+    "ready_to_complete": "The Universe is a prettier place today, thanks to you!"
+  },
+  "1410": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find Cannon Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Score an overall total of 500,000 points in the Cannon Cove Shooting Gallery.",
+    "offer": "Maelstrom ships ahoy! Keep playing Cannon Cove until you rack up an overall total of 500,000!",
+    "offer_repeatable": "Score an overall total of 500,000 points in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "That sea is a safer place today thanks to you and all those cannonballs!"
+  },
+  "1411": {
+    "accept_chat_bubble": "Find Wenn Wuzzit to go back in time.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station.",
+    "offer": "Maelstrom alert! We need you to smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station!",
+    "offer_repeatable": "Smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station.",
+    "ready_to_complete": "I feel safer already! Thanks!"
+  },
+  "1412": {
+    "accept_chat_bubble": "Head to the Sentinel Base Camp in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Survive for 2 minutes in Avant Gardens Survival in 3 different games.",
+    "offer": "Are you a survivor? Enter Avant Gardens Survival 3 times, and survive for 2 minutes each time!",
+    "offer_repeatable": "Survive for 2 minutes in Avant Gardens Survival in 3 different games.",
+    "ready_to_complete": "You made it back!"
+  },
+  "1413": {
+    "accept_chat_bubble": "Head to Brick Annex to find the rocket launcher to Pet Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 fences and 5 doghouses and Quick Build 3 birdhouses in Pet Cove.",
+    "offer": "Pet Cove needs some yard work! Smash 5 fences and 5 doghouses, then Quick Build 3 birdhouses!",
+    "offer_repeatable": "Smash 5 fences and 5 doghouses and Quick Build 3 birdhouses in Pet Cove.",
+    "ready_to_complete": "The birds and cats say thank you! The dogs, not so much."
+  },
+  "1414": {
+    "accept_chat_bubble": "Head to Brick Annex to find the rocket launcher to Pet Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 hydrants and 10 flowers and Quick Build the bridge in Pet Cove.",
+    "offer": "Pet Cove needs a handyman! Smash 5 hydrants and 10 flowers, then Quick Build the bridge!",
+    "offer_repeatable": "Smash 5 hydrants and 10 flowers and Quick Build the bridge in Pet Cove.",
+    "ready_to_complete": "Did you know Pet Cove used to be a horrible Maelstrom wasteland?"
+  },
+  "1415": {
+    "accept_chat_bubble": "Head to Avant Gardens and smash those Stromlings!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromlings and 5 Mechs and Quick Build 5 turrets in Avant Gardens.",
+    "offer": "The Sentinels need help in Avant Gardens! Go there and smash 10 Stromlings, 5 Mechs and Quick Build 5 turrets!",
+    "offer_repeatable": "Smash 10 Stromlings and 5 Mechs and Quick Build 5 turrets in Avant Gardens.",
+    "ready_to_complete": "Stromlings? Mechs? No problem for you, right?"
+  },
+  "1416": {
+    "accept_chat_bubble": "The Monument is in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens.",
+    "offer": "Not afraid of heights, are you? Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens!",
+    "offer_repeatable": "Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens.",
+    "ready_to_complete": "Have you found all of the Flags on the Monument yet?"
+  },
+  "1417": {
+    "accept_chat_bubble": "Head to Avant Gardens and smash those Mechs!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 Mechs, then Quick Build 5 turrets and 3 Satellite Beacons in Avant Gardens.",
+    "offer": "Support needed in Avant Gardens! Smash 5 Mechs, then Quick Build 5 turrets and 3 radar dishes!",
+    "offer_repeatable": "Smash 5 Mechs, then Quick Build 5 turrets and 3 Comm Beacons in Avant Gardens.",
+    "ready_to_complete": "Your efforts help keep the Maelstrom at bay!"
+  },
+  "1421": {
+    "accept_chat_bubble": "Don't delay opening your Vault account. Much research awaits!",
+    "chat_state_1": "That Backpack must be dreadfully heavy!",
+    "chat_state_2": "Pass through the Nexus Core to enter the Sentinel Faction area. Then find the Nexus Naomi console in the War Room.",
+    "chat_state_3_turnin": "Hello! What may I assist you with?",
+    "completion_succeed_tip": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "in_progress": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "offer": "All of those models and items in that tiny Backpack? You need a Vault account, my friend! Find the Nexus Naomi console in the Sentinel War Room to open an account.",
+    "ready_to_complete": "Welcome, Minifigure. Dr. Overbuild has authorized you for a Vault account!"
+  },
+  "1422": {
+    "accept_chat_bubble": "You'll feel much better once you unload some of that gear in the Vault.",
+    "chat_state_1": "You've been lugging that around the battlefield all this time?",
+    "chat_state_2": "The War Room is just below this chamber. Look for the Nexus Naomi console down there.",
+    "chat_state_3_turnin": "Hello! What may I assist you with?",
+    "completion_succeed_tip": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "in_progress": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "offer": "You can't fight at peak performance with an overstuffed pack! I'll authorize you for a Vault account. Interact with the Nexus Naomi console in the War Room to get started.",
+    "ready_to_complete": "Welcome, Minifigure. Duke Exeter has authorized you for a Vault account!"
+  },
+  "1423": {
+    "accept_chat_bubble": "Although the Vault is located in the Sentinel area, your secrets will be quite safe there.",
+    "chat_state_1": "Protection and secrecy are key for all Paradox members.",
+    "chat_state_2": "Travel back to the Sentinels' area and look for the Nexus Naomi console in the War Room.",
+    "chat_state_3_turnin": "Hello! What may I assist you with?",
+    "completion_succeed_tip": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "in_progress": "Use the Nexus Naomi console in the Sentinel War Room to open a Vault account.",
+    "offer": "You need somewhere to store your secrets. I will authorize you for a Vault account.  Interact with the Nexus Naomi console in the War Room to begin the process.",
+    "ready_to_complete": "Welcome, Minifigure. Vanda Darkflame has authorized you for a Vault account!"
+  },
+  "1425": {
+    "accept_chat_bubble": "Head to Avant Gardens, Gnarled Forest and Forbidden Valley to complete this Mission.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 Mechs in Avant Gardens, 5 Stromling Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley.",
+    "offer": "Got your rocket? Smash 5 Mechs in Avant Gardens, 5 Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley!",
+    "offer_repeatable": "Smash 5 Mechs in Avant Gardens, 5 Stromling Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley.",
+    "ready_to_complete": "How was your whirlwind smashing tour?"
+  },
+  "1426": {
+    "accept_chat_bubble": "Head to the Sentinel Base Camp in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Survive for 5 minutes in Avant Gardens Survival.",
+    "offer": "How are your survival instincts? Can you survive for 5 minutes in Avant Gardens Survival?",
+    "offer_repeatable": "Survive for 5 minutes in Avant Gardens Survival.",
+    "ready_to_complete": "Ahh, Survival. The unhappiness of pursuit."
+  },
+  "1427": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs in Gnarled Forest.",
+    "offer": "Arrr you ready for Gnarled Forest? Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs!",
+    "offer_repeatable": "Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs in Gnarled Forest.",
+    "ready_to_complete": "How much does pirate corn cost? Only a buccaneer!"
+  },
+  "1428": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Mermaid Sirens and Stromling Pirates.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates in Gnarled Forest.",
+    "offer": "Pirates love Mermaids! Go to Gnarled Forest, Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates!",
+    "offer_repeatable": "Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates.",
+    "ready_to_complete": "I'd love to see a real mermaid one day. They don't hang out in Nimbus Plaza."
+  },
+  "1429": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Tiki Torches. You'll need a Water Sprayer first!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Spin and then extinguish 10 Tiki Torches in Gnarled Forest.",
+    "offer": "Tiki Party! Head to Gnarled Forest and spin 10 skull-topped Tiki Torches. Then put them out with your Water Sprayer!",
+    "offer_repeatable": "Spin and then extinguish 10 Tiki Torches in Gnarled Forest.",
+    "ready_to_complete": "Those things crack me up. Woo-woo-woo, I'm a spinning skull! Crazy."
+  },
+  "1430": {
+    "accept_chat_bubble": "Look for mushrooms throughout Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash any 15 mushrooms in Gnarled Forest.",
+    "offer": "There's fungus among us! Go to Gnarled Forest and smash any 15 mushrooms.",
+    "offer_repeatable": "Smash 15 mushrooms in Gnarled Forest.",
+    "ready_to_complete": "I like my mushrooms stuffed with crabmeat, how about you?"
+  },
+  "1431": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 Dark Ronin, 5 Maelstrom Horsemen and extinguish 50 candles in Forbidden Valley.",
+    "offer": "How's your inner Ninja? Go to Forbidden Valley and smash 5 Dark Ronin and 5 Maelstrom Horsemen. Then put out 50 candles!",
+    "offer_repeatable": "Smash 5 Dark Ronin, 5 Maelstrom Horsemen and extinguish 50 candles in Forbidden Valley.",
+    "ready_to_complete": "The Ronin and Horsemen needed to be smashed. I don't know why I asked you to put out the candles."
+  },
+  "1432": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find Brick Fury.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 rock piles in Forbidden Valley, then find Brick Fury and lure 5 Maelstrom Horsemen into his firing range.",
+    "offer": "Lead 5 Maelstrom Horsemen towards Brick Fury! Then find 10 rock piles and unleash your Rock Fury!",
+    "offer_repeatable": "Smash 10 rock piles in Forbidden Valley, then find Brick Fury and lure 5 Maelstrom Horsemen into his firing range.",
+    "ready_to_complete": "Those rocks didn't stand a chance! Oh, and those Horsemen probably got it bad too."
+  },
+  "1433": {
+    "accept_chat_bubble": "Head to Avant Gardens to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 5 Stromling Mechs, 5 Dark Spiderlings and 10 Monument lasers in Avant Gardens.",
+    "offer": "Clean up in Avant Gardens! Go there and smash 5 Stromling Mechs and 5 Dark Spiderlings, then smash 10 lasers on the Monument!",
+    "offer_repeatable": "Smash 5 Stromling Mechs, 5 Dark Spiderlings and 10 Monument lasers in Avant Gardens.",
+    "ready_to_complete": "I've never made it to the top of the Monument! I'm afraid of heights."
+  },
+  "1434": {
+    "accept_chat_bubble": "Find the Cannon Cove Shooting Gallery on the Pirates' Beach in Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Score an overall total of 1,000,000 points in the Cannon Cove Shooting Gallery.",
+    "offer": "Maelstrom ships ahoy! Keep playing Cannon Cove until you rack up an overall total of 1,000,000!",
+    "offer_repeatable": "Score an overall total of 1,000,000 points in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "That Maelstrom fleet won't be back anytime soon!"
+  },
+  "1435": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Stromling Pirates, cannonballs and bananas.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromling Pirates and collect 5 bananas and 5 cannonballs in Gnarled Forest.",
+    "offer": "Bungle in the jungle! Smash 10 Stromling Pirates in Gnarled Forest, then collect 5 bananas and 5 cannonballs!",
+    "offer_repeatable": "Smash 10 Stromling Pirates and collect 5 bananas and 5 cannonballs in Gnarled Forest.",
+    "ready_to_complete": "What do you get when you cross a banana, a cannonball and a Pirate? I don't know, you tell me."
+  },
+  "1436": {
+    "accept_chat_bubble": "Find the Cannon Cove Shooting Gallery on the Pirates' Beach in Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Score 150,000 in the Cannon Cove Shooting Gallery.",
+    "offer": "How's your aim? Can you score 150,000 in one game of the Cannon Cove Shooting Gallery?",
+    "offer_repeatable": "Score 150,000 in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "Maelstrom overboard! Good work out there."
+  },
+  "1437": {
+    "accept_chat_bubble": "Go see Wenn Wuzzit at the top of the hill to join the Battle of Nimbus Station.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Xeno Blueblade in Nimbus Plaza.",
+    "in_progress": "Smash 10 Hammer Stromlings and 5 Dark Spiderlings in the Battle of Nimbus Station.",
+    "offer": "The Battle of Nimbus Station is still raging! Need you to go back and smash 10 Hammer Stromlings and 5 Dark Spiderlings!",
+    "offer_repeatable": "Smash 10 Hammer Stromlings and 5 Dark Spiderlings in the Battle of Nimbus Station.",
+    "ready_to_complete": "Amazing to think that you were once smashing those Spiderlings and Stromlings in this very spot!"
+  },
+  "1441": {
+    "completion_succeed_tip": "Nexus Tower Builder 1!",
+    "description": "Donate 50 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1442": {
+    "completion_succeed_tip": "Nexus Tower Builder 2!",
+    "description": "Donate 250 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1443": {
+    "completion_succeed_tip": "Nexus Tower Builder 3!",
+    "description": "Donate 500 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1445": {
+    "completion_succeed_tip": "Nexus Tower Builder 4!",
+    "description": "Donate 1000 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1446": {
+    "completion_succeed_tip": "Nexus Tower Builder 5!",
+    "description": "Donate 2500 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1447": {
+    "completion_succeed_tip": "Nexus Tower Master Builder!",
+    "description": "Donate 10,000 bricks to the Nexus Jawbox in Nimbus Station."
+  },
+  "1448": {
+    "accept_chat_bubble": "Blast those Maelstrom invaders back into bricks!",
+    "chat_state_1": "The Maelstrom caught our Missiles in the air like fly balls!",
+    "chat_state_2": "Just hold up my sword on a blue X-mark and then we'll fire the Imagination Blast from here.",
+    "chat_state_3": "Amazing! That worked brilliantly!",
+    "completion_succeed_tip": "Return to Duke Exeter in Nexus Tower.",
+    "in_progress": "Find 5 blue X-marks on Crux Prime and then use Duke's sword to call down Imagination Blasts.",
+    "offer": "The Maelstrom Missiles have failed. Take my sword down to Crux Prime. You can use it to call down Imagination Blasts from the Tower.",
+    "ready_to_complete": "That'll show 'em! They keep coming and we'll keep smashing them."
+  },
+  "1449": {
+    "accept_chat_bubble": "Olivia smells like the most delicious toadstools. Like an angel cried into a swamp.",
+    "chat_state_1": "I can't leave my post, but I need someone to run an errand for me.",
+    "chat_state_2": "Olivia is in the vendor's stall through the teleporter. She's a total witch.",
+    "chat_state_3_turnin": "Did Meyer send you? Drats and cats, now where is that Hat?",
+    "completion_succeed_tip": "Talk to Olivia Nightshade in the Paradox vendor area of Nexus Tower.",
+    "in_progress": "Talk to Olivia Nightshade in the Paradox vendor area of Nexus Tower.",
+    "offer": "Olivia Nightshade was trying to brainstorm some new spells, so I loaned her my Thinking Hat. Can you get it back for me?",
+    "ready_to_complete": "Yes, I came up with loads of ideas! But sorry, I don't have Meyer's Thinking Hat anymore."
+  },
+  "1450": {
+    "accept_chat_bubble": "Be careful taking the shield back to Achilles. It's heavier than it looks.",
+    "chat_state_1": "Achilles needs his shield back. It made a lovely punchbowl.",
+    "chat_state_2": "Achilles' shield was the perfect punch bowl for my costume party, but it's still a bit sticky.",
+    "chat_state_3_turnin": "Do you have my shield? I've felt so vulnerable without it!",
+    "completion_succeed_tip": "Return the shield to Achilles Plutarch in the Sentinel vendor area of Nexus Tower.",
+    "in_progress": "Return the shield to Achilles Plutarch in the Sentinel vendor area of Nexus Tower.",
+    "offer": "Achilles Plutarch has the Thinking Hat now. I borrowed his shield to use as a punch bowl.  Take it back to him to get Meyer's Hat.",
+    "ready_to_complete": "Huzzah! My shield! Thanks for returning it."
+  },
+  "1455": {
+    "accept_chat_bubble": "Burky Urchin is across the Ravine, just before you get to Tortoise Terrace.",
+    "chat_state_1": "All this standing around is making me hungry!",
+    "chat_state_2": "Did you get those biscuits from Burky yet?",
+    "chat_state_3": "That should be plenty for both of us!",
+    "completion_succeed_tip": "Return to Hugo First in Gnarled Forest.",
+    "in_progress": "Buy 3 Hardtack Biscuits from Burky Urchin and take them to Hugo First in Gnarled Forest.",
+    "offer": "I'm so hungry I could eat 3 entire Hardtack Biscuits! Can you get me some from Burky Urchin? He sells them at his shop across the Ravine.",
+    "ready_to_complete": "Thanks! These aren't just tasty, they also increase your maximum Life for a while too. Perfect while fighting off Stromling Pirates!"
+  },
+  "1457": {
+    "accept_chat_bubble": "Tell Ace I'm sorry. The jetpack is out of fuel.",
+    "chat_state_1": "Ace's jetpack helped me get a high score in the Sentinel Combat Challenge!",
+    "chat_state_2": "I bet Ace was feeling pretty grounded without his jetpack.",
+    "chat_state_3_turnin": "Did Achilles send you with my jetpack? I gotta fly, man!",
+    "completion_succeed_tip": "Return the jetpack to Ace Warprider in the Venture League vendor area of Nexus Tower.",
+    "in_progress": "Return the jetpack to Ace Warprider in the Venture League vendor area of Nexus Tower.",
+    "offer": "I don't have Meyer's Thinking Hat anymore. I loaned it to Ace Warprider in exchange for his jetpack. Can you return it for me?",
+    "ready_to_complete": "Hey, my jetpack! Stellar! Hael's telescope lens needs a good cleaning, and there's no other way to get out there."
+  },
+  "1458": {
+    "accept_chat_bubble": "Someone told me Rutger was a vampire! Do you think he likes baseball?",
+    "chat_state_1": "My curls are so bouncy! I'm ready to shine!",
+    "chat_state_2": "Rutger is so pale. Maybe I'll sing a goth-emo ballad for him one day.",
+    "chat_state_3_turnin": "Look at zis! My hair is ruined!",
+    "completion_succeed_tip": "Return the hair gel to Rutger Hemoglobin in the Paradox vendor area of Nexus Tower.",
+    "in_progress": "Return the hair gel to Rutger Hemoglobin in the Paradox vendor area of Nexus Tower.",
+    "offer": "Oops, I did it again. I traded the Thinking Hat to Rutger for some hair gel. His hair is never out of place! Can you return the gel to him?",
+    "ready_to_complete": "Ah! My hair gel. I have not seen a mirror, how does my hair look now?"
+  },
+  "1459": {
+    "accept_chat_bubble": "I had an idea while wearing the Hat. Capes! I vill make millions!",
+    "chat_state_1": "Not bad looking for 300 years old!",
+    "chat_state_2": "Take ze Thinking Hat back to Meyer Muckrake. I am sure he misses it.",
+    "chat_state_3_turnin": "Did you get lost?",
+    "completion_succeed_tip": "Return the Thinking Hat to Meyer Muckrake in the Paradox Laboratory.",
+    "in_progress": "Return the Thinking Hat to Meyer Muckrake in the Paradox Laboratory in Nexus Tower.",
+    "offer": "I vas using Meyer's Thinking Hat to hide my awful hairdo, but now I am back to my normal handsome self again. You can take it back.",
+    "ready_to_complete": "Finally! What took you so long? Did Olivia have it hidden in some dusty attic?"
+  },
+  "1465": {
+    "accept_chat_bubble": "Tell Gwen the light show was amazing! I wish she'd seen it.",
+    "chat_state_1": "Gwen's smoke machine looked awesome with that Crux hologram!",
+    "chat_state_2": "Tell Gwen I'll steal more stars from the sky if she wants them for her eyes.",
+    "chat_state_3_turnin": "That silly astronaut and his light shows. He can just go outside and look at the sky!",
+    "completion_succeed_tip": "Return the smoke machine to Gwen Tweenbangle in the Assembly vendor area of Nexus Tower.",
+    "in_progress": "Return the smoke machine to Gwen Tweenbangle in the Assembly vendor area of Nexus Tower.",
+    "offer": "I lent the Thinking Hat to Gwen Tweenbangle so I could borrow her smoke machine to use with that hologram projector. Can you return it for me?",
+    "ready_to_complete": "My smoke machine! I need it for my stage show. The crowd loves it!"
+  },
+  "1466": {
+    "completion_succeed_tip": "The Samurai's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Samurai gear."
+  },
+  "1467": {
+    "completion_succeed_tip": "The Samurai's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Samurai gear."
+  },
+  "1468": {
+    "completion_succeed_tip": "The Samurai's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Samurai gear."
+  },
+  "1469": {
+    "completion_succeed_tip": "The Space Ranger's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Space Ranger gear."
+  },
+  "1470": {
+    "completion_succeed_tip": "The Space Ranger's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Space Ranger gear."
+  },
+  "1471": {
+    "completion_succeed_tip": "The Space Ranger's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Space Ranger gear."
+  },
+  "1472": {
+    "completion_succeed_tip": "The Engineer's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Engineer gear."
+  },
+  "1473": {
+    "completion_succeed_tip": "The Engineer's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Engineer gear."
+  },
+  "1474": {
+    "completion_succeed_tip": "The Engineer's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Engineer gear."
+  },
+  "1475": {
+    "completion_succeed_tip": "The Summoner's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Summoner gear."
+  },
+  "1476": {
+    "completion_succeed_tip": "The Summoner's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Summoner gear."
+  },
+  "1477": {
+    "completion_succeed_tip": "The Summoner's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Summoner gear."
+  },
+  "1478": {
+    "completion_succeed_tip": "The Inventor's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Inventor gear."
+  },
+  "1479": {
+    "completion_succeed_tip": "The Inventor's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Inventor gear."
+  },
+  "1480": {
+    "completion_succeed_tip": "The Inventor's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Inventor gear."
+  },
+  "1481": {
+    "completion_succeed_tip": "The Sorcerer's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Sorcerer gear."
+  },
+  "1482": {
+    "completion_succeed_tip": "The Sorcerer's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Sorcerer gear."
+  },
+  "1483": {
+    "completion_succeed_tip": "The Sorcerer's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Sorcerer gear."
+  },
+  "1484": {
+    "completion_succeed_tip": "The Space Marauder's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Space Marauder gear."
+  },
+  "1485": {
+    "completion_succeed_tip": "The Space Marauder's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Space Marauder gear."
+  },
+  "1486": {
+    "completion_succeed_tip": "The Space Marauder's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Space Marauder gear."
+  },
+  "1487": {
+    "completion_succeed_tip": "The Shinobi's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Shinobi gear."
+  },
+  "1488": {
+    "completion_succeed_tip": "The Shinobi's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Shinobi gear."
+  },
+  "1489": {
+    "completion_succeed_tip": "The Shinobi's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Shinobi gear."
+  },
+  "1490": {
+    "completion_succeed_tip": "The Buccaneer's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Buccaneer gear."
+  },
+  "1491": {
+    "completion_succeed_tip": "The Buccaneer's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Buccaneer gear."
+  },
+  "1492": {
+    "completion_succeed_tip": "The Buccaneer's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Buccaneer gear."
+  },
+  "1493": {
+    "completion_succeed_tip": "The Daredevil's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Daredevil gear."
+  },
+  "1494": {
+    "completion_succeed_tip": "The Daredevil's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Daredevil gear."
+  },
+  "1495": {
+    "completion_succeed_tip": "The Daredevil's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Daredevil gear."
+  },
+  "1496": {
+    "completion_succeed_tip": "The Adventurer's Gear 1!",
+    "description": "Equip all 4 pieces of the Rank 1 Adventurer gear."
+  },
+  "1497": {
+    "completion_succeed_tip": "The Adventurer's Gear 2!",
+    "description": "Equip all 6 pieces of the Rank 2 Adventurer gear."
+  },
+  "1498": {
+    "completion_succeed_tip": "The Adventurer's Gear 3!",
+    "description": "Equip all 6 pieces of the Rank 3 Adventurer gear."
+  },
+  "1502": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find Cannon Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Score 75,000 points in the Cannon Cove Shooting Gallery in Gnarled Forest.",
+    "offer": "How's your aim? Can you score 75,000 in the Cannon Cove Shooting Gallery?",
+    "offer_repeatable": "Score 75,000 points in the Cannon Cove Shooting Gallery in Gnarled Forest.",
+    "ready_to_complete": "Bet you sunk a whole Maelstrom fleet today!"
+  },
+  "1504": {
+    "accept_chat_bubble": "Head to Race Place to find the Vertigo Loop Racetrack.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 smashables on the Vertigo Loop Racetrack.",
+    "offer": "Ready for some high-speed smashing? Smash 10 smashables on the Vertigo Loop Racetrack!",
+    "offer_repeatable": "Smash 10 smashables on the Vertigo Loop Racetrack.",
+    "ready_to_complete": "Good smashing! How's your bumper?"
+  },
+  "1505": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find the Dragonmaw Chasm Racetrack.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 Smashables on the Dragonmaw Chasm Racetrack.",
+    "offer": "How about some high-speed mayhem? Smash 10 Smashables on the Dragonmaw Chasm Racetrack!",
+    "offer_repeatable": "Smash 10 Smashables on the Dragonmaw Chasm Racetrack.",
+    "ready_to_complete": "You didn't see any Dragons out there, did you?"
+  },
+  "1506": {
+    "accept_chat_bubble": "Try the tracks Vertigo Loop, Keelhaul Canyon or Dragonmaw Chasm.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Compete in 5 races on any racetrack.",
+    "offer": "Ready for some white-knuckle fun? Get out there and compete in 5 races on any track!",
+    "offer_repeatable": "Compete in 5 races on any racetrack.",
+    "ready_to_complete": "That's the kind of drive we need in the Nexus Force!"
+  },
+  "1507": {
+    "accept_chat_bubble": "There are flowers all over LEGO Universe! Look for the little green buds.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Use your Water Sprayer to grow 15 flowers.",
+    "offer": "Got a green thumb? Use your Water Sprayer to grow 15 flowers today!",
+    "offer_repeatable": "Use your Water Sprayer to grow 15 flowers.",
+    "ready_to_complete": "The Universe is a prettier place today, thanks to you!"
+  },
+  "1508": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find Cannon Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Score an overall total of 500,000 points in the Cannon Cove Shooting Gallery.",
+    "offer": "Maelstrom ships ahoy! Keep playing Cannon Cove until you rack up an overall total of 500,000!",
+    "offer_repeatable": "Score an overall total of 500,000 points in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "That sea is a safer place today thanks to you and all those cannonballs!"
+  },
+  "1509": {
+    "accept_chat_bubble": "Find Wenn Wuzzit to go back in time.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station.",
+    "offer": "Maelstrom alert! We need you to smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station!",
+    "offer_repeatable": "Smash 10 Stromlings and 5 Mechs during the Battle of Nimbus Station.",
+    "ready_to_complete": "I feel safer already! Thanks!"
+  },
+  "1510": {
+    "accept_chat_bubble": "Head to the Sentinel Base Camp in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Survive for 2 minutes in Avant Gardens Survival in 3 different games.",
+    "offer": "Are you a survivor? Enter Avant Gardens Survival 3 times, and survive for 2 minutes each time!",
+    "offer_repeatable": "Survive for 2 minutes in Avant Gardens Survival in 3 different games.",
+    "ready_to_complete": "You made it back!"
+  },
+  "1511": {
+    "accept_chat_bubble": "Head to Brick Annex to find the rocket launcher to Pet Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 fences and 5 doghouses and Quick Build 3 birdhouses in Pet Cove.",
+    "offer": "Pet Cove needs some yard work! Smash 5 fences and 5 doghouses, then Quick Build 3 birdhouses!",
+    "offer_repeatable": "Smash 5 fences and 5 doghouses and Quick Build 3 birdhouses in Pet Cove.",
+    "ready_to_complete": "The birds and cats say thank you! The dogs, not so much."
+  },
+  "1512": {
+    "accept_chat_bubble": "Head to Brick Annex to find the rocket launcher to Pet Cove.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 hydrants and 10 flowers and Quick Build the bridge in Pet Cove.",
+    "offer": "Pet Cove needs a handyman! Smash 5 hydrants and 10 flowers, then Quick Build the bridge!",
+    "offer_repeatable": "Smash 5 hydrants and 10 flowers and Quick Build the bridge in Pet Cove.",
+    "ready_to_complete": "Did you know Pet Cove used to be a horrible Maelstrom wasteland?"
+  },
+  "1513": {
+    "accept_chat_bubble": "Head to Avant Gardens and smash those Stromlings!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromlings and 5 Mechs and Quick Build 5 turrets in Avant Gardens.",
+    "offer": "The Sentinels need help in Avant Gardens! Go there and smash 10 Stromlings, 5 Mechs and Quick Build 5 turrets!",
+    "offer_repeatable": "Smash 10 Stromlings and 5 Mechs and Quick Build 5 turrets in Avant Gardens.",
+    "ready_to_complete": "Stromlings? Mechs? No problem for you, right?"
+  },
+  "1514": {
+    "accept_chat_bubble": "The Monument is in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens.",
+    "offer": "Not afraid of heights, are you? Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens!",
+    "offer_repeatable": "Smash 5 lasers, 5 guard rails and 5 fans on the Monument in Avant Gardens.",
+    "ready_to_complete": "Have you found all of the Flags on the Monument yet?"
+  },
+  "1515": {
+    "accept_chat_bubble": "Head to Avant Gardens and smash those Mechs!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 Mechs, then Quick Build 5 turrets and 3 Satellite Beacons in Avant Gardens.",
+    "offer": "Support needed in Avant Gardens! Smash 5 Mechs, then Quick Build 5 turrets and 3 radar dishes!",
+    "offer_repeatable": "Smash 5 Stromling Mechs, then Quick Build 5 turrets and 3 radar dishes in Avant Gardens.",
+    "ready_to_complete": "Your efforts help keep the Maelstrom at bay!"
+  },
+  "1523": {
+    "accept_chat_bubble": "Head to Avant Gardens, Gnarled Forest and Forbidden Valley to complete this Mission.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 Mechs in Avant Gardens, 5 Stromling Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley.",
+    "offer": "Got your rocket? Smash 5 Mechs in Avant Gardens, 5 Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley!",
+    "offer_repeatable": "Smash 5 Mechs in Avant Gardens, 5 Stromling Pirates in Gnarled Forest and 5 rock piles in Forbidden Valley.",
+    "ready_to_complete": "How was your whirlwind smashing tour?"
+  },
+  "1524": {
+    "accept_chat_bubble": "Head to the Sentinel Base Camp in Avant Gardens.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Survive for 5 minutes in Avant Gardens Survival.",
+    "offer": "How are your survival instincts? Can you survive for 5 minutes in Avant Gardens Survival?",
+    "offer_repeatable": "Survive for 5 minutes in Avant Gardens Survival.",
+    "ready_to_complete": "Ahh, Survival. The unhappiness of pursuit."
+  },
+  "1525": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs in Gnarled Forest.",
+    "offer": "Arrr you ready for Gnarled Forest? Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs!",
+    "offer_repeatable": "Smash 5 Stromling Pirates, destroy 5 explosive crates and collect 5 cannonballs in Gnarled Forest.",
+    "ready_to_complete": "How much does pirate corn cost? Only a buccaneer!"
+  },
+  "1526": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Mermaid Sirens and Stromling Pirates.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates in Gnarled Forest.",
+    "offer": "Pirates love Mermaids! Go to Gnarled Forest, Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates!",
+    "offer_repeatable": "Quick Build 5 Mermaid Sirens and smash 15 Stromling Pirates.",
+    "ready_to_complete": "I'd love to see a real mermaid one day. They don't hang out in Nimbus Plaza."
+  },
+  "1527": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Tiki Torches. You'll need a Water Sprayer first!",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Spin and then extinguish 10 Tiki Torches in Gnarled Forest.",
+    "offer": "Tiki Party! Head to Gnarled Forest and spin 10 skull-topped Tiki Torches. Then put them out with your Water Sprayer!",
+    "offer_repeatable": "Spin and then extinguish 10 Tiki Torches in Gnarled Forest.",
+    "ready_to_complete": "Those things crack me up. Woo-woo-woo, I'm a spinning skull! Crazy."
+  },
+  "1528": {
+    "accept_chat_bubble": "Look for mushrooms throughout Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash any 15 mushrooms in Gnarled Forest.",
+    "offer": "There's fungus among us! Go to Gnarled Forest and smash any 5 mushrooms.",
+    "offer_repeatable": "Smash 15 mushrooms in Gnarled Forest.",
+    "ready_to_complete": "I like my mushrooms stuffed with crabmeat, how about you?"
+  },
+  "1529": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Come back tomorrow for more!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 Dark Ronin, 5 Maelstrom Horsemen and extinguish 50 candles in Forbidden Valley.",
+    "offer": "How's your inner Ninja? Go to Forbidden Valley and smash 5 Dark Ronin and 5 Maelstrom Horsemen. Then put out 50 candles!",
+    "offer_repeatable": "Smash 5 Dark Ronin, 5 Maelstrom Horsemen and extinguish 50 candles in Forbidden Valley.",
+    "ready_to_complete": "The Ronin and Horsemen needed to be smashed. I don't know why I asked you to put out the candles."
+  },
+  "1530": {
+    "accept_chat_bubble": "Head to Forbidden Valley to find Brick Fury.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 rock piles in Forbidden Valley, then find Brick Fury and lure 5 Maelstrom Horsemen into his firing range.",
+    "offer": "Lead 5 Maelstrom Horsemen towards Brick Fury! Then find 10 rock piles and unleash your Rock Fury!",
+    "offer_repeatable": "Smash 10 rock piles in Forbidden Valley, then find Brick Fury and lure 5 Maelstrom Horsemen into his firing range.",
+    "ready_to_complete": "Those rocks didn't stand a chance! Oh, and those Horsemen probably got it bad too."
+  },
+  "1531": {
+    "accept_chat_bubble": "Head to Avant Gardens to find your targets.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 5 Stromling Mechs, 5 Dark Spiderlings and 10 Monument lasers in Avant Gardens.",
+    "offer": "Clean up in Avant Gardens! Go there and smash 5 Stromling Mechs and 5 Dark Spiderlings, then smash 10 lasers on the Monument!",
+    "offer_repeatable": "Smash 5 Stromling Mechs, 5 Dark Spiderlings and 10 Monument lasers in Avant Gardens.",
+    "ready_to_complete": "I've never made it to the top of the Monument! I'm afraid of heights."
+  },
+  "1532": {
+    "accept_chat_bubble": "Find the Cannon Cove Shooting Gallery on the Pirates' Beach in Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Score an overall total of 1,000,000 points in the Cannon Cove Shooting Gallery.",
+    "offer": "Maelstrom ships ahoy! Keep playing Cannon Cove until you rack up an overall total of 1,000,000!",
+    "offer_repeatable": "Score an overall total of 1,000,000 points in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "That Maelstrom fleet won't be back anytime soon!"
+  },
+  "1533": {
+    "accept_chat_bubble": "Head to Gnarled Forest to find the Stromling Pirates, cannonballs and bananas.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "I'll have another Mission for you tomorrow!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 Stromling Pirates and collect 5 bananas and 5 cannonballs in Gnarled Forest.",
+    "offer": "Bungle in the jungle! Smash 10 Stromling Pirates in Gnarled Forest, then collect 5 bananas and 5 cannonballs!",
+    "offer_repeatable": "Smash 10 Stromling Pirates and collect 5 bananas and 5 cannonballs in Gnarled Forest.",
+    "ready_to_complete": "What do you get when you cross a banana, a cannonball and a Pirate? I don't know, you tell me."
+  },
+  "1534": {
+    "accept_chat_bubble": "Find the Cannon Cove Shooting Gallery on the Pirates' Beach in Gnarled Forest.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Check back tomorrow for another Mission!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Score 150,000 in the Cannon Cove Shooting Gallery.",
+    "offer": "How's your aim? Can you score 150,000 in one game of the Cannon Cove Shooting Gallery?",
+    "offer_repeatable": "Score 150,000 in the Cannon Cove Shooting Gallery.",
+    "ready_to_complete": "Maelstrom overboard! Good work out there."
+  },
+  "1535": {
+    "accept_chat_bubble": "Go see Wenn Wuzzit at the top of the hill to join the Battle of Nimbus Station.",
+    "chat_state_1": "Show your Faction pride by completing Daily Missions!",
+    "chat_state_3": "Ready to choose your loot?",
+    "chat_state_4": "Every day I'll have a new Daily Mission - and more loot!",
+    "completion_succeed_tip": "Return to Cog Blammo in Nimbus Plaza.",
+    "in_progress": "Smash 10 Hammer Stromlings and 5 Dark Spiderlings in the Battle of Nimbus Station.",
+    "offer": "The Battle of Nimbus Station is still raging! Need you to go back and smash 10 Hammer Stromlings and 5 Dark Spiderlings!",
+    "offer_repeatable": "Smash 10 Hammer Stromlings and 5 Dark Spiderlings in the Battle of Nimbus Station.",
+    "ready_to_complete": "Amazing to think that you were once smashing those Spiderlings and Stromlings in this very spot!"
+  }
+}

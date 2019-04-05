@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4361,
+    "25": 0,
+    "27": 0,
+    "3": 2242,
+    "48": 54
+  },
+  "description": "Moving Platform QuickBuild for Monument in Scene 2 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4931,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Platform QuickBuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

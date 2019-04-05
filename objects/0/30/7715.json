@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7271,
+    "3": 3417,
+    "5": 950
+  },
+  "description": "car modular build bumper volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7715,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

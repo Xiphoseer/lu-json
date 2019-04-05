@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 85,
+    "17": 351,
+    "2": 9861,
+    "3": 1777,
+    "35": 444,
+    "7": 306,
+    "73": 176
+  },
+  "description": "NS Paradox Faction Vendor - Plaza",
+  "displayName": "Cog Blammo - Paradox Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 129,
+      "iconState": 9
+    },
+    {
+      "iconID": 130,
+      "iconState": 10
+    },
+    {
+      "iconID": 72,
+      "iconState": 69
+    },
+    {
+      "iconID": 178,
+      "iconState": 70
+    }
+  ],
+  "id": 6632,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Paradox Faction Vendor - Plaza",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

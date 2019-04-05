@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6482,
+    "25": 0,
+    "3": 3048,
+    "5": 1034,
+    "7": 652
+  },
+  "description": "Shooting Gallery Target - Duck 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6920,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Duck 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

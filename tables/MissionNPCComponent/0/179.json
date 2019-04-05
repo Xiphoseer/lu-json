@@ -1,0 +1,23 @@
+{
+  "id": 179,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1824,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1825,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1826,
+      "offersMission": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12138,
+    "3": 6070
+  },
+  "description": "Test NPC DroolingRockTroll",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12386,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test NPC DroolingRockTroll",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

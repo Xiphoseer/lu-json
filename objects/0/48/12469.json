@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6124,
+    "2": 10989,
+    "31": 55,
+    "5": 1361,
+    "60": 87,
+    "7": 1731,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Oni Rider Shi - Maelstrom Horseman",
+  "gate_version": "nimbusinstance",
+  "id": 12469,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Maelstrom Horseman NAMED Boss",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 935
+    }
+  ],
+  "type": "Enemies"
+}

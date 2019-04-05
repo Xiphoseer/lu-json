@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5260,
+    "2": 10651,
+    "3": 4925,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Playground Ride Model",
+  "gate_version": null,
+  "id": 10804,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward PlaygroundRide",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

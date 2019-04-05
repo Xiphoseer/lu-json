@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5077,
+    "3": 2353
+  },
+  "description": "Base left behind of port-o-potty",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5655,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Outhouse base",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

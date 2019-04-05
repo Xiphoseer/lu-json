@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6139,
+    "2": 12277,
+    "3": 6144,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Hover Drone Model",
+  "gate_version": "auramar",
+  "id": 12506,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Hover Drone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

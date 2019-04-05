@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 3607,
+    "2": 7611,
+    "3": 3700,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Café Table Model",
+  "gate_version": null,
+  "id": 8066,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Café Table",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Smashing",
+  "components": {
+    "11": 2903,
+    "2": 6444,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Tiki Staff",
+  "gate_version": null,
+  "id": 6887,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Tiki Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 549
+    }
+  ],
+  "type": "Loot"
+}

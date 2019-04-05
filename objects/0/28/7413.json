@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 260,
+    "2": 6977,
+    "3": 1777,
+    "35": 331,
+    "5": 863,
+    "7": 305,
+    "73": 52
+  },
+  "description": "__MG__FV Old Traveler Mission Giver",
+  "displayName": "Kenjin the Wise - Ninja Sage",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 143,
+      "iconState": 1
+    },
+    {
+      "iconID": 144,
+      "iconState": 2
+    },
+    {
+      "iconID": 145,
+      "iconState": 4
+    },
+    {
+      "iconID": 146,
+      "iconState": 9
+    },
+    {
+      "iconID": 147,
+      "iconState": 10
+    },
+    {
+      "iconID": 166,
+      "iconState": 12
+    },
+    {
+      "iconID": 148,
+      "iconState": 69
+    }
+  ],
+  "id": 7413,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Old Traveler",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

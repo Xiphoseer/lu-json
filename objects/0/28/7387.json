@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3064,
+    "2": 6951,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Sorcerer Pants 3",
+  "gate_version": null,
+  "id": 7387,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sorcerer Legs 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

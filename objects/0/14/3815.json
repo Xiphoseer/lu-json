@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "3": 1034
+  },
+  "description": "basic volume for phantom work",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3815,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GEN - Rectangle Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

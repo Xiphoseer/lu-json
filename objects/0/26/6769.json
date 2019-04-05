@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2810,
+    "2": 6309,
+    "28": 46,
+    "3": 2973,
+    "42": 0,
+    "63": 36
+  },
+  "description": "Modular Car Spoiler",
+  "displayName": "Modular Car Spoiler #2",
+  "gate_version": null,
+  "id": 6769,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Spoiler 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 316,
+  "tasks": [
+    {
+      "IconID": 2881,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Turret_Task.dds",
+      "largeTaskIconID": 2962,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6254,
+      "targetGroup": "",
+      "targetValue": 6,
+      "taskParam1": "",
+      "taskType": 2,
+      "uid": 477
+    }
+  ]
+}

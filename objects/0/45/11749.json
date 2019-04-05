@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5800,
+    "2": 11501,
+    "3": 5593,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Fountain Model",
+  "gate_version": "nexustower",
+  "id": 11749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Fountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

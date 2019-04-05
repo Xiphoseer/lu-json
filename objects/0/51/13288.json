@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Shinobi Valiant Weapon Proxy",
+  "components": {
+    "11": 6579,
+    "2": 13018
+  },
+  "description": "",
+  "displayName": "Shinobi Valiant Weapon Proxy",
+  "gate_version": "factionkit2",
+  "id": 13288,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Shinobi Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

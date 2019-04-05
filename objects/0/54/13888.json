@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For CS Team",
+  "components": {
+    "11": 6912,
+    "2": 13611
+  },
+  "description": null,
+  "displayName": "NPC Cap",
+  "gate_version": null,
+  "id": 13888,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Orange Winter Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

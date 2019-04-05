@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit 2",
+  "components": {
+    "11": 7808,
+    "2": 15395,
+    "9": 0
+  },
+  "description": "Wear this to look like Kai!",
+  "displayName": "Kai's Gi of Flames",
+  "gate_version": "njhub",
+  "id": 16615,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Gi Kai's Gi of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

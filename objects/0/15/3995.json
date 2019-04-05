@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7228,
+    "26": 28,
+    "3": 3398
+  },
+  "description": "Coalessa's Pet Lion",
+  "displayName": "Nancy the Lion - Coalessa's Pet",
+  "gate_version": null,
+  "id": 3995,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lion Nancy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

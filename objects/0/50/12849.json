@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6394,
+    "2": 12670,
+    "28": 270,
+    "3": 6267,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Starskull Rocket Cockpit",
+  "gate_version": "auramar",
+  "id": 12849,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Skeleton Cockpit 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

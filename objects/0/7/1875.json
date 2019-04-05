@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 850,
+    "2": 1739,
+    "48": 6,
+    "5": 154
+  },
+  "description": "Do not place - Static asset for the outhouse vignette script",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1875,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Gnarled Forest Outhouse Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

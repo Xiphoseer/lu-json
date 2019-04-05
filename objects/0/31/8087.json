@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 3533,
+    "2": 7633,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Blue Imperial Shirt",
+  "gate_version": null,
+  "id": 8087,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Imperial Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

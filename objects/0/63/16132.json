@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7589,
+    "2": 14850,
+    "7": 2113,
+    "9": 0
+  },
+  "description": "Object spawned by think bomb skill",
+  "displayName": null,
+  "gate_version": "freetrial",
+  "id": 16132,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawned Stinky Fish",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Smashables"
+}

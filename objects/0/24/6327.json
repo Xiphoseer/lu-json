@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2611,
+    "2": 5670,
+    "48": 66,
+    "5": 840,
+    "7": 620,
+    "9": 0
+  },
+  "description": "Spider Cave quick build",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6327,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Auto Turret QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 202
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6134,
+    "2": 12272,
+    "3": 6139,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Short Wall Model",
+  "gate_version": "auramar",
+  "id": 12501,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Short Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

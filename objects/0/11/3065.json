@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Slashing + Shielding chargeup",
+  "components": {
+    "11": 1023,
+    "2": 2534,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Katana of Shielding",
+  "gate_version": null,
+  "id": 3065,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Katana of Shielding",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 809
+    }
+  ],
+  "type": "Loot"
+}

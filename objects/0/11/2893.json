@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2417,
+    "3": 2085,
+    "5": 299
+  },
+  "description": "Team 1",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2893,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Door activator 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

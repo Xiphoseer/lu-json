@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1891,
+    "3": 1005,
+    "7": 134
+  },
+  "description": "Used for the ninja siege missions - not smashable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2174,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Siege Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

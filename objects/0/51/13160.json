@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6530,
+    "2": 12941,
+    "3": 6407,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Weapon Rack Model 1",
+  "gate_version": "march2011content",
+  "id": 13160,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton WeaponRack 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

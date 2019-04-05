@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 3 Reward Behavior for Achievement 882",
+  "components": {
+    "11": 5182,
+    "2": 10332
+  },
+  "description": "Dispenses imagination when interacted with.  Recharges every 10 seconds.",
+  "displayName": "Imagination Dispenser Behavior",
+  "gate_version": null,
+  "id": 10489,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imagination Dispenser Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

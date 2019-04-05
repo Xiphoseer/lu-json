@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6655,
+    "2": 13235,
+    "28": 322,
+    "3": 6608,
+    "42": 0,
+    "63": 19
+  },
+  "description": null,
+  "displayName": "Paradox Blindsider Engine Panel",
+  "gate_version": "factionvehicles",
+  "id": 13501,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarCarPA_EnginePanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

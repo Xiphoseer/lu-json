@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3999,
+    "2": 8726,
+    "5": 1114,
+    "60": 43,
+    "7": 908,
+    "9": 0
+  },
+  "description": "Object the Space Marauder spawns to seek and detonate",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9272,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Marader Seeker 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 611
+    }
+  ],
+  "type": "NPC"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6536,
+    "3": 3071,
+    "5": 987
+  },
+  "description": "GF pirate organ",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 6960,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate organ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 104,
+    "2": 5082,
+    "35": 136,
+    "7": 305,
+    "9": 0
+  },
+  "description": "__MG__this is my test mission giver - all red - monkey icon - impatient mg 1 animation set - bannana and sword - firefly flower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5660,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "raf_mg_accessories_edittest",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 33
+    }
+  ],
+  "type": "NPC"
+}

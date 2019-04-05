@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12137,
+    "3": 6069
+  },
+  "description": "Test NPC RockGoblin",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12385,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test NPC RockGoblin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

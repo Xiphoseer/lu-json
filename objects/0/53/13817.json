@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13556,
+    "3": 6825
+  },
+  "description": "Lightning - Speed dungeon Room 1",
+  "displayName": "NJ - Lightning - Speed - Room1",
+  "gate_version": "njhub",
+  "id": 13817,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Speed - Room1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

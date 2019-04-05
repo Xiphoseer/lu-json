@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 12,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 6065,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 2,
+  "physics_asset": "auramar\\env_am_global_turretgun.HKX",
+  "playerHeight": 4.300000190734863,
+  "playerRadius": 1.7000000476837158,
+  "rotSpeed": 1000.0,
+  "speed": 5.0,
+  "static": 1.0
+}

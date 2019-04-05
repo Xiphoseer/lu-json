@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6565,
+    "2": 13004,
+    "28": 320,
+    "3": 6466,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "TEST   Engine",
+  "gate_version": null,
+  "id": 13274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST MOD bkjjb  Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

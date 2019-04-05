@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5254,
+    "2": 10645,
+    "3": 4919,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Deer Head Model",
+  "gate_version": null,
+  "id": 10798,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward DeerHead",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

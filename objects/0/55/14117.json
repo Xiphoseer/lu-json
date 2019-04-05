@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3 IP",
+  "components": {
+    "11": 6994,
+    "2": 13828,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Kinga Hurl Shirt",
+  "gate_version": "nexustower",
+  "id": 14117,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kinga Hurl Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

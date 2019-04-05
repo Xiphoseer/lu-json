@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6098,
+    "3": 2809,
+    "5": 876,
+    "7": 580
+  },
+  "description": "Awesome new spider egg",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6530,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

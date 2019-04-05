@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3945,
+    "2": 8109,
+    "9": 0
+  },
+  "description": "Laser that enemies fire",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8555,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ship Stromling Hammerling Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1012
+    }
+  ],
+  "type": "Shooting Gallery"
+}

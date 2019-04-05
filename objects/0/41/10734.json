@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10583,
+    "25": 0,
+    "27": 0,
+    "3": 4855
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10734,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Frog Tongue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

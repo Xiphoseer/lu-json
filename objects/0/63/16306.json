@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15052,
+    "3": 7712
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - Battle for Nimbus",
+  "gate_version": "freetrial",
+  "id": 16306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - Battle for Nimbus",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7393,
+    "2": 14350,
+    "48": 225,
+    "5": 1585,
+    "7": 2045,
+    "9": 0
+  },
+  "description": "AG refactor - casts a skill that stuns spiderlings upon completion",
+  "displayName": "AG Bug Spray Rebuild",
+  "gate_version": "freetrial",
+  "id": 14671,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Bug Spray Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

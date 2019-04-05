@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "10 Dmg Charge 4 IP 4 AP",
+  "components": {
+    "11": 6157,
+    "2": 12302,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Headbash Helmet",
+  "gate_version": "nimbusinstance",
+  "id": 12530,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Headbash Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 987
+    }
+  ],
+  "type": "Loot"
+}

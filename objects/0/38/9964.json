@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 2 Sorcerer!",
+  "components": {
+    "11": 4825,
+    "2": 9792,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9964,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 2 Sorcerer Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 735
+    }
+  ],
+  "type": "Loot"
+}

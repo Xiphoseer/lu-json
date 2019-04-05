@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Avant Gardens Mission Item",
+  "components": {
+    "11": 7150,
+    "2": 14241
+  },
+  "description": "Return this package to Rocco Sirocco at the Sentinel Base Camp in Avant Gardens.",
+  "displayName": "Rocco's Earth Student Kit",
+  "gate_version": "freetrial",
+  "id": 14558,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Package of Ninja Gear - mission item - non equipable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

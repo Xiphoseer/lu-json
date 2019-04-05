@@ -1,0 +1,17 @@
+{
+  "id": 151,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1450,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1457,
+      "offersMission": true
+    }
+  ]
+}

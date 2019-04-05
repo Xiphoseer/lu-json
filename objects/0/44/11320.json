@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11097,
+    "3": 5225
+  },
+  "description": "fx_pipe_test",
+  "displayName": "fx_pipe_test",
+  "gate_version": null,
+  "id": 11320,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_pipe_test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

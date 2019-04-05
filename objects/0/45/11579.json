@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5630,
+    "2": 11331,
+    "3": 5423,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Trashcan Model 3",
+  "gate_version": null,
+  "id": 11579,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Trashcan 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9474,
+    "3": 4192,
+    "7": 945
+  },
+  "description": "Spawning device for the ronin.",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9630,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV-Stone Warrior Spawner 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

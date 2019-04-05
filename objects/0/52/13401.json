@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 499,
+    "2": 13129,
+    "3": 1777,
+    "35": 591,
+    "7": 307
+  },
+  "description": "VFX -- test -- Space Ranger Rank1",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13401,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "VFX -- Space Ranger Rank 1",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

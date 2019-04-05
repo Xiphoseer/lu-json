@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6664,
+    "17": 511,
+    "2": 13325,
+    "31": 30,
+    "48": 193,
+    "60": 136,
+    "7": 1851,
+    "9": 0
+  },
+  "description": "Rebuildable enemy for the earth dungeon",
+  "displayName": "Skeleton Pit Boss",
+  "gate_version": "njhub",
+  "id": 13588,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Patroller QB",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 945
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1122
+    }
+  ],
+  "type": "Rebuildables"
+}

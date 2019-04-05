@@ -1,0 +1,21 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/17/17583.json"
+    }
+  },
+  "behaviorID": 17583,
+  "effectHandle": null,
+  "effectID": 3998,
+  "parameters": {
+    "dir_angle_xz": 0.0,
+    "dir_angle_y": 0.0,
+    "dir_force": 7.0,
+    "max damage": 1.0,
+    "min damage": 1.0,
+    "on_fail_blocked": 6157.0,
+    "use_caster_velocity": 0.0,
+    "velocity_multiplier": 1.0
+  },
+  "templateID": 1
+}

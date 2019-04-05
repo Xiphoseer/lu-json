@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2922,
+    "25": 0,
+    "3": 1718,
+    "5": 454,
+    "7": 283
+  },
+  "description": "Flying Brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3513,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brick 1 Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

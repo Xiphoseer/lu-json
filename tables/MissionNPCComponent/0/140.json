@@ -1,0 +1,47 @@
+{
+  "id": 140,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1190,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1394,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1396,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 1398,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1399,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1458,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1459,
+      "offersMission": true
+    }
+  ]
+}

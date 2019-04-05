@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5216,
+    "2": 10603,
+    "3": 4879,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Dragon Statue Model",
+  "gate_version": null,
+  "id": 10756,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Dragon Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

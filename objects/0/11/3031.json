@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1087,
+    "2": 1672,
+    "5": 11,
+    "7": 360,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3031,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Grumpy Stromling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

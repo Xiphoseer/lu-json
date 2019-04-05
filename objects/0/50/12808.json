@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing Summoner Valiant offhand skill",
+  "components": {
+    "11": 6354,
+    "2": 12598,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": "valiantweapons",
+  "id": 12808,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1031
+    }
+  ],
+  "type": "Loot"
+}

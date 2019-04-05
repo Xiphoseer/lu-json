@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4092,
+    "2": 9331,
+    "5": 1127,
+    "60": 43,
+    "7": 927,
+    "9": 0
+  },
+  "description": "Object the Summoner spawns to seek and detonate",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9476,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Summoner Critter 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 644
+    }
+  ],
+  "type": "NPC"
+}

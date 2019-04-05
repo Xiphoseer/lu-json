@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission item, not a weapon. Chests need precondition w/ this item.",
+  "components": {
+    "11": 7112,
+    "2": 14176
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Fire.",
+  "displayName": "Fire Key",
+  "gate_version": "njhub",
+  "id": 14487,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13855,
+    "40": 7032
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 14144,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Armory Air Pusher Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

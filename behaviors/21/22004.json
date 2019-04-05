@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/21/22004.json"
+    }
+  },
+  "behaviorID": 22004,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "action": 22003.0,
+    "delay": 1.25,
+    "ignore_interrupts": 1.0,
+    "num_intervals": 1.0
+  },
+  "templateID": 18
+}

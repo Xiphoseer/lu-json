@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 7511,
+    "2": 14900,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Valiant Engineer's Cape",
+  "gate_version": "levelprogression",
+  "id": 16182,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Engineer Cape Back/Neck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 649
+    }
+  ],
+  "type": "Loot"
+}

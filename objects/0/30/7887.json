@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7445,
+    "3": 3553
+  },
+  "description": "RACE-GFTrack01_WALLS_CanopyDescent",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7887,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-GFTrack01_WALLS_CanopyDescent",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

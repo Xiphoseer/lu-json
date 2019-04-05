@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2174,
+    "3": 1777,
+    "5": 1004
+  },
+  "description": "For the rebuild vign",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7315,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninja Sensei Vign",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

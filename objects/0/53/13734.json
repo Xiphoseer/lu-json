@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6790,
+    "2": 13471,
+    "9": 0
+  },
+  "description": "Laser projectile bullet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13734,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "2 DMG projectile Laser Charged Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1253
+    }
+  ],
+  "type": "Shooting Gallery"
+}

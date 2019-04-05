@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 321,
+    "2": 9628,
+    "35": 409,
+    "7": 307
+  },
+  "description": " Knight Lvl 1",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9793,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Knight Lvl 1",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

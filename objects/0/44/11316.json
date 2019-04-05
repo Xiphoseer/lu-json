@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5533,
+    "2": 11093,
+    "53": 73
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "12 Month Subscriber Reward Pack",
+  "gate_version": null,
+  "id": 11316,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "12 Month Subscriber Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

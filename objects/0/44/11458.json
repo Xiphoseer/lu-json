@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 5546,
+    "2": 11206,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Adventurer Whip 2",
+  "gate_version": "factionkit2",
+  "id": 11458,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Adventurer Whip 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1068
+    }
+  ],
+  "type": "Loot"
+}

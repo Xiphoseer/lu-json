@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1021,
+    "2": 3186,
+    "5": 358
+  },
+  "description": "NP FF Scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3214,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Friendly Felix Scene 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

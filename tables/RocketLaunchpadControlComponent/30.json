@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": "63",
+  "altLandingSpawnPointName": "FVTREE",
+  "defaultZoneID": 0,
+  "gmLevel": 0,
+  "id": 30,
+  "launchMusic": null,
+  "launchPrecondition": "47",
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-AG",
+  "targetScene": "FVGate",
+  "targetZone": 1400,
+  "useAltLandingPrecondition": true,
+  "useLaunchPrecondition": true
+}

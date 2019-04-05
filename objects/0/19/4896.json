@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4334,
+    "3": 2219
+  },
+  "description": "Cement Mixer for AG scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4896,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Cement Mixer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

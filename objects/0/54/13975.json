@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "For Ian to test kit bonuses",
+  "components": {
+    "11": 6940,
+    "2": 13686,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Rank 1 Sword",
+  "gate_version": "LIVE",
+  "id": 13975,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Rank 1 Sword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 287
+    }
+  ],
+  "type": "Loot"
+}

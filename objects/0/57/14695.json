@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7192,
+    "2": 14383,
+    "28": 368,
+    "3": 7406,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "Pencil Rocket Nose Cone",
+  "gate_version": "ftcommunityitems",
+  "id": 14695,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Pencil Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

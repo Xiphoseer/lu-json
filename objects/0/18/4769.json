@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2088,
+    "16": 98,
+    "2": 4437,
+    "7": 432,
+    "73": 126
+  },
+  "description": "__MG__",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4769,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Puccio MissionGiver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

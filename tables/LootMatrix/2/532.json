@@ -1,0 +1,95 @@
+{
+  "LootMatrixIndex": 532,
+  "elements": [
+    {
+      "LootTableIndex": 415,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1784,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 419,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1785,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 423,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1786,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 443,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3021,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 9.999999747378752e-05
+    },
+    {
+      "LootTableIndex": 444,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3022,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.0010000000474974513
+    },
+    {
+      "LootTableIndex": 445,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3023,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    },
+    {
+      "LootTableIndex": 446,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3024,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.004999999888241291
+    },
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3025,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.4000000059604645
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3434,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.03999999910593033
+    }
+  ]
+}

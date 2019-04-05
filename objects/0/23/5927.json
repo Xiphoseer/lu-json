@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5335,
+    "3": 2465,
+    "5": 778
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5927,
+  "interactionDistance": 500.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - 02 - Control Blockers",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

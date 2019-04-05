@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item - Color Variant",
+  "components": {
+    "11": 6465,
+    "2": 12770,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Sorcerer Orb 3",
+  "gate_version": "auramar",
+  "id": 12985,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sorcerer Offhand 3 Color Variant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 577
+    }
+  ],
+  "type": "Loot"
+}

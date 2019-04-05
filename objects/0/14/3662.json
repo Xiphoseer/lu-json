@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 29,
+    "3": 1031,
+    "5": 550
+  },
+  "description": "test to change color of player's pants on collision",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3662,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Traveling Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

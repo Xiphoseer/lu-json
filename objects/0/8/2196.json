@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Loot Drop Container",
+  "components": {
+    "2": 1908,
+    "22": 0,
+    "40": 1025
+  },
+  "description": "Loot Drop Container",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 55,
+      "iconState": 65
+    }
+  ],
+  "id": 2196,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Accessory Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

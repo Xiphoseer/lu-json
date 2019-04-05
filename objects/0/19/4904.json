@@ -1,0 +1,48 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2226,
+    "2": 4273,
+    "5": 689,
+    "7": 460
+  },
+  "description": "for testing missions",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 4904,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mission Test NPC 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

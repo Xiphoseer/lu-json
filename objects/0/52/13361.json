@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13089,
+    "3": 6495
+  },
+  "description": "Main Cavern Room Ice sheet used for waves of enemies",
+  "displayName": "NJ - Ice Boss Sheet Holes",
+  "gate_version": "njhub",
+  "id": 13361,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Boss Sheet with holes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

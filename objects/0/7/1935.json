@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 381,
+    "2": 1792,
+    "3": 1777,
+    "35": 476,
+    "5": 561,
+    "7": 305
+  },
+  "description": "GF ambient 2",
+  "displayName": "Diablo Phil - Pirate Brawler",
+  "gate_version": null,
+  "id": 1935,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Ambient 3",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

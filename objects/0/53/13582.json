@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6709,
+    "2": 13319,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Mole Whacker",
+  "gate_version": "nexustower",
+  "id": 13582,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mole Whacker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1235
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1417
+    }
+  ],
+  "type": "Loot"
+}

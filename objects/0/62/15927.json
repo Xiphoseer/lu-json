@@ -1,0 +1,49 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14619,
+    "3": 1777,
+    "35": 635,
+    "5": 1693,
+    "7": 305
+  },
+  "description": "__MG__DO NOT PLACE IN GAME DO NOT EDIT TEMPLATE mg Minifigure template mission giver",
+  "displayName": "Gloomy Megumi - Ninjago Villager",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    }
+  ],
+  "id": 15927,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "mon - villager 5",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

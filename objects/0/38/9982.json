@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9810,
+    "3": 4410
+  },
+  "description": "SJTestBox",
+  "displayName": "SJTestBox",
+  "gate_version": null,
+  "id": 9982,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SJTestBox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

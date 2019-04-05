@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 50000 coins",
+  "components": {
+    "11": 2884,
+    "2": 6417
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Dark Red Gem",
+  "gate_version": null,
+  "id": 6862,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dark Red Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

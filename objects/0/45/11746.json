@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5797,
+    "2": 11498,
+    "3": 5590,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Skyscraper with Monkey Model",
+  "gate_version": "nexustower",
+  "id": 11746,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Skyscraper with Monkey",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

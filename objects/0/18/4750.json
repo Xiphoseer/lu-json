@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4104,
+    "3": 2058,
+    "7": 424
+  },
+  "description": "Test smashable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4750,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Classic Rocket Smashable TEST",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

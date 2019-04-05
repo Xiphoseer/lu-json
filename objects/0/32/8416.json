@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7974,
+    "3": 3898,
+    "7": 882
+  },
+  "description": "Temple marker used around shrines in Forbidden Valley",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8416,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Temple Marker 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

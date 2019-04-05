@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TIER 2 Behavior",
+  "components": {
+    "11": 5351,
+    "2": 10750
+  },
+  "description": "Model moves up and down when touched.  The model also gives instructions when approached.",
+  "displayName": "Touch Sensitive Platform Behavior",
+  "gate_version": null,
+  "id": 10997,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Touch Sensitive Platform Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

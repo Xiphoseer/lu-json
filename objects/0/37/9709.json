@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "3": 4237
+  },
+  "description": "blocking volume so enemies can walk down stairs",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9709,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Enemy Blocking Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

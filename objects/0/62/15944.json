@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 50000 coins",
+  "components": {
+    "11": 7350,
+    "2": 14636
+  },
+  "description": "A valuable plate that can be sold!",
+  "displayName": "Yellow Plate",
+  "gate_version": "njhub",
+  "id": 15944,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yellow Plate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

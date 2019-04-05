@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6475,
+    "3": 3041
+  },
+  "description": "Build Activator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6913,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Misc_Build_Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

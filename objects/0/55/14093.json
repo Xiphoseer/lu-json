@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 1 IP 1 AP",
+  "components": {
+    "11": 6971,
+    "2": 13805,
+    "9": 0
+  },
+  "description": "For Bronze Trophy Winners!",
+  "displayName": "Zazzy Pants",
+  "gate_version": "nexustower",
+  "id": 14093,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bronze Trophy Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

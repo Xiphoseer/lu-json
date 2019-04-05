@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15055,
+    "3": 7715
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - LUP Station",
+  "gate_version": "freetrial",
+  "id": 16309,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - LUP Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

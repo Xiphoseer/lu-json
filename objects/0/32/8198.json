@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7741,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Small Venture sign that animates into larger sign",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8198,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Venture Faction Hologoraphic Sign",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

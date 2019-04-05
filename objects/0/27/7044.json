@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Pirate Only Item",
+  "components": {
+    "11": 2967,
+    "2": 6621,
+    "9": 0
+  },
+  "description": "Equip to use the Pirate-only builds.",
+  "displayName": "Pirate Hook",
+  "gate_version": null,
+  "id": 7044,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Hook",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 523
+    }
+  ],
+  "type": "Loot"
+}

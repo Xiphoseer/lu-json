@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3343,
+    "2": 7150,
+    "7": 698,
+    "9": 0
+  },
+  "description": "Net used by the Net Gun skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7587,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Net Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 348
+    }
+  ],
+  "type": "Shooting Gallery"
+}

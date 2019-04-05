@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7780,
+    "2": 15359,
+    "3": 7969,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Outpost Tall Wall Model",
+  "gate_version": "njhub",
+  "id": 16580,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Outpost Tall Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

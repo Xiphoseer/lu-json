@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 2790,
+    "2": 6287,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blue Pirate Scarf",
+  "gate_version": null,
+  "id": 6746,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Pirate Scarf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

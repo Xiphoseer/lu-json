@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 14541,
+    "23": 64,
+    "40": 7474,
+    "7": 2053
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Ice.",
+  "displayName": "Ice Key",
+  "gate_version": "njhub",
+  "id": 15848,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - ice elemental key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3010,
+    "2": 6711,
+    "3": 3175,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Bat Model",
+  "gate_version": null,
+  "id": 7059,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Bat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Short Piercing",
+  "components": {
+    "11": 6268,
+    "2": 12509,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Super Dagger",
+  "gate_version": "auramar",
+  "id": 12720,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 277
+    }
+  ],
+  "type": "Loot"
+}

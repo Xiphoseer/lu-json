@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5598,
+    "2": 11299,
+    "3": 5391,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Cart Model 4",
+  "gate_version": null,
+  "id": 11547,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Cart 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

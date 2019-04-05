@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7457,
+    "2": 14475,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Yellow Frog Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14785,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Yellow Frog Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

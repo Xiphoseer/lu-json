@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 261,
+    "2": 6989,
+    "3": 1777,
+    "35": 334,
+    "7": 305,
+    "73": 57
+  },
+  "description": "__MG__FV Ninja 4 mission giver ",
+  "displayName": "Gathermaster Klex - Paradox Ninja",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7424,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Ninja 4",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

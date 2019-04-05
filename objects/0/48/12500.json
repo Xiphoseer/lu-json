@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6133,
+    "2": 12271,
+    "3": 6138,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Skull Tower Model",
+  "gate_version": "auramar",
+  "id": 12500,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Skull Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

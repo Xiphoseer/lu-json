@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6887,
+    "3": 3301
+  },
+  "description": "Glom asset for GF racetrack",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7314,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Gnarled Forest Raceway Glom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

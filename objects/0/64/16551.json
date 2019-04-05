@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Copy of the Imagination spinjitzu staff",
+  "components": {
+    "11": 5483,
+    "2": 10964,
+    "9": 0
+  },
+  "description": "Charge up to release a Spinjitzu attack!",
+  "displayName": "Wu's Imagination Staff",
+  "gate_version": "njhub",
+  "id": 16551,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wu's Imagination Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 869
+    }
+  ],
+  "type": "Loot"
+}

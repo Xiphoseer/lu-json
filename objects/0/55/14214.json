@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14216,
+    "3": 7284,
+    "67": 3,
+    "78": 9
+  },
+  "description": "Rocket Launcher for the SS Level",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    }
+  ],
+  "id": 14214,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "SS - Rocket Launch Pad Piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

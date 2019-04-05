@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Piercing",
+  "components": {
+    "11": 3808,
+    "2": 8064,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Trident",
+  "gate_version": null,
+  "id": 8509,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Trident",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 525
+    }
+  ],
+  "type": "Loot"
+}

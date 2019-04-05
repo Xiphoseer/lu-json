@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5667,
+    "23": 11,
+    "40": 2207,
+    "7": 343
+  },
+  "description": "Collectible Spawner for AG gold Monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6251,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "OLD  - Monument Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

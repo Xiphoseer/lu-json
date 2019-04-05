@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3189,
+    "2": 7099,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Adventurer Crossbow 3",
+  "gate_version": "factionkit2",
+  "id": 7534,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Adventurer Crossbow 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1061
+    }
+  ],
+  "type": "Loot"
+}

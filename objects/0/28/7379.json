@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3056,
+    "2": 6943,
+    "5": 1076,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Knight Leggings 1",
+  "gate_version": null,
+  "id": 7379,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Knight Legs 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

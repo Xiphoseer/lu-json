@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 5806,
+    "17": 449,
+    "2": 11751,
+    "31": 16,
+    "5": 1319,
+    "60": 89,
+    "7": 1647,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hardhead - Skeleton Miner",
+  "gate_version": "auramar",
+  "id": 12001,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Skeleton Miner NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 944
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1123
+    }
+  ],
+  "type": "Enemies"
+}

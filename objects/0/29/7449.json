@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3104,
+    "2": 7014,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Space Marauder Helm 2",
+  "gate_version": null,
+  "id": 7449,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Space Marauder Head 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 459
+    }
+  ],
+  "type": "Loot"
+}

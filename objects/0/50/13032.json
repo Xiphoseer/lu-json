@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12816,
+    "3": 6327
+  },
+  "description": "FX_locator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13032,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_FX_LOC_G14_S04",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

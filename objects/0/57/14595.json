@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12000,
+    "29": 3,
+    "40": 5986,
+    "7": 689
+  },
+  "description": "TEST JETPACK DISTANCE SHORT",
+  "displayName": "TEST JETPACK DISTANCE SHORT",
+  "gate_version": null,
+  "id": 14595,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST JETPACK DISTANCE SHORT",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

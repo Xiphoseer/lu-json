@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 1 IP",
+  "components": {
+    "11": 6254,
+    "2": 12495,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cool Car Import Shirt",
+  "gate_version": "nexustower",
+  "id": 12706,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cool Car Import Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

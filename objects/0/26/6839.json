@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2860,
+    "2": 6390,
+    "3": 3152,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Rat Model",
+  "gate_version": null,
+  "id": 6839,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Rat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

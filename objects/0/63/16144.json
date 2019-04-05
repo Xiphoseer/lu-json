@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14862,
+    "3": 7601,
+    "49": 0
+  },
+  "description": "NJ - button Object activated",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16144,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - button Object activated",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

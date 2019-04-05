@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP + Use to restore 5 imagination to everyone around you",
+  "components": {
+    "11": 6168,
+    "2": 12352,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Evergiving Goblet",
+  "gate_version": "auramar",
+  "id": 12562,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ever Giving Goblet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 997
+    }
+  ],
+  "type": "Loot"
+}

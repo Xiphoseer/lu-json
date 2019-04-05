@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5614,
+    "2": 11315,
+    "3": 5407,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Helicopter Model 2",
+  "gate_version": null,
+  "id": 11563,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Helicopter 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

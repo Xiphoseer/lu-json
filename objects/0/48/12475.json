@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6114,
+    "2": 12239
+  },
+  "description": "Return this to Dr. Overbuild.",
+  "displayName": "Fossilized Pet Bone",
+  "gate_version": "nexustower",
+  "id": 12475,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT- sabertooth cat token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

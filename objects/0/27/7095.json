@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 223,
+    "2": 6669,
+    "3": 1777,
+    "35": 276,
+    "5": 1151,
+    "7": 305,
+    "73": 48
+  },
+  "description": "__MG__AG Mission Giver",
+  "displayName": "DNL - Logan Moonshot - Venture League Rep",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7095,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Venture Rep",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

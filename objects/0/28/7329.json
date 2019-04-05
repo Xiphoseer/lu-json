@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 255,
+    "2": 6895,
+    "35": 325,
+    "7": 307
+  },
+  "description": "Construction Foreman",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7329,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Foreman",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

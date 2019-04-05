@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 1792,
+    "5": 561
+  },
+  "description": "not in use",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1929,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pirate Patroller",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

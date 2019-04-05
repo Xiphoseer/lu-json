@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 157,
+    "3": 32
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 160,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "wall16x16x1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Structure"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP +AoE Emote",
+  "components": {
+    "11": 4871,
+    "2": 9880,
+    "9": 0
+  },
+  "description": "Pass Paradox Force Fields, Rocket to the Great Tree",
+  "displayName": "Maelstrom-Infused White Ninja Hood",
+  "gate_version": null,
+  "id": 2641,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Ninja Hood - Maelstrom Infused",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 635
+    }
+  ],
+  "type": "Loot"
+}

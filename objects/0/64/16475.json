@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7877,
+    "2": 15221,
+    "31": 99,
+    "5": 1706,
+    "60": 181,
+    "7": 2148,
+    "9": 0
+  },
+  "description": "Named Horseman",
+  "displayName": "NAMED Maelstrom Horseman",
+  "gate_version": "1.10_content",
+  "id": 16475,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "NAMED Horseman",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 589
+    }
+  ],
+  "type": "Enemies"
+}

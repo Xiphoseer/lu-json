@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 562,
+    "2": 15246,
+    "3": 1777,
+    "35": 649,
+    "5": 1729,
+    "7": 305,
+    "73": 180
+  },
+  "description": "__MG__Ninjago Guard 3",
+  "displayName": "Kodo Pandaheart - Ninjago Monastery Guard",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    }
+  ],
+  "id": 16500,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ Mon- Ninjago Guard 3",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

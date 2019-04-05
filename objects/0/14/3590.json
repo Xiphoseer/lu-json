@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2962,
+    "3": 1732,
+    "5": 514
+  },
+  "description": "Drum Test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3590,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Off Button 03",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

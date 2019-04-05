@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6078,
+    "2": 12108,
+    "3": 6046,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Toy Shop Teddybear Model",
+  "gate_version": "dec2010content",
+  "id": 12357,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Toy Shop Teddybear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

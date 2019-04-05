@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 759,
+    "2": 1551,
+    "5": 46,
+    "7": 359,
+    "9": 0
+  },
+  "description": "Wonderland NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1729,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Wandering Bee",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

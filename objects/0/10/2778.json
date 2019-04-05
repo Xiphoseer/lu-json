@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "2": 2341,
+    "5": 167,
+    "7": 365,
+    "9": 0
+  },
+  "description": "Ghost",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2778,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC11 - Blonky",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 75
+    }
+  ],
+  "type": "Enemies"
+}

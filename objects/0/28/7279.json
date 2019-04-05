@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6853,
+    "3": 3285
+  },
+  "description": "temporary paradox pipe for the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7279,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Paradox Pipe Bend",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

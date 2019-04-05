@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5506,
+    "2": 11050,
+    "9": 0
+  },
+  "description": "NPC Brick Fury HoloHUD1",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11283,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NPC Brick Fury HoloHUD1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 524
+    }
+  ],
+  "type": "Loot"
+}

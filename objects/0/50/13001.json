@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test object - Blake",
+  "components": {
+    "1": 2377,
+    "2": 4103,
+    "5": 1428
+  },
+  "description": null,
+  "displayName": "Blake's Test Script object",
+  "gate_version": null,
+  "id": 13001,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Blake - Test Script Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

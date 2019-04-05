@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Tier 3 projectile attack",
+  "components": {
+    "11": 7001,
+    "2": 13835,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Peg-Leg's Blunderbuss",
+  "gate_version": "nexustower",
+  "id": 14124,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Peg-Leg's Blunderbuss",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1345
+    }
+  ],
+  "type": "Loot"
+}

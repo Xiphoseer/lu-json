@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 256,
+    "2": 6898,
+    "35": 326,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__Tint Test",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7332,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "mgtemp29",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

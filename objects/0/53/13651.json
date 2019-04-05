@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6761,
+    "2": 13389,
+    "3": 6709,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Angled Bridge Pathway Model 2",
+  "gate_version": "april2011content",
+  "id": 13651,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Pathway AngledBridge 2 ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

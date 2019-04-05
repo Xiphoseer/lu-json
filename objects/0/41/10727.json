@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10571,
+    "3": 4853,
+    "7": 1576
+  },
+  "description": "Use this as a template for making new smashables",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10727,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Smash-house",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

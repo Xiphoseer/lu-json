@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/1/1419.json"
+    }
+  },
+  "behaviorID": 1419,
+  "effectHandle": "laser-death",
+  "effectID": 111,
+  "parameters": {
+    "dir_angle_xz": 0.0,
+    "dir_angle_y": 0.0,
+    "dir_force": 7.0,
+    "max damage": 1.0,
+    "min damage": 1.0
+  },
+  "templateID": 1
+}

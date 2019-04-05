@@ -1,0 +1,15 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/16/16395.json"
+    }
+  },
+  "behaviorID": 16395,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "double_jump_action": 16396.0,
+    "falling_action": 16416.0
+  },
+  "templateID": 6
+}

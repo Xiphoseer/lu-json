@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2761,
+    "2": 6131,
+    "28": 22,
+    "3": 2837,
+    "42": 0,
+    "63": 3
+  },
+  "description": "Modular Car Front",
+  "displayName": "Modular Car Front #1",
+  "gate_version": null,
+  "id": 6583,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old MOD Car Front 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

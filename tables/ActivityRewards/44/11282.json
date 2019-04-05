@@ -1,0 +1,69 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 167,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 112,
+      "LootMatrixIndex": 719,
+      "activityRating": -1,
+      "description": "NT Wishing Well 1"
+    },
+    {
+      "ActivityRewardIndex": 168,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 113,
+      "LootMatrixIndex": 720,
+      "activityRating": 500,
+      "description": "NT Wishing Well 2"
+    },
+    {
+      "ActivityRewardIndex": 169,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 114,
+      "LootMatrixIndex": 721,
+      "activityRating": 750,
+      "description": "NT Wishing Well 3"
+    },
+    {
+      "ActivityRewardIndex": 170,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 115,
+      "LootMatrixIndex": 722,
+      "activityRating": 900,
+      "description": "NT Wishing Well 4"
+    },
+    {
+      "ActivityRewardIndex": 171,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 116,
+      "LootMatrixIndex": 723,
+      "activityRating": 950,
+      "description": "NT Wishing Well 5"
+    },
+    {
+      "ActivityRewardIndex": 172,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 117,
+      "LootMatrixIndex": 724,
+      "activityRating": 975,
+      "description": "NT Wishing Well 6"
+    },
+    {
+      "ActivityRewardIndex": 173,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 118,
+      "LootMatrixIndex": 725,
+      "activityRating": 998,
+      "description": "NT Wishing Well 7"
+    },
+    {
+      "ActivityRewardIndex": 174,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 119,
+      "LootMatrixIndex": 726,
+      "activityRating": 999,
+      "description": "NT Wishing Well 8"
+    }
+  ],
+  "objectTemplate": 11282
+}

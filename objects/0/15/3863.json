@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 1088,
+    "2": 3259,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Striped Skunk Shirt",
+  "gate_version": null,
+  "id": 3863,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skunk Shirt 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

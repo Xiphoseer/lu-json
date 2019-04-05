@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6527,
+    "3": 3021,
+    "5": 973
+  },
+  "description": "Starfish",
+  "displayName": "Starfish",
+  "gate_version": null,
+  "id": 6954,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Starfish",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

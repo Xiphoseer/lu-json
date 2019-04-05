@@ -1,0 +1,25 @@
+{
+  "LootMatrixIndex": 819,
+  "elements": [
+    {
+      "LootTableIndex": 697,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4409,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 790,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4421,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    }
+  ]
+}

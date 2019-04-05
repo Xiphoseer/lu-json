@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7979,
+    "3": 3902
+  },
+  "description": null,
+  "displayName": "Gorilla - VFX Tester",
+  "gate_version": null,
+  "id": 8420,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shader FX test obj - Gorilla",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

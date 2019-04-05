@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5995,
+    "2": 11852,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Maneater Seeds",
+  "gate_version": "nexustower",
+  "id": 12103,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maneater Seeds",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1227
+    }
+  ],
+  "type": "Loot"
+}

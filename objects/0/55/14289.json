@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13979,
+    "3": 7123,
+    "43": 7,
+    "67": 20,
+    "78": 25
+  },
+  "description": "Launch pad to Nimbus Station Small Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14289,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - NS PROP Small",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

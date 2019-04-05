@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10564,
+    "3": 4847,
+    "7": 1570
+  },
+  "description": "Use this as a template for making new smashables",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10721,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Smash_Bug-Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

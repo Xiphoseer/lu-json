@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Paradox vendors",
+  "components": {
+    "11": 6519,
+    "2": 12926,
+    "53": 120
+  },
+  "description": "Contains 5 Blue Imaginite",
+  "displayName": "Small Bag of Blue Imaginite",
+  "gate_version": "march2011content",
+  "id": 13146,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Small Blue Imaginite Bag - Paradox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

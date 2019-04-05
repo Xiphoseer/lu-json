@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11797,
+    "3": 5843
+  },
+  "description": "Large Wall Trigger",
+  "displayName": "Large Wall Trigger",
+  "gate_version": null,
+  "id": 12048,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Large Wall Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

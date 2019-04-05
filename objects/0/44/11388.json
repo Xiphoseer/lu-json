@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12931,
+    "3": 5167,
+    "73": 100
+  },
+  "description": "__MG__Mission Giver in Jadeoria",
+  "displayName": "Zaggle",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 124,
+      "iconState": 69
+    }
+  ],
+  "id": 11388,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Zaggle Mission Giver",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

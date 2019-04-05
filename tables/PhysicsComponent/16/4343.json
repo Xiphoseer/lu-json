@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 7,
+  "doublejump": 0.0,
+  "friction": 100.0,
+  "gravityVolumeAsset": null,
+  "id": 4343,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "miscellaneous\\build_border_gf_race_flat.hkx",
+  "playerHeight": 2.0,
+  "playerRadius": 21.0,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

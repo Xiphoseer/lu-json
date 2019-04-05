@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 3 Samurai!",
+  "components": {
+    "11": 4836,
+    "2": 9803,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9975,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 3 Samurai Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 746
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Platform that goes up and down",
+  "components": {
+    "11": 5132,
+    "2": 10231,
+    "3": 4622,
+    "42": 0,
+    "48": 151
+  },
+  "description": "A model for your Property!",
+  "displayName": "Basic Platform Model",
+  "gate_version": null,
+  "id": 10385,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward AG Property Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

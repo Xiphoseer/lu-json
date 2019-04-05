@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3166,
+    "2": 7076,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Daredevil Pants 1",
+  "gate_version": null,
+  "id": 7511,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Daredevil Legs 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

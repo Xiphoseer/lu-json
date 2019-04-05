@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5706,
+    "2": 11407,
+    "3": 5499,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Supplies 2 Model",
+  "gate_version": "nexustower",
+  "id": 11655,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Supplies 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

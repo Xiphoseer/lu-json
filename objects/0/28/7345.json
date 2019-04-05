@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6910,
+    "3": 3314,
+    "48": 108
+  },
+  "description": "test asset rebuildable for the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7345,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave - Paradox Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

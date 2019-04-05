@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5830,
+    "3": 2089
+  },
+  "description": "Buoy to show cannon range",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6381,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - SG - Buoy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

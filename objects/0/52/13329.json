@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6604,
+    "2": 13057,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Skater Boardi Vendor",
+  "gate_version": "nexustower",
+  "id": 13329,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Skater Boardi Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

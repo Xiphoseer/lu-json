@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6836,
+    "3": 3267
+  },
+  "description": "PiCo demo object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7261,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PiCo mini Ming vase",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

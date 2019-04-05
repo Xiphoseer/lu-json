@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoner Valiant Weapon Proxy",
+  "components": {
+    "11": 6578,
+    "2": 13017,
+    "5": 1242,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Summoner Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13287,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Summoner Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1031
+    }
+  ],
+  "type": "Loot"
+}

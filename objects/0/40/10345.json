@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5094,
+    "2": 10193,
+    "3": 4585,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Toilet Model 2",
+  "gate_version": null,
+  "id": 10345,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Toilet 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

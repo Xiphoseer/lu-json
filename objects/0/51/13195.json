@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6539,
+    "2": 12975,
+    "28": 295,
+    "3": 6436,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "TEST ROCKET IHALL Cockpit",
+  "gate_version": null,
+  "id": 13195,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST MOD ROCKET IHALL Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

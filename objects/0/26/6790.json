@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 LP buff",
+  "components": {
+    "11": 2829,
+    "2": 6324,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Hardtack Biscuit",
+  "gate_version": null,
+  "id": 6790,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hardtack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 265
+    }
+  ],
+  "type": "Loot"
+}

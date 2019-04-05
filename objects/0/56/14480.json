@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14169,
+    "3": 7269
+  },
+  "description": "fx_space_ranger_shield",
+  "displayName": "fx_space_ranger_shield",
+  "gate_version": "1.9_content",
+  "id": 14480,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_space_ranger_shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

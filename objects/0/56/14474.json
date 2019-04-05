@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; must have this to QB Skeleton Catapult to use as bouncer",
+  "components": {
+    "11": 7107,
+    "2": 14163
+  },
+  "description": "Use this to rebuild and modify Skeleton Catapults!",
+  "displayName": "Ninja Target Building Instructions",
+  "gate_version": "njhub",
+  "id": 14474,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninja Target Building Instructions",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

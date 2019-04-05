@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6699,
+    "2": 13299,
+    "3": 6653,
+    "42": 0
+  },
+  "description": "A model with Behaviors for your property.",
+  "displayName": "Reward Gooble Enemy",
+  "gate_version": null,
+  "id": 13562,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Gooble Enemy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

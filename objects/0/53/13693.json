@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6803,
+    "2": 13431,
+    "3": 6751,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Courtyard Model Short",
+  "gate_version": "april2011content",
+  "id": 13693,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Courtyard Short",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

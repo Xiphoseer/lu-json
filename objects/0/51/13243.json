@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1702,
+    "2": 1933,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "TEST LUCAS",
+  "gate_version": null,
+  "id": 13243,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST LUCAS",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1214
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15232,
+    "3": 7887,
+    "39": 58,
+    "5": 1710
+  },
+  "description": "NJ -Frakjaw Treasure Chest",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16486,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ -Frakjaw Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

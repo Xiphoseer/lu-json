@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Spawn AP powerups, everlasting",
+  "components": {
+    "11": 4736,
+    "2": 9542,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Anvil of Armor",
+  "gate_version": null,
+  "id": 9700,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Anvil of Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 791
+    }
+  ],
+  "type": "Loot"
+}

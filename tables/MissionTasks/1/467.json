@@ -1,0 +1,19 @@
+{
+  "id": 467,
+  "tasks": [
+    {
+      "IconID": 2950,
+      "gate_version": "dec2010content",
+      "largeTaskIcon": "",
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 5,
+      "targetGroup": "survival_time_solo",
+      "targetValue": 300,
+      "taskParam1": null,
+      "taskType": 14,
+      "uid": 695
+    }
+  ]
+}

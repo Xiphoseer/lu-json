@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Katana ninja hood Proxy Ninjago skill deals 4/18",
+  "components": {
+    "11": 7352,
+    "2": 14638,
+    "9": 0
+  },
+  "description": "Katana Proxy Ninjago",
+  "displayName": "Katana Proxy Ninjago",
+  "gate_version": "njhub",
+  "id": 15946,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Ninjago Katana on ninja hood Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

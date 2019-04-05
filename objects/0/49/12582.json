@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 468,
+    "2": 12372,
+    "28": 275,
+    "3": 1777,
+    "35": 563,
+    "7": 305
+  },
+  "description": "__MG__NS Small Propery Battle",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12582,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Small Property Mission Giver 01",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

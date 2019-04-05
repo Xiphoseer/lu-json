@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3AP 3 IP Absorbs 10 dmg",
+  "components": {
+    "11": 7326,
+    "2": 14606,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Crimson Kabuto",
+  "gate_version": "njhub",
+  "id": 15914,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Crimson Kabuto",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1460
+    }
+  ],
+  "type": "Loot"
+}

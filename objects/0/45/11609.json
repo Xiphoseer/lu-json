@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5660,
+    "2": 11361,
+    "3": 5453,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Barn Side Tall Model",
+  "gate_version": "march2011content",
+  "id": 11609,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Barn Side Tall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

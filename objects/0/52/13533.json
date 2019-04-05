@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Anglerfish model",
+  "components": {
+    "11": 6682,
+    "2": 13269
+  },
+  "description": "A behavior that bops around and dispenses imagination when interacted with.",
+  "displayName": "Anglerfish Behavior",
+  "gate_version": null,
+  "id": 13533,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Anglerfish Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

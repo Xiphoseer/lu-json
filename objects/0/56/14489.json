@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission item, not a weapon. Chests need precondition w/ this item.",
+  "components": {
+    "11": 7114,
+    "2": 14178
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Lightning.",
+  "displayName": "Lightning Key",
+  "gate_version": "njhub",
+  "id": 14489,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

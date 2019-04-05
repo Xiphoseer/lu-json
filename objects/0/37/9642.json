@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 770 - Hidden",
+  "components": {
+    "11": 4655,
+    "2": 9485
+  },
+  "description": null,
+  "displayName": "Broken Pirate Rocket Engine",
+  "gate_version": null,
+  "id": 9642,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Broken Pirate Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

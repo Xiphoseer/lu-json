@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Loot template used to render actual loot icon gfx to",
+  "components": {
+    "11": 3556,
+    "2": 7663
+  },
+  "description": "Loot template used to render actual loot icon gfx to",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8121,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DroppedLootTemplate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6801,
+    "3": 3257
+  },
+  "description": "Pet rock Mountain tester",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7221,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTO-PR-RockMountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Easy Skeleton for Nijago",
+  "components": {
+    "1": 7271,
+    "17": 544,
+    "2": 14180,
+    "31": 80,
+    "5": 1568,
+    "60": 160,
+    "7": 1982,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Trooper",
+  "gate_version": "njhub",
+  "id": 14491,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Trooper",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1377
+    }
+  ],
+  "type": "Enemies"
+}

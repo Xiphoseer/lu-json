@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6014,
+    "2": 11967,
+    "53": 74
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12220,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pod Captain 1 Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

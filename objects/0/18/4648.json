@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1690,
+    "2": 4070,
+    "42": 0
+  },
+  "description": "Smashable Behavior",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4648,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Behavior"
+}

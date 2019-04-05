@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5481,
+    "2": 10962,
+    "28": 222,
+    "3": 5122,
+    "42": 0
+  },
+  "description": "Jadeoria Modular Build Rocket Cockpit",
+  "displayName": "Jadeoria Rocket Cockpit",
+  "gate_version": null,
+  "id": 11193,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP Brickazons Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

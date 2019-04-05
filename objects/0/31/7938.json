@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3594,
+    "2": 7484,
+    "9": 0
+  },
+  "description": "combo starter projectile on wand",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7938,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "sorcerer Wand Bullet - Large 3 damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 455
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 11,
+    "2": 4445,
+    "3": 1433,
+    "5": 255
+  },
+  "description": "Team Awesomer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2439,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Race Starter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

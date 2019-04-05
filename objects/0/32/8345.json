@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP",
+  "components": {
+    "11": 3666,
+    "2": 7903,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blue Kimono",
+  "gate_version": null,
+  "id": 8345,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Kimono Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

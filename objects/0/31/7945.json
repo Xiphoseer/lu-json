@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7491,
+    "3": 3601
+  },
+  "description": "Pet Taming Item - Battle Tank",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7945,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Battle Tank",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

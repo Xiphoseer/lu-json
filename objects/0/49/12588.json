@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6190,
+    "2": 12378,
+    "31": 41,
+    "5": 1381,
+    "60": 104,
+    "7": 1752,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Spiderling",
+  "gate_version": "nimbusinstance",
+  "id": 12588,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

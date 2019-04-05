@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5311,
+    "2": 10702,
+    "3": 4976,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Espresso Machine Model",
+  "gate_version": null,
+  "id": 10855,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward EspressoMachine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

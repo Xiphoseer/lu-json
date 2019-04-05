@@ -1,0 +1,49 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 550,
+    "2": 14754,
+    "3": 1777,
+    "35": 638,
+    "7": 305
+  },
+  "description": "__MG__Zane Ice Ninja",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    }
+  ],
+  "id": 16034,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CP- Ninjago Envoy",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

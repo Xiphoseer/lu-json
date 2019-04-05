@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 311,
+    "2": 9476,
+    "3": 4193,
+    "35": 394,
+    "5": 1581,
+    "7": 919,
+    "73": 34
+  },
+  "description": "__MG__This almost-vendor rents property",
+  "displayName": "Vance Bulwark - Property Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 9632,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Vance Bulwark",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "NPC"
+}

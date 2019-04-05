@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Adventurer Valiant Weapon Proxy",
+  "components": {
+    "11": 6580,
+    "2": 13019
+  },
+  "description": "",
+  "displayName": "Adventurer Valiant Weapon Proxy",
+  "gate_version": "factionkit2",
+  "id": 13289,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Adventurer Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Unused Mission Item - Hidden",
+  "components": {
+    "11": 1067,
+    "2": 181
+  },
+  "description": "Mission Item - Unused",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3508,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "unused Quest Brick - Whip/Aerial",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14854,
+    "40": 7592,
+    "7": 2115,
+    "9": 0
+  },
+  "description": "Point of attack for Spider Boss Landing Smash",
+  "displayName": "FT - Spider Boss Landing Target",
+  "gate_version": null,
+  "id": 16136,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FT - Spider Boss Landing Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

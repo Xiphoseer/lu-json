@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 65,
+    "17": 341,
+    "2": 9850,
+    "3": 1777,
+    "35": 434,
+    "7": 306
+  },
+  "description": "LUP Station Model Vendor",
+  "displayName": "Nova Starbeam - Model Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 10023,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Starbase 3001 Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

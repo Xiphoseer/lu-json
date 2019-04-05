@@ -1,0 +1,41 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5838,
+    "3": 1777,
+    "35": 227,
+    "7": 305,
+    "73": 33
+  },
+  "description": "__MG__mission giver that sends the player to Forbidden Valley to complete a mission",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    }
+  ],
+  "id": 6391,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Temp FV Mission Giver",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

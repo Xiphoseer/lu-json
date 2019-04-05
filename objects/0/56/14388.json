@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "104": 9,
+    "2": 14079,
+    "3": 7195,
+    "5": 1624
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    },
+    {
+      "iconID": 176,
+      "iconState": 70
+    }
+  ],
+  "id": 14388,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Railpost Large Fire",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

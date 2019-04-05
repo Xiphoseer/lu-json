@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2271,
+    "2": 4397,
+    "5": 698,
+    "7": 469,
+    "9": 0
+  },
+  "description": "Geoffed Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4975,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Green Floater",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 13
+    }
+  ],
+  "type": "NPC"
+}

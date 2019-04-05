@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE HoT",
+  "components": {
+    "11": 2920,
+    "2": 6484,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Turban of Healing",
+  "gate_version": null,
+  "id": 6922,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Turban of Healing 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 314
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

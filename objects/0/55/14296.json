@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13986,
+    "3": 7130,
+    "7": 2015
+  },
+  "description": null,
+  "displayName": "NJ Smashable Bamboo",
+  "gate_version": "njhub",
+  "id": 14296,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Smashable Bamboo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

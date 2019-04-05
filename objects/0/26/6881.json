@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 2895,
+    "2": 6436,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Composite Axe",
+  "gate_version": null,
+  "id": 6881,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Composite Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 526
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13917,
+    "3": 7056,
+    "43": 3,
+    "67": 6,
+    "78": 11
+  },
+  "description": "Launch pad to Avant Gardens Small Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14216,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - AG PROP Small",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

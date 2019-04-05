@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1345,
+    "2": 2330,
+    "5": 251
+  },
+  "description": "Team 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2704,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC - trigger NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

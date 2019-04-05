@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5197,
+    "2": 11032,
+    "5": 1280,
+    "60": 25,
+    "7": 1608,
+    "9": 0
+  },
+  "description": "Enemy for Luptario",
+  "displayName": "Maelstrom Rabbit",
+  "gate_version": null,
+  "id": 11260,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Maelstrom Rabbit",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

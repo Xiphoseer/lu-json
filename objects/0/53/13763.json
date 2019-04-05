@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used for Commendation Vendor",
+  "components": {
+    "11": 6870,
+    "2": 13503
+  },
+  "description": "",
+  "displayName": "Faction Token Proxy",
+  "gate_version": "nexustower",
+  "id": 13763,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Faction Token Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

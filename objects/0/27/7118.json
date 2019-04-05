@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6695,
+    "3": 3067,
+    "5": 953
+  },
+  "description": "Placeable NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7118,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Clamshell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

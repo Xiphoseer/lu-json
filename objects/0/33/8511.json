@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8066,
+    "3": 3929,
+    "7": 889
+  },
+  "description": "Anvil smashable that is only smashable by the hammer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8511,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Anvil Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

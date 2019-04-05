@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/10/10616.json"
+    }
+  },
+  "behaviorID": 10616,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "behavior 1": 10617.0,
+    "max range": 75.0,
+    "min range": 0.0
+  },
+  "templateID": 52
+}

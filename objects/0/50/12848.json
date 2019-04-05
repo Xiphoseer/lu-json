@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6393,
+    "2": 12669,
+    "28": 269,
+    "3": 6266,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "Starskull Rocket Nose Cone",
+  "gate_version": "auramar",
+  "id": 12848,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Skeleton Nose Cone 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

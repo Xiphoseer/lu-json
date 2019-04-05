@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9596,
+    "3": 3657
+  },
+  "description": "Secondary asset to glom to attempt to remedy the LOD problems in racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9759,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Race Track LOD FIX",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

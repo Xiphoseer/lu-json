@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Contains 100 Faction Tokens",
+  "components": {
+    "11": 7003,
+    "2": 13837,
+    "53": 128
+  },
+  "description": "Double-click to get 100 Faction Tokens!",
+  "displayName": "Ultra Bag of Faction Tokens",
+  "gate_version": "nexustower",
+  "id": 14126,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Faction Token Bag - 100 tokens",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

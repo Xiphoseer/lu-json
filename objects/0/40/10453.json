@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5162,
+    "2": 10296
+  },
+  "description": "Turns your model into a friendly greeter for your property with many ways to interact with it.  Your model will even patrol for you if you ask it to.",
+  "displayName": "Greeter Behavior",
+  "gate_version": null,
+  "id": 10453,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Greeter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

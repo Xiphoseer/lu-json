@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15041,
+    "3": 7705,
+    "5": 1696,
+    "7": 2140
+  },
+  "description": "Treasure Chest",
+  "displayName": "",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 156,
+      "iconState": 69
+    },
+    {
+      "iconID": 163,
+      "iconState": 70
+    }
+  ],
+  "id": 16295,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ hub - Scroll Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11795,
+    "3": 5841
+  },
+  "description": "Bridge in Aura Mar",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12046,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM_Platforming_Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

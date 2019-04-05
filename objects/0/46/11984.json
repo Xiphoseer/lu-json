@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Small Stromling spider for scenario Survival",
+  "components": {
+    "1": 5798,
+    "2": 11743,
+    "31": 12,
+    "5": 1311,
+    "60": 81,
+    "7": 1639,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Muffet Bane - Dark Spiderling Invader",
+  "gate_version": "auramar",
+  "id": 11984,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Dark Spiderling NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 490
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 932
+    }
+  ],
+  "type": "Enemies"
+}

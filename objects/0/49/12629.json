@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from samurai Valiant weapon",
+  "components": {
+    "1": 6211,
+    "2": 12419,
+    "5": 1393,
+    "60": 117,
+    "7": 1769,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Target Dummy",
+  "gate_version": "valiantweapons",
+  "id": 12629,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Target Dummy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1014
+    }
+  ],
+  "type": "NPC"
+}

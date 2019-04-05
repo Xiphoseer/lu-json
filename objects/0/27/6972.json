@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Smashing + Money Magnet passive skill",
+  "components": {
+    "11": 2953,
+    "2": 6551,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Numb Chuck's Maelstrom Staff",
+  "gate_version": null,
+  "id": 6972,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Numb Chuck's Maelstrom Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 288
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 520
+    }
+  ],
+  "type": "Loot"
+}

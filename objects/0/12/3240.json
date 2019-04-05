@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "3": 1034,
+    "5": 367
+  },
+  "description": "NP - Trigger to pop jump help when player is idle.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3240,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Jump Help Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

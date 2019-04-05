@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5356,
+    "40": 1034
+  },
+  "description": "Trigger Wall Volume with directional arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5958,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trigger Wall - Directional (doesn't point forward)  (Humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3041,
+    "2": 6928,
+    "5": 1091,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Engineer Helmet 3",
+  "gate_version": null,
+  "id": 7364,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Engineer Head 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 626
+    }
+  ],
+  "type": "Loot"
+}

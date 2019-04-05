@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 875,
+    "2": 1846,
+    "3": 970
+  },
+  "description": "Vendor Only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2149,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pirate Brig",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

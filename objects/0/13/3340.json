@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2791,
+    "3": 1596,
+    "48": 25
+  },
+  "description": "PVP Portal Bridge Rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3340,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - PVP Bridge Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

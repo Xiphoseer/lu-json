@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2763,
+    "2": 6135,
+    "28": 20,
+    "3": 2839,
+    "42": 0,
+    "63": 5
+  },
+  "description": "Modular Car Main Body",
+  "displayName": "Modular Car Main Body #1",
+  "gate_version": null,
+  "id": 6585,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old MOD Car Main 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

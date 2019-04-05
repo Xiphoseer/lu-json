@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12014,
+    "3": 5991,
+    "7": 1686
+  },
+  "description": "Sentinel Crate for AuraMar",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12266,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Crate Sentinel Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

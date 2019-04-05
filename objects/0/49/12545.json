@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11926,
+    "3": 5934,
+    "48": 181,
+    "7": 1743
+  },
+  "description": "computer that is rebuilt from smashable broken computer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12545,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - smash build computer from dropship",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

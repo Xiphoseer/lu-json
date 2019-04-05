@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7188,
+    "3": 3371,
+    "7": 708
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7618,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Smashable Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7501,
+    "3": 3611,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Mushroom",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7955,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Mushroom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

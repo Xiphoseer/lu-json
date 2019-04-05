@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5902,
+    "2": 11603,
+    "3": 5695,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Battle-Damaged Short Wall Model",
+  "gate_version": null,
+  "id": 11851,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Wall Short Bulletholes Broken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

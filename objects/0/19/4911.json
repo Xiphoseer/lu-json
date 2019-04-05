@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4345,
+    "25": 0,
+    "27": 0,
+    "3": 2229
+  },
+  "description": "Moving Platform for Monument in Scene 2 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4911,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

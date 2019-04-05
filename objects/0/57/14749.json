@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7239,
+    "2": 14436,
+    "28": 392,
+    "3": 7435,
+    "42": 0,
+    "63": 33
+  },
+  "description": null,
+  "displayName": "Race Ace Front Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Blue Indy Car Front Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

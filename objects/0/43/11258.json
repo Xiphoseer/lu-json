@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11028,
+    "3": 5191
+  },
+  "description": "Nimbus Station Winter Racetrack Mesh",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11258,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "env_NSTrack_WinterTrackMesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

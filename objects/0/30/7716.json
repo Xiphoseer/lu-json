@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7272,
+    "3": 3418,
+    "5": 950,
+    "64": 0
+  },
+  "description": "car modular build chassis volume",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 64,
+      "iconState": 65
+    }
+  ],
+  "id": 7716,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

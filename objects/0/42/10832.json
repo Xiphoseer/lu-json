@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5288,
+    "2": 10679,
+    "3": 4953,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Small Plant Model",
+  "gate_version": null,
+  "id": 10832,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward SmallPlant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

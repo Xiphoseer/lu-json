@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3152,
+    "2": 7062,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Space Marauder Pants 2",
+  "gate_version": null,
+  "id": 7497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Space Marauder Legs 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

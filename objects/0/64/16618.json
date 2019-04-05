@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7817,
+    "2": 15407
+  },
+  "description": null,
+  "displayName": "NPC Silver Samurai Axe",
+  "gate_version": "njhub",
+  "id": 16618,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Silver Samurai Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

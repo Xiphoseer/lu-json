@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3070,
+    "2": 6957,
+    "5": 1078,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Knight Greatsword 3",
+  "gate_version": null,
+  "id": 7393,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Knight Weapon 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 478
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1363
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "3": 2217,
+    "48": 61,
+    "5": 845,
+    "7": 514
+  },
+  "description": "Wall that will be smashed by NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6340,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Quick Build Wall of Hate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

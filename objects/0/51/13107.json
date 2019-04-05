@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12883,
+    "40": 6375,
+    "5": 1440,
+    "7": 1818
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 13107,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST NJ Trigger Cube (Humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

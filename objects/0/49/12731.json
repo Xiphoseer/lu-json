@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/4/4 Long Smashing + Charge up AOE Stun",
+  "components": {
+    "11": 6279,
+    "2": 12520,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Spike Hammer",
+  "gate_version": "auramar",
+  "id": 12731,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spike Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1210
+    }
+  ],
+  "type": "Loot"
+}

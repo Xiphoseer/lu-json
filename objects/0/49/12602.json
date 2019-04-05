@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6195,
+    "17": 472,
+    "2": 12392,
+    "31": 45,
+    "5": 1386,
+    "60": 109,
+    "7": 1757,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hammerhurl Stromling",
+  "gate_version": "nimbusinstance",
+  "id": 12602,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Hammerling Ranged",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 580
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1013
+    }
+  ],
+  "type": "Enemies"
+}

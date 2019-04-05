@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10929,
+    "3": 5097,
+    "39": 54,
+    "5": 1274
+  },
+  "description": "model that puts player in an instance for FV race",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12652,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TESTFV - Race Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

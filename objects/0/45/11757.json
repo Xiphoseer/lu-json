@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5808,
+    "2": 11509,
+    "3": 5601,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Car 5 Model",
+  "gate_version": "nexustower",
+  "id": 11757,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Car 5",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

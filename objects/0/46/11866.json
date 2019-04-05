@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5917,
+    "2": 11618,
+    "3": 5710,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse Rocks Model 3",
+  "gate_version": null,
+  "id": 11866,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Ground Rocks 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

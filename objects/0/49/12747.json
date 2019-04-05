@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 AP",
+  "components": {
+    "11": 6295,
+    "2": 12537,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Body Armor",
+  "gate_version": "nexustower",
+  "id": 12747,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Body Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    }
+  ],
+  "type": "Loot"
+}

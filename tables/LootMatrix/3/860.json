@@ -1,0 +1,95 @@
+{
+  "LootMatrixIndex": 860,
+  "elements": [
+    {
+      "LootTableIndex": 72,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4571,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.05000000074505806
+    },
+    {
+      "LootTableIndex": 73,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4572,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4573,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4575,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 114,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4576,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 287,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4578,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.05000000074505806
+    },
+    {
+      "LootTableIndex": 379,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4579,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.05000000074505806
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4580,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 862,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 5026,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.44999998807907104
+    }
+  ]
+}

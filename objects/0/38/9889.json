@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9761,
+    "40": 3744
+  },
+  "description": "Rendered asset to place over the glom",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9889,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Blank Block",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

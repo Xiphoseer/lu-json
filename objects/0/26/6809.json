@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6371,
+    "3": 3000
+  },
+  "description": "Tree Module B in Gnarled Forest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6809,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Tree Module B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

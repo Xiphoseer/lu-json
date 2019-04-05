@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13575,
+    "3": 6843,
+    "5": 1486
+  },
+  "description": "Interactable console",
+  "displayName": "Crux Prime Console",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 155,
+      "iconState": 69
+    }
+  ],
+  "id": 13835,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CP_Console",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

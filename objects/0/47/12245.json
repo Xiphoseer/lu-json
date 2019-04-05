@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11992,
+    "3": 5980
+  },
+  "description": "Large walls in the pit area in AM",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12245,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Pit area wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10120,
+    "3": 4525,
+    "7": 1536
+  },
+  "description": "Hidden Smashable Wall left of the Gate.",
+  "displayName": "FV-Entrance Hidden Wall",
+  "gate_version": null,
+  "id": 10277,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV- Entrance Hidden Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

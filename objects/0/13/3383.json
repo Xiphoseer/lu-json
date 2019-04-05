@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 402
+  },
+  "description": "Used for the script system unit test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3383,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Script Unit test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

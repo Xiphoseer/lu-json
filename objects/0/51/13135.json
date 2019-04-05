@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Venture vendors",
+  "components": {
+    "11": 6509,
+    "2": 12915,
+    "53": 118
+  },
+  "description": "Contains 50 Green Imaginite",
+  "displayName": "Large Bag of Green Imaginite",
+  "gate_version": "march2011content",
+  "id": 13135,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Large Green Imaginite Bag - Venture",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

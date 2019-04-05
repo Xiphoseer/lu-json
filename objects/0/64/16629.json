@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward Item",
+  "components": {
+    "11": 7819,
+    "2": 15413,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "2011 Championship Sparkler",
+  "gate_version": "njhub",
+  "id": 16629,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "2011 Championship Sparkler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 843
+    }
+  ],
+  "type": "Loot"
+}

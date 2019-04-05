@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10151,
+    "3": 4544,
+    "5": 1216,
+    "7": 1545
+  },
+  "description": "Spawned by the cauldron skill",
+  "displayName": "Cauldron of Life",
+  "gate_version": null,
+  "id": 10305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cauldron of Life - mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 790
+    }
+  ],
+  "type": "Environmental"
+}

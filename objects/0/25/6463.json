@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6729,
+    "3": 3187,
+    "7": 542
+  },
+  "description": "smashable wall only for spider boss",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6463,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

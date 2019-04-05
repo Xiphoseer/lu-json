@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4188,
+    "2": 9544,
+    "9": 0
+  },
+  "description": "Bucaneer Harpoon Bullet",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9616,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bucaneer Harpoon bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 675
+    }
+  ],
+  "type": "Shooting Gallery"
+}

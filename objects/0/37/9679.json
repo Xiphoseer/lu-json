@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9522,
+    "20": 4233,
+    "5": 1147
+  },
+  "description": "NSTrack_DeathVol1_ThrusterGap",
+  "displayName": "NSTrack_DeathVol1_ThrusterGap",
+  "gate_version": null,
+  "id": 9679,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSTrack_DeathVol1_ThrusterGap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

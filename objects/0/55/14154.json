@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13864,
+    "25": 0,
+    "3": 7038,
+    "40": 7976,
+    "5": 1544,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 14154,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Proto - Chase Lightning Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

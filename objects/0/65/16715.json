@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Imagination element elevator spinner trap",
+  "components": {
+    "2": 15503,
+    "25": 0,
+    "27": 0,
+    "3": 8043
+  },
+  "description": "",
+  "displayName": "NJ - Spinner Elevator Moving Plat",
+  "gate_version": "njhub",
+  "id": 16715,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Spinner Elevator Moving Plat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

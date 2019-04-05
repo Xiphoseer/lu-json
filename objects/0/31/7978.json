@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7524,
+    "3": 3657
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7978,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Plaza building FX locator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

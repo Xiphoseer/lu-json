@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3191,
+    "2": 6734,
+    "9": 0
+  },
+  "description": "High damage bullet for spider boss",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7154,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "5 damage bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 313
+    }
+  ],
+  "type": "Shooting Gallery"
+}

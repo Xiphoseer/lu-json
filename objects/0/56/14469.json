@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test",
+  "components": {
+    "11": 7102,
+    "2": 14158
+  },
+  "description": "test",
+  "displayName": "test Fruit",
+  "gate_version": "njhub",
+  "id": 14469,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "test Fruit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

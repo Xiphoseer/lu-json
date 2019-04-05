@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5398,
+    "20": 3532,
+    "5": 1041,
+    "7": 759,
+    "9": 0
+  },
+  "description": "Car Landmine",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7865,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Car Landmine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 411
+    }
+  ],
+  "type": "Enemies"
+}

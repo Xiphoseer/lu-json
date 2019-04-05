@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Put this on to start building",
+  "components": {
+    "11": 2496,
+    "2": 5361
+  },
+  "description": "Put this on to start building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5964,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test prereq system - pet turban",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

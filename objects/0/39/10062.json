@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Auto Elevator",
+  "components": {
+    "11": 4886,
+    "2": 9898
+  },
+  "description": "Auto Elevator",
+  "displayName": "Auto Elevator Behavior",
+  "gate_version": null,
+  "id": 10062,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Auto Elevator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6712,
+    "2": 13322,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Gat Gun Sprayer",
+  "gate_version": "nexustower",
+  "id": 13585,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gat Gun Sprayer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1244
+    }
+  ],
+  "type": "Loot"
+}

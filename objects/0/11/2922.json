@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2439,
+    "25": 0,
+    "27": 0,
+    "3": 1107
+  },
+  "description": "Team 8",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2922,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Infinity - Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP",
+  "components": {
+    "11": 6036,
+    "2": 12038,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Winter Parka",
+  "gate_version": "dec2010content",
+  "id": 12289,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Winter Parka",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

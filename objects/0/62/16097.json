@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14816,
+    "3": 7586
+  },
+  "description": "",
+  "displayName": "NJ mon - catapult arm",
+  "gate_version": "njhub",
+  "id": 16097,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ mon - catapult arm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

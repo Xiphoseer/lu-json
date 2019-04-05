@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3202,
+    "2": 7112,
+    "5": 1083,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Samurai Bow 3",
+  "gate_version": null,
+  "id": 7547,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Samurai Offhand 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 571
+    }
+  ],
+  "type": "Loot"
+}

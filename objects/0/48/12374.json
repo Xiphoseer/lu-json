@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 6079,
+    "2": 12125,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Parka Jacket",
+  "gate_version": "dec2010content",
+  "id": 12374,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Parka Jacket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

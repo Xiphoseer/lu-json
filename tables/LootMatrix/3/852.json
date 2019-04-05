@@ -1,0 +1,45 @@
+{
+  "LootMatrixIndex": 852,
+  "elements": [
+    {
+      "LootTableIndex": 3,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4499,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 420,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4500,
+      "maxToDrop": 3,
+      "minToDrop": 2,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 97,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4502,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4503,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 0.10000000149011612
+    }
+  ]
+}

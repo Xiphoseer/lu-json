@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1740,
+    "2": 2465,
+    "5": 690,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "PvP Red Flag Loot",
+  "gate_version": null,
+  "id": 4821,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PvP Red Flag Loot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 182
+    }
+  ],
+  "type": "Loot"
+}

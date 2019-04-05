@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5677,
+    "3": 2586
+  },
+  "description": "Moving Platform 4 near waterfall start",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6258,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTOTYPE GF wall platform 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5977,
+    "2": 11784,
+    "28": 258,
+    "3": 5833,
+    "42": 0,
+    "63": 6
+  },
+  "description": null,
+  "displayName": "Mach Lava Rear Bumper",
+  "gate_version": "FVracetrack",
+  "id": 12035,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarFV2_RearBumper_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

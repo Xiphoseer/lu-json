@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5257,
+    "2": 10648,
+    "3": 4922,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Grandfather Clock Model",
+  "gate_version": null,
+  "id": 10801,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward GrandfatherClock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

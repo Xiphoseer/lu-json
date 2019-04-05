@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4855,
+    "2": 9849,
+    "3": 4428
+  },
+  "description": "VFX Thinking Cap Tester",
+  "displayName": "VFX Thinking Cap Tester",
+  "gate_version": null,
+  "id": 10022,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Thinking Cap Tester",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

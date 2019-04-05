@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Achievement Reward",
+  "components": {
+    "11": 7175,
+    "2": 14365,
+    "53": 134
+  },
+  "description": "Double-click to use!",
+  "displayName": "Armor Repair Kit",
+  "gate_version": "freetrial",
+  "id": 14680,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Armor Repair Kit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

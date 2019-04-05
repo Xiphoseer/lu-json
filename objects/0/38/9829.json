@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4773,
+    "2": 9665
+  },
+  "description": "NPC Gangway Kelly Hat",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9829,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Gangway Kelly Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

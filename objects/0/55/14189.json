@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Found in the Assembly section of Nexus Tower",
+  "components": {
+    "2": 13897,
+    "3": 7050
+  },
+  "description": "NT Assembly Fishtank - Found in the Assembly section of Nexus Tower",
+  "displayName": "NT Assembly Fishtank",
+  "gate_version": "nexustower",
+  "id": 14189,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT Assembly Fishtank",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

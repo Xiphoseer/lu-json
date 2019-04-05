@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2472,
+    "2": 5264,
+    "53": 4
+  },
+  "description": "Double-click to open this pack of bricks!",
+  "displayName": "Brick Booster Pack",
+  "gate_version": null,
+  "id": 5834,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Brick Booster Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

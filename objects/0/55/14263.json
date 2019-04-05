@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13978,
+    "3": 7097,
+    "7": 1988
+  },
+  "description": null,
+  "displayName": "NJ Lightning Flower smashable",
+  "gate_version": "njhub",
+  "id": 14263,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Lightning Flower smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

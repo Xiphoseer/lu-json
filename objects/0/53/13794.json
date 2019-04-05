@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 520,
+    "2": 13533,
+    "3": 1777,
+    "35": 610,
+    "5": 1731,
+    "7": 305,
+    "73": 160
+  },
+  "description": "__MG__Ninjago Guard 1",
+  "displayName": "Toshiro Gojira - Ninjago Monastery Guard",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 13794,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ Mon- Ninjago Guard 1 Toshiro Gojira - Ninjago Monastery Guard",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

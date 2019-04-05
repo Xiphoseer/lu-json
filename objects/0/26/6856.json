@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 2876,
+    "2": 6409,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Orange Shoulder Parrot",
+  "gate_version": null,
+  "id": 6856,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shoulder Parrot Orange",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 48,
+    "2": 5785,
+    "3": 1777,
+    "35": 206,
+    "7": 306
+  },
+  "description": "AG Accessory Vendor - Picnic",
+  "displayName": "Sofia Amalgam - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 137,
+      "iconState": 66
+    },
+    {
+      "iconID": 138,
+      "iconState": 69
+    },
+    {
+      "iconID": 177,
+      "iconState": 70
+    }
+  ],
+  "id": 6338,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG Gear Vendor - Picnic",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11137,
+    "3": 5269
+  },
+  "description": "RACE-FVTrack02_TRACK_FVDropOff",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11370,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack02_TRACK_FVDropOff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

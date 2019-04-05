@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5860,
+    "2": 11561,
+    "3": 5653,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Shed End Right Double Model",
+  "gate_version": "march2011content",
+  "id": 11809,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Shed End Right Double",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

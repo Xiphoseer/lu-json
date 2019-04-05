@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4371,
+    "25": 0,
+    "3": 2252
+  },
+  "description": "Moving Platform Piston Pusher for Monument in Scene 2 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4948,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Piston Pusher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

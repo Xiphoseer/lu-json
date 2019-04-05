@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "value 100000 coins",
+  "components": {
+    "11": 2883,
+    "2": 6416
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Dark Blue Gem",
+  "gate_version": null,
+  "id": 6861,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dark Blue Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

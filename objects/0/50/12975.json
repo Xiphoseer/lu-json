@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12760,
+    "40": 6304,
+    "5": 1423
+  },
+  "description": "Volume that fits the Fingers  area in Crux Prime",
+  "displayName": "Fingers Area Trigger Volume",
+  "gate_version": "auramar",
+  "id": 12975,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CP - Fingers Area Trigger Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

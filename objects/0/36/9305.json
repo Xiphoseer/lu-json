@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4019,
+    "2": 8759,
+    "48": 137,
+    "5": 1117,
+    "60": 46,
+    "7": 918,
+    "9": 0
+  },
+  "description": "Engineer Rank 3 Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Engineer Turret Rank 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 620
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 621
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 622
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 623
+    }
+  ],
+  "type": "Rebuildables"
+}

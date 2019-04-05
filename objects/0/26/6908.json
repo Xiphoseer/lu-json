@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2918,
+    "2": 6469,
+    "7": 646,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Faction Grunt Helmet Hand Modeled",
+  "gate_version": null,
+  "id": 6908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Faction Grunt Helmet Hand Modeled",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 151
+    }
+  ],
+  "type": "Loot"
+}

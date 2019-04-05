@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11168,
+    "3": 5293,
+    "39": 60
+  },
+  "description": "model that puts player in an instance for WT race",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11418,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WT - Race Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

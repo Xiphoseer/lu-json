@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 4 IP",
+  "components": {
+    "11": 6978,
+    "2": 13812,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bricksel Adams Shirt",
+  "gate_version": "nexustower",
+  "id": 14101,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bricksel Adams Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

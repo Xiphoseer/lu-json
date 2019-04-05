@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7074,
+    "2": 14048,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Assembly Gear - Summoner - offhand  proxy",
+  "gate_version": "freetrial",
+  "id": 14357,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Assembly Gear - Summoner - offhand  proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 689
+    }
+  ],
+  "type": "Loot"
+}

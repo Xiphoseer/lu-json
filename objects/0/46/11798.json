@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5849,
+    "2": 11550,
+    "3": 5642,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Stapler Model",
+  "gate_version": "nexustower",
+  "id": 11798,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Rewared Office Stapler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

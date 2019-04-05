@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7565,
+    "2": 15020
+  },
+  "description": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "displayName": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "gate_version": "njhub",
+  "id": 16274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy Ice 1 Ninja Hood - Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

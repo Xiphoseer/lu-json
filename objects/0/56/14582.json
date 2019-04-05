@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14265,
+    "3": 7311,
+    "5": 1579
+  },
+  "description": "AG_launch_storm_mesh",
+  "displayName": "AG_launch_storm_mesh",
+  "gate_version": "freetrial",
+  "id": 14582,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AG_launch_storm_mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

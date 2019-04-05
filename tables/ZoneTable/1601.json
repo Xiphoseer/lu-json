@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "DeepFreeze",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1601.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": true,
+  "fZoneWeight": 1.0,
+  "gate_version": null,
+  "ghostdistance": 500.0,
+  "ghostdistance_min": 150.0,
+  "heightInChunks": null,
+  "locStatus": 2,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 20,
+  "population_soft_cap": 15,
+  "scriptID": 1346,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": "zone_thumnails/deepfreeze.dds",
+  "widthInChunks": null,
+  "zoneControlTemplate": 13006,
+  "zoneID": 1601,
+  "zoneName": "01_Live_Maps/WBL/Deep_Freeze_Intro/wbl_deep_freeze_intro.luz"
+}

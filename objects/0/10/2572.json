@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2188,
+    "25": 0,
+    "3": 31
+  },
+  "description": "Moving Obstacle",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2572,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Moving Obstacle - Cube",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/3/3569.json"
+    }
+  },
+  "behaviorID": 3569,
+  "effectHandle": null,
+  "effectID": 167,
+  "parameters": {
+    "airspeed": 20.0,
+    "enable_hover": 0.0,
+    "max_airspeed": 30.0,
+    "vertical_velocity": 1.5
+  },
+  "templateID": 31
+}

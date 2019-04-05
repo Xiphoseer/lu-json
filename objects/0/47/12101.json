@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 3 AP",
+  "components": {
+    "11": 5993,
+    "2": 11850,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Mosaic Shoulderpads",
+  "gate_version": "auramar",
+  "id": 12101,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mosaic Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

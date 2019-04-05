@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NJ Master Fire Kit",
+  "components": {
+    "11": 7169,
+    "2": 14285,
+    "9": 0
+  },
+  "description": "NJ Master Fire Kit",
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14606,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Master Fire Spinjitzu Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

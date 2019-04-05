@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4900,
+    "2": 9914,
+    "3": 4452,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Wall End Model",
+  "gate_version": null,
+  "id": 10078,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Wall End",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

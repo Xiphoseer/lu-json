@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12159,
+    "23": 45,
+    "40": 6086,
+    "7": 1710
+  },
+  "description": "Collectible Spawner for Scavenger Hunt Item",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12406,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Scavenger Hunt Item Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

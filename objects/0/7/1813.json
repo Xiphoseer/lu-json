@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1394,
+    "2": 2391,
+    "5": 67,
+    "7": 204
+  },
+  "description": "Test; don't use in a production map",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1813,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Zoo Ninja 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

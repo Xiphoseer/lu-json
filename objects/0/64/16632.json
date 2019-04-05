@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Quest item for Ninjago mission, drops from Skeletons on Siege Field",
+  "components": {
+    "11": 7821,
+    "2": 15416,
+    "9": 0
+  },
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "displayName": "Maelstrom Dagger",
+  "gate_version": "njhub",
+  "id": 16632,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Dagger First mission",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1497
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1498
+    }
+  ],
+  "type": "Loot"
+}

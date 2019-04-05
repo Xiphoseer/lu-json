@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP",
+  "components": {
+    "11": 7462,
+    "2": 14806,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Classy Kimono",
+  "gate_version": "njhub",
+  "id": 16087,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Classy Kimono",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

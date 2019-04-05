@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4616,
+    "2": 10224,
+    "5": 1165,
+    "60": 60,
+    "7": 1550,
+    "9": 0
+  },
+  "description": "Enemy for property unlock maps",
+  "displayName": "Stromling Pirate",
+  "gate_version": null,
+  "id": 10378,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property - Stromling Pirate",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 239
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 240
+    }
+  ],
+  "type": "Enemies"
+}

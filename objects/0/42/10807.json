@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 5263,
+    "2": 10654,
+    "3": 4928,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Trough and Horses Model",
+  "gate_version": null,
+  "id": 10807,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Trough",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

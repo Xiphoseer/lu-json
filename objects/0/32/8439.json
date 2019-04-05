@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7995,
+    "3": 3921
+  },
+  "description": "Wall blocking off dragon area from paradox area.",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8439,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Ancient Dragon Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3878,
+    "2": 8180,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Dark Blue Princess Shirt",
+  "gate_version": null,
+  "id": 8623,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Princess Shirt 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

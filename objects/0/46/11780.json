@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5831,
+    "2": 11532,
+    "3": 5624,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Credenza 1 Model",
+  "gate_version": "nexustower",
+  "id": 11780,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Office Credenza 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

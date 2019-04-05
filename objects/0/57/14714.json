@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 7/7/7 NJ Piercing",
+  "components": {
+    "11": 7211,
+    "2": 14402,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sankaku Yari",
+  "gate_version": "njhub",
+  "id": 14714,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sankaku Yari",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1432
+    }
+  ],
+  "type": "Loot"
+}

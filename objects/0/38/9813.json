@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4765,
+    "2": 9649,
+    "3": 4303,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Modular Dock Model 2",
+  "gate_version": null,
+  "id": 9813,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Modular Dock 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

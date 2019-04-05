@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "use for team Luptario",
+  "components": {
+    "2": 10872,
+    "3": 5171
+  },
+  "description": "ambient bunny for Luptario",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11120,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Brown bunny",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

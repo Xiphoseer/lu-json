@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 383,
+    "2": 10258,
+    "3": 1777,
+    "35": 481
+  },
+  "description": "GF - Pirate Ambient 8",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10414,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PirateAmbient8",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

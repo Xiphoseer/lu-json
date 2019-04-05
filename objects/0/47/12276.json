@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12024,
+    "3": 6001,
+    "48": 167,
+    "7": 1680
+  },
+  "description": " Platform for AM AuraMar Venture quickbuild",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12276,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Venture QB  platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

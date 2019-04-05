@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15265,
+    "3": 7906
+  },
+  "description": "NJHub - Rocket Launch Cave",
+  "displayName": "NJHub - Rocket Launch Cave",
+  "gate_version": "njhub",
+  "id": 16516,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJHub - Rocket Launch Cave",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

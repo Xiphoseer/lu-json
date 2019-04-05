@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6541,
+    "2": 12977,
+    "28": 297,
+    "3": 6438,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "TEST IAN HALL FOR SUBMIT Nose Cone",
+  "gate_version": null,
+  "id": 13245,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST MOD IAN HALL FOR SUBMIT Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7306,
+    "2": 14528
+  },
+  "description": "NPC Red Samurai Armor",
+  "displayName": "NPC Red Samurai Armor",
+  "gate_version": "njhub",
+  "id": 14834,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Red Samurai Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

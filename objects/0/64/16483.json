@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 15229,
+    "23": 80,
+    "40": 7884
+  },
+  "description": "",
+  "displayName": "Dragon Relic of Fire",
+  "gate_version": "njhub",
+  "id": 16483,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Fire Dragon Relic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4530,
+    "2": 9301,
+    "28": 186,
+    "3": 4076,
+    "42": 0,
+    "63": 5
+  },
+  "description": null,
+  "displayName": "Just Dashing Side Panels",
+  "gate_version": null,
+  "id": 9442,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car4_SidePanels2_b",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

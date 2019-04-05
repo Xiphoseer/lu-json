@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7644,
+    "3": 3731
+  },
+  "description": "Animated UV Test Object 1",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8100,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_ns_hazard_lights",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

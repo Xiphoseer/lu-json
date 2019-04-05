@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4655,
+    "2": 10340,
+    "5": 1227,
+    "60": 64,
+    "7": 1561,
+    "9": 0
+  },
+  "description": "Spawned from Behavior, no loot",
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 10495,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior Spawn - Stromling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

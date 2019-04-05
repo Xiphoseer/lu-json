@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3847,
+    "2": 8148,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Pet Mantis Shirt",
+  "gate_version": null,
+  "id": 8591,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pet Mantis Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

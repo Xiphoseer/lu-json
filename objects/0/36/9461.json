@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6337,
+    "3": 3142,
+    "75": 1
+  },
+  "description": "Testing out the LUP showcases",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9461,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - LUP Exhibit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Exhibits"
+}

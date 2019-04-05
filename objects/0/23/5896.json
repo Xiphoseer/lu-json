@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5312,
+    "3": 2444,
+    "40": 2443,
+    "5": 771
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5896,
+  "interactionDistance": 5.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Teleport Orange",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

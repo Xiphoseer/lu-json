@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth element Switch spinner trap",
+  "components": {
+    "2": 14930,
+    "25": 11,
+    "3": 7641,
+    "39": 115,
+    "5": 1649
+  },
+  "description": "",
+  "displayName": "NJ - Earth - Switch Spinner  Trap",
+  "gate_version": "njhub",
+  "id": 16214,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Switch Spinner  Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

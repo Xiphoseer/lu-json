@@ -1,0 +1,19 @@
+{
+  "id": 111,
+  "tasks": [
+    {
+      "IconID": 3028,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Pet_Ranch\\Task_icons\\pet_food.dds",
+      "largeTaskIconID": 3027,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3981,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 116
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 3 Specialty Kit Item - Proxy",
+  "components": {
+    "11": 4772,
+    "2": 9657,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item. Tied to Daredevil weapon 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9820,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Daredevil Offhand 3 - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 701
+    }
+  ],
+  "type": "Loot"
+}

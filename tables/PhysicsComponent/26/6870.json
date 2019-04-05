@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 1,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 6870,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "env\\nexustower\\env_nextower_G08-shell_lups-door.HKX",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

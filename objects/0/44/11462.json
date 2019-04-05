@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 2 Specialty Kit Item - Proxy",
+  "components": {
+    "11": 5550,
+    "2": 11210,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item. Tied to Shinobi Weapon 2",
+  "displayName": "Shinobi Offhand 2 - Proxy",
+  "gate_version": "factionkit2",
+  "id": 11462,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shinobi Offhand 2 - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1078
+    }
+  ],
+  "type": "Loot"
+}

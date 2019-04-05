@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6180,
+    "2": 12345,
+    "7": 1745,
+    "9": 0
+  },
+  "description": "Explosive used by Firecracker skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12555,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Massive Firecracker Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 995
+    }
+  ],
+  "type": "Shooting Gallery"
+}

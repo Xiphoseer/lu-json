@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2174,
+    "3": 1777,
+    "5": 81
+  },
+  "description": "apparently not used?",
+  "displayName": "Master Fong Shader - Paradox Sensei",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 2498,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninja Sensei",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

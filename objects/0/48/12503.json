@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6136,
+    "2": 12274,
+    "3": 6141,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Repair Facility Model",
+  "gate_version": "auramar",
+  "id": 12503,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Repair Facility",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

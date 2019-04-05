@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7707,
+    "20": 3775,
+    "5": 1060,
+    "7": 860
+  },
+  "description": "Racing baracade used to hide secret areas of the race track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8163,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Racing barricade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

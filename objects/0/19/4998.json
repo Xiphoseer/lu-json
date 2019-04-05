@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 99,
+    "2": 5053,
+    "3": 2318,
+    "35": 131,
+    "5": 720
+  },
+  "description": "AG - Race Course NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Course Photographer",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

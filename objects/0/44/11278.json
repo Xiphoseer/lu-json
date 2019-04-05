@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11049,
+    "20": 5210,
+    "5": 1079
+  },
+  "description": "FV - Track BoostPad right before bounce",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11278,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Track BoostPad 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

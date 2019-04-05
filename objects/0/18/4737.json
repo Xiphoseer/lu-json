@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4157,
+    "3": 2055
+  },
+  "description": "this is a test object for the brick water shader prototype",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4737,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "parallax water shader plane test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

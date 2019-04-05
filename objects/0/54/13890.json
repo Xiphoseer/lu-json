@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "for testing consumable skills",
+  "components": {
+    "11": 6914,
+    "2": 13614,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Test consumable of Testing",
+  "gate_version": null,
+  "id": 13890,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test consumable of Testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 869
+    }
+  ],
+  "type": "Loot"
+}

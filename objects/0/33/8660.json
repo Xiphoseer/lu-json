@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8216,
+    "3": 3970,
+    "7": 901
+  },
+  "description": "Used inside the parrot fortress",
+  "displayName": "Pirate Treasure Chest",
+  "gate_version": null,
+  "id": 8660,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

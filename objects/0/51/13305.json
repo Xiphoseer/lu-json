@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13032,
+    "3": 6487,
+    "7": 1826
+  },
+  "description": "Test of smashable bridge idea",
+  "displayName": "Proto_Bridge",
+  "gate_version": "auramar",
+  "id": 13305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Proto_Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

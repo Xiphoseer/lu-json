@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5937,
+    "2": 11638,
+    "3": 5730,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Sleigh Model",
+  "gate_version": "dec2010content",
+  "id": 11886,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Sleigh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

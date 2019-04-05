@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 282,
+    "2": 3070,
+    "3": 1510,
+    "35": 356,
+    "36": 0,
+    "65": 0
+  },
+  "description": "This almost-vendor rents property",
+  "displayName": "Property Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 3189,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Guy the Land Agent",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

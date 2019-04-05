@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12692,
+    "3": 6275,
+    "5": 1448
+  },
+  "description": "Rocket freeze sequence for Crux Prime",
+  "displayName": "Crux Prime Frozen Rocket",
+  "gate_version": null,
+  "id": 12908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Frozen Crux Prime Rocket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

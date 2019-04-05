@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4661,
+    "2": 10365,
+    "31": 35,
+    "5": 1231,
+    "60": 67,
+    "7": 1565,
+    "9": 0
+  },
+  "description": "Ronin spawned by flying dragon fireball effect",
+  "displayName": "Dark Ronin",
+  "gate_version": null,
+  "id": 10512,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV - Dragon Spawned Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

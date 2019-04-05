@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Hive spawned from Inventor Beehive Surprise Projectile",
+  "components": {
+    "1": 6239,
+    "2": 12613,
+    "5": 1403,
+    "7": 1778,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Inventor Beehive 1",
+  "gate_version": "factionkit2",
+  "id": 12824,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Inventor Beehive 1",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1044
+    }
+  ],
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2543,
+    "2": 5475,
+    "3": 2533,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Raft with Sails Model",
+  "gate_version": null,
+  "id": 6068,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Raft",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

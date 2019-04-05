@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1918,
+    "2": 3249,
+    "5": 610
+  },
+  "description": "Allows access to the ZP SG",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 10,
+      "iconState": 65
+    }
+  ],
+  "id": 3922,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP Shooting Gallery NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

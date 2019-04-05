@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5160,
+    "2": 10294
+  },
+  "description": "A remote detonator for dynamite. This behavior requires the Dynamite Behavior to be placed on a model.",
+  "displayName": "Remote Detonator Behavior",
+  "gate_version": null,
+  "id": 10451,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Remote Detonator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

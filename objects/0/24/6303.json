@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Car Stuff",
+  "components": {
+    "11": 2614,
+    "2": 5742
+  },
+  "description": null,
+  "displayName": "Brown Chassis",
+  "gate_version": null,
+  "id": 6303,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Brown Chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

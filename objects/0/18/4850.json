@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4285,
+    "40": 1034,
+    "5": 677
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4850,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - Obj Flag Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

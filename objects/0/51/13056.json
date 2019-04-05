@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible Parrot Spawner for NT",
+  "components": {
+    "2": 12840,
+    "23": 53,
+    "40": 6351,
+    "7": 1803
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13056,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CP - Collectable Scroll Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

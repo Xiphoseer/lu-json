@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "use for team Luptario",
+  "components": {
+    "2": 10888,
+    "3": 5173,
+    "5": 1050
+  },
+  "description": "ambient dancing penguin",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11140,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Penguin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

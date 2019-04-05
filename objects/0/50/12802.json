@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/4/4 + 1 LP",
+  "components": {
+    "11": 6350,
+    "2": 12592,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bat Lord Staff",
+  "gate_version": "auramar",
+  "id": 12802,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bat Lord Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1139
+    }
+  ],
+  "type": "Loot"
+}

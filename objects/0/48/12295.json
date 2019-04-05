@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 6039,
+    "2": 12045,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Snow Flake Shield",
+  "gate_version": "dec2010content",
+  "id": 12295,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Snow Flake Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

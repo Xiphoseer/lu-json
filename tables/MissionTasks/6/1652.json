@@ -1,0 +1,47 @@
+{
+  "id": 1652,
+  "tasks": [
+    {
+      "IconID": 3188,
+      "gate_version": "dailymissions2.0",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3165,
+      "locStatus": 2,
+      "localize": true,
+      "target": 8552,
+      "targetGroup": null,
+      "targetValue": 3,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 2304
+    },
+    {
+      "IconID": 3188,
+      "gate_version": "dailymissions2.0",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3165,
+      "locStatus": 2,
+      "localize": true,
+      "target": 8329,
+      "targetGroup": null,
+      "targetValue": 3,
+      "taskParam1": null,
+      "taskType": 2,
+      "uid": 2313
+    },
+    {
+      "IconID": 3187,
+      "gate_version": "dailymissions2.0",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3164,
+      "locStatus": 2,
+      "localize": true,
+      "target": 11226,
+      "targetGroup": "11225,7805",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 2314
+    }
+  ]
+}

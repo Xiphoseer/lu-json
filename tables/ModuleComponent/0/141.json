@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 6,
+  "id": 141,
+  "partCode": 4,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"9397\" name=\"rear panel\"><PlacementRotation x=\"0.0\" y=\"0.707\" z=\"0\" w=\"0.707\" /><BuildingPosition x=\"0\" y=\"0\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" /><connection name=\"CHASSIS_IMAG_TANK\"><translation x=\"0.0\" y=\"2.7146\" z=\"-2.8\" /></connection></ModuleInfo>"
+}

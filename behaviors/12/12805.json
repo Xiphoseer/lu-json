@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/12/12805.json"
+    }
+  },
+  "behaviorID": 12805,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "interrupt_attack": 1.0,
+    "interrupt_charge": 1.0,
+    "target": 1.0
+  },
+  "templateID": 41
+}

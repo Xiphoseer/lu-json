@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3032,
+    "2": 6919,
+    "5": 1076,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Knight Helm 1",
+  "gate_version": null,
+  "id": 7355,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Knight Head 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 777
+    }
+  ],
+  "type": "Loot"
+}

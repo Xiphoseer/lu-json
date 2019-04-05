@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6357,
+    "3": 2994,
+    "43": 0,
+    "67": 0
+  },
+  "description": "Place on a Property Rocket Launchpad (7678). EXPERIMENTAL! dont use yet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7243,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "UGG - Property Rocket Launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

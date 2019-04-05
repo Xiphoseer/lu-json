@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2993,
+    "3": 1777,
+    "5": 541
+  },
+  "description": "thirsty troll in YRK maze",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3634,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Troll",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

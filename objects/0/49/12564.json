@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6170,
+    "2": 12354
+  },
+  "description": "NPC Skeleton Head Engineer",
+  "displayName": "NPC Skeleton Head Engineer",
+  "gate_version": "auramar",
+  "id": 12564,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skeleton Head Engineer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

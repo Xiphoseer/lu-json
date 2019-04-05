@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5918,
+    "40": 3334,
+    "5": 1018,
+    "7": 26
+  },
+  "description": "Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7577,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Race PowerBoost + 20",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

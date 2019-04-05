@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 14539,
+    "23": 62,
+    "40": 7472,
+    "7": 2051
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Earth.",
+  "displayName": "Earth Key",
+  "gate_version": "njhub",
+  "id": 15846,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - earth elemental key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant",
+  "components": {
+    "11": 6926,
+    "2": 13643,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Elite Halberd",
+  "gate_version": "communitymissions1.0",
+  "id": 13919,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Halberd",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 290
+    }
+  ],
+  "type": "Loot"
+}

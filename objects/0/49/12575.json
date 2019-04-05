@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Small Stromling spider for property Pushback",
+  "components": {
+    "1": 6186,
+    "2": 12365,
+    "31": 23,
+    "5": 1377,
+    "60": 100,
+    "7": 1748,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Spiderling",
+  "gate_version": null,
+  "id": 12575,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property - Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

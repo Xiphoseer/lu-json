@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 2 IP",
+  "components": {
+    "11": 6029,
+    "2": 11989,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Warm Cap",
+  "gate_version": "dec2010content",
+  "id": 12242,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Warm Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

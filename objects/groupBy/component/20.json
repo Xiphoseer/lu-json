@@ -1,0 +1,392 @@
+[
+  {
+    "comp_val": 3334,
+    "id": 7680,
+    "name": "Spawner - RACING Imagination Powerup 1 point"
+  },
+  {
+    "comp_val": 3525,
+    "id": 7857,
+    "name": "GF - Racing Tooth A"
+  },
+  {
+    "comp_val": 3527,
+    "id": 7860,
+    "name": "GF - Racing Jawbone B"
+  },
+  {
+    "comp_val": 3528,
+    "id": 7861,
+    "name": "GF - Racing Jawbone C"
+  },
+  {
+    "comp_val": 3529,
+    "id": 7862,
+    "name": "GF - Racing Jawbone D"
+  },
+  {
+    "comp_val": 3530,
+    "id": 7863,
+    "name": "GF - Racing Jawbone E"
+  },
+  {
+    "comp_val": 3531,
+    "id": 7864,
+    "name": "GF - Racing Jawbone F"
+  },
+  {
+    "comp_val": 3532,
+    "id": 7865,
+    "name": "Car Landmine"
+  },
+  {
+    "comp_val": 3775,
+    "id": 8163,
+    "name": "GF - Racing barricade"
+  },
+  {
+    "comp_val": 3776,
+    "id": 8164,
+    "name": "GF - Racing Imagine Crate"
+  },
+  {
+    "comp_val": 3777,
+    "id": 8165,
+    "name": "GF - Racing crate"
+  },
+  {
+    "comp_val": 3778,
+    "id": 8166,
+    "name": "GF - Racing Maelstrom chest"
+  },
+  {
+    "comp_val": 3779,
+    "id": 8167,
+    "name": "GF - Racing barrel"
+  },
+  {
+    "comp_val": 3927,
+    "id": 8225,
+    "name": "TEST - vehicle boost trigger"
+  },
+  {
+    "comp_val": 6995,
+    "id": 8292,
+    "name": "TEST - vehicle slowdown trigger"
+  },
+  {
+    "comp_val": 3859,
+    "id": 8293,
+    "name": "TEST - rigid body phantom object3"
+  },
+  {
+    "comp_val": 3900,
+    "id": 8418,
+    "name": "GFTrack_CavesExitDeathPlane"
+  },
+  {
+    "comp_val": 3918,
+    "id": 8436,
+    "name": "GFTrack BoostPad1 Docks"
+  },
+  {
+    "comp_val": 3920,
+    "id": 8438,
+    "name": "GFTrack BoostPad2 CliffRoad"
+  },
+  {
+    "comp_val": 3922,
+    "id": 8440,
+    "name": "GFTrack BoostPad3 CanopyAscent"
+  },
+  {
+    "comp_val": 3924,
+    "id": 8442,
+    "name": "GFTrack BoostPad4 Caves"
+  },
+  {
+    "comp_val": 3925,
+    "id": 8443,
+    "name": "GFTrack BoostPad5 Waterfall"
+  },
+  {
+    "comp_val": 3982,
+    "id": 9252,
+    "name": "TEST GF-race death volume"
+  },
+  {
+    "comp_val": 3984,
+    "id": 9253,
+    "name": "TEST GF-race death volume 2"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9534,
+    "name": "Racing - GF Lap 01 Good Collider"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9609,
+    "name": "Racing - GF Lap 01 Bad Collider"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9610,
+    "name": "Racing - GF Lap 02 Good Collider"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9611,
+    "name": "Racing - GF Lap 02 Bad Collider"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9612,
+    "name": "Racing - GF Lap 03 Good Collider"
+  },
+  {
+    "comp_val": 1989,
+    "id": 9613,
+    "name": "Racing - GF Lap 03 Bad Collider"
+  },
+  {
+    "comp_val": 4194,
+    "id": 9631,
+    "name": "NSTrack BoostPad1 SpaceWarp"
+  },
+  {
+    "comp_val": 4195,
+    "id": 9633,
+    "name": "NSTrack BoostPad2 SpaceWarp"
+  },
+  {
+    "comp_val": 4198,
+    "id": 9643,
+    "name": "GFTrack_DeathVol2_RoadGaps"
+  },
+  {
+    "comp_val": 4233,
+    "id": 9679,
+    "name": "NSTrack_DeathVol1_ThrusterGap"
+  },
+  {
+    "comp_val": 2354,
+    "id": 9778,
+    "name": "GF - Race - Barricade Striped"
+  },
+  {
+    "comp_val": 4331,
+    "id": 9834,
+    "name": "GF - Racing Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 4335,
+    "id": 9862,
+    "name": "Sound Trigger (for Racing) -- Box"
+  },
+  {
+    "comp_val": 4336,
+    "id": 9863,
+    "name": "Sound Trigger (for Racing) -- Sphere"
+  },
+  {
+    "comp_val": 3779,
+    "id": 9904,
+    "name": "lego-asteroids"
+  },
+  {
+    "comp_val": 4397,
+    "id": 9941,
+    "name": "NS - Racing maelstrom barrel"
+  },
+  {
+    "comp_val": 5065,
+    "id": 9942,
+    "name": "NS - Racing barrel"
+  },
+  {
+    "comp_val": 4409,
+    "id": 9981,
+    "name": "NS - Racing Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 4411,
+    "id": 9984,
+    "name": "NS - Racing crate"
+  },
+  {
+    "comp_val": 4497,
+    "id": 10150,
+    "name": "JITestObj3"
+  },
+  {
+    "comp_val": 5016,
+    "id": 10989,
+    "name": "TEST vehicle bouncer"
+  },
+  {
+    "comp_val": 5035,
+    "id": 11022,
+    "name": "Racing Bouncer"
+  },
+  {
+    "comp_val": 1989,
+    "id": 11026,
+    "name": "Racing - GF FX"
+  },
+  {
+    "comp_val": 1989,
+    "id": 11154,
+    "name": "Racing - NS FX"
+  },
+  {
+    "comp_val": 5208,
+    "id": 11276,
+    "name": "FV - Track BoostPad 1"
+  },
+  {
+    "comp_val": 5209,
+    "id": 11277,
+    "name": "FV - Track BoostPad 2"
+  },
+  {
+    "comp_val": 5210,
+    "id": 11278,
+    "name": "FV - Track BoostPad 3"
+  },
+  {
+    "comp_val": 4233,
+    "id": 11359,
+    "name": "NSWinterTrack_IceVol1"
+  },
+  {
+    "comp_val": 5284,
+    "id": 11386,
+    "name": "FV Racing Geiser Block"
+  },
+  {
+    "comp_val": 5291,
+    "id": 11390,
+    "name": "FV - Racing Maelstrom statue"
+  },
+  {
+    "comp_val": 5292,
+    "id": 11391,
+    "name": "GF - Racing Imagine Crate"
+  },
+  {
+    "comp_val": 5288,
+    "id": 11405,
+    "name": "FV - Racing Dragon_egg"
+  },
+  {
+    "comp_val": 5289,
+    "id": 11406,
+    "name": "FV - Racing Dragon_egg_cluster"
+  },
+  {
+    "comp_val": 5290,
+    "id": 11407,
+    "name": "FV - Racing Paradox_Ramp"
+  },
+  {
+    "comp_val": 5296,
+    "id": 11420,
+    "name": "FV - Racing Fence"
+  },
+  {
+    "comp_val": 5301,
+    "id": 11424,
+    "name": "NS-Snowman_bucket"
+  },
+  {
+    "comp_val": 5302,
+    "id": 11425,
+    "name": "NS-Snowman_hydrant"
+  },
+  {
+    "comp_val": 5308,
+    "id": 11456,
+    "name": "NS-present_1"
+  },
+  {
+    "comp_val": 5309,
+    "id": 11457,
+    "name": "NS-present_2"
+  },
+  {
+    "comp_val": 5318,
+    "id": 11471,
+    "name": "FV - Racing start_broken_track"
+  },
+  {
+    "comp_val": 5324,
+    "id": 11478,
+    "name": "NSTrack_phyvol_snowdrift01"
+  },
+  {
+    "comp_val": 5338,
+    "id": 11492,
+    "name": "NSTrack_phyvol_snowdrift02"
+  },
+  {
+    "comp_val": 5339,
+    "id": 11493,
+    "name": "NSTrack_phyvol_snowdrift03"
+  },
+  {
+    "comp_val": 5341,
+    "id": 11495,
+    "name": "NSWinterTrack_IceVol_Global"
+  },
+  {
+    "comp_val": 5342,
+    "id": 11496,
+    "name": "NSWinterTrack_IceVol_Secondary"
+  },
+  {
+    "comp_val": 5741,
+    "id": 11906,
+    "name": "FV - Racing Paradox_Ramp_2"
+  },
+  {
+    "comp_val": 5743,
+    "id": 11908,
+    "name": "FV- railing smashable red"
+  },
+  {
+    "comp_val": 5755,
+    "id": 11921,
+    "name": "FV_broken_track_mesh"
+  },
+  {
+    "comp_val": 5766,
+    "id": 11951,
+    "name": "FV racetrack -- ghost smashable -- EVIL"
+  },
+  {
+    "comp_val": 5885,
+    "id": 12120,
+    "name": "FV - Racing Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 6060,
+    "id": 12371,
+    "name": "FV racetrack -- ghost smashable -- GOOD"
+  },
+  {
+    "comp_val": 3900,
+    "id": 12811,
+    "name": "TEST KOTH volume"
+  },
+  {
+    "comp_val": 3334,
+    "id": 14012,
+    "name": "TEST CAR POWERUP"
+  },
+  {
+    "comp_val": 3334,
+    "id": 14050,
+    "name": "TEST CAR LANDMINE POWERUP"
+  }
+]

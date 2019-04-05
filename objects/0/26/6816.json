@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6320,
+    "3": 2997,
+    "39": 942,
+    "5": 942
+  },
+  "description": "Test for activity timers",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6816,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Activity Timer Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

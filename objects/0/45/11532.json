@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5583,
+    "2": 11284,
+    "3": 5376,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Airplane Model 7",
+  "gate_version": null,
+  "id": 11532,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Airplane 7",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

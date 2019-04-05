@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 100000 coins",
+  "components": {
+    "11": 7349,
+    "2": 14635
+  },
+  "description": "A valuable plate that can be sold!",
+  "displayName": "Dark Red Plate",
+  "gate_version": "njhub",
+  "id": 15943,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dark Red Plate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

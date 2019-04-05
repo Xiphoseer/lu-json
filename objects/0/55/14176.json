@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13885,
+    "25": 0,
+    "27": 0,
+    "3": 7043
+  },
+  "description": "moving lantern for the player to jump on",
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14176,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": false,
+  "name": "NJ - Small Lantern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2912,
+    "2": 6466,
+    "9": 0
+  },
+  "description": "",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6905,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Bow Regular",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 151
+    }
+  ],
+  "type": "Loot"
+}

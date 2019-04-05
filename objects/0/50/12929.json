@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12714,
+    "3": 6283
+  },
+  "description": "Box in Nexus Tower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12929,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "nextower_sentBOX",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

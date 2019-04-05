@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 123,
+    "2": 5152,
+    "35": 153,
+    "7": 307
+  },
+  "description": "Test Jackhammer Guy",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5723,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Jackhammerer",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

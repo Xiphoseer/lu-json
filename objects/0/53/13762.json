@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used in nexus tower mission chains",
+  "components": {
+    "11": 6869,
+    "2": 13502
+  },
+  "description": "",
+  "displayName": "Horseman Disguise Proxy Pants",
+  "gate_version": "nexustower",
+  "id": 13762,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Horseman Disguise Proxy Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

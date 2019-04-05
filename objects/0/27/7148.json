@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TEST Chest piece",
+  "components": {
+    "11": 3018,
+    "2": 6727,
+    "9": 0
+  },
+  "description": "TEST Chest piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7148,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Breastplate of Taunting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 309
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4412,
+    "2": 9183,
+    "28": 68,
+    "3": 4037,
+    "42": 0,
+    "63": 6
+  },
+  "description": null,
+  "displayName": "Chase Cutter Front Bumper 2",
+  "gate_version": null,
+  "id": 9324,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car1_FrontBumper3_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

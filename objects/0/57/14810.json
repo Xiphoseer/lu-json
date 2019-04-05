@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 2 AP",
+  "components": {
+    "11": 7283,
+    "2": 14497,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Green Cape",
+  "gate_version": "levelprogression",
+  "id": 14810,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2539,
+    "2": 5484,
+    "48": 64,
+    "5": 800,
+    "7": 504,
+    "9": 0
+  },
+  "description": "spams attacks on enemy players",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6089,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BTF AutoTurret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Rebuildables"
+}

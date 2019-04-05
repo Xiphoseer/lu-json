@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP 4 AP",
+  "components": {
+    "11": 6223,
+    "2": 12464,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Fleur-de-Lis Shield",
+  "gate_version": "nexustower",
+  "id": 12675,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fleur-di-lis Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

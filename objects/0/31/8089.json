@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4862,
+    "17": 389,
+    "2": 7635,
+    "31": 36,
+    "5": 846,
+    "60": 32,
+    "7": 854,
+    "9": 0
+  },
+  "description": "survival stromling",
+  "displayName": "Hammer Stromling",
+  "gate_version": null,
+  "id": 8089,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Survival Stromling Lvl 3",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 485
+    }
+  ],
+  "type": "Enemies"
+}

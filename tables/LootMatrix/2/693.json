@@ -1,0 +1,35 @@
+{
+  "LootMatrixIndex": 693,
+  "elements": [
+    {
+      "LootTableIndex": 691,
+      "RarityTableIndex": 22,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3954,
+      "maxToDrop": 0,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 796,
+      "RarityTableIndex": 30,
+      "flagID": null,
+      "gate_version": "levelprogression",
+      "id": 4426,
+      "maxToDrop": 0,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 633,
+      "RarityTableIndex": 22,
+      "flagID": null,
+      "gate_version": "levelprogression",
+      "id": 4443,
+      "maxToDrop": 0,
+      "minToDrop": 1,
+      "percent": 1.0
+    }
+  ]
+}

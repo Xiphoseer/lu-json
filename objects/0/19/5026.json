@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4447,
+    "3": 2304,
+    "5": 976,
+    "7": 488
+  },
+  "description": "Binoculers for path AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5026,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Binoculars on Path",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

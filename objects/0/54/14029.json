@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Elite Ranged Skeleton for Ninjago",
+  "components": {
+    "1": 6969,
+    "17": 537,
+    "2": 13739,
+    "31": 79,
+    "5": 1526,
+    "60": 157,
+    "7": 1915,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Mad Scientist",
+  "gate_version": "njhub",
+  "id": 14029,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Mad Scientist",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 1381
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1382
+    }
+  ],
+  "type": "Enemies"
+}

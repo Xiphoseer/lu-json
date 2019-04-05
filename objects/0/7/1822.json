@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 871,
+    "2": 1732,
+    "5": 77,
+    "7": 654,
+    "9": 0
+  },
+  "description": "Cannonball for shooting gallery",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1822,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shooting Gallery Cannon Ball",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 34
+    }
+  ],
+  "type": "Enemies"
+}

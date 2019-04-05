@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "CP Mission Item",
+  "components": {
+    "11": 6493,
+    "2": 12854
+  },
+  "description": "Return this to Neido on Crux Prime!",
+  "displayName": "Nuckal's Maelstrom Crystal",
+  "gate_version": "auramar",
+  "id": 13074,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nuckal's Maelstrom Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13307,
+    "3": 6660
+  },
+  "description": "crux_missile_flyby object for the tower exterior",
+  "displayName": "nt_FX_missile_flyby",
+  "gate_version": "auramar",
+  "id": 13570,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nt_FX_missile_flyby",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

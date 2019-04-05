@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6551,
+    "2": 12989,
+    "28": 307,
+    "3": 6451,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Assembly Solarblast Rocket Cockpit",
+  "gate_version": "factionvehicles",
+  "id": 13256,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Assembly Rocket Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

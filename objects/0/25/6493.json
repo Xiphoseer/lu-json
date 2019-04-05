@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6056,
+    "3": 2647,
+    "48": 76,
+    "5": 880,
+    "7": 494
+  },
+  "description": "Large Tiki Choicebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6493,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Choicebuild Large Tiki",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

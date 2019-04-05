@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 4 Reward Behavior for Achievement 883",
+  "components": {
+    "11": 5186,
+    "2": 10336
+  },
+  "description": "Model drops Hearts, Imagination, and Armor when attacked.",
+  "displayName": "Unleash Power-Ups Behavior",
+  "gate_version": null,
+  "id": 10492,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Unleash Power-Ups",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

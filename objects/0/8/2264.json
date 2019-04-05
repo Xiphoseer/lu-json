@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 63,
+    "17": 358,
+    "2": 9871,
+    "3": 1777,
+    "35": 451,
+    "7": 306
+  },
+  "description": "GF Accessory Vendor - Race",
+  "displayName": "Billy Picaroon - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 2264,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Brick Vendor - Race Scene",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

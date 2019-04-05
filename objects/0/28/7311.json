@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test jump attack",
+  "components": {
+    "11": 3346,
+    "2": 6394,
+    "9": 0
+  },
+  "description": "test jump attack",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7311,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test jump attack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 327
+    }
+  ],
+  "type": "Loot"
+}

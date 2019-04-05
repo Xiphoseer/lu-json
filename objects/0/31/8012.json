@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for brett",
+  "components": {
+    "11": 3418,
+    "2": 7559
+  },
+  "description": "Test object for brett",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test_Acc_ProxyLegsSkirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

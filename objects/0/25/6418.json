@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2653,
+    "2": 5800,
+    "5": 846,
+    "60": 4,
+    "7": 515,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 6418,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD - Stromling Survival",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

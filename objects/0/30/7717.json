@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7273,
+    "3": 3419,
+    "5": 950
+  },
+  "description": "car modular build engine volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7717,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

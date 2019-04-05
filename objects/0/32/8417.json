@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7975,
+    "3": 3899
+  },
+  "description": "Stone bridge made out of LEGO to be used throughout FV",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8417,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Stone Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

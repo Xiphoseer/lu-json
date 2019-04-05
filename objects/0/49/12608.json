@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6187,
+    "2": 12397,
+    "9": 0
+  },
+  "description": "Paradox ScoutStaff",
+  "displayName": "NPC Paradox Scout Staff",
+  "gate_version": null,
+  "id": 12608,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Paradox Scout Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 970
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11907,
+    "25": 0,
+    "27": 0,
+    "3": 5916
+  },
+  "description": "NT Bank Mover 2",
+  "displayName": "NT Bank Mover 2",
+  "gate_version": null,
+  "id": 12158,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Bank Mover 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

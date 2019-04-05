@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Property Pushback Tier 3 Behavior.",
+  "components": {
+    "11": 5352,
+    "2": 10751
+  },
+  "description": "Ice Barrier Behavior - For ND use only.",
+  "displayName": "BEHAVIOR - GF Property Pushback - Ice Barrier",
+  "gate_version": null,
+  "id": 10998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BEHAVIOR - GF Property Pushback - Ice Barrier",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

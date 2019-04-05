@@ -1,0 +1,47 @@
+{
+  "id": 1552,
+  "tasks": [
+    {
+      "IconID": 3034,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3034,
+      "locStatus": 2,
+      "localize": true,
+      "target": 111,
+      "targetGroup": "112,113,114",
+      "targetValue": 3,
+      "taskParam1": null,
+      "taskType": 2,
+      "uid": 2158
+    },
+    {
+      "IconID": 2962,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 2962,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6253,
+      "targetGroup": null,
+      "targetValue": 5,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 2159
+    },
+    {
+      "IconID": 4242,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4242,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6254,
+      "targetGroup": null,
+      "targetValue": 5,
+      "taskParam1": null,
+      "taskType": 2,
+      "uid": 2160
+    }
+  ]
+}

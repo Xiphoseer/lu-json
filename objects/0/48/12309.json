@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 1 IP",
+  "components": {
+    "11": 6049,
+    "2": 12059,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Maelstrom Eye Shield",
+  "gate_version": "ventureinstance",
+  "id": 12309,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Eye Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

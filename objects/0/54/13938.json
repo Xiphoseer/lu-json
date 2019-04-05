@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13654,
+    "3": 6918
+  },
+  "description": "Vampire Vendor teleporter signage for Paradox area in Nexus Tower",
+  "displayName": "NT - Portal - Vampire 2",
+  "gate_version": "nexustower",
+  "id": 13938,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Portal - Vampire 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13764,
+    "20": 3334,
+    "5": 1520,
+    "7": 26
+  },
+  "description": null,
+  "displayName": "TEST CAR POWERUP",
+  "gate_version": null,
+  "id": 14012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST CAR POWERUP",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 6,
+      "skillID": 428
+    }
+  ],
+  "type": "Icon"
+}

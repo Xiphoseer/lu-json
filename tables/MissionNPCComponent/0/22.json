@@ -1,0 +1,77 @@
+{
+  "id": 22,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 311,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 312,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": null,
+      "missionID": 314,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 755,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1847,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "freetrial",
+      "missionID": 1848,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1851,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "freetrial",
+      "missionID": 1852,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1858,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1859,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1860,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1861,
+      "offersMission": true
+    }
+  ]
+}

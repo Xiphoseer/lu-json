@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11018,
+    "3": 5182
+  },
+  "description": "Gnarled Forest Large Player Property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11248,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF_PlayerProperty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

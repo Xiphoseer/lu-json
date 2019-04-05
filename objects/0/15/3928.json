@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3369,
+    "3": 1751,
+    "5": 615,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3928,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Bubble Blower Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 116
+    }
+  ],
+  "type": "Environmental"
+}

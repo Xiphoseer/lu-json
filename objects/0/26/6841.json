@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2862,
+    "2": 6392,
+    "3": 3154,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Crab Model",
+  "gate_version": null,
+  "id": 6841,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Crab",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

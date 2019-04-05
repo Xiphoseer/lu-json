@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6560,
+    "2": 12998,
+    "28": 316,
+    "3": 6460,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Venture League Astroscout Rocket Cockpit",
+  "gate_version": "factionvehicles",
+  "id": 13265,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Venture Rockets Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

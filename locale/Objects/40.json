@@ -1,0 +1,510 @@
+{
+  "10241": {
+    "name": "Dinosaurus Tail"
+  },
+  "10243": {
+    "name": "Tyrannosaurus Rex Top Jaw"
+  },
+  "10244": {
+    "name": "Triceratops Top Jaw"
+  },
+  "10245": {
+    "name": "Body 5x2x4, Left"
+  },
+  "10246": {
+    "name": "Body 5x2x4 with Pins, Right"
+  },
+  "10247": {
+    "name": "Neck - Tail Rotary Joint"
+  },
+  "10248": {
+    "name": "Baby Dino Head"
+  },
+  "10249": {
+    "name": "Leg 4x8x5 2/3"
+  },
+  "10250": {
+    "name": "Dragon's Head 2"
+  },
+  "10251": {
+    "name": "Dragon's Tail"
+  },
+  "10252": {
+    "name": "Leg 5x8x7 2/3 without Decoration"
+  },
+  "10253": {
+    "name": "Cockpit Glass 6x4x2"
+  },
+  "10254": {
+    "name": "Horn with Shaft"
+  },
+  "10255": {
+    "name": "Technic Shell 3x5x3"
+  },
+  "10256": {
+    "name": "Animal Body 4x12x5 "
+  },
+  "10257": {
+    "name": "Dragon's Head, Jaw"
+  },
+  "10258": {
+    "name": "Glass for Frame 1x2x2"
+  },
+  "10259": {
+    "name": "Glass for Frame 1x4x3"
+  },
+  "10260": {
+    "name": "Troll, Right Hand"
+  },
+  "10261": {
+    "name": "Troll, Left Hand"
+  },
+  "10262": {
+    "name": "Troll, Right Arm, Assembled"
+  },
+  "10263": {
+    "name": "Troll, Left Arm, Assembled"
+  },
+  "10264": {
+    "name": "Turntable 4x4 Bottom Part"
+  },
+  "10265": {
+    "name": "BIONICLE Claw"
+  },
+  "10266": {
+    "name": "Dragon"
+  },
+  "10267": {
+    "name": "Tyrannosaurus Rex Body 4x12x8"
+  },
+  "10268": {
+    "name": "Triceratops Body 4x11x5"
+  },
+  "10269": {
+    "name": "Stegosaurus Body 4x12x6"
+  },
+  "10270": {
+    "name": "Window for Plane Front 6x10x4"
+  },
+  "10271": {
+    "name": "Plane Front 6x10x4 with Window"
+  },
+  "10272": {
+    "name": "Left Arm for Rock Monster 2, Medium Large"
+  },
+  "10273": {
+    "name": "Right Arm for Rock Monster 2, Medium Large"
+  },
+  "10290": {
+    "description": "A Behavior for your models",
+    "name": "Rising Platform Behavior"
+  },
+  "10295": {
+    "name": "White Cat Backpack"
+  },
+  "10296": {
+    "name": "Black Cat Backpack"
+  },
+  "10299": {
+    "description": "__MG__Property Mission Giver 1",
+    "name": "Kendrix Starfish - Property Guard"
+  },
+  "10300": {
+    "description": "__MG__Property Mission Giver 2",
+    "name": "Sunny Rayhawk - Property Guard"
+  },
+  "10301": {
+    "description": "__MG__Property Mission Giver 3",
+    "name": "Knuck Brassels - Property Guard"
+  },
+  "10312": {
+    "description": "Double-click to open!",
+    "name": "Pre-Order Astronaut Pack"
+  },
+  "10313": {
+    "name": "Brown Owl Backpack"
+  },
+  "10316": {
+    "description": "Double-click to open this pack of models!",
+    "name": "Surprise Model Pack"
+  },
+  "10318": {
+    "description": "A model for your Property!",
+    "name": "Classical Corner Model"
+  },
+  "10319": {
+    "description": "A model for your Property!",
+    "name": "Classical Gate Model"
+  },
+  "10320": {
+    "description": "A model for your Property!",
+    "name": "Classical Exterior Gate Model"
+  },
+  "10321": {
+    "description": "A model for your Property!",
+    "name": "Classical Wall Model"
+  },
+  "10322": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 1"
+  },
+  "10323": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 2"
+  },
+  "10324": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 3"
+  },
+  "10325": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 4"
+  },
+  "10326": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 5"
+  },
+  "10327": {
+    "description": "A model for your Property!",
+    "name": "Classical Short Wall Model 6"
+  },
+  "10328": {
+    "description": "A model for your Property!",
+    "name": "House Bathtub Model 1"
+  },
+  "10329": {
+    "description": "A model for your Property!",
+    "name": "House Bathtub Model 2"
+  },
+  "10330": {
+    "description": "A model for your Property!",
+    "name": "House Closed Door Model 1"
+  },
+  "10331": {
+    "description": "A model for your Property!",
+    "name": "House Open Door Model 1"
+  },
+  "10332": {
+    "description": "A model for your Property!",
+    "name": "House Closed Door Model 2"
+  },
+  "10333": {
+    "description": "A model for your Property!",
+    "name": "House Open Door Model 2"
+  },
+  "10334": {
+    "description": "A model for your Property!",
+    "name": "House Closed Door Model 3"
+  },
+  "10335": {
+    "description": "A model for your Property!",
+    "name": "House Open Door Model 3"
+  },
+  "10336": {
+    "description": "A model for your Property!",
+    "name": "House Kitchen Model 1"
+  },
+  "10337": {
+    "description": "A model for your Property!",
+    "name": "House Kitchen Model 2"
+  },
+  "10338": {
+    "description": "A model for your Property!",
+    "name": "House Kitchen Model 3"
+  },
+  "10339": {
+    "description": "A model for your Property!",
+    "name": "House Laundry Model 1"
+  },
+  "10340": {
+    "description": "A model for your Property!",
+    "name": "House Laundry Model 2"
+  },
+  "10341": {
+    "description": "A model for your Property!",
+    "name": "House Library Model 1"
+  },
+  "10342": {
+    "description": "A model for your Property!",
+    "name": "House Library Model 2"
+  },
+  "10343": {
+    "description": "A model for your Property!",
+    "name": "House Library Model 3"
+  },
+  "10344": {
+    "description": "A model for your Property!",
+    "name": "House Library Model 4"
+  },
+  "10345": {
+    "description": "A model for your Property!",
+    "name": "House Toilet Model 2"
+  },
+  "10346": {
+    "description": "A model for your Property!",
+    "name": "House Vanity Model 1"
+  },
+  "10347": {
+    "description": "A model for your Property!",
+    "name": "House Vanity Model 2"
+  },
+  "10348": {
+    "description": "A model for your Property!",
+    "name": "House Vanity Model 3"
+  },
+  "10349": {
+    "description": "A model for your Property!",
+    "name": "House Vanity Model 4"
+  },
+  "10350": {
+    "description": "A model for your Property!",
+    "name": "House Wall Arch Model"
+  },
+  "10351": {
+    "description": "A model for your Property!",
+    "name": "House Wall Art Model 1"
+  },
+  "10352": {
+    "description": "A model for your Property!",
+    "name": "House Wall Art Model 2"
+  },
+  "10353": {
+    "description": "A model for your Property!",
+    "name": "House Wall Blank Model 1"
+  },
+  "10354": {
+    "description": "A model for your Property!",
+    "name": "House Wall Blank Model 2"
+  },
+  "10355": {
+    "description": "A model for your Property!",
+    "name": "House Wall Blank Model 3"
+  },
+  "10356": {
+    "description": "A model for your Property!",
+    "name": "House Wall Corner Model 1"
+  },
+  "10357": {
+    "description": "A model for your Property!",
+    "name": "House Wall Corner Model 2"
+  },
+  "10358": {
+    "description": "A model for your Property!",
+    "name": "House Wall Corner Model 3"
+  },
+  "10359": {
+    "description": "A model for your Property!",
+    "name": "House Wall Fireplace Model 1"
+  },
+  "10360": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 1"
+  },
+  "10361": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 2"
+  },
+  "10362": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 3"
+  },
+  "10363": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 4"
+  },
+  "10364": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 5"
+  },
+  "10365": {
+    "description": "A model for your Property!",
+    "name": "House Window Model 6"
+  },
+  "10366": {
+    "description": "A model for your Property!",
+    "name": "Farm Barn Back Model"
+  },
+  "10367": {
+    "description": "A model for your Property!",
+    "name": "Farm Barn Front Model"
+  },
+  "10368": {
+    "description": "A model for your Property!",
+    "name": "Farm Barn Middle Model"
+  },
+  "10369": {
+    "description": "A model for your Property!",
+    "name": "Farm Silo Model 1"
+  },
+  "10370": {
+    "description": "A model for your Property!",
+    "name": "Farm Silo Model 2"
+  },
+  "10371": {
+    "description": "A model for your Property!",
+    "name": "Farm Tractor Model"
+  },
+  "10372": {
+    "description": "A model for your Property!",
+    "name": "Farm Trailer Model"
+  },
+  "10373": {
+    "description": "A model for your Property!",
+    "name": "Farm Fence Gate Model"
+  },
+  "10374": {
+    "description": "A model for your Property!",
+    "name": "Farm Fence Short Model"
+  },
+  "10375": {
+    "description": "A model for your Property!",
+    "name": "Farm Fence Tall Model"
+  },
+  "10378": {
+    "description": "Enemy for property unlock maps",
+    "name": "Stromling Pirate"
+  },
+  "10379": {
+    "description": "Enemy for property unlock maps",
+    "name": "Stromling Admiral"
+  },
+  "10380": {
+    "description": "Enemy for property unlock maps",
+    "name": "Dark Ronin"
+  },
+  "10381": {
+    "description": "Enemy for property unlock maps",
+    "name": "Maelstrom Horseman"
+  },
+  "10385": {
+    "description": "A model for your Property!",
+    "name": "Basic Platform Model"
+  },
+  "10388": {
+    "description": "Behavior for Platform",
+    "name": "Basic Platform Behavior"
+  },
+  "10396": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 1"
+  },
+  "10397": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 2"
+  },
+  "10398": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 3"
+  },
+  "10399": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 4"
+  },
+  "10400": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 5"
+  },
+  "10401": {
+    "description": "Double-click to open this pack of models!",
+    "name": "House Model Pack 6"
+  },
+  "10417": {
+    "description": "Double-click to open this pack of models!",
+    "name": "Fancy Tree Model Pack"
+  },
+  "10422": {
+    "description": "Turn robot on and off.  Robot will move forward until it encounters an obstacle.",
+    "name": "Toy Robot Behavior"
+  },
+  "10424": {
+    "description": "A platform that moves up, spins, smashes and rebuilds",
+    "name": "AG Property Pushback Platform - Interact Behavior"
+  },
+  "10426": {
+    "description": "A platform that moves up, spins, smashes and rebuilds",
+    "name": "AG Property Pushback Platform 1"
+  },
+  "10431": {
+    "name": "Basic Shortsword"
+  },
+  "10432": {
+    "name": "Basic Spear"
+  },
+  "10433": {
+    "name": "Basic Hammer"
+  },
+  "10434": {
+    "name": "Elite Battle Axe"
+  },
+  "10435": {
+    "name": "Survival Strombie"
+  },
+  "10436": {
+    "description": "Two-Handed Weapon",
+    "name": "Improved Scythe of Whirlwind"
+  },
+  "10444": {
+    "description": "A platform that moves up, spins, smashes and rebuilds",
+    "name": "AG Property Pushback Platform - Touch Behavior"
+  },
+  "10446": {
+    "description": "When attacked, model will smash, wait 10 seconds, then rebuild.",
+    "name": "Basic Smash Behavior"
+  },
+  "10447": {
+    "description": "When interacted with, model will raise and lower.",
+    "name": "Basic Platform Behavior"
+  },
+  "10448": {
+    "description": "When interacted with, model will spin clockwise in a circle.",
+    "name": "Spin Right Behavior"
+  },
+  "10449": {
+    "description": "When interacted with, model will patrol in a counter-clockwise circle.",
+    "name": "Circular Patrol Behavior"
+  },
+  "10450": {
+    "description": "An alarm will sound while a player is close to the model.",
+    "name": "Alarm Behavior"
+  },
+  "10451": {
+    "description": "A remote detonator for dynamite. This behavior requires the Dynamite Behavior to be placed on a model.",
+    "name": "Remote Detonator Behavior"
+  },
+  "10452": {
+    "description": "This Behavior will cause the model to smash when the chat word \"detonate\" is sent.  Use with the Remote Detonator Behavior.",
+    "name": "Dynamite Behavior"
+  },
+  "10453": {
+    "description": "Turns your model into a friendly greeter for your property with many ways to interact with it.  Your model will even patrol for you if you ask it to.",
+    "name": "Greeter Behavior"
+  },
+  "10458": {
+    "description": "Double-click to open this pack of rocket parts!",
+    "name": "Build Event Rocket Pack"
+  },
+  "10461": {
+    "description": "This Behavior will enable your model to follow and flee from players.",
+    "name": "Basic AI Behavior"
+  },
+  "10489": {
+    "description": "Dispenses imagination when interacted with.  Recharges every 10 seconds.",
+    "name": "Imagination Dispenser Behavior"
+  },
+  "10490": {
+    "description": "Smashes model on attack then completely resets model and all behaviors.",
+    "name": "Advanced Smash Behavior"
+  },
+  "10491": {
+    "description": "Drains the Life of a player every second while touching the model.",
+    "name": "Damage Behavior"
+  },
+  "10492": {
+    "description": "Model drops Hearts, Imagination, and Armor when attacked.",
+    "name": "Unleash Power-Ups Behavior"
+  },
+  "10495": {
+    "description": "Spawned from Behavior, no loot",
+    "name": "Stromling"
+  }
+}

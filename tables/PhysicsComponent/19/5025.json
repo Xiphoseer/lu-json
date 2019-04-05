@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 1,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": "env\\R_Racing\\FV_ForbiddenValley\\FV_Track_R_Wall_Volume.hkx",
+  "id": 5025,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "env\\R_Racing\\FV_ForbiddenValley\\FVTrack06_TRACK_FVParadoxWallRIGHT.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

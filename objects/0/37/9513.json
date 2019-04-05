@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 307,
+    "2": 9365,
+    "35": 391,
+    "7": 307
+  },
+  "description": "Space Marauder Lvl 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9513,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Space Marauder Lvl 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

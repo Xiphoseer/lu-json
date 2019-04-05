@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Avant Gardens Mission Item",
+  "components": {
+    "11": 7149,
+    "2": 14240
+  },
+  "description": "Use to rebuild the robot near the Paradox Lab in Avant Gardens.",
+  "displayName": "Spare Robot Part",
+  "gate_version": "freetrial",
+  "id": 14557,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Broken Robot Part",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

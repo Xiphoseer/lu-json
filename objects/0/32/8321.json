@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Faction token",
+  "components": {
+    "11": 3657,
+    "2": 7880
+  },
+  "description": "Spend this at a Venture League vendor!",
+  "displayName": "Venture League Token",
+  "gate_version": null,
+  "id": 8321,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Venture League Token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

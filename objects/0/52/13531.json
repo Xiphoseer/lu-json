@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Rat model",
+  "components": {
+    "11": 6680,
+    "2": 13267
+  },
+  "description": "A behavior that makes a model act like a rat.",
+  "displayName": "Rat Behavior",
+  "gate_version": null,
+  "id": 13531,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rat Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

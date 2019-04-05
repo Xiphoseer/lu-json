@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Smashing",
+  "components": {
+    "11": 6044,
+    "2": 12050,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Superior Hand Bell",
+  "gate_version": "dec2010content",
+  "id": 12300,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Hand Bell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 955
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4018,
+    "2": 8758,
+    "48": 136,
+    "5": 1116,
+    "60": 45,
+    "7": 917,
+    "9": 0
+  },
+  "description": "Engineer Rank 2 Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9304,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Engineer Turret Rank 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 618
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 619
+    }
+  ],
+  "type": "Rebuildables"
+}

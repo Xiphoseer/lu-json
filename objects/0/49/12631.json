@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12421,
+    "40": 6212,
+    "5": 1425
+  },
+  "description": "Volume that fits the Skullkin area in Crux Prime",
+  "displayName": "Skullkin Area Trigger Volume",
+  "gate_version": null,
+  "id": 12631,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Skullkin Area Trigger Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,606 @@
+{
+  "1003": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Fires a projectile",
+    "name": "Blaster Shot"
+  },
+  "1004": {
+    "descriptionUI": "%(DamageCombo) 3+4+4 %(Description)Smashes enemies",
+    "name": "Fantastic Attack"
+  },
+  "1005": {
+    "descriptionUI": "Fires a blast that does 12 damage to an enemy",
+    "name": "Impact Blast"
+  },
+  "1006": {
+    "descriptionUI": "Sends out a pulse of energy that restores 10 Life Points to nearby characters",
+    "name": "Healing Pulse"
+  },
+  "1007": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Knocks down enemies",
+    "name": "Banana Shot"
+  },
+  "1008": {
+    "descriptionUI": "Does 3 damage and knocks down enemies",
+    "name": "Clothesline"
+  },
+  "1009": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing up to 15 damage over time",
+    "name": "Valiant Attack"
+  },
+  "1010": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Creates a Bot Quick Build that assists you in battle",
+    "name": "Create Bot"
+  },
+  "1011": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Does 6 damage to enemies",
+    "name": "Ripsaw Buzz"
+  },
+  "1015": {
+    "descriptionUI": "%(DamageCombo) 3+4+4 %(ChargeUp)Does 12 damage to enemies",
+    "name": "Valiant Attack"
+  },
+  "1016": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Makes you charge forward, doing up to 30 damage over time and knocking down enemies",
+    "name": "Lance Lunge"
+  },
+  "1019": {
+    "descriptionUI": "%(DamageCombo) 4+4+4 %(ChargeUp)Fires all Cannons to do 11 damage to enemies",
+    "name": "Valiant Attack"
+  },
+  "1020": {
+    "descriptionUI": "Creates a target dummy that attracts nearby enemies",
+    "name": "Create Target Dummy"
+  },
+  "1021": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing 10 damage to enemies",
+    "name": "Valiant Attack"
+  },
+  "1022": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing 10 damage to enemies",
+    "name": "Valiant Attack"
+  },
+  "1023": {
+    "descriptionUI": "%(DamageCombo) 7 %(Description)Makes you rush forward, doing 7 damage to enemies",
+    "name": "Moto Rush"
+  },
+  "768": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Great Attack with Stun"
+  },
+  "769": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Sticks enemies' feet to the ground",
+    "name": "Super Attack with Rooting"
+  },
+  "773": {
+    "descriptionUI": "Removes Skunk Stink",
+    "name": "Un-Stink"
+  },
+  "774": {
+    "descriptionUI": "Restores 1 Imagination to nearby characters when you smash an enemy",
+    "name": "Brainstorm 1"
+  },
+  "775": {
+    "descriptionUI": "Restores 3 Imagination to nearby characters when you smash an enemy",
+    "name": "Brainstorm 2"
+  },
+  "776": {
+    "descriptionUI": "Shows the location of dangerous enemies and collectibles on your mini-map",
+    "name": "Scanner"
+  },
+  "777": {
+    "descriptionUI": "Boosts Armor of nearby characters by 2 for 60 seconds and angers enemies",
+    "name": "Strengthen Armor 1"
+  },
+  "778": {
+    "descriptionUI": "Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies",
+    "name": "Strengthen Armor 2"
+  },
+  "779": {
+    "descriptionUI": "Boosts Armor of nearby characters by 6 for 60 seconds and angers enemies",
+    "name": "Strengthen Armor 3"
+  },
+  "783": {
+    "descriptionUI": "Teleports you back and forth to your Avant Gardens Property",
+    "name": "Teleport to AG Property"
+  },
+  "784": {
+    "descriptionUI": "Teleports you back and forth to your Nimbus Station Property",
+    "name": "Teleport to NS Property"
+  },
+  "785": {
+    "descriptionUI": "Teleports you back and forth to your Gnarled Forest Property",
+    "name": "Teleport to GF Property"
+  },
+  "786": {
+    "descriptionUI": "Teleports you back and forth to your Forbidden Valley Property",
+    "name": "Teleport to FV Property"
+  },
+  "789": {
+    "descriptionUI": "Creates a cauldron that releases Life Power-ups",
+    "name": "Deploy Cauldron of Life"
+  },
+  "791": {
+    "descriptionUI": "Creates an anvil that slowly releases Armor Power-ups",
+    "name": "Deploy Anvil of Armor"
+  },
+  "792": {
+    "descriptionUI": "Creates a fountain that releases Imagination Power-ups",
+    "name": "Deploy Fountain of Imagination"
+  },
+  "793": {
+    "descriptionUI": "Creates a boom box that restores 10 Imagination to nearby characters",
+    "name": "Boom Box"
+  },
+  "794": {
+    "descriptionUI": "Makes you play a funky tune that restores 6 Imagination",
+    "name": "Funky Music"
+  },
+  "798": {
+    "descriptionUI": "Grows flowers on nearby characters and restores 6 Imagination to them",
+    "name": "Chuck Dirt Clods"
+  },
+  "802": {
+    "descriptionUI": "Sprouts flowers!",
+    "name": "Shovel Gardening"
+  },
+  "803": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(ChargeUp)Knocks back enemies ",
+    "name": "Worthy Attack with Knockback"
+  },
+  "804": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Does 2 damage and freezes enemies",
+    "name": "Elite Attack with Freezing"
+  },
+  "805": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Knocks down enemies",
+    "name": "Elite Attack with Knockdown"
+  },
+  "806": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Puts enemies to sleep",
+    "name": "Elite Attack with Sleep"
+  },
+  "807": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Sticks enemies' feet to the ground",
+    "name": "Super Attack with Rooting"
+  },
+  "808": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
+    "name": "Great Attack with Lightning"
+  },
+  "809": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Shields you from 5 points of damage",
+    "name": "Quality Attack with Shield"
+  },
+  "811": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(ChargeUp)Knocks back enemies ",
+    "name": "Worthy Attack with Repulsion"
+  },
+  "813": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Bees swarm enemies, doing up to 3 damage to them over time",
+    "name": "Basic Attack with Bees"
+  },
+  "817": {
+    "descriptionUI": "Freezes your enemies in fear",
+    "name": "Vision of the Dragon"
+  },
+  "819": {
+    "descriptionUI": "Read this book to unlock your LEGO Universe Veteran reward!",
+    "name": "Universe Veteran Bonus"
+  },
+  "820": {
+    "descriptionUI": "Read this book to unlock your Pre-Order Bonus!",
+    "name": "Pre-Order Bonus"
+  },
+  "821": {
+    "descriptionUI": "Read this book to unlock your Beta Tester Bonus!",
+    "name": "Secrets of a Beta Tester"
+  },
+  "822": {
+    "descriptionUI": "Read this book to learn the secrets of a LEGO Club Member!",
+    "name": "Secrets of a LEGO Club Member"
+  },
+  "823": {
+    "descriptionUI": "Read this book to unlock your Bradford Rant reward!",
+    "name": "Secrets of Bradford Rant"
+  },
+  "824": {
+    "descriptionUI": "Read this book to unlock your subscription renewal reward!",
+    "name": "Subscription Renewal Bonus"
+  },
+  "826": {
+    "descriptionUI": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination",
+    "name": "LEGO Club Salute"
+  },
+  "834": {
+    "descriptionUI": "Rocket Nose Cone",
+    "name": "Rocket Nose Cone"
+  },
+  "835": {
+    "descriptionUI": "Rocket Cockpit",
+    "name": "Rocket Cockpit"
+  },
+  "836": {
+    "descriptionUI": "Rocket Engine",
+    "name": "Rocket Engine"
+  },
+  "837": {
+    "descriptionUI": "Creates a thunderstorm that restores 6 Imagination",
+    "name": "Stormy Weather"
+  },
+  "838": {
+    "descriptionUI": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination",
+    "name": "LEGO Club Salute"
+  },
+  "839": {
+    "descriptionUI": "%(DamageCombo) 1 %(Description)Sprays water",
+    "name": "Water Spray"
+  },
+  "842": {
+    "descriptionUI": "Restores 9 Imagination",
+    "name": "I Heart You"
+  },
+  "843": {
+    "descriptionUI": "%(DamageCombo) 1 %(ChargeUp)Restores 4 Imagination",
+    "name": "Imagination Wand 1"
+  },
+  "844": {
+    "descriptionUI": "Restores 4 Imagination to nearby characters",
+    "name": "Video Camera Emote"
+  },
+  "845": {
+    "descriptionUI": "Sticks an enemy's feet to the ground",
+    "name": "Entrapment"
+  },
+  "846": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(ChargeUp)Fires a 2 damage projectile",
+    "name": "Worthy Ranged Attack"
+  },
+  "848": {
+    "descriptionUI": "Car Chassis",
+    "name": "Car Chassis"
+  },
+  "849": {
+    "descriptionUI": "Car Front Bumper",
+    "name": "Car Front Bumper"
+  },
+  "850": {
+    "descriptionUI": "Car Front Panel",
+    "name": "Car Front Panel"
+  },
+  "851": {
+    "descriptionUI": "Car Rear Bumper",
+    "name": "Car Rear Bumper"
+  },
+  "852": {
+    "descriptionUI": "Car Rear Panel",
+    "name": "Car Rear Panel"
+  },
+  "853": {
+    "descriptionUI": "Car Side Panels",
+    "name": "Car Side Panels"
+  },
+  "854": {
+    "descriptionUI": "Car Tank",
+    "name": "Car Tank"
+  },
+  "855": {
+    "descriptionUI": "Car Tires",
+    "name": "Car Tires"
+  },
+  "856": {
+    "descriptionUI": "Makes you play a drum solo that restores 9 Imagination to nearby characters",
+    "name": "Drum Solo"
+  },
+  "858": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Makes you roll into enemies, doing 2 damage",
+    "name": "Panda Style "
+  },
+  "859": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you into the air, doing 1 damage to enemies you strike",
+    "name": "Dragon Style"
+  },
+  "860": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you forward, doing up to 4 damage to enemies you strike",
+    "name": "Mantis Style"
+  },
+  "861": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Throws shuriken that do 3 damage to enemies",
+    "name": "Shuriken UI"
+  },
+  "862": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Fires a 3 damage projectile",
+    "name": "Superior Ranged Attack"
+  },
+  "863": {
+    "descriptionUI": "Shields you from up to 10 damage for 30 seconds",
+    "name": "Shielding 2"
+  },
+  "865": {
+    "descriptionUI": "%(DamageCombo) 1 %(ChargeUp)Does 2 damage and freezes enemies",
+    "name": "Freeze Wand 1"
+  },
+  "866": {
+    "descriptionUI": "%(DamageCombo) 2 %(ChargeUp)Does 4 damage and freezes enemies",
+    "name": "Freeze Wand 2"
+  },
+  "867": {
+    "descriptionUI": "%(DamageCombo) 2 %(ChargeUp)Knocks back enemies",
+    "name": "Repulsion Wand 2"
+  },
+  "868": {
+    "descriptionUI": "%(DamageCombo) 2 %(ChargeUp)Puts enemies to sleep",
+    "name": "Sleep Wand 2"
+  },
+  "869": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(AltCombo) 6+7+8 %(ChargeUp)Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons",
+    "name": "Imagination Spinjitzu"
+  },
+  "870": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Fires a projectile",
+    "name": "Basic Ranged Attack"
+  },
+  "871": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Fires a 2 damage projectile",
+    "name": "Basic Ranged Attack"
+  },
+  "872": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Spins you around, doing 4 damage to nearby enemies",
+    "name": "Elite Ranged Attack"
+  },
+  "873": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Superior Attack with Stun"
+  },
+  "874": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Sticks enemies' feet to the ground",
+    "name": "Great Attack with Rooting"
+  },
+  "875": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Sticks enemies' feet to the ground",
+    "name": "Elite Attack with Rooting"
+  },
+  "876": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
+    "name": "Elite Attack with Lightning"
+  },
+  "879": {
+    "descriptionUI": "Shields you from up to 3 damage for 30 seconds",
+    "name": "Shielding 1"
+  },
+  "881": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Buccaneer!",
+    "name": "Secrets of a Buccaneer 1"
+  },
+  "882": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Daredevil!",
+    "name": "Secrets of a Daredevil 1"
+  },
+  "883": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Knight!",
+    "name": "Secrets of a Knight 1"
+  },
+  "884": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Samurai!",
+    "name": "Secrets of a Samurai 1"
+  },
+  "885": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Sorcerer!",
+    "name": "Secrets of a Sorcerer 1"
+  },
+  "886": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Space Marauder!",
+    "name": "Secrets of a Space Marauder 1"
+  },
+  "887": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Engineer!",
+    "name": "Secrets of an Engineer 1"
+  },
+  "888": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Summoner!",
+    "name": "Secrets of a Summoner 1"
+  },
+  "890": {
+    "descriptionUI": "Reduces the damage you take by 2, to a minimum of 1",
+    "name": "Tough Buff Sauce Effect"
+  },
+  "892": {
+    "descriptionUI": "Restores 6 Life",
+    "name": "Heal Life 6"
+  },
+  "893": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Fires a projectile",
+    "name": "Improved Ranged Attack"
+  },
+  "895": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Fires a 5 damage projectile",
+    "name": "Quality Ranged Attack"
+  },
+  "897": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Fires a projectile",
+    "name": "Exceptional Ranged Attack"
+  },
+  "898": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Fires a 3 damage projectile",
+    "name": "Exceptional Ranged Attack"
+  },
+  "899": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Fires a projectile",
+    "name": "Exceptional Ranged Attack"
+  },
+  "900": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Fires a 3 damage projectile",
+    "name": "Exceptional Ranged Attack"
+  },
+  "901": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Fires a 5 damage projectile",
+    "name": "Great Ranged Attack"
+  },
+  "913": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Shinobi!",
+    "name": "Secrets of a Shinobi 1"
+  },
+  "914": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Shinobi and unlock an Imagination Point!",
+    "name": "Secrets of a Shinobi 2"
+  },
+  "915": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Shinobi and unlock an Imagination Point!",
+    "name": "Secrets of a Shinobi 3"
+  },
+  "916": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Inventor!",
+    "name": "Secrets of an Inventor 1"
+  },
+  "917": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Inventor and unlock an Imagination Point!",
+    "name": "Secrets of an Inventor 2"
+  },
+  "918": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Inventor and unlock an Imagination Point!",
+    "name": "Secrets of an Inventor 3"
+  },
+  "919": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Adventurer!",
+    "name": "Secrets of an Adventurer 1"
+  },
+  "920": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Adventurer and unlock an Imagination Point!",
+    "name": "Secrets of an Adventurer 2"
+  },
+  "921": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Adventurer and unlock an Imagination Point!",
+    "name": "Secrets of an Adventurer"
+  },
+  "922": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 1 Space Ranger!",
+    "name": "Secrets of a Space Ranger 1"
+  },
+  "923": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Space Ranger and unlock an Imagination Point!",
+    "name": "Secrets of a Space Ranger 2"
+  },
+  "924": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Space Ranger and unlock an Imagination Point!",
+    "name": "Secrets of a Space Ranger 3"
+  },
+  "939": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Slows enemies",
+    "name": "Great Attack with Freezing"
+  },
+  "940": {
+    "descriptionUI": "Creates a mini-blizzard",
+    "name": "Snow Storm"
+  },
+  "942": {
+    "descriptionUI": "Throws a snowball at a nearby player",
+    "name": "Throw Snowball"
+  },
+  "951": {
+    "descriptionUI": "Boosts your Life by 3 for 120 seconds",
+    "name": "Life Boost 3"
+  },
+  "952": {
+    "descriptionUI": "Gives a speed boost for 9 seconds that knocks down enemies",
+    "name": "Hot Cocoa Rush"
+  },
+  "955": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Smashes enemies",
+    "name": "Superior Attack"
+  },
+  "956": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(ChargeUp)Blocks 3 attacks while charged",
+    "name": "Worthy Attack with Block"
+  },
+  "957": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Calls down lightning that does 3 damage to enemies",
+    "name": "Great Attack with Lightning"
+  },
+  "959": {
+    "descriptionUI": "Boosts your Imagination by 5 for 300 seconds and restores up to 43 Imagination",
+    "name": "Glitter Glow"
+  },
+  "968": {
+    "descriptionUI": "Restores 2 Armor every time you smash an enemy",
+    "name": "Juggernaut 2"
+  },
+  "969": {
+    "descriptionUI": "Restores 3 Armor every time you smash an enemy",
+    "name": "Juggernaut 3"
+  },
+  "970": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Blocks 3 attacks while charged",
+    "name": "Great Attack with Block"
+  },
+  "973": {
+    "descriptionUI": "Gives a speed boost for 22 seconds",
+    "name": "Speed Boost"
+  },
+  "975": {
+    "descriptionUI": "Restores 11 Armor to nearby characters",
+    "name": "Bass Riff"
+  },
+  "976": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Paperwork Burst"
+  },
+  "977": {
+    "descriptionUI": "Tosses a firecracker that does 5 damage to enemies",
+    "name": "Cherry Throw"
+  },
+  "979": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Puts enemies to sleep",
+    "name": "Elite Attack with Sleep"
+  },
+  "980": {
+    "descriptionUI": "Creates a schooner that rams an enemy for 15 damage",
+    "name": "Create Schooner"
+  },
+  "984": {
+    "descriptionUI": "While holding the attack key, consumes imagination and does up to 2 damage every second up to 10 seconds",
+    "name": "Spark Toss"
+  },
+  "985": {
+    "descriptionUI": "Restores 11 Life to nearby characters",
+    "name": "Guitar Riff"
+  },
+  "986": {
+    "descriptionUI": "Restores 11 Imagination to nearby characters",
+    "name": "Keyboard Riff"
+  },
+  "987": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Makes you rush forward, doing 10 damage and knocking down the enemy that you strike",
+    "name": "Headbash"
+  },
+  "988": {
+    "descriptionUI": "%(DamageCombo) 20 %(Description)Makes you rush forward, doing 20 damage and knocking down the enemy that you strike",
+    "name": "Broom Boost"
+  },
+  "990": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Knocks down enemies",
+    "name": "Pea Shot"
+  },
+  "992": {
+    "descriptionUI": "Restores up to 20 Imagination to nearby characters over time",
+    "name": "Microphone Riff"
+  },
+  "993": {
+    "descriptionUI": "Fires a shot that does 5 damage to an enemy",
+    "name": "Cannon Shot"
+  },
+  "994": {
+    "descriptionUI": "Tosses a firecracker that does 7 damage to enemies",
+    "name": "Big Bang"
+  },
+  "996": {
+    "descriptionUI": "Restores 20 Imagination to nearby characters",
+    "name": "Howdy Pardner"
+  },
+  "997": {
+    "descriptionUI": "Restores 5 Life and 10 Imagination to nearby characters",
+    "name": "Hearty Toast"
+  },
+  "998": {
+    "descriptionUI": "Slows enemies",
+    "name": "Stink Blast"
+  }
+}

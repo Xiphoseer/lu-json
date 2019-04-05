@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 79,
+    "2": 9547,
+    "3": 1777,
+    "35": 400,
+    "7": 306
+  },
+  "description": "FV Brick Vendor - Ninja Gate",
+  "displayName": "Ro Tundra - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 141,
+      "iconState": 66
+    },
+    {
+      "iconID": 142,
+      "iconState": 69
+    }
+  ],
+  "id": 9705,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Brick Vendor - Ninja Gate",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

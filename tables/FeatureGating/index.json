@@ -1,0 +1,256 @@
+{
+  "_embedded": {
+    "FeatureGating": [
+      {
+        "current": 5,
+        "description": null,
+        "featureName": "nimbusinstance",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": null,
+        "featureName": "njhub",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": "Use this for any named enemies in Avant Gardens",
+        "featureName": "ag_namedenemies",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 2,
+        "description": null,
+        "featureName": "dec2010content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "1.6_content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 8,
+        "description": null,
+        "featureName": "1.8_content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 9,
+        "description": null,
+        "featureName": "freetrial",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "nexustower",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "nsmed",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "FVracetrack",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": null,
+        "featureName": "earthgauntlet",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 5,
+        "description": null,
+        "featureName": "march2011content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 9,
+        "description": null,
+        "featureName": "levelprogression",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 4,
+        "description": null,
+        "featureName": "feb2011content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 2,
+        "description": null,
+        "featureName": "ventureinstance",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "valiantweapons",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "1.7_content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 4,
+        "description": null,
+        "featureName": "auramar",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "dailymissions2.0",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "factionkit2",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": null,
+        "featureName": "1.10_content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "april2011content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 3,
+        "description": null,
+        "featureName": "jan2011content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "multimission",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "communitymissions1.0",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 7,
+        "description": null,
+        "featureName": "bank",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "factionvehicles",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 4,
+        "description": null,
+        "featureName": "agmed",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 0,
+        "description": null,
+        "featureName": "LIVE",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 9,
+        "description": null,
+        "featureName": "1.9_content",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 6,
+        "description": null,
+        "featureName": "speckitprogress",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 9,
+        "description": null,
+        "featureName": "ftcommunityitems",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": null,
+        "featureName": "trunkcurrent",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 10,
+        "description": null,
+        "featureName": "ninjago1",
+        "major": 1,
+        "minor": 0
+      },
+      {
+        "current": 2,
+        "description": null,
+        "featureName": "passportwinter",
+        "major": 1,
+        "minor": 0
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/FeatureGating/index.json"
+    }
+  }
+}

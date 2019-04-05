@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "2": 9714,
+    "30": 13,
+    "5": 948,
+    "7": 725,
+    "9": 0
+  },
+  "description": "Larger car model",
+  "displayName": "8-stud test car",
+  "gate_version": null,
+  "id": 9882,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "8-stud Test Vehicle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Vehicle"
+}

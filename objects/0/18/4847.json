@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4281,
+    "40": 2410,
+    "5": 684
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4847,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - Obj Spawn Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

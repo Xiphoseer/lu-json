@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14351,
+    "3": 7394,
+    "39": 14,
+    "5": 1583
+  },
+  "description": "new placable broken launcher-spider cave",
+  "displayName": "SpiderCave Launcher",
+  "gate_version": "freetrial",
+  "id": 14672,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - spider_launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

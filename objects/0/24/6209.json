@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5610,
+    "3": 752,
+    "48": 115,
+    "5": 887,
+    "7": 575
+  },
+  "description": "Beacon for AG Build Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6209,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Beacon Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

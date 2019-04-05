@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11212,
+    "40": 5311,
+    "7": 1621,
+    "9": 0
+  },
+  "description": "used as the origin and target of the flying dragon's attack",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11464,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV RACE Dragon Fireball target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 894
+    }
+  ],
+  "type": "Environmental"
+}

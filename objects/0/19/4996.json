@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Drum equip for Concert QB",
+  "components": {
+    "11": 1746,
+    "2": 4415,
+    "5": 717
+  },
+  "description": "Drum equip for Concert QB",
+  "displayName": "Right Drumstick",
+  "gate_version": null,
+  "id": 4996,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy Right QB Drumstick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

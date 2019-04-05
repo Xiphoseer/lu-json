@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Earth Kit 2 DX 2 AP 3 IP",
+  "components": {
+    "11": 7829,
+    "2": 15424,
+    "9": 0
+  },
+  "description": "Wear this to look like Cole DX!",
+  "displayName": "Cole's DX Pants of Quakes",
+  "gate_version": "njhub",
+  "id": 16640,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Spinjitzu Pants Cole's DX Pants of Quakes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,41 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 331,
+    "2": 7749,
+    "3": 3796,
+    "35": 419,
+    "73": 63
+  },
+  "description": "__MG__GF RACE missiongiver",
+  "displayName": "Swifty McGurk - Racing Pirate",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 8206,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Swifty McGurk",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

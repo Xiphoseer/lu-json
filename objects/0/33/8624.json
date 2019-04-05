@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 1 IP",
+  "components": {
+    "11": 3879,
+    "2": 8181,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Jester Shirt",
+  "gate_version": null,
+  "id": 8624,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Jester Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

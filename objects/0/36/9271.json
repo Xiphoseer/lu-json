@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8725,
+    "3": 3998,
+    "7": 906
+  },
+  "description": "Spawning device for the ronin.",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9271,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV-Stone Warrior Spawner 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

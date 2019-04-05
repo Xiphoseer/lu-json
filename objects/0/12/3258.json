@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2738,
+    "3": 1784,
+    "7": 180
+  },
+  "description": "NP missiongiver for multiplayer hammer smack in scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3258,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Hammer Smack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

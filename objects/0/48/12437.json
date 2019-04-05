@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Projectile",
+  "components": {
+    "11": 6094,
+    "2": 12191,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Banana Gun",
+  "gate_version": "nimbusinstance",
+  "id": 12437,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Banana Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1007
+    }
+  ],
+  "type": "Loot"
+}

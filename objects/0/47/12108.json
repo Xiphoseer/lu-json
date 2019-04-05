@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6000,
+    "2": 11857,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Balloon Animals",
+  "gate_version": "nexustower",
+  "id": 12108,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Balloon Animals",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1248
+    }
+  ],
+  "type": "Loot"
+}

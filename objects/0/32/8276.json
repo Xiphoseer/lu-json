@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For performance testing accessories",
+  "components": {
+    "11": 3634,
+    "2": 7813,
+    "9": 0
+  },
+  "description": "For performance testing accessories",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8276,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Performance Test Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 480
+    }
+  ],
+  "type": "Loot"
+}

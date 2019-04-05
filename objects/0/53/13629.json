@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6747,
+    "2": 13366,
+    "3": 6689,
+    "42": 0
+  },
+  "description": "A model with Behaviors for your property.",
+  "displayName": "Reward Spike Platform",
+  "gate_version": null,
+  "id": 13629,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Spike Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

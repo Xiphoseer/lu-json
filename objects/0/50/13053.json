@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "GenericQB  Bouncer for AM AuraMar Skullkin Area",
+  "components": {
+    "2": 12806,
+    "40": 6316,
+    "48": 186,
+    "6": 0,
+    "7": 1676
+  },
+  "description": null,
+  "displayName": "AM Skullkin QB Bouncer",
+  "gate_version": "auramar",
+  "id": 13053,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - QB Skullkin Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

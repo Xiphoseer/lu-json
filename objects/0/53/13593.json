@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6718,
+    "2": 13330,
+    "28": 344,
+    "3": 6669,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Nose Cone",
+  "displayName": "Nexus Tower Rocket Nose Cone",
+  "gate_version": "nexustower",
+  "id": 13593,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Nexus Tower Rocket Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

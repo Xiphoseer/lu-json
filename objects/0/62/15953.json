@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14645,
+    "3": 7535,
+    "5": 1587,
+    "7": 2082
+  },
+  "description": "NJ mon Skeleton tower body",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 15953,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Mon - Skeleton tower body mover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

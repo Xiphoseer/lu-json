@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5065,
+    "3": 2342,
+    "7": 525
+  },
+  "description": "destructible obstacle for the monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4990,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Fan Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

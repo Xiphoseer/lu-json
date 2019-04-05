@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2473,
+    "2": 5265,
+    "53": 5
+  },
+  "description": "Double-click to open this pack of bricks!",
+  "displayName": "Super Brick Booster Pack",
+  "gate_version": null,
+  "id": 5835,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Brick Booster Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

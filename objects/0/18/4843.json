@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4277,
+    "40": 2187,
+    "5": 678
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4843,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - Obj M Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14716,
+    "23": 68,
+    "40": 7553,
+    "7": 2089
+  },
+  "description": "NJMON - Cole Climbing Collectible Spawner",
+  "displayName": "Cole's Climbing Flag",
+  "gate_version": null,
+  "id": 16015,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "NJMON - Cole's Climbing Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

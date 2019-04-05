@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3284,
+    "2": 7331,
+    "3": 3445,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Bass Guitar Model",
+  "gate_version": null,
+  "id": 7775,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Bass Guitar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

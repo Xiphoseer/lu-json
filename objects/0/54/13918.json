@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant",
+  "components": {
+    "11": 6925,
+    "2": 13642,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Heroic Halberd",
+  "gate_version": "communitymissions1.0",
+  "id": 13918,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Heroic Halberd",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1238
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tough GF Enemy",
+  "components": {
+    "1": 5147,
+    "2": 10986,
+    "31": 7,
+    "5": 1259,
+    "60": 73,
+    "7": 1598,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Admiral Invader",
+  "gate_version": "auramar",
+  "id": 11216,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Admiral",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

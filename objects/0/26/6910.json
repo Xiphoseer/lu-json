@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6472,
+    "3": 3039,
+    "5": 979
+  },
+  "description": "Flashing Volume for the Middle Module in rocket build",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6910,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Middle Volume Flashing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

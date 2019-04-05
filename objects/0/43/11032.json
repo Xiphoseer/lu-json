@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 3 Behavior",
+  "components": {
+    "11": 5369,
+    "2": 10783
+  },
+  "description": "Model will smash when any object touches it, or it encounters a loud noise from an explosive smash. Object rebuilds through various methods.",
+  "displayName": "Fragile Model Behavior",
+  "gate_version": null,
+  "id": 11032,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fragile Model Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

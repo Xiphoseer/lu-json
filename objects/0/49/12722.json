@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/4 Long Piercing",
+  "components": {
+    "11": 6270,
+    "2": 12511,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Heroic Trident of Lightning",
+  "gate_version": "auramar",
+  "id": 12722,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Heroic Trident of Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1142
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 871,
+    "2": 1732,
+    "9": 0
+  },
+  "description": "Large sphere for projectile weapon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2939,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Large Projectile Sphere",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 78
+    }
+  ],
+  "type": "Shooting Gallery"
+}

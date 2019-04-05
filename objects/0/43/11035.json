@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 259,
+    "2": 6976,
+    "3": 1777,
+    "35": 330,
+    "5": 1245
+  },
+  "description": "FV Ninja 2 Ambient/Guard",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11035,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninja Emote Received Test",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

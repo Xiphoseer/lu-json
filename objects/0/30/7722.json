@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7278,
+    "3": 3424,
+    "5": 950
+  },
+  "description": "car modular build wheels volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7722,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume wheels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

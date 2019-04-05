@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 4 AP + AoE knockdown skill",
+  "components": {
+    "11": 6188,
+    "2": 12403,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Riot Shield",
+  "gate_version": "auramar",
+  "id": 12613,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Riot Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1008
+    }
+  ],
+  "type": "Loot"
+}

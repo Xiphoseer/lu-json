@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6669,
+    "2": 13249,
+    "28": 334,
+    "3": 6621,
+    "42": 0,
+    "63": 31
+  },
+  "description": null,
+  "displayName": "Assembly Blockader Rear Panel",
+  "gate_version": "factionvehicles",
+  "id": 13515,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAS_RearPanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

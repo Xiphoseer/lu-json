@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14737,
+    "3": 7557,
+    "7": 2093
+  },
+  "description": null,
+  "displayName": "rocket smashable",
+  "gate_version": "freetrial",
+  "id": 16019,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG-smashable rocket-bot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

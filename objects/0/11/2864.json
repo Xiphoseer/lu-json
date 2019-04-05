@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 991,
+    "2": 2370,
+    "5": 285
+  },
+  "description": "Team 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2864,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Trigger Part2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

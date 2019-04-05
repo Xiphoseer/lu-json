@@ -1,0 +1,61 @@
+{
+  "id": 1951,
+  "tasks": [
+    {
+      "IconID": 4663,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4647,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_SKCAMP1",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2758
+    },
+    {
+      "IconID": 4663,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4664,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_SKCAMP2",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2759
+    },
+    {
+      "IconID": 4663,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4659,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_SKCAMP3",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2760
+    },
+    {
+      "IconID": 4663,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4662,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_SKCAMP4",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2761
+    }
+  ]
+}

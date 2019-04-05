@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 4 Daredevil!",
+  "components": {
+    "11": 4841,
+    "2": 9819,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9994,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Rank 4 Daredevil Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 734
+    }
+  ],
+  "type": "Loot"
+}

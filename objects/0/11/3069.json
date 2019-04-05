@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2302,
+    "17": 24,
+    "2": 4445,
+    "35": 40
+  },
+  "description": "crash crash",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3069,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - NPCMinifigureTemplate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

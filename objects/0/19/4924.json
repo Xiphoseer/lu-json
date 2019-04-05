@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP + Color Change",
+  "components": {
+    "11": 1737,
+    "2": 4355,
+    "9": 0
+  },
+  "description": "Changes color with your mood!",
+  "displayName": "Prismatic Baseball Cap",
+  "gate_version": null,
+  "id": 4924,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Prismatic Baseball Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

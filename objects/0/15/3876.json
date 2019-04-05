@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3279,
+    "3": 1188,
+    "5": 596,
+    "7": 386
+  },
+  "description": "Container of Pet Food",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3876,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PC - Pet Food Container",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

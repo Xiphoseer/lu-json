@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1470,
+    "2": 2493,
+    "5": 333
+  },
+  "description": "NP ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2987,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brown Cat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

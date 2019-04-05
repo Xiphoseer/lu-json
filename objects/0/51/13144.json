@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Assembly vendors",
+  "components": {
+    "11": 6517,
+    "2": 12924,
+    "53": 120
+  },
+  "description": "Contains 5 Blue Imaginite",
+  "displayName": "Small Bag of Blue Imaginite",
+  "gate_version": "march2011content",
+  "id": 13144,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Small Blue Imaginite Bag - Assembly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

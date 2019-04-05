@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "105": 13951,
+    "17": 189,
+    "2": 13914,
+    "25": 0,
+    "3": 895,
+    "5": 1505,
+    "9": 0
+  },
+  "description": "Cannon Base",
+  "displayName": "TEST ProjectileLauncher",
+  "gate_version": null,
+  "id": 13951,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST ProjectileLauncher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1348
+    }
+  ],
+  "type": "ProjectileLauncher"
+}

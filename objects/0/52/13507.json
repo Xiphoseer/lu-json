@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6661,
+    "2": 13241,
+    "28": 328,
+    "3": 6614,
+    "42": 0,
+    "63": 25
+  },
+  "description": null,
+  "displayName": "Sentinel Stalwart Side Panels",
+  "gate_version": "factionvehicles",
+  "id": 13507,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarSE_SidePanels_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

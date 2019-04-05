@@ -1,0 +1,17 @@
+{
+  "AudioMetaEventSet": "Pet_Tortoise",
+  "buffIDs": null,
+  "elementType": 1,
+  "id": 19,
+  "idleTimeMax": 300.0,
+  "idleTimeMin": 60.0,
+  "imaginationDrainRate": 60.0,
+  "maxTameUpdateTime": 300.0,
+  "minTameUpdateTime": 60.0,
+  "percentTameChance": 101.0,
+  "petForm": 0,
+  "runSpeed": 5.0,
+  "sprintSpeed": 10.0,
+  "tamability": 100.0,
+  "walkSpeed": 2.5
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5321,
+    "2": 10712,
+    "3": 4986,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Ice Cooler Model",
+  "gate_version": null,
+  "id": 10865,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward IceCooler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

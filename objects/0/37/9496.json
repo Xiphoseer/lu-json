@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4559,
+    "2": 9349,
+    "3": 5078,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Sleek Sofa Model",
+  "gate_version": null,
+  "id": 9496,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Sleek Sofa",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

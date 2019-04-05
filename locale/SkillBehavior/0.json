@@ -1,0 +1,210 @@
+{
+  "1": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your fists",
+    "name": "Basic Unarmed Attack"
+  },
+  "103": {
+    "descriptionUI": "Zap enemies",
+    "name": "Maelstrom Zap"
+  },
+  "105": {
+    "descriptionUI": "%(DamageCombo) 1 %(Description)Sprays water",
+    "name": "Water Spray"
+  },
+  "126": {
+    "descriptionUI": "Gives a speed boost for 15 seconds",
+    "name": "Speed Boost"
+  },
+  "127": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Sonic Blast"
+  },
+  "130": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your fists",
+    "name": "Basic Unarmed Attack"
+  },
+  "144": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Turns you into a whirlwind that does 1 damage to enemies",
+    "name": "Basic Slashing Whirlwind Attack"
+  },
+  "146": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Stuns enemies",
+    "name": "Basic Attack with Stun"
+  },
+  "148": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Slashes enemies",
+    "name": "Basic Attack"
+  },
+  "149": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Pokes enemies",
+    "name": "Basic Attack"
+  },
+  "150": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Smashes enemies",
+    "name": "Basic Attack"
+  },
+  "151": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Slashes enemies",
+    "name": "Basic Attack"
+  },
+  "152": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Pokes enemies",
+    "name": "Basic Attack"
+  },
+  "153": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Smashes enemies",
+    "name": "Basic Attack"
+  },
+  "160": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Fires a 3 damage projectile",
+    "name": "Basic Ranged Attack"
+  },
+  "167": {
+    "descriptionUI": "Restores 3 Imagination",
+    "name": "Hiccup"
+  },
+  "175": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Knocks back enemies",
+    "name": "Basic Attack with Knockback"
+  },
+  "176": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Superior Attack with Stun"
+  },
+  "177": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Sticks enemies' feet to the ground",
+    "name": "Basic Attack with Root"
+  },
+  "183": {
+    "descriptionUI": "Restores up to 12 Imagination over time",
+    "name": "Imagination Regeneration"
+  },
+  "184": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Stuns enemies",
+    "name": "Basic Attack with Stun"
+  },
+  "185": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Stuns enemies",
+    "name": "Basic Attack with Stun"
+  },
+  "186": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Stuns enemies",
+    "name": "Basic Attack with Stun"
+  },
+  "187": {
+    "descriptionUI": "Allows you to build in a Build Area",
+    "name": "Modular Building Skill"
+  },
+  "201": {
+    "descriptionUI": "Restores 1 Imagination, 1 Armor and 1 Life to nearby characters",
+    "name": "Heal All AoE"
+  },
+  "211": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Knocks back enemies ",
+    "name": "Basic Attack with Knockback"
+  },
+  "219": {
+    "descriptionUI": "Restores 3 Life",
+    "name": "Heal Life 3"
+  },
+  "220": {
+    "descriptionUI": "Restores 4 Imagination",
+    "name": "Restore Imagination 4"
+  },
+  "221": {
+    "descriptionUI": "Restores 7 Armor",
+    "name": "Repair Armor 7"
+  },
+  "231": {
+    "descriptionUI": "Restores 1 Life to nearby characters",
+    "name": "Healing"
+  },
+  "232": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Fires a freeze ray that does 2 damage and slows enemies",
+    "name": "Freezing"
+  },
+  "235": {
+    "descriptionUI": "Speeds up your attack and movement speeds",
+    "name": "Frenzy"
+  },
+  "236": {
+    "descriptionUI": "Sends out a shockwave that knocks back enemies",
+    "name": "Repulsion"
+  },
+  "246": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Fires a projectile",
+    "name": "Basic Ranged Attack"
+  },
+  "247": {
+    "descriptionUI": "Restores 3 Imagination to nearby characters",
+    "name": "Everyone Jig"
+  },
+  "248": {
+    "descriptionUI": "Restores 3 Imagination",
+    "name": "Pirate Jig"
+  },
+  "250": {
+    "descriptionUI": "Makes you smelly, but not as smelly as a Skunk",
+    "name": "Stinky Fish Stink"
+  },
+  "251": {
+    "descriptionUI": "Restores 2 Imagination",
+    "name": "Yo Ho Ho"
+  },
+  "49": {
+    "descriptionUI": "Makes you show some affection",
+    "name": "I Heart You"
+  },
+  "50": {
+    "descriptionUI": "Makes you show a lot of affection",
+    "name": "I Heart You THIS Much!"
+  },
+  "51": {
+    "descriptionUI": "Restores 1 Imagination",
+    "name": "Restore Imagination 1"
+  },
+  "52": {
+    "descriptionUI": "Restores 1 Life",
+    "name": "Heal Life 1"
+  },
+  "53": {
+    "descriptionUI": "Makes you show your bad mood",
+    "name": "Stormy Weather"
+  },
+  "55": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Breath a cone of flame that does 3 damage to enemies",
+    "name": "Fire Breath"
+  },
+  "63": {
+    "descriptionUI": "Makes you perform a martial arts kata",
+    "name": "Wax On"
+  },
+  "80": {
+    "descriptionUI": "Restores 1 Armor",
+    "name": "Repair Armor 1"
+  },
+  "88": {
+    "descriptionUI": "Restores 2 Armor",
+    "name": "Repair Armor 2"
+  },
+  "89": {
+    "descriptionUI": "Restores 3 Armor",
+    "name": "Repair Armor 3"
+  },
+  "90": {
+    "descriptionUI": "Restores 2 Life",
+    "name": "Heal Life 2"
+  },
+  "91": {
+    "descriptionUI": "Restores 3 Life",
+    "name": "Heal Life 3"
+  },
+  "92": {
+    "descriptionUI": "Restores 2 Imagination",
+    "name": "Restore Imagination 2"
+  },
+  "93": {
+    "descriptionUI": "Restores 3 Imagination",
+    "name": "Restore Imagination 3"
+  }
+}

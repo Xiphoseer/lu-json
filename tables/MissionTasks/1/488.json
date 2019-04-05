@@ -1,0 +1,19 @@
+{
+  "id": 488,
+  "tasks": [
+    {
+      "IconID": 823,
+      "gate_version": null,
+      "largeTaskIcon": "",
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6842,
+      "targetGroup": "1001,1002,1003,1004,1005",
+      "targetValue": 5,
+      "taskParam1": "",
+      "taskType": 24,
+      "uid": 736
+    }
+  ]
+}

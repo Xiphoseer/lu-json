@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6461,
+    "3": 3034,
+    "5": 950,
+    "64": 0
+  },
+  "description": "Rocket Modular build Middle volume",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 64,
+      "iconState": 65
+    }
+  ],
+  "id": 6901,
+  "interactionDistance": 12.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Middle Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

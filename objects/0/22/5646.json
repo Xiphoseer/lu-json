@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Camera held by obstacle course camera man",
+  "components": {
+    "11": 2348,
+    "2": 5067
+  },
+  "description": "Camera held by obstacle course camera man",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5646,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Camera",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

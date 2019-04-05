@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5962,
+    "2": 11769,
+    "28": 243,
+    "3": 5818,
+    "42": 0,
+    "63": 6
+  },
+  "description": null,
+  "displayName": "Fire Brawl Front Bumper",
+  "gate_version": "FVracetrack",
+  "id": 12020,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarFV1_FrontBumper_p",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

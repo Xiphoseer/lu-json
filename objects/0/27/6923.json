@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Freeze Skill 1",
+  "components": {
+    "11": 2921,
+    "2": 6485,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Wand of Freezing 1",
+  "gate_version": null,
+  "id": 6923,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wand of Freezing 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 865
+    }
+  ],
+  "type": "Loot"
+}

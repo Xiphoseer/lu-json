@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7662,
+    "39": 48,
+    "40": 3744,
+    "5": 1164,
+    "7": 859
+  },
+  "description": "Rendered asset to place over the glom so part of the environment can be interacted with",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9732,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Panda Block",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

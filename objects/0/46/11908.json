@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11657,
+    "20": 5743,
+    "5": 1300,
+    "7": 1634
+  },
+  "description": "red smashable railing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV- railing smashable red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

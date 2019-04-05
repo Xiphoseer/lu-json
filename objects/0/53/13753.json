@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6860,
+    "2": 13493
+  },
+  "description": "Used in the nexus tower mission chain",
+  "displayName": "Dragon Disguise Head Proxy",
+  "gate_version": "nexustower",
+  "id": 13753,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Dragon Disguise Head Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

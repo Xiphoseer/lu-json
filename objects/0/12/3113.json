@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 2579,
+    "5": 342,
+    "7": 241
+  },
+  "description": "Ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3113,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

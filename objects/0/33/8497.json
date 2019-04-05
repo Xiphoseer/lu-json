@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Slashing",
+  "components": {
+    "11": 3796,
+    "2": 8052,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Cutlass",
+  "gate_version": null,
+  "id": 8497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Cutlass",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 527
+    }
+  ],
+  "type": "Loot"
+}

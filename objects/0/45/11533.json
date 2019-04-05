@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5584,
+    "2": 11285,
+    "3": 5377,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Baggage Empty Cart Model",
+  "gate_version": null,
+  "id": 11533,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Baggage Cart Empty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6612,
+    "2": 13065,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPCNurse Hair Vendor",
+  "gate_version": "nexustower",
+  "id": 13337,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPCNurse Hair Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

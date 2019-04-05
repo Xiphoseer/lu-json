@@ -1,0 +1,52 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 516,
+    "2": 13529,
+    "3": 1777,
+    "35": 606,
+    "5": 1647,
+    "7": 305,
+    "73": 162,
+    "9": 0
+  },
+  "description": "__MG__Cole Earth Ninja",
+  "displayName": "Cole - Ninja of Earth",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 13790,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ Mon- Cole Earth Ninja",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

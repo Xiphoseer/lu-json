@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP 4 AP",
+  "components": {
+    "11": 6997,
+    "2": 13831,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Nexus Force Shield MK II",
+  "gate_version": "nexustower",
+  "id": 14120,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Force Shield Mk II",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

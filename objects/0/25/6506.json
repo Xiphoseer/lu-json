@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Attach to greeble_l on cannon",
+  "components": {
+    "11": 2740,
+    "2": 6073
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 6506,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Greeble Cannon Left",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

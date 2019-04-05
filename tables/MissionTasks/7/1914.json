@@ -1,0 +1,47 @@
+{
+  "id": 1914,
+  "tasks": [
+    {
+      "IconID": 4669,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4669,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_CAVEENTRANCE",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2711
+    },
+    {
+      "IconID": 4648,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4648,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_EARTHSHRINE",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 2712
+    },
+    {
+      "IconID": 4654,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4654,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12656,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "1",
+      "taskType": 11,
+      "uid": 2831
+    }
+  ]
+}

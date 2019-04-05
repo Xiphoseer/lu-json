@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3078,
+    "2": 6965,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Buccaneer Pistol & Cutlass 2",
+  "gate_version": null,
+  "id": 7401,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Buccaneer Weapon 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 595
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 712
+    }
+  ],
+  "type": "Loot"
+}

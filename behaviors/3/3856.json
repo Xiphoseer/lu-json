@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/3/3856.json"
+    }
+  },
+  "behaviorID": 3856,
+  "effectHandle": null,
+  "effectID": 1066,
+  "parameters": {
+    "gravity_scale": 0.0,
+    "stop_input": 1.0,
+    "y_velocity": 0.0
+  },
+  "templateID": 56
+}

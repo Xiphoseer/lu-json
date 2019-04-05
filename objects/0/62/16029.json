@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14749,
+    "3": 7566
+  },
+  "description": "Fx locators for plaza",
+  "displayName": null,
+  "gate_version": "freetrial",
+  "id": 16029,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Plaza_fx_s18",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

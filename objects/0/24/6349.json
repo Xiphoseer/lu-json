@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5797,
+    "3": 2651
+  },
+  "description": "Placeholder environmental asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6349,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTOTYPE - GF Platform without roof",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

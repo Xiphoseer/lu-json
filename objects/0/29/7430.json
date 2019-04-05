@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 9,
+    "17": 361,
+    "2": 9873,
+    "3": 1777,
+    "35": 453,
+    "7": 306
+  },
+  "description": "FV Accessory Vendor - Refinery",
+  "displayName": "Kore Swordcube - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 7430,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Refinery Gear Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14109,
+    "3": 7225,
+    "7": 1964
+  },
+  "description": "",
+  "displayName": "NJ - Rock Smashable Medium",
+  "gate_version": "njhub",
+  "id": 14418,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Rock Smashable Medium",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

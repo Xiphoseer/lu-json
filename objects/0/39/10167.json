@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4953,
+    "2": 10006,
+    "9": 0
+  },
+  "description": "Thanks for your help from the Bradford Rant Institute of Cosmic Kinesis!",
+  "displayName": "Bradford Rant Shirt",
+  "gate_version": null,
+  "id": 10167,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bradford Rant Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

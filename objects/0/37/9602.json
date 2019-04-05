@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "cannot place - won't equip",
+  "components": {
+    "11": 4632,
+    "2": 9453,
+    "3": 4181,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Tree Model 5",
+  "gate_version": null,
+  "id": 9602,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Tree 5 green",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

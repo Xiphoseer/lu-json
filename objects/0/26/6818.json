@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6379,
+    "3": 3007
+  },
+  "description": "Ruined pillar for the Jail scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6818,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Jail - ruined pillar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

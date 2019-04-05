@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6260,
+    "3": 2936,
+    "7": 622
+  },
+  "description": "Test Asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6710,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Gauntlet Pillar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

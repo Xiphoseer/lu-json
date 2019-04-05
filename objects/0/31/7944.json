@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7490,
+    "3": 3600,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Bamboo",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7944,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Bamboo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

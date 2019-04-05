@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5851,
+    "2": 11806,
+    "5": 1050
+  },
+  "description": null,
+  "displayName": "Construction Bot",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 142,
+      "iconState": 69
+    }
+  ],
+  "id": 12056,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Construction Bot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6192,
+    "2": 12414,
+    "9": 0
+  },
+  "description": "Venture Scout Axe",
+  "displayName": "NPC Venture Scout Axe",
+  "gate_version": null,
+  "id": 12624,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Venture Scout Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 970
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Epsilon Gun",
+  "components": {
+    "11": 2737,
+    "2": 6070
+  },
+  "description": "NPC Epsilon Gun",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6503,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Epsilon Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

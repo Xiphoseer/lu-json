@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8080,
+    "3": 3936,
+    "5": 1094,
+    "7": 895
+  },
+  "description": "Candle object -- Large",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8526,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Candle  -- Large",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

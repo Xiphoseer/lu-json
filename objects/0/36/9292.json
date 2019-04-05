@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 294,
+    "2": 8745,
+    "35": 376,
+    "7": 307
+  },
+  "description": " Samurai Lvl 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9292,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Samurai Lvl 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

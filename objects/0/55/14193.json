@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward 1 AP 1 IP",
+  "components": {
+    "11": 7037,
+    "2": 13901,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Light Gray Mouse's Cheese",
+  "gate_version": "ftcommunityitems",
+  "id": 14193,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hatchling Mouse's Cheese - Light Gray",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1357
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12088,
+    "3": 6028
+  },
+  "description": "locs for fv racing facility",
+  "displayName": "FV_racing_facility_locs",
+  "gate_version": null,
+  "id": 12337,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV_racing_facility_locs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

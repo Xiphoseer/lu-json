@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13624,
+    "3": 6881
+  },
+  "description": null,
+  "displayName": "NewAG_Monument",
+  "gate_version": null,
+  "id": 13899,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NewAG_Monument",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

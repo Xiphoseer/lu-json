@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5479,
+    "2": 10960,
+    "28": 220,
+    "3": 5120,
+    "42": 0
+  },
+  "description": "Robot City Modular Build Rocket Engine",
+  "displayName": "Robot City Rocket Engine",
+  "gate_version": null,
+  "id": 11191,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP Dearbite Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

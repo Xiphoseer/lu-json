@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6959,
+    "17": 529,
+    "2": 13718,
+    "31": 71,
+    "5": 1516,
+    "60": 149,
+    "7": 1907,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Blacksmith",
+  "gate_version": "njhub",
+  "id": 14007,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1383
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1384
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1651
+    }
+  ],
+  "type": "Enemies"
+}

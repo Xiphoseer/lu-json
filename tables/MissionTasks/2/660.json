@@ -1,0 +1,19 @@
+{
+  "id": 660,
+  "tasks": [
+    {
+      "IconID": 2912,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Skylane_Task.dds",
+      "largeTaskIconID": 2912,
+      "locStatus": 2,
+      "localize": true,
+      "target": 5997,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 4,
+      "uid": 976
+    }
+  ]
+}

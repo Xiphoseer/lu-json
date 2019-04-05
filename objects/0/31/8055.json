@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3603,
+    "2": 7606,
+    "3": 3696,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Goblet Box Model",
+  "gate_version": null,
+  "id": 8055,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Gobletbox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

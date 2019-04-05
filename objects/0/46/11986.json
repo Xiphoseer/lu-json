@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tough GF Enemy",
+  "components": {
+    "1": 5800,
+    "2": 11745,
+    "31": 14,
+    "5": 1313,
+    "60": 83,
+    "7": 1641,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Admiral Flogmore - Stromling Admiral Invader",
+  "gate_version": "auramar",
+  "id": 11986,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Admiral NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

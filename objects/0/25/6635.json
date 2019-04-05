@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 270,
+    "2": 7157,
+    "3": 2318,
+    "35": 253,
+    "5": 863,
+    "7": 305,
+    "73": 17
+  },
+  "description": "__MG__Mardolf Assembly Mission Giver",
+  "displayName": "Mardolf the Orange - Assembly Wizard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 113,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 6635,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Mardolf",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

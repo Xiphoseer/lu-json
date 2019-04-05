@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1869,
+    "2": 3187,
+    "5": 585
+  },
+  "description": "Flying clipper bot",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3785,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ambient Clipperbot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

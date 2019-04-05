@@ -1,0 +1,478 @@
+{
+  "1028": {
+    "descriptionUI": "Creates a Mech that assists you in battle",
+    "name": "Create Mech"
+  },
+  "1029": {
+    "descriptionUI": "Creates a Spiderling that assists you in battle",
+    "name": "Create Spiderling"
+  },
+  "1031": {
+    "descriptionUI": "Creates a flight of Owls that assist you in battle",
+    "name": "Summon Owls"
+  },
+  "1032": {
+    "descriptionUI": "%(DamageCombo) 5 %(ChargeUp)Hold down to do up to 30 damage over time",
+    "name": "Valiant Attack"
+  },
+  "1036": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing 8 damage to nearby enemies",
+    "name": "Valiant Attack"
+  },
+  "1037": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Does 5 damage and knocks back enemies",
+    "name": "Valiant Attack"
+  },
+  "1038": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 12 Armor to nearby characters - charge longer for more Armor",
+    "name": "Improvised Launcher 3"
+  },
+  "1042": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
+    "name": "Improvised Launcher 2"
+  },
+  "1043": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(ChargeUp)Restores up to 2 Armor to nearby characters",
+    "name": "Improvised Launcher 1"
+  },
+  "1048": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Launches a mass of bees at your enemies that deal damage over time",
+    "name": "Beehive Surprise 1"
+  },
+  "1049": {
+    "descriptionUI": "%(DamageCombo) 12 %(Description)Launches a mass of bees at your enemies that deal damage over time",
+    "name": "Beehive Surprise 2"
+  },
+  "1055": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Creates a slow firing Invention that assists you in battle",
+    "name": "Summon Make-Shift Buddy 1"
+  },
+  "1056": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Creates a medium fast firing Invention that assists you in battle",
+    "name": "Summon Make-Shift Buddy 2"
+  },
+  "1057": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Creates a faster firing Invention that assists you in battle",
+    "name": "Summon Make-Shift Buddy 3"
+  },
+  "1058": {
+    "descriptionUI": "Does 3 ongoing damage to enemies",
+    "name": "Gadgets Extreme"
+  },
+  "1059": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Fires a spread of bolts that do 2 damage each",
+    "name": "Adventurer Crossbow 1"
+  },
+  "1060": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Fires a spread of bolts that do 3 damage each",
+    "name": "Adventurer Crossbow 2"
+  },
+  "1061": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Fires a spread of bolts that do 4 damage each",
+    "name": "Adventurer Crossbow 3"
+  },
+  "1068": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Stuns enemies",
+    "name": "Whip Snap 1"
+  },
+  "1069": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Stuns enemies",
+    "name": "Whip Snap 2"
+  },
+  "1070": {
+    "descriptionUI": "Gives a speed boost to nearby characters for 300 seconds",
+    "name": "Path Cutter 1"
+  },
+  "1071": {
+    "descriptionUI": "Gives a speed boost to nearby characters for 300 seconds",
+    "name": "Path Cutter 2"
+  },
+  "1072": {
+    "descriptionUI": "Gives a speed boost to nearby characters for 300 seconds",
+    "name": "Path Cutter 3"
+  },
+  "1073": {
+    "descriptionUI": "Restores 10 Life to nearby characters",
+    "name": "Rations"
+  },
+  "1074": {
+    "descriptionUI": "Shows the location of dangerous enemies and collectibles on your mini-map",
+    "name": "Tracking"
+  },
+  "1075": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Strikes enemies with lightning, doing 5 damage",
+    "name": "Dark Lightning 1"
+  },
+  "1076": {
+    "descriptionUI": "%(DamageCombo) 7 %(Description)Strikes enemies with lightning, doing 7 damage",
+    "name": "Dark Lightning 2"
+  },
+  "1077": {
+    "descriptionUI": "%(DamageCombo) 9 %(Description)Strikes enemies with lightning, doing 9 damage",
+    "name": "Dark Lightning 3"
+  },
+  "1078": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Makes you rush forward, doing N damage to enemies that you strike",
+    "name": "Shinobi Rush 1"
+  },
+  "1079": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Makes you rush forward, doing 8 damage to enemies that you strike",
+    "name": "Shinobi Rush 2"
+  },
+  "1081": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
+    "name": "Shadow Blade 1"
+  },
+  "1082": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Shadow Blade 2"
+  },
+  "1083": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Restores up to 11 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Shadow Blade 3"
+  },
+  "1088": {
+    "descriptionUI": "Tosses a gadget that pulls enemies to it and stuns them",
+    "name": "Gravity Well 1"
+  },
+  "1089": {
+    "descriptionUI": "Tosses a gadget that pulls enemies to it and stuns them",
+    "name": "Gravity Well 2"
+  },
+  "1090": {
+    "descriptionUI": "Tosses a gadget that pulls enemies to it and stuns them",
+    "name": "Gravity Well 3"
+  },
+  "1091": {
+    "descriptionUI": "%(DamageCombo) 4 %(Description)Calls an orbital laser that does 4 damage to enemies and briefly stuns them",
+    "name": "Orbital Strike 1"
+  },
+  "1092": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Calls an orbital laser that does 8 damage to enemies and briefly stuns them",
+    "name": "Orbital Strike 2"
+  },
+  "1093": {
+    "descriptionUI": "%(DamageCombo) 14 %(Description)Releases stored energy that does 14 damage to enemies",
+    "name": "Sentinel Blast"
+  },
+  "1094": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(ChargeUp)Blocks 4 attacks while charged",
+    "name": "Ripple Gun 1"
+  },
+  "1099": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Blocks 6 attacks while charged",
+    "name": "Ripple Gun 2"
+  },
+  "1100": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 8 attacks while charged",
+    "name": "Ripple Gun 3"
+  },
+  "1104": {
+    "descriptionUI": "When you reach 0 Armor, you will be shielded from 10 damage for a short time",
+    "name": "Emergency Shield 1"
+  },
+  "1105": {
+    "descriptionUI": "When you reach 0 Armor, you will be shielded from 15 damage for a short time",
+    "name": "Emergency Shield 2"
+  },
+  "1106": {
+    "descriptionUI": "When you reach 0 Armor, you will be shielded from 20 damage for a short time",
+    "name": "Emergency Shield 3"
+  },
+  "1107": {
+    "descriptionUI": "Creates a disco ball that does up to 30 damage to enemies over time",
+    "name": "Disco Dazzle"
+  },
+  "1108": {
+    "descriptionUI": "Restores up to 42 Imagination to nearby characters over time",
+    "name": "Line Dance"
+  },
+  "1109": {
+    "descriptionUI": "Restores up to 40 Imagination to nearby characters over time",
+    "name": "Egyptian Dance"
+  },
+  "1110": {
+    "descriptionUI": "Fires a blast that does 10 damage to enemies",
+    "name": "Grasshopper Blast"
+  },
+  "1112": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Fires a 9 damage projectile",
+    "name": "Laser Blast"
+  },
+  "1113": {
+    "descriptionUI": "Restores up to 108 Armor over time",
+    "name": "Mechanical Repair"
+  },
+  "1114": {
+    "descriptionUI": "Restores up to 8 Life, 24 Armor and 32 Imagination over time",
+    "name": "Juggle"
+  },
+  "1116": {
+    "descriptionUI": "Tosses a banana that does 3 damage and knocks down enemies",
+    "name": "Banana Toss"
+  },
+  "1117": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Stuns enemies",
+    "name": "Frankfurter Blast"
+  },
+  "1118": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Restores 6 Life",
+    "name": "Elite Carrot of Snacking"
+  },
+  "1119": {
+    "descriptionUI": "Reduces damage you take from Skeletons by 1, to a minimum of 1",
+    "name": "[DNL] Equipped 1 NJ SJ Item"
+  },
+  "1126": {
+    "descriptionUI": "Tosses a croissant that does 3 damage and knocks down enemies",
+    "name": "Pastry Surprise"
+  },
+  "1129": {
+    "descriptionUI": "%(DamageCombo) 3 %(ChargeUp)Restores 10 Imagination",
+    "name": "Prismatic Blast"
+  },
+  "1130": {
+    "descriptionUI": "Boosts your Life and Imagination by 5 for 180 seconds and restores 5 Life and 5 Imagination",
+    "name": "Tea Boost"
+  },
+  "1133": {
+    "descriptionUI": "Restores 4 Life",
+    "name": "Minor Healing Drink"
+  },
+  "1134": {
+    "descriptionUI": "Restores 4 Life",
+    "name": "Minor Healing"
+  },
+  "1136": {
+    "descriptionUI": "Restores 5 Armor to nearby characters and 5 Life to Assembly bots",
+    "name": "Assembly's Repair"
+  },
+  "1137": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Knocks back enemies ",
+    "name": "Heroic Attack with Knockback"
+  },
+  "1139": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(Description)Pokes enemies",
+    "name": "Heroic Attack"
+  },
+  "1140": {
+    "descriptionUI": "%(DamageCombo) 3+4+4 %(Description)Pokes enemies",
+    "name": "Fantastic Attack"
+  },
+  "1142": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Calls down lightning that does 7 damage to enemies",
+    "name": "Heroic Attack with Lightning"
+  },
+  "1144": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Blocks 3 attacks while charged",
+    "name": "Elite Attack with Block"
+  },
+  "1146": {
+    "descriptionUI": "Restores up to 6 Life and 18 Armor over time",
+    "name": "Doc's Heal"
+  },
+  "1147": {
+    "descriptionUI": "Restores 12 Armor",
+    "name": "Repair Armor 4"
+  },
+  "1148": {
+    "descriptionUI": "Restores 10 Life while boosting your Life by 5 for a short amount of time",
+    "name": "Sticky Heal"
+  },
+  "1149": {
+    "descriptionUI": "Restores 3 Life each time an enemy is smashed",
+    "name": "Vampire Bite"
+  },
+  "1151": {
+    "descriptionUI": "Restores 12 Imagination",
+    "name": "Big Slosh"
+  },
+  "1152": {
+    "descriptionUI": "Gives a speed boost for 60 seconds",
+    "name": "Expresso Boost"
+  },
+  "1153": {
+    "descriptionUI": "Restores up to 6 Life, 6 Imagination, and 6 Armor over time",
+    "name": "Energy Boost"
+  },
+  "1154": {
+    "descriptionUI": "Makes you whirl forward, doing 8 damage to enemies that you strike",
+    "name": "Spinning Shield Slam"
+  },
+  "1155": {
+    "descriptionUI": "Reduces the amount of damage you take by 1, to a minimum of 1",
+    "name": "Everlasting Toughness"
+  },
+  "1156": {
+    "descriptionUI": "Makes you walk like a robot",
+    "name": "The Robot"
+  },
+  "1196": {
+    "descriptionUI": "%(DamageCombo) 1 %(Description)Sprays soapy water",
+    "name": "Soap Spray"
+  },
+  "1202": {
+    "descriptionUI": "%(DamageCombo) 3x3 %(Description)Shoots 3 lasers that each do 3 damage",
+    "name": "Sapphire Scepter Blast"
+  },
+  "1205": {
+    "descriptionUI": "Fires a shot that does 5 damage to an enemy",
+    "name": "Grasshopper Shot"
+  },
+  "1210": {
+    "descriptionUI": "%(DamageCombo) 3+4+4 %(ChargeUp)Stuns enemies",
+    "name": "Fantastic Attack with Stun"
+  },
+  "1216": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Shoots a flaming arrow that does up to 10 damage over time",
+    "name": "Flaming Arrow 2"
+  },
+  "1217": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Knocks down enemies",
+    "name": "Pea Shot MKII"
+  },
+  "1219": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Drops an anchor that does 8 damage to an enemey",
+    "name": "Anchors Away"
+  },
+  "1223": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(Description)Slashes enemies",
+    "name": "Heroic Attack"
+  },
+  "1224": {
+    "descriptionUI": "Creates a sunflower that drops Imagination Power-ups",
+    "name": "Sunflower Sprout"
+  },
+  "1227": {
+    "descriptionUI": "%(DamageCombo) 3/2 %(Description)Plants a seed that grows into a massive plant that assists you in battle",
+    "name": "Plant Pod"
+  },
+  "1228": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Makes you leap on enemies, doing 5 damage",
+    "name": "Spring Step"
+  },
+  "1229": {
+    "descriptionUI": "Causes enemies to slip and stumble",
+    "name": "Oil Spray"
+  },
+  "1231": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Does 3 damage and knocks back enemies",
+    "name": "Repulsion Wand"
+  },
+  "1232": {
+    "descriptionUI": "Creates a Bone Daddy that assists you in battle",
+    "name": "Summon Bone Daddy"
+  },
+  "1233": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(Description)Smashes enemies",
+    "name": "Heroic Attack"
+  },
+  "1234": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Smashes enemies",
+    "name": "Elite Attack"
+  },
+  "1235": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(ChargeUp)Does 5 damage and knocks down enemies",
+    "name": "Heroic Attack with Slam"
+  },
+  "1237": {
+    "descriptionUI": "Restores 2 Armor",
+    "name": "Repair Armor 2"
+  },
+  "1238": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(Description)Smashes enemies",
+    "name": "Heroic Attack"
+  },
+  "1239": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Makes you roll into enemies, doing 6 damage",
+    "name": "Elite Attack with Roll"
+  },
+  "1241": {
+    "descriptionUI": "%(DamageCombo) 3+3+4 %(Description)Fires a projectile",
+    "name": "Heroic Attack"
+  },
+  "1244": {
+    "descriptionUI": "%(DamageCombo) 2x3 %(Description)Fires 3 projectiles that each do 2 damage",
+    "name": "Exceptional Ranged Attack"
+  },
+  "1245": {
+    "descriptionUI": "Restores 10 Life, 15 Armor, and 25 Imagination",
+    "name": "Replenish Minifigure 2"
+  },
+  "1246": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Launches firecrackers that do 2 damage",
+    "name": "Launcher"
+  },
+  "1248": {
+    "descriptionUI": "Restores up to 30 Life, 30 Imagination and 30 Armor over time and boosts 5 Life, 5 Imagination and 5 Armor for 120 seconds",
+    "name": "Party Clown"
+  },
+  "1251": {
+    "descriptionUI": "When used near the Nexus Tower Imagination Beam, gathers massive amounts of Imagination",
+    "name": "Gather Imagination"
+  },
+  "1252": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Fires a 10 damage projectile that explodes for 10 damage",
+    "name": "Exceptional Ranged Attack"
+  },
+  "1255": {
+    "descriptionUI": "Restores 1 Imagination",
+    "name": "Restore Imagination 1"
+  },
+  "1256": {
+    "descriptionUI": "%(DamageCombo) 9 %(Description)Drops an exploding piano that does 9 damage to an enemy",
+    "name": "Radio For Assistance"
+  },
+  "1257": {
+    "descriptionUI": "Restores 100 Imagination to nearby characters, and heals certain kinds of Maelstrom sickness",
+    "name": "Unload Imagination Backpack"
+  },
+  "1259": {
+    "descriptionUI": "When used near calldown points in Crux Prime, allows you to call in an airstrike.",
+    "name": "Imagination Blast"
+  },
+  "1263": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 [DNL]%(Description)Attack enemies with your box disguise",
+    "name": "Boxing Box"
+  },
+  "1264": {
+    "descriptionUI": "%(DamageCombo) 15 %(Description)Creates a Schooner that rams an enemy and does 15 damage",
+    "name": "Create Schooner"
+  },
+  "1265": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Creates a Bot Quick Build that assists you in battle",
+    "name": "Create Bot"
+  },
+  "1266": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Makes you charge forward, doing up to 30 damage over time and knocking down enemies",
+    "name": "Lance Lunge"
+  },
+  "1267": {
+    "descriptionUI": " %(Description)Creates a Target Dummy that attracts nearby enemies",
+    "name": "Create Target Dummy"
+  },
+  "1268": {
+    "descriptionUI": "%(DamageCombo) 7 %(Description)Makes you rush forward, doing 7 damage to enemies",
+    "name": "Moto Rush"
+  },
+  "1269": {
+    "descriptionUI": "%(DamageCombo) 4 %(Description)Creates a Mech that assists you in battle",
+    "name": "Create Mech"
+  },
+  "1270": {
+    "descriptionUI": "%(DamageCombo) 3/1 %(Description)Creates a Spiderling that assists you in battle",
+    "name": "Create Spiderling"
+  },
+  "1271": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Creates a flight of Owls that assist you in battle",
+    "name": "Summon Owls"
+  },
+  "1274": {
+    "descriptionUI": "Gives a speed boost for 15 seconds",
+    "name": "Speed Boost"
+  },
+  "1275": {
+    "descriptionUI": "Knocks back enemies",
+    "name": "Flash Bang"
+  }
+}

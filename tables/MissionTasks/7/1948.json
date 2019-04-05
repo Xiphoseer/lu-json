@@ -1,0 +1,33 @@
+{
+  "id": 1948,
+  "tasks": [
+    {
+      "IconID": 4661,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4661,
+      "locStatus": 2,
+      "localize": true,
+      "target": 1929,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 2755
+    },
+    {
+      "IconID": 4652,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4652,
+      "locStatus": 2,
+      "localize": true,
+      "target": 16496,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 11,
+      "uid": 2906
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 55,
+    "17": 409,
+    "2": 10995,
+    "3": 1777,
+    "35": 503,
+    "7": 306
+  },
+  "description": "none",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 62,
+      "iconState": 66
+    }
+  ],
+  "id": 11223,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Testdude2",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

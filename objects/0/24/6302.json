@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Car Stuff",
+  "components": {
+    "11": 2613,
+    "2": 5741
+  },
+  "description": null,
+  "displayName": "Red Chassis",
+  "gate_version": null,
+  "id": 6302,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

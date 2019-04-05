@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6767,
+    "2": 13395,
+    "3": 6715,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Straight Wooden Fence Model",
+  "gate_version": "april2011content",
+  "id": 13657,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Wooden Straight ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

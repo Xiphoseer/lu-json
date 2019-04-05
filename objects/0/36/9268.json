@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8722,
+    "25": 0,
+    "27": 0,
+    "3": 3996
+  },
+  "description": "FV moving platform for entrance gate",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9268,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Entrance Gate - Platform 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

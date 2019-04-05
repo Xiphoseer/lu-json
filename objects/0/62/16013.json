@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14714,
+    "23": 71,
+    "40": 7551,
+    "7": 2087
+  },
+  "description": "Collectible Spawner for Ninjago Monastary Backpack Flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16013,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJMON - Collectable Flag Spawner - Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5285,
+    "2": 10676,
+    "3": 4950,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Pink Polka Dot Chair Model",
+  "gate_version": null,
+  "id": 10829,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward PolkaDotChairPink",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NO AI for boss fight only Skeleton Lieutenant",
+  "components": {
+    "17": 557,
+    "2": 15039,
+    "3": 7699,
+    "5": 1726,
+    "7": 2139,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Frakjaw - Skeleton of Fire",
+  "gate_version": "njhub",
+  "id": 16289,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Platform Frakjaw Skeleton Lieutenant",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

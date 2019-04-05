@@ -1,0 +1,83 @@
+{
+  "id": 113,
+  "missions": [
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1449,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1459,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1615,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1628,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1629,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1630,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1631,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1632,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1633,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1634,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1635,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1636,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dailymissions2.0",
+      "missionID": 1637,
+      "offersMission": true
+    }
+  ]
+}

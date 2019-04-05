@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Valiant Weapon",
+  "components": {
+    "11": 6355,
+    "2": 12599,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "The Wormholer",
+  "gate_version": "valiantweapons",
+  "id": 12809,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Space Marauder Valiant Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1032
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1269
+    }
+  ],
+  "type": "Loot"
+}

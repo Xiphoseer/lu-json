@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6751,
+    "2": 13379,
+    "3": 6699,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Wall Corner Pillar Model",
+  "gate_version": "april2011content",
+  "id": 13641,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Wall Pillar Corner ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "6 LP, 6 AP, 6 IP",
+  "components": {
+    "11": 6313,
+    "2": 12555,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Energy Bar",
+  "gate_version": "auramar",
+  "id": 12765,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Energy Bar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1153
+    }
+  ],
+  "type": "Loot"
+}

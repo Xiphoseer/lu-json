@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2515,
+    "40": 1223,
+    "48": 54,
+    "6": 0
+  },
+  "description": "Test for quickbuildable bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4838,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Quickbuild Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

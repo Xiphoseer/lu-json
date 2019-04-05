@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3629,
+    "2": 6292,
+    "28": 28,
+    "3": 2956,
+    "42": 0,
+    "63": 19
+  },
+  "description": "Modular Car Engine - Level 2",
+  "displayName": "Modular Car Engine - Level 2",
+  "gate_version": null,
+  "id": 8241,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST MOD Car Engine Level 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

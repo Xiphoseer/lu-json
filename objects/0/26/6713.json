@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Precondition Test - bad offset",
+  "components": {
+    "11": 3470,
+    "2": 4313,
+    "9": 0
+  },
+  "description": "Precondition Test - bad offset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6713,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Precondition",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 237
+    }
+  ],
+  "type": "Loot"
+}

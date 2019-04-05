@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7530,
+    "2": 14965,
+    "3": 7673,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Gate Model",
+  "gate_version": "freetrial",
+  "id": 16249,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Gate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

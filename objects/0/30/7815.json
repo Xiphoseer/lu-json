@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 7377,
+    "31": 33,
+    "5": 1110,
+    "60": 27,
+    "7": 748,
+    "9": 0
+  },
+  "description": "minion for FV",
+  "displayName": "Dark Ronin",
+  "gate_version": null,
+  "id": 7815,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Dark Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5643,
+    "3": 2566,
+    "38": 0,
+    "5": 888
+  },
+  "description": "SG object to track model rewards",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6397,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG - Model Spawner Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

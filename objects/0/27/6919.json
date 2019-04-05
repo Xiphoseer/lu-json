@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6481,
+    "25": 0,
+    "3": 3047,
+    "5": 1034,
+    "7": 651
+  },
+  "description": "Shooting Gallery Target - Duck 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6919,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Duck 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9818,
+    "3": 3659
+  },
+  "description": "Icon whose details are grabbed from script",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9993,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Scripted Interaction Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Icon"
+}

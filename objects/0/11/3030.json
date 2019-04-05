@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 24,
+    "2": 2537,
+    "3": 1450,
+    "5": 81
+  },
+  "description": "FV missiongiver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3030,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninja Gardener",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

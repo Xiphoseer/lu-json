@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Epsilon Starcracker Gun",
+  "components": {
+    "11": 3530,
+    "2": 7626
+  },
+  "description": "NPC Epsilon Starcracker Gun",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8080,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Epsilon Starcracker Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

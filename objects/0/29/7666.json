@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7227,
+    "3": 3388
+  },
+  "description": "Water test object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7666,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Water test object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

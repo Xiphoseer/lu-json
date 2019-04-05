@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6671,
+    "2": 13251,
+    "28": 336,
+    "3": 6623,
+    "42": 0,
+    "63": 33
+  },
+  "description": null,
+  "displayName": "Venture League Hinterlander Front Bumper",
+  "gate_version": "factionvehicles",
+  "id": 13517,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarVE_FrontBumper_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

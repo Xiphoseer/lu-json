@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1152,
+    "2": 4445,
+    "5": 415
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3406,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "test - BigHelp Test NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

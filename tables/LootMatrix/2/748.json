@@ -1,0 +1,95 @@
+{
+  "LootMatrixIndex": 748,
+  "elements": [
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3980,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.4000000059604645
+    },
+    {
+      "LootTableIndex": 113,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3981,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    },
+    {
+      "LootTableIndex": 242,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3983,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    },
+    {
+      "LootTableIndex": 415,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3985,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 420,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3986,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 424,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3987,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 3988,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.019999999552965164
+    },
+    {
+      "LootTableIndex": 846,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4797,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.03500000014901161
+    },
+    {
+      "LootTableIndex": 847,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 4798,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    }
+  ]
+}

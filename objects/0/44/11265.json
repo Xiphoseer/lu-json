@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5300,
+    "2": 11035,
+    "5": 1278,
+    "60": 25,
+    "7": 1609,
+    "9": 0
+  },
+  "description": "Enemy",
+  "displayName": "Grabble",
+  "gate_version": null,
+  "id": 11265,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Facehugger",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

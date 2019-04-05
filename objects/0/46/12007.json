@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11762,
+    "40": 3398
+  },
+  "description": "Test asset for track events",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12007,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Racetrack Crowd - Darkling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test for pulse",
+  "components": {
+    "11": 3466,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "test for pulse",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4939,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Pulse Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 155
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 1 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5158,
+    "2": 10292
+  },
+  "description": "When interacted with, model will patrol in a counter-clockwise circle.",
+  "displayName": "Circular Patrol Behavior",
+  "gate_version": null,
+  "id": 10449,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Circular Patrol",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

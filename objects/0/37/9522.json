@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9372,
+    "3": 4105,
+    "48": 142,
+    "5": 1134,
+    "7": 937,
+    "9": 0
+  },
+  "description": "Rank 3 assembly engineer heal generator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9522,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Engineer Rank 3 Generator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 658
+    }
+  ],
+  "type": "Rebuildables"
+}

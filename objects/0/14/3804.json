@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3220,
+    "3": 873,
+    "5": 580,
+    "7": 786
+  },
+  "description": "Plays dirt drop effects on button press",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3804,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Dirt Drop Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6866,
+    "2": 13499
+  },
+  "description": "Used with the nexus tower mission chains",
+  "displayName": "Horseman Disguise Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 13759,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Horseman Disguise Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

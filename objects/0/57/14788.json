@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7460,
+    "2": 14478,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Tan Cat Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14788,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Tan Cat Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

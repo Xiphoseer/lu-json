@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3443,
+    "2": 7576,
+    "53": 14
+  },
+  "description": "Double-click to get the Rank 1 Shinobi Specialty Gear!",
+  "displayName": "Rank 1 Shinobi Kit Package",
+  "gate_version": "factionkit2",
+  "id": 8030,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Shinobi Kit Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

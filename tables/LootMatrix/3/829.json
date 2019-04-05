@@ -1,0 +1,55 @@
+{
+  "LootMatrixIndex": 829,
+  "elements": [
+    {
+      "LootTableIndex": 811,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4449,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 812,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4450,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 813,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4451,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 814,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4452,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 815,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "ftcommunityitems",
+      "id": 4453,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    }
+  ]
+}

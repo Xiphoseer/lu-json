@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP + secret Passage",
+  "components": {
+    "11": 2832,
+    "2": 6328,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Sideways Pirate Hat",
+  "gate_version": null,
+  "id": 6794,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sideways Pirate Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

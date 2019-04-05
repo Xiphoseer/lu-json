@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10270,
+    "3": 4640,
+    "7": 1557
+  },
+  "description": "smashable that needs to be a bouncer QB when smashed only smashable by the hammer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10427,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Hammer Smashable to dragon Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

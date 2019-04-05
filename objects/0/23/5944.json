@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5287,
+    "3": 2428,
+    "40": 2424,
+    "5": 788
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5944,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Fan",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9667,
+    "3": 4311
+  },
+  "description": "RACE-NSTrack01_TRACK_NimbusStart",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9835,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-NSTrack01_TRACK_NimbusStart",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

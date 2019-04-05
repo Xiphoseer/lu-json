@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3334,
+    "2": 52
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4985,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Contest Portal Rebuild Loot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

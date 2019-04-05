@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For skeleton enemies",
+  "components": {
+    "11": 7052,
+    "2": 13996
+  },
+  "description": "",
+  "displayName": "TEST Maelstrom Item",
+  "gate_version": "auramar",
+  "id": 14305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Maelstrom Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

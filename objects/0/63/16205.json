@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6585,
+    "3": 3100,
+    "5": 973,
+    "52": 5
+  },
+  "description": null,
+  "displayName": "TEST Kingdoms ChoiceBuild",
+  "gate_version": null,
+  "id": 16205,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Kingdoms ChoiceBuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

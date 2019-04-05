@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/0/174.json"
+    }
+  },
+  "behaviorID": 174,
+  "effectHandle": null,
+  "effectID": 82,
+  "parameters": {
+    "LOT_ID": 2939.0,
+    "projectile_speed": 40.0,
+    "projectile_type": 1.0
+  },
+  "templateID": 4
+}

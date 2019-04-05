@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9534,
+    "3": 1777,
+    "35": 397,
+    "5": 736,
+    "7": 307,
+    "73": 74
+  },
+  "description": "Female ambient concert npc",
+  "displayName": "DeeDee Light",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 9692,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Ambient Concert NPC",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

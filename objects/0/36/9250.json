@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "1 IP",
+  "description": "",
+  "displayName": "DELETE ME Bandana",
+  "gate_version": null,
+  "id": 9250,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST DELETE ME Bandana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2889,
+    "2": 6424,
+    "3": 3174,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Clamshell Model",
+  "gate_version": null,
+  "id": 6869,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Clamshell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

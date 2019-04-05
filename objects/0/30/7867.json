@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7424,
+    "3": 3534
+  },
+  "description": "Platform for nexus tower launcher",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7867,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Nexus Launcher Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

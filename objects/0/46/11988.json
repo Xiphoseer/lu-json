@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "minion for FV",
+  "components": {
+    "1": 5802,
+    "2": 11747,
+    "31": 15,
+    "5": 1315,
+    "60": 85,
+    "7": 1643,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Grim Daisho - Dark Ronin Invader",
+  "gate_version": "auramar",
+  "id": 11988,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Dark Ronin NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

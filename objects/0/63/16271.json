@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit",
+  "components": {
+    "11": 7562,
+    "2": 15017,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Fire and rocket directly to the Ninjago Caves!",
+  "displayName": "Pants of Flames",
+  "gate_version": "njhub",
+  "id": 16271,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Pants Pants of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

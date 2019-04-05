@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item; spawns when you water Wisdom Blossoms around the Monastery",
+  "components": {
+    "11": 7141,
+    "2": 14208
+  },
+  "description": "Return these to Sensei Wu in the Ninjago Monastery!",
+  "displayName": "Wisdom Petals",
+  "gate_version": "njhub",
+  "id": 14523,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Wisdom Petals",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

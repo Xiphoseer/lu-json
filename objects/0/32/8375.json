@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 6 LP",
+  "components": {
+    "11": 3696,
+    "2": 7933,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Sushi",
+  "gate_version": null,
+  "id": 8375,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sushi",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 892
+    }
+  ],
+  "type": "Loot"
+}

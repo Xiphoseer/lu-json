@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11915,
+    "3": 5923,
+    "5": 1349
+  },
+  "description": null,
+  "displayName": "Scroll Shrine",
+  "gate_version": "auramar",
+  "id": 12166,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - NJ shrine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

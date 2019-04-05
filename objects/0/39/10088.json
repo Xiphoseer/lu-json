@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4910,
+    "2": 9924,
+    "3": 4462,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate T-Wall Model",
+  "gate_version": null,
+  "id": 10088,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate T Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

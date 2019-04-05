@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "+Random consumables",
+  "components": {
+    "11": 2475,
+    "2": 5267,
+    "53": 3
+  },
+  "description": "Double-click to open!",
+  "displayName": "Super Picnic Basket",
+  "gate_version": null,
+  "id": 5837,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Picnic Basket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

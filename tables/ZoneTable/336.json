@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Dev YRK SG",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/336.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 1.0,
+  "gate_version": null,
+  "ghostdistance": 300.0,
+  "ghostdistance_min": null,
+  "heightInChunks": null,
+  "locStatus": 0,
+  "localize": false,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 120,
+  "population_soft_cap": 80,
+  "scriptID": -1,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": null,
+  "zoneControlTemplate": null,
+  "zoneID": 336,
+  "zoneName": "Old/yrk devsg/YRK_DevSG.luz"
+}

@@ -1,0 +1,567 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 169,
+      "value_2": 64,
+      "value_3": 480,
+      "value_4": 13104,
+      "version": 45
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.5686274766921997,
+        0.4313725531101227,
+        0.4313725531101227,
+        1.0,
+        1.0,
+        1.0,
+        0.41960784792900085,
+        0.41960784792900085,
+        0.41960784792900085,
+        0.8399999737739563,
+        -0.5400000214576721,
+        -0.550000011920929,
+        2.0,
+        600.0,
+        10000.0,
+        100.0,
+        8000.0,
+        8000.0,
+        2.0,
+        600.0,
+        10000.0,
+        100.0,
+        8000.0,
+        8000.0
+      ],
+      "ids": [
+        {
+          "id": 0,
+          "value_1": 0.0,
+          "value_2": 0.0
+        },
+        {
+          "id": 1,
+          "value_1": 100.0,
+          "value_2": 150.0
+        },
+        {
+          "id": 2,
+          "value_1": 150.0,
+          "value_2": 200.0
+        },
+        {
+          "id": 3,
+          "value_1": 200.0,
+          "value_2": 250.0
+        },
+        {
+          "id": 4,
+          "value_1": 60.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 5,
+          "value_1": 40.0,
+          "value_2": 40.0
+        },
+        {
+          "id": 6,
+          "value_1": 40.0,
+          "value_2": 40.0
+        },
+        {
+          "id": 7,
+          "value_1": 400.0,
+          "value_2": 600.0
+        },
+        {
+          "id": 8,
+          "value_1": 60.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 9,
+          "value_1": 50.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 10,
+          "value_1": 300.0,
+          "value_2": 400.0
+        }
+      ],
+      "sky": [
+        "mesh\\env\\env_fv_sky_mantis.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 1924145476194,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 899.9743041992188,
+              "y": 486.2237854003906,
+              "z": 630.3798217773438
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{7f7163ed-1936-48fb-bba2-6696ec3e2c40}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476195,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 868.397216796875,
+              "y": 486.70538330078125,
+              "z": 500.8048095703125
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{029df23d-4218-46f7-a633-ff3ba89723b9}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476196,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 948.891357421875,
+              "y": 485.16754150390625,
+              "z": 500.4653625488281
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{029df23d-4218-46f7-a633-ff3ba89723b9}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476197,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 834.3920288085938,
+              "y": 481.0318603515625,
+              "z": 619.3228149414063
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{d0327252-d81e-4613-af4d-89427b7a841d}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476198,
+          "lot": 9862,
+          "pos": {
+            "pos": {
+              "x": 1082.9091796875,
+              "y": 477.66400146484375,
+              "z": 582.0478515625
+            },
+            "rot": {
+              "w": 0.7101777791976929,
+              "x": 0.0,
+              "y": 0.7040224075317383,
+              "z": 0.0
+            }
+          },
+          "scale": 300.0,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{9420817b-a9ea-482b-ba21-6d0db425a6f6}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "",
+            "NDAudioMusicCue_BoredomTime": -1.0,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476199,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 968.166259765625,
+              "y": 492.9670104980469,
+              "z": 636.1636962890625
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{7f7163ed-1936-48fb-bba2-6696ec3e2c40}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476200,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 908.3937377929688,
+              "y": 499.3827819824219,
+              "z": 415.8764343261719
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{8cc23253-c323-4764-8f0f-9f40cb6d631f}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 1924145476201,
+          "lot": 12337,
+          "pos": {
+            "pos": {
+              "x": -340.0,
+              "y": 800.0,
+              "z": -830.0
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 7,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    },
+    {
+      "_type": 2002
+    }
+  ]
+}

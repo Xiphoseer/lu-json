@@ -1,0 +1,113 @@
+{
+  "currencyIndex": 52,
+  "currency_table": [
+    {
+      "id": 167,
+      "maxvalue": 20,
+      "minvalue": 14,
+      "npcminlevel": 1
+    },
+    {
+      "id": 168,
+      "maxvalue": 31,
+      "minvalue": 21,
+      "npcminlevel": 2
+    },
+    {
+      "id": 169,
+      "maxvalue": 35,
+      "minvalue": 25,
+      "npcminlevel": 3
+    },
+    {
+      "id": 170,
+      "maxvalue": 40,
+      "minvalue": 30,
+      "npcminlevel": 4
+    },
+    {
+      "id": 171,
+      "maxvalue": 55,
+      "minvalue": 45,
+      "npcminlevel": 5
+    },
+    {
+      "id": 172,
+      "maxvalue": 60,
+      "minvalue": 50,
+      "npcminlevel": 6
+    },
+    {
+      "id": 173,
+      "maxvalue": 85,
+      "minvalue": 75,
+      "npcminlevel": 7
+    },
+    {
+      "id": 174,
+      "maxvalue": 125,
+      "minvalue": 100,
+      "npcminlevel": 8
+    },
+    {
+      "id": 175,
+      "maxvalue": 200,
+      "minvalue": 126,
+      "npcminlevel": 9
+    },
+    {
+      "id": 176,
+      "maxvalue": 300,
+      "minvalue": 201,
+      "npcminlevel": 10
+    },
+    {
+      "id": 177,
+      "maxvalue": 200,
+      "minvalue": 140,
+      "npcminlevel": 11
+    },
+    {
+      "id": 178,
+      "maxvalue": 310,
+      "minvalue": 210,
+      "npcminlevel": 12
+    },
+    {
+      "id": 179,
+      "maxvalue": 350,
+      "minvalue": 250,
+      "npcminlevel": 13
+    },
+    {
+      "id": 180,
+      "maxvalue": 400,
+      "minvalue": 300,
+      "npcminlevel": 14
+    },
+    {
+      "id": 181,
+      "maxvalue": 550,
+      "minvalue": 450,
+      "npcminlevel": 15
+    },
+    {
+      "id": 182,
+      "maxvalue": 600,
+      "minvalue": 500,
+      "npcminlevel": 16
+    },
+    {
+      "id": 183,
+      "maxvalue": 850,
+      "minvalue": 750,
+      "npcminlevel": 17
+    },
+    {
+      "id": 184,
+      "maxvalue": 1250,
+      "minvalue": 1000,
+      "npcminlevel": 18
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "bad offset; needs icon",
+  "components": {
+    "11": 1717,
+    "2": 4213,
+    "9": 0
+  },
+  "description": "bad offset; needs icon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4799,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Bow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 139
+    }
+  ],
+  "type": "Loot"
+}

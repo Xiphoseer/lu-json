@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Tier 3 wand attack (TBD)",
+  "components": {
+    "11": 6985,
+    "2": 13819,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "The Terrible Wand",
+  "gate_version": "nexustower",
+  "id": 14108,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "The Terrible Wand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1342
+    }
+  ],
+  "type": "Loot"
+}

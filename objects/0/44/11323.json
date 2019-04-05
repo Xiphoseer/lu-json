@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11098,
+    "3": 2603
+  },
+  "description": "Test asset for FX and performance in NJ",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11323,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ- Test - Drag Racer No Front Wheels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

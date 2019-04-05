@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3910,
+    "2": 7989,
+    "48": 131,
+    "5": 1074,
+    "60": 35,
+    "7": 885,
+    "9": 0
+  },
+  "description": "Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8432,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VE Instance - Ship Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 216
+    }
+  ],
+  "type": "Rebuildables"
+}

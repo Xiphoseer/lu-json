@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Faction Consumable - 10 LP, 15 AP, 25 IP",
+  "components": {
+    "11": 6701,
+    "2": 13311,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Sentinel Super Soda 2",
+  "gate_version": "nexustower",
+  "id": 13574,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Faction Consumable 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1245
+    }
+  ],
+  "type": "Loot"
+}

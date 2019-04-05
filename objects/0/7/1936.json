@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 384,
+    "2": 1816,
+    "3": 1777,
+    "35": 482,
+    "7": 305
+  },
+  "description": "GF ambient 3",
+  "displayName": "Morty Mizzenmast - Pirate Chumchopper",
+  "gate_version": null,
+  "id": 1936,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sleepy Pirate",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

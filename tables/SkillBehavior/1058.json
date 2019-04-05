@@ -1,0 +1,21 @@
+{
+  "armorBonusUI": null,
+  "behaviorID": 23150,
+  "cancelType": null,
+  "castTypeDesc": null,
+  "cooldown": 60.0,
+  "cooldowngroup": 21,
+  "damageUI": null,
+  "gate_version": "factionkit2",
+  "hideIcon": false,
+  "imBonusUI": null,
+  "imaginationcost": 10,
+  "inNpcEditor": false,
+  "lifeBonusUI": null,
+  "locStatus": 2,
+  "localize": true,
+  "oomBehaviorEffectID": 1102,
+  "oomSkillID": "",
+  "skillID": 1058,
+  "skillIcon": 4492
+}

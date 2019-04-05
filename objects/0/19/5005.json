@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4422,
+    "3": 2318,
+    "35": 124,
+    "5": 731,
+    "7": 473
+  },
+  "description": "AG - Race Course NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5005,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Course Fan Female",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

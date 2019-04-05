@@ -1,0 +1,99 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 4,
+      "value_2": 64,
+      "value_3": 352,
+      "value_4": 0,
+      "version": 48
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.35686275362968445,
+        0.6470588445663452,
+        0.8470588326454163,
+        0.3960784375667572,
+        0.6901960968971252,
+        0.772549033164978,
+        0.3921568691730499,
+        0.7254902124404907,
+        0.7803921699523926,
+        2000.0,
+        -3590.0,
+        -1000.0,
+        50.0,
+        500.0,
+        160.0,
+        500.0,
+        8500.0,
+        8000.0,
+        100.0,
+        1000.0,
+        160.0,
+        500.0,
+        8500.0,
+        8000.0
+      ],
+      "ids": [],
+      "sky": [
+        "mesh\\env\\Black_hole_Stars.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 21715354648582,
+          "lot": 13087,
+          "pos": {
+            "pos": {
+              "x": -271.0400085449219,
+              "y": 725.0,
+              "z": 64.7300033569336
+            },
+            "rot": {
+              "w": 0.9961028695106506,
+              "x": 0.0,
+              "y": 0.08819890767335892,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 79,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

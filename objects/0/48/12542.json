@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "No Loot Stromling for SpaceShip Instance",
+  "components": {
+    "1": 6173,
+    "17": 461,
+    "2": 12334,
+    "31": 58,
+    "5": 1371,
+    "60": 99,
+    "7": 1740,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hammer Stromling",
+  "gate_version": "ventureinstance",
+  "id": 12542,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "VE Instance - Stromling Hammerling Melee",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1013
+    }
+  ],
+  "type": "Enemies"
+}

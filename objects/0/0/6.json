@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "40": 3195,
+    "5": 0
+  },
+  "description": "Spawned by rocket launch and landing to do the bulk of the work in parallel with other players doing the same",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "UGG - Rocket Launch spawned object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Misc"
+}

@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 86,
+    "17": 346,
+    "2": 9858,
+    "3": 1777,
+    "35": 439,
+    "7": 306,
+    "73": 177
+  },
+  "description": "NS Sentinel Faction Vendor - Plaza",
+  "displayName": "Xeno Blueblade - Sentinel Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 129,
+      "iconState": 9
+    },
+    {
+      "iconID": 130,
+      "iconState": 10
+    },
+    {
+      "iconID": 72,
+      "iconState": 69
+    },
+    {
+      "iconID": 178,
+      "iconState": 70
+    }
+  ],
+  "id": 6631,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Sentinel Faction Vendor - Plaza",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6462,
+    "3": 3035,
+    "5": 950
+  },
+  "description": "Rocket Modular Build Tail volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6902,
+  "interactionDistance": 12.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Tail Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

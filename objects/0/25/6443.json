@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5893,
+    "3": 1229
+  },
+  "description": "to test new strombie shader",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6443,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - TEST STROMBIE",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

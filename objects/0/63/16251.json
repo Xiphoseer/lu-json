@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Slashing",
+  "components": {
+    "11": 7550,
+    "2": 14997,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Quality Longsword",
+  "gate_version": "freetrial",
+  "id": 16251,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Longsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 527
+    }
+  ],
+  "type": "Loot"
+}

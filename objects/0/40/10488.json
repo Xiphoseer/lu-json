@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Proxy",
+  "components": {
+    "11": 5181,
+    "2": 10331,
+    "9": 0
+  },
+  "description": "Used to fill the hand while using panda style",
+  "displayName": "Panda Style- Right Hand Proxy",
+  "gate_version": null,
+  "id": 10488,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy Panda Style - Right Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 749
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Piercing",
+  "components": {
+    "11": 2971,
+    "2": 6643,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Lance",
+  "gate_version": null,
+  "id": 7070,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Lance",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 548
+    }
+  ],
+  "type": "Loot"
+}

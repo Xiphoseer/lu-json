@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10739,
+    "23": 33,
+    "40": 5013,
+    "7": 1583
+  },
+  "description": "Collectible Spawner for Club LEGO  flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10982,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Club LEGO Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

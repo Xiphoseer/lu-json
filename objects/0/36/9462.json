@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2033,
+    "23": 17,
+    "25": 0,
+    "40": 1103,
+    "7": 428
+  },
+  "description": "Moving Collectible Spawner for FV imagination brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9462,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Moving Imagination Brick Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Minifig pulls the admirals cannon from behind back. Fires skill using same assets",
+  "components": {
+    "11": 6162,
+    "2": 12344,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Pocket Cannon",
+  "gate_version": "auramar",
+  "id": 12554,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pocket Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 993
+    }
+  ],
+  "type": "Loot"
+}

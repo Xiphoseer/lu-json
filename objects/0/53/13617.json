@@ -1,0 +1,40 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 3 AP Armor repair",
+  "components": {
+    "11": 6737,
+    "2": 13354,
+    "5": 1464,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Shard Armor",
+  "gate_version": "nexustower",
+  "id": 13617,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shard Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1335
+    }
+  ],
+  "type": "Loot"
+}

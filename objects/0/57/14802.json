@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7275,
+    "2": 14489,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Wan Wan Wolf Helm",
+  "gate_version": "njhub",
+  "id": 14802,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Wan Wan Wolf Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "19": 0,
+    "2": 1746,
+    "3": 895,
+    "48": 61,
+    "5": 760
+  },
+  "description": "Quick Build SG Cannon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5860,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Quick Build Cannon Rapid Fire",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

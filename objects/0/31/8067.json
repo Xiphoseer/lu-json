@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 3608,
+    "2": 7612,
+    "3": 3704,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Picnic Blanket Model",
+  "gate_version": null,
+  "id": 8067,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Picnic Blanket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

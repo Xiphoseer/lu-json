@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6786,
+    "2": 13414,
+    "3": 6734,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Electrified Gatehouse Model",
+  "gate_version": "april2011content",
+  "id": 13676,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Electrified Gatehouse ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

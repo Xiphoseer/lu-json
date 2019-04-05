@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4364,
+    "40": 2246,
+    "5": 693
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4934,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - Obj Vol Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

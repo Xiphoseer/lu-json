@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15049,
+    "3": 7709
+  },
+  "description": "Signage post for NS transitions / Planetoid Launchers",
+  "displayName": "NS - Signage Post",
+  "gate_version": "freetrial",
+  "id": 16303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage Post",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

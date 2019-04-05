@@ -1,0 +1,34 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 68,
+    "17": 344,
+    "2": 9855,
+    "3": 1777,
+    "35": 437,
+    "7": 306
+  },
+  "description": "FV Model Vendor - ???",
+  "displayName": "Lotus Firehammer - Model Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 41,
+      "iconState": 66
+    },
+    {
+      "iconID": 99,
+      "iconState": 69
+    }
+  ],
+  "id": 10028,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Model Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

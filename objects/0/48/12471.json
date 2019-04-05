@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP + Stuns enemies",
+  "components": {
+    "11": 6111,
+    "2": 12235,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Overstuffed Briefcase",
+  "gate_version": "auramar",
+  "id": 12471,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Overstuffed Briefcase",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 976
+    }
+  ],
+  "type": "Loot"
+}

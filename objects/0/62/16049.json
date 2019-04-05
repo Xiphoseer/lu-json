@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Skeleton Lieutenant",
+  "components": {
+    "1": 7576,
+    "17": 554,
+    "2": 14768,
+    "31": 85,
+    "5": 1609,
+    "60": 167,
+    "7": 2103,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Krazi - Skeleton of Lightning",
+  "gate_version": "njhub",
+  "id": 16049,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Krazi Skeleton Lieutenant",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1526
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1531
+    }
+  ],
+  "type": "Enemies"
+}

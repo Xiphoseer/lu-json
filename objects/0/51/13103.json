@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "components": {
+    "11": 6498,
+    "2": 12879,
+    "53": 112
+  },
+  "description": "Double-click to use!",
+  "displayName": "Superior Surprise Pack",
+  "gate_version": "auramar",
+  "id": 13103,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Loot Surprise Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

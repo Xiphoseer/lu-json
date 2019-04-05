@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10238,
+    "3": 4634
+  },
+  "description": null,
+  "displayName": "Minspec version of Piston 03",
+  "gate_version": null,
+  "id": 10394,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship Piston 03 Min",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

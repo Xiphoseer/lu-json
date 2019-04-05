@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12042,
+    "40": 3307,
+    "5": 1334
+  },
+  "description": "smashed/broken rock based on fire hydrant in PR",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FB - Rock Broken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

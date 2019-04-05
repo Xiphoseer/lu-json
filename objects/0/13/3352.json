@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1466,
+    "3": 1558,
+    "5": 394
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 12,
+      "iconState": 65
+    }
+  ],
+  "id": 3352,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Return to YouReeka",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

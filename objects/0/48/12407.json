@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12160,
+    "23": 46,
+    "40": 6087,
+    "7": 1711
+  },
+  "description": "Collectible Spawner for NT Collectable Flag Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12407,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Collectable Flag Spawner - Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

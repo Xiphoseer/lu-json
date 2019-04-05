@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1989,
+    "3": 875,
+    "7": 823
+  },
+  "description": "smashable object for obstacle course",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3395,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Smashable3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

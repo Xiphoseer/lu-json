@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "3": 2217,
+    "48": 82,
+    "5": 909,
+    "7": 542
+  },
+  "description": "Siege QB Wall",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6570,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Defender Wall QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

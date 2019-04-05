@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11874,
+    "3": 5888,
+    "5": 1453,
+    "7": 1700
+  },
+  "description": "Drill for Aura Mar",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12125,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Engine smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

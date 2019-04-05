@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 8 Life, 32 Imagination and 24 Armor",
+  "components": {
+    "11": 6008,
+    "2": 11865,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Juggling Bag",
+  "gate_version": "auramar",
+  "id": 12116,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Juggling Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1114
+    }
+  ],
+  "type": "Loot"
+}

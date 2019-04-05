@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11923,
+    "3": 5931,
+    "48": 157,
+    "5": 1348,
+    "7": 1665,
+    "9": 0
+  },
+  "description": "rebuilt from the Skeleton smashable amp",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12174,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Growlspeaker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1199
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 7,
+    "17": 360,
+    "2": 9872,
+    "3": 1777,
+    "35": 452,
+    "7": 306
+  },
+  "description": "FV Accessory Vendor - Mantis Shrine",
+  "displayName": "Kammy Kazei - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 2419,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Gear Vendor - Mantis Shrine",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

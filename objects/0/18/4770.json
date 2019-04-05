@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Laser Gun For Testing",
+  "components": {
+    "11": 1715,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "Laser Gun For Testing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4770,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 138
+    }
+  ],
+  "type": "Loot"
+}

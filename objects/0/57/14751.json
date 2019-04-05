@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7241,
+    "2": 14438,
+    "28": 394,
+    "3": 7437,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Race Ace Side Panels",
+  "gate_version": "ftcommunityitems",
+  "id": 14751,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Blue Indy Car Side Panels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

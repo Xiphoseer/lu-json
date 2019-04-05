@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NT Beam Room Mover 4",
+  "components": {
+    "2": 12783,
+    "3": 6306
+  },
+  "description": null,
+  "displayName": "NT Beam Room Mover 4",
+  "gate_version": null,
+  "id": 12998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Claw Platform 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

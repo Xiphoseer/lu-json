@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9902,
+    "3": 2711,
+    "39": 0,
+    "49": 0,
+    "5": 1202
+  },
+  "description": "Teleport Player to a zone pre mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10065,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Battle Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

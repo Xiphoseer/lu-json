@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 976,
+    "2": 2257,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Black Hood",
+  "gate_version": null,
+  "id": 2648,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

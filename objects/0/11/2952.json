@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 989,
+    "2": 2456,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Yellow Striped Crew Shirt",
+  "gate_version": null,
+  "id": 2952,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yellow Striped Pirate Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

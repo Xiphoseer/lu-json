@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 3 IP + Stun",
+  "components": {
+    "11": 6048,
+    "2": 12058,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Banneret's Helm",
+  "gate_version": "ventureinstance",
+  "id": 12308,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Banneret's Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 298
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

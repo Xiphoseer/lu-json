@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2696,
+    "3": 1524,
+    "5": 398,
+    "9": 0
+  },
+  "description": "a bubble blower that is temporary that was built by a rebuid 3348",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3363,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Bubble Blower built by Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 116
+    }
+  ],
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Tier 3 Melee attack + chargeup",
+  "components": {
+    "11": 6986,
+    "2": 13820,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "The Furious Morning Star",
+  "gate_version": "nexustower",
+  "id": 14109,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "The Furious Morning Star",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1343
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7517,
+    "2": 14584,
+    "9": 0
+  },
+  "description": "NJ Fish Sashimi Bullet 3/7 dmg",
+  "displayName": null,
+  "gate_version": null,
+  "id": 15891,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Sashimi Fish bullet 3/7 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1469
+    }
+  ],
+  "type": "Shooting Gallery"
+}

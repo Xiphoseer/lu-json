@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "sub assembly - do not drop",
+  "components": {
+    "11": 5392,
+    "2": 10808,
+    "3": 1757
+  },
+  "description": "Sub-Assembly",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11057,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "m3404",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "LEGO brick"
+}

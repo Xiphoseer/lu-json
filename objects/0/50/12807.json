@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from summoner Valiant weapon",
+  "components": {
+    "1": 6228,
+    "2": 13470,
+    "31": 95,
+    "5": 1594,
+    "60": 122,
+    "7": 1776,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Owl",
+  "gate_version": "valiantweapons",
+  "id": 12807,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Owl",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1030
+    }
+  ],
+  "type": "NPC"
+}

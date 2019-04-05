@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2558,
+    "2": 5673,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Tan Aussie Hat",
+  "gate_version": null,
+  "id": 6197,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tan Aussie Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

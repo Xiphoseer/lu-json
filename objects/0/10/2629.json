@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "2": 2241,
+    "5": 330,
+    "7": 333,
+    "9": 0
+  },
+  "description": "FV",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2629,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Mech Pirate Combat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Rebuildables"
+}

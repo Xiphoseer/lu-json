@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4360,
+    "3": 2241,
+    "40": 2441,
+    "6": 0
+  },
+  "description": "Air powered bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 4930,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Air Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

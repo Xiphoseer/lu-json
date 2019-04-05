@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "6 AP 8 IP +Shuriken Throw +Dragon Style Unarmed",
+  "components": {
+    "11": 3675,
+    "2": 7912,
+    "9": 0
+  },
+  "description": "Masters of Mantis style Kung Fu do not use any weapons!",
+  "displayName": "Mantis Style Gi",
+  "gate_version": null,
+  "id": 8354,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mantis Style Gi Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 365
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 376
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 860
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 861
+    }
+  ],
+  "type": "Loot"
+}

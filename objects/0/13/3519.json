@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1660,
+    "3": 825,
+    "48": 31,
+    "5": 606,
+    "73": 3
+  },
+  "description": "Quick Build Rope Bridge for Pet Ranch",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3519,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Bridge_QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

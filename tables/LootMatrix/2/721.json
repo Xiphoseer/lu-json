@@ -1,0 +1,95 @@
+{
+  "LootMatrixIndex": 721,
+  "elements": [
+    {
+      "LootTableIndex": 72,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3891,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.054999999701976776
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3892,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 0.45500001311302185
+    },
+    {
+      "LootTableIndex": 111,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3893,
+      "maxToDrop": 5,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 184,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3894,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.1550000011920929
+    },
+    {
+      "LootTableIndex": 185,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3895,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.054999999701976776
+    },
+    {
+      "LootTableIndex": 186,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3896,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.7549999952316284
+    },
+    {
+      "LootTableIndex": 191,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3897,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.03500000014901161
+    },
+    {
+      "LootTableIndex": 192,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3898,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.03500000014901161
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3899,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.7549999952316284
+    }
+  ]
+}

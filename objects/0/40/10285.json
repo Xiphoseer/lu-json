@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10129,
+    "3": 4533,
+    "40": 4535,
+    "5": 1215,
+    "7": 1537
+  },
+  "description": "Ring for Club LEGO",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10285,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ring",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

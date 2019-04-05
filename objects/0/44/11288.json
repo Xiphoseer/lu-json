@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 5216,
+    "2": 11065,
+    "9": 0
+  },
+  "description": "Laser that bulpers fire",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11288,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bulper Bullet 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 889
+    }
+  ],
+  "type": "Shooting Gallery"
+}

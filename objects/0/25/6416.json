@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2626,
+    "2": 5861,
+    "61": 3
+  },
+  "description": "Your Own Custom Rocket",
+  "displayName": "Custom Rocket",
+  "gate_version": null,
+  "id": 6416,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Custom Modular Rocket Ship",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

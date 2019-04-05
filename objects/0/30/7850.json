@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Smashing",
+  "components": {
+    "11": 3331,
+    "2": 7408,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Bass Guitar",
+  "gate_version": null,
+  "id": 7850,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Bass Guitar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 532
+    }
+  ],
+  "type": "Loot"
+}

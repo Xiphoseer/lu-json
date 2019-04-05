@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8715,
+    "3": 3989
+  },
+  "description": "Prototype medium property asset from Nimbus station -main feature",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9262,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proto-Med property Amphitheatre",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

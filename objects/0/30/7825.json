@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3596,
+    "2": 7379,
+    "3": 3491,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Tank Pallet Model",
+  "gate_version": null,
+  "id": 7825,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Tank Pallet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

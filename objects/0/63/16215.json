@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth element Spawner spinner trap",
+  "components": {
+    "2": 14931,
+    "25": 12,
+    "3": 7642,
+    "39": 115,
+    "5": 1650
+  },
+  "description": "",
+  "displayName": "NJ - Earth - Spawner Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16215,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Spawner Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

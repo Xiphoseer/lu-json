@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 10 IP",
+  "components": {
+    "11": 1010,
+    "2": 2504,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Strong Notion Potion",
+  "gate_version": null,
+  "id": 2998,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Potion of Imagination 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 519
+    }
+  ],
+  "type": "Loot"
+}

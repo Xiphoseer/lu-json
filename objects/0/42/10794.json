@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5250,
+    "2": 10641,
+    "3": 4915,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Brown Dining Table With Chair Model",
+  "gate_version": null,
+  "id": 10794,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward BrownDiningTableWithChair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2841,
+    "2": 6338,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blue Baseball Cap",
+  "gate_version": null,
+  "id": 6803,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Baseball Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

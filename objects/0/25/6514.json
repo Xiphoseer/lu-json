@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1981,
+    "25": 0,
+    "3": 875,
+    "48": 54
+  },
+  "description": "test moving platform for the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6514,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Boulder Moving Platform QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

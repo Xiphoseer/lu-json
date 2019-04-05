@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3597,
+    "2": 7487,
+    "7": 847,
+    "9": 0
+  },
+  "description": "Explosive used by Space Marauder skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7941,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Marauder Plasma Ball Nade 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 461
+    }
+  ],
+  "type": "Shooting Gallery"
+}

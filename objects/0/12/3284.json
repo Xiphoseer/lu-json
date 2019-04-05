@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1477,
+    "2": 2743,
+    "5": 633,
+    "7": 264,
+    "9": 0
+  },
+  "description": "Corrupted mowers for scene 6 NP",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3284,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Corrupted Mower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

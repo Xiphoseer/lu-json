@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12022,
+    "3": 5999,
+    "48": 165,
+    "7": 1678
+  },
+  "description": " Platform for AM AuraMar sentinel quickbuild",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Sentinel QB  platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

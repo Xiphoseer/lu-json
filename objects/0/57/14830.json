@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Superior Brown Ninjago Staff Proxy",
+  "components": {
+    "11": 7302,
+    "2": 14524,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Superior Brown Ninjago Staff Proxy",
+  "gate_version": "njhub",
+  "id": 14830,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Superior Brown Ninjago Staff Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1454
+    }
+  ],
+  "type": "Loot"
+}

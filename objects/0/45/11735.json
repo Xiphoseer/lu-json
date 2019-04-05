@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5786,
+    "2": 11487,
+    "3": 5579,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Block 4 Model",
+  "gate_version": "nexustower",
+  "id": 11735,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Block 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

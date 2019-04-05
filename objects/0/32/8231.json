@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3558,
+    "2": 7776,
+    "28": 53,
+    "3": 3823,
+    "42": 0,
+    "63": 2
+  },
+  "description": "don't use",
+  "displayName": "Do Not Use These Wheels",
+  "gate_version": null,
+  "id": 8231,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old Car Module - Wheels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 855
+    }
+  ],
+  "type": "Rebuildables"
+}

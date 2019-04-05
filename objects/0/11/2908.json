@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2241,
+    "3": 1777,
+    "48": 22,
+    "5": 304
+  },
+  "description": "Team 5",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Contest - mech Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

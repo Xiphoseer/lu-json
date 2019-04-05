@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7197,
+    "2": 14388,
+    "28": 373,
+    "3": 7411,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "LEGO Club Rocket Engine",
+  "gate_version": "ftcommunityitems",
+  "id": 14700,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LEGO Club Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

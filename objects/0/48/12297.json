@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 3 IP",
+  "components": {
+    "11": 6041,
+    "2": 12047,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Winter Sweater",
+  "gate_version": "dec2010content",
+  "id": 12297,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Winter Sweater",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

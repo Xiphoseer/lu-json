@@ -1,0 +1,49 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 470,
+    "2": 12374,
+    "3": 1777,
+    "35": 565,
+    "7": 305
+  },
+  "description": "__MG__NS Large Propery Battle",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12584,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Large Property Mission Giver 01",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

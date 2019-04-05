@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A Behavior for your models",
+  "components": {
+    "11": 5054,
+    "2": 10135
+  },
+  "description": "A Behavior for your models",
+  "displayName": "Rising Platform Behavior",
+  "gate_version": null,
+  "id": 10290,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Brandi ND Made",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

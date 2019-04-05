@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13994,
+    "3": 7139,
+    "43": 14,
+    "67": 27,
+    "78": 32
+  },
+  "description": "Launch pad to Forbidden Valley from the FV Small Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14304,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV PROP Small - FV",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

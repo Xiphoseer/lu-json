@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5304,
+    "3": 1822,
+    "7": 644
+  },
+  "description": "Blue color variant of barricade smashable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5886,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Hazmat Barricade Orange",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5159,
+    "2": 10293
+  },
+  "description": "An alarm will sound while a player is close to the model.",
+  "displayName": "Alarm Behavior",
+  "gate_version": null,
+  "id": 10450,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Alarm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11084,
+    "25": 0,
+    "3": 5224,
+    "5": 1330
+  },
+  "description": "The ramp that forms on the third lap",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11308,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Track Columns Lap 3 Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

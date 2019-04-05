@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7030,
+    "2": 13890,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Inmproved Scythe Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 14181,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Improved Scythe Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 728
+    }
+  ],
+  "type": "Loot"
+}

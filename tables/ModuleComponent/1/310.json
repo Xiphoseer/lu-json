@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 3,
+  "id": 310,
+  "partCode": 1,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"13259\" name=\"Paradox Rocket Cockpit\"><PlacementRotation x=\"0.5\" y=\"0.5\" z=\"-0.5\" w=\"0.5\" /><BuildingPosition x=\"0\" y=\"-4.7989\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" />      <connection name=\"CP_B2\">          <translation x=\"0\" y=\"5.1999\" z=\"-0.1949\" />      </connection>  </ModuleInfo>"
+}

@@ -1,0 +1,18 @@
+{
+  "airSpeed": 10.0,
+  "boundaryAsset": null,
+  "collisionGroup": 7,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 2270,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "env\\env_nim_ag_monument_piston_pusher02.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

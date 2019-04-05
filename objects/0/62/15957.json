@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Spear ninja hood Proxy",
+  "components": {
+    "11": 7362,
+    "2": 14649
+  },
+  "description": "Spear Proxy Ninjago",
+  "displayName": "Spear Proxy Ninjago",
+  "gate_version": "njhub",
+  "id": 15957,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Ninjago Spear on ninja hood Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6074,
+    "35": 232,
+    "7": 307
+  },
+  "description": "testing texture stuff",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6507,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "test-texture",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

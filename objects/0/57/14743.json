@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7233,
+    "2": 14430,
+    "28": 386,
+    "3": 7429,
+    "42": 0,
+    "63": 37
+  },
+  "description": null,
+  "displayName": "Dune Buggy Rear Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14743,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Dune Buggy Rear Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

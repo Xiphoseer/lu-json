@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Makes model an enemy",
+  "components": {
+    "11": 4887,
+    "2": 9899
+  },
+  "description": "Makes model an enemy",
+  "displayName": "Basic Enemy Behavior",
+  "gate_version": null,
+  "id": 10063,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Basic Enemy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

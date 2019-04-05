@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4898,
+    "2": 9912,
+    "3": 4450,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Wall Model 2",
+  "gate_version": null,
+  "id": 10076,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Wall 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

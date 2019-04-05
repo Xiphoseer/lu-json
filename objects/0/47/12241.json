@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6028,
+    "2": 11988,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Hot Cocoa",
+  "gate_version": "dec2010content",
+  "id": 12241,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hot Cocoa",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 952
+    }
+  ],
+  "type": "Loot"
+}

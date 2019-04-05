@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "uses imagination",
+  "components": {
+    "11": 3465,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "uses imagination",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4927,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Blaster Imagination",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 154
+    }
+  ],
+  "type": "Loot"
+}

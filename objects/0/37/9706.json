@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 60,
+    "17": 314,
+    "2": 9548,
+    "3": 1777,
+    "35": 401,
+    "7": 306
+  },
+  "description": "AG Brick Vendor - Picnic",
+  "displayName": "Darby Snapwish - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 9706,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG Brick Vendor - Picnic",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6659,
+    "17": 510,
+    "2": 13305,
+    "31": 29,
+    "48": 192,
+    "60": 137,
+    "7": 1850,
+    "9": 0
+  },
+  "description": "Rebuildable enemy for the earth dungeon",
+  "displayName": "Skeleton Engineer",
+  "gate_version": "njhub",
+  "id": 13568,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Engineer QB",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 947
+    },
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 949
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1122
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6687,
+    "3": 3067
+  },
+  "description": "The Cap'n",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7110,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Strombie Captain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

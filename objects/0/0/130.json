@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 1 Engineer!",
+  "components": {
+    "11": 5513,
+    "2": 11060,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 130,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Engineer Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 887
+    }
+  ],
+  "type": "Loot"
+}

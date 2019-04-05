@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3201,
+    "2": 7111,
+    "5": 1082,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Samurai Bow 2",
+  "gate_version": null,
+  "id": 7546,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Samurai Offhand 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 558
+    }
+  ],
+  "type": "Loot"
+}

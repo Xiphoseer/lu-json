@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Small Stromling spider for scenario Survival",
+  "components": {
+    "1": 5145,
+    "2": 10984,
+    "31": 5,
+    "5": 1257,
+    "60": 71,
+    "7": 1604,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Spiderling Invader",
+  "gate_version": "auramar",
+  "id": 11214,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    },
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 933
+    }
+  ],
+  "type": "Enemies"
+}

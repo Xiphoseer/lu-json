@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 2 AP",
+  "components": {
+    "11": 7285,
+    "2": 14499,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Yellow Cape",
+  "gate_version": "levelprogression",
+  "id": 14812,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yellow Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5895,
+    "2": 11596,
+    "3": 5688,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Searchlight Defender Model",
+  "gate_version": null,
+  "id": 11844,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Gun and Searchlight",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

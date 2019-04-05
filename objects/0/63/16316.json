@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15062,
+    "40": 7722
+  },
+  "description": "Volume for Camera Rails",
+  "displayName": "NJ - MonasteryTower Camera Volume",
+  "gate_version": "njhub",
+  "id": 16316,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - MonasteryTower Camera Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

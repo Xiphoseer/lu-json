@@ -1,0 +1,48 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "repairs caster for 3 Armor. 4 AP 7 IP Spear deals 10/25 piercing",
+  "components": {
+    "11": 7364,
+    "2": 14652,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Piercing Patch Hood",
+  "gate_version": "njhub",
+  "id": 15960,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Piercing Patch Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 375
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1463
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1550
+    }
+  ],
+  "type": "Loot"
+}

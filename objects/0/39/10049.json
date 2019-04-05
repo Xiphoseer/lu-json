@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Plays a sound",
+  "components": {
+    "11": 4874,
+    "2": 9885
+  },
+  "description": "Plays a sound",
+  "displayName": "Play Sound Behavior",
+  "gate_version": null,
+  "id": 10049,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Play Sound",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

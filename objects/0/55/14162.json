@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For skeleton enemies",
+  "components": {
+    "11": 7017,
+    "2": 13871
+  },
+  "description": "",
+  "displayName": "NPC Maelstrom Major Spear",
+  "gate_version": "njhub",
+  "id": 14162,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Maelstrom Major Spear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3234,
+    "2": 11095
+  },
+  "description": "The DJ wants this",
+  "displayName": "DJ Microphone",
+  "gate_version": null,
+  "id": 11318,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "DJ Microphone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

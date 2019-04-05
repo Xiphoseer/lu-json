@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4492,
+    "2": 9979
+  },
+  "description": "Station NPC",
+  "displayName": "K-733N - Cleaning Bot",
+  "gate_version": null,
+  "id": 10139,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Station Broombot",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

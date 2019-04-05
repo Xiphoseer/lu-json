@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4324,
+    "3": 2210,
+    "7": 327
+  },
+  "description": "Port-a-Potty for AG areas",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4886,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Outhouse",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

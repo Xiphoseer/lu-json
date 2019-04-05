@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2860,
+    "3": 1650,
+    "5": 564,
+    "7": 407
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3434,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Lamp Skunk Detector",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

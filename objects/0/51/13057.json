@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "CP MIssion Item",
+  "components": {
+    "11": 6482,
+    "2": 12841
+  },
+  "description": "Return this to Neido in Crux Prime!",
+  "displayName": "Skeleton Schematic Page",
+  "gate_version": "auramar",
+  "id": 13057,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skeleton Map",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "104": 8,
+    "2": 14080,
+    "3": 7196,
+    "5": 1625
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    },
+    {
+      "iconID": 176,
+      "iconState": 70
+    }
+  ],
+  "id": 14389,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Railpost Large Ice",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

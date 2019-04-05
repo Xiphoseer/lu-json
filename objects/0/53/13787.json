@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6813,
+    "2": 13526,
+    "9": 0
+  },
+  "description": "See Ben's Butter Spreaders, damage 3 per",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13787,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Seeking Dagger Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1261
+    }
+  ],
+  "type": "Shooting Gallery"
+}

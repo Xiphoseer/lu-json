@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6117,
+    "2": 12242
+  },
+  "description": "Return this to <NPC Name>",
+  "displayName": "TEST DELETE ME",
+  "gate_version": "nexustower",
+  "id": 12478,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST DELETE ME",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

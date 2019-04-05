@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4151,
+    "3": 1094,
+    "5": 0,
+    "59": 0
+  },
+  "description": "Test object representing the incoming transition rocket",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6398,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Incoming Transition Rocket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

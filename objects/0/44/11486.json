@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11234,
+    "3": 5332
+  },
+  "description": "Sentinel to Paradox Hallway",
+  "displayName": "NT Glom_S_Hallway2 (No Detail)",
+  "gate_version": null,
+  "id": 11486,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Glom_S_Hallway2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

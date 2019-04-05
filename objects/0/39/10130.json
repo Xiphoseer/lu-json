@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 4942,
+    "2": 9967,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Weightlifter Shirt",
+  "gate_version": null,
+  "id": 10130,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Weightlifter Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

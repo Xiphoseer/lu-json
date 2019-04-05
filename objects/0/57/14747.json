@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7237,
+    "2": 14434,
+    "28": 390,
+    "3": 7433,
+    "42": 0,
+    "63": 36
+  },
+  "description": null,
+  "displayName": "Racemaster  Rear Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14747,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Red Indy Car Rear Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

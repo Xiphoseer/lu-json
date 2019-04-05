@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 3 IP",
+  "components": {
+    "11": 3920,
+    "2": 8235,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Gem Scepter",
+  "gate_version": null,
+  "id": 8681,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gem Scepter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

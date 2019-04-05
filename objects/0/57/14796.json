@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14483,
+    "3": 7467,
+    "7": 2049
+  },
+  "description": "",
+  "displayName": "NJ Cave Generic Smashable 4",
+  "gate_version": "njhub",
+  "id": 14796,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Cave Generic Smashable 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 2480,
+    "2": 5271,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hawaiian Shirt",
+  "gate_version": null,
+  "id": 5843,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hawaiian Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

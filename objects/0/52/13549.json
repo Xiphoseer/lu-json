@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6693,
+    "2": 13286,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Head Proxy  - Releases imagination",
+  "gate_version": "nexustower",
+  "id": 13549,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Imagination Backpack Head Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1257
+    }
+  ],
+  "type": "Loot"
+}

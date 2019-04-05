@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6632,
+    "3": 2939,
+    "48": 91,
+    "5": 978
+  },
+  "description": "QB to allow players to access other areas.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6714,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate QB Crows Nest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

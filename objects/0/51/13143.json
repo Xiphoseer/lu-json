@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Sentinel vendors",
+  "components": {
+    "11": 6516,
+    "2": 12923,
+    "53": 120
+  },
+  "description": "Contains 5 Blue Imaginite",
+  "displayName": "Small Bag of Blue Imaginite",
+  "gate_version": "march2011content",
+  "id": 13143,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Small Blue Imaginite Bag - Sentinel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

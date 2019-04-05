@@ -1,0 +1,85 @@
+{
+  "LootMatrixIndex": 396,
+  "elements": [
+    {
+      "LootTableIndex": 279,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1148,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.20000000298023224
+    },
+    {
+      "LootTableIndex": 277,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1149,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1150,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 243,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1151,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 278,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1152,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1155,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 113,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1210,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 276,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1212,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.20000000298023224
+    }
+  ]
+}

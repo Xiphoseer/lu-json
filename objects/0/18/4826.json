@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1454,
+    "11": 6353,
+    "2": 4228,
+    "26": 2,
+    "42": 0,
+    "5": 327,
+    "7": 394,
+    "9": 0
+  },
+  "description": "Don't use",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4826,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Special Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

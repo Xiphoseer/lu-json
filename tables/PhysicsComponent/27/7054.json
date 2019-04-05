@@ -1,0 +1,18 @@
+{
+  "airSpeed": 10.0,
+  "boundaryAsset": null,
+  "collisionGroup": 3,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 7054,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 2,
+  "physics_asset": "env\\env_won_ag_ship-rocket-interact.hkx",
+  "playerHeight": 4.0,
+  "playerRadius": 3.0,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

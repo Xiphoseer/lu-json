@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8136,
+    "3": 3962
+  },
+  "description": "",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8579,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Obstacle Foot Race Pass Through No Jump",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

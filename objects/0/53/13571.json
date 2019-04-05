@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13308,
+    "3": 6661
+  },
+  "description": "logos in the beam room in Nexus",
+  "displayName": "fx_nt_beam_room_logos",
+  "gate_version": "auramar",
+  "id": 13571,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_nt_beam_room_logos",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

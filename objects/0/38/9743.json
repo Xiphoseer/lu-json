@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9580,
+    "3": 4256
+  },
+  "description": "Animated UV Test Object 1",
+  "displayName": "fx_env_dd_bodyslam",
+  "gate_version": null,
+  "id": 9743,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_env_dd_bodyslam",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Bone Axe Proxy",
+  "components": {
+    "11": 7228,
+    "2": 14424,
+    "9": 0
+  },
+  "description": "Bone Axe Proxy",
+  "displayName": "Bone Axe Proxy",
+  "gate_version": "njhub",
+  "id": 14737,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Heavy Spear Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": "env\\env_won_gnar_ninja-platform_boundary.hkx",
+  "collisionGroup": 7,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 2052,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "act\\bierdeckel3_phys.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

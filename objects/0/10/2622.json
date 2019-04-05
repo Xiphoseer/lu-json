@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 959,
+    "2": 2235,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Ladle",
+  "gate_version": null,
+  "id": 2622,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Ladle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 526
+    }
+  ],
+  "type": "Loot"
+}

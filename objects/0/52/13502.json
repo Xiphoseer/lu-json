@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6656,
+    "2": 13236,
+    "28": 323,
+    "3": 6609,
+    "42": 0,
+    "63": 20
+  },
+  "description": null,
+  "displayName": "Paradox Blindsider Side Panels",
+  "gate_version": "factionvehicles",
+  "id": 13502,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarCarPA_SidePanels_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

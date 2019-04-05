@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5827,
+    "2": 11528,
+    "3": 5620,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Van 3 Model",
+  "gate_version": "nexustower",
+  "id": 11776,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Van 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6561,
+    "2": 12999,
+    "28": 317,
+    "3": 6461,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Venture League Astroscout Rocket Engine",
+  "gate_version": "factionvehicles",
+  "id": 13266,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Venture Rockets Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

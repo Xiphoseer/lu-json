@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2507,
+    "2": 5439,
+    "3": 2497,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Small Crate Model",
+  "gate_version": null,
+  "id": 6032,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Small Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

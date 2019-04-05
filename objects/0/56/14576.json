@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7305,
+    "17": 545,
+    "2": 14259,
+    "39": 103,
+    "5": 1572,
+    "7": 2033,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "trunkcurrent",
+  "id": 14576,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DPS NJ Skeleton Dummy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

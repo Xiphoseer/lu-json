@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP",
+  "components": {
+    "11": 3737,
+    "2": 7982,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Black Cowboy Hat",
+  "gate_version": null,
+  "id": 8424,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Cowboy Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

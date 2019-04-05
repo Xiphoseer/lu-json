@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 3 IP + Headbutt attack",
+  "components": {
+    "11": 6476,
+    "2": 12782,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bone Suit Helm",
+  "gate_version": "auramar",
+  "id": 12997,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bone Suit Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 987
+    }
+  ],
+  "type": "Loot"
+}

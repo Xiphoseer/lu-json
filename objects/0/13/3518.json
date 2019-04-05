@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1719,
+    "2": 2927,
+    "5": 455,
+    "7": 284
+  },
+  "description": "Whack-A-Brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3518,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brick-A-Mole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

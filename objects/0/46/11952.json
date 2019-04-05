@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11703,
+    "25": 0,
+    "27": 0,
+    "3": 5767
+  },
+  "description": "NT Beam Room Mover 2",
+  "displayName": "NT Beam Room Mover 2",
+  "gate_version": null,
+  "id": 11952,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Beam Room Mover 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

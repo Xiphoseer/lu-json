@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Car Stuff",
+  "components": {
+    "11": 2615,
+    "2": 5743
+  },
+  "description": null,
+  "displayName": "Green Chassis",
+  "gate_version": null,
+  "id": 6304,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

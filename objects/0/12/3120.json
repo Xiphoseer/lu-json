@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1036,
+    "2": 2586,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3120,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Fire Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 152
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 192
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "2": 6457,
+    "30": 26,
+    "5": 948,
+    "7": 721,
+    "9": 0
+  },
+  "description": "Test Car",
+  "displayName": "Test Car 2",
+  "gate_version": null,
+  "id": 6788,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Red Test Car 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 583
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 594
+    }
+  ],
+  "type": "Vehicle"
+}

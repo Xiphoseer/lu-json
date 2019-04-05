@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Avant Gardens Large Property",
+  "PlayerLoseCoinsOnDeath": false,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1152.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 20.0,
+  "gate_version": null,
+  "ghostdistance": 2000.0,
+  "ghostdistance_min": 150.0,
+  "heightInChunks": 99,
+  "locStatus": 0,
+  "localize": false,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 12,
+  "population_soft_cap": 10,
+  "scriptID": 179,
+  "serverPhysicsFramerate": "medium",
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": 99,
+  "zoneControlTemplate": null,
+  "zoneID": 1152,
+  "zoneName": "2011_Live_Maps/PP_AG_Large/nd_ag_property_large.luz"
+}

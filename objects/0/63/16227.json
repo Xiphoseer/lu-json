@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire element high-blade spinner trap",
+  "components": {
+    "2": 14943,
+    "25": 24,
+    "3": 7654,
+    "39": 115,
+    "5": 1662,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Fire - High-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16227,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - High-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 176,
+  "tasks": [
+    {
+      "IconID": 2895,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Guitar_Task.dds",
+      "largeTaskIconID": 2895,
+      "locStatus": 2,
+      "localize": true,
+      "target": 4039,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 1,
+      "uid": 300
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7997,
+    "3": 3923
+  },
+  "description": "Stand the hammer smashable going on. For all the battle areas of FV",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8441,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Hammer Stand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

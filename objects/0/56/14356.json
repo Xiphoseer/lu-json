@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7073,
+    "2": 14047,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Assembly Gear - Summoner - weapon proxy",
+  "gate_version": "freetrial",
+  "id": 14356,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Assembly Gear - Summoner - weapon proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1631
+    }
+  ],
+  "type": "Loot"
+}

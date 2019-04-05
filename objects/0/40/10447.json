@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 1 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5156,
+    "2": 10290
+  },
+  "description": "When interacted with, model will raise and lower.",
+  "displayName": "Basic Platform Behavior",
+  "gate_version": null,
+  "id": 10447,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Basic Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

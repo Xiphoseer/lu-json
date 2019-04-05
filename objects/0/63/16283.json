@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Named Spiderling for AG",
+  "components": {
+    "1": 7693,
+    "2": 15029,
+    "31": 94,
+    "5": 1694,
+    "60": 176,
+    "7": 2137,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NAMED SPIDERLING",
+  "gate_version": "freetrial",
+  "id": 16283,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "AG - Spiderling NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 490
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

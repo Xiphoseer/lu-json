@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 6040,
+    "2": 12046,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Present Shield",
+  "gate_version": "dec2010content",
+  "id": 12296,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Present Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5201,
+    "2": 10551,
+    "53": 58
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Brickmaster Model Pack",
+  "gate_version": null,
+  "id": 10700,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Brickmaster Model Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 small wall segments and 1 long segment",
+  "components": {
+    "11": 4740,
+    "2": 9562,
+    "53": 27
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Castle Model Pack 2",
+  "gate_version": null,
+  "id": 9722,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Castle Model Pack 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Drops a boom trap rebuildable at your feet",
+  "components": {
+    "11": 2976,
+    "2": 6659,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Boom Trap Kit",
+  "gate_version": null,
+  "id": 7084,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Boom Trap Kit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 304
+    }
+  ],
+  "type": "Loot"
+}

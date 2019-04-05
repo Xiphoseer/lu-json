@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 Dmg reduction",
+  "components": {
+    "11": 3697,
+    "2": 7934,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Tough Buff Sauce",
+  "gate_version": null,
+  "id": 8376,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tough Buff Sauce",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 890
+    }
+  ],
+  "type": "Loot"
+}

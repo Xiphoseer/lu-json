@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1719,
+    "3": 867
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1842,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Error Marker - Missing template",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "HF Error Marker"
+}

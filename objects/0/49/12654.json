@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Named horseman for AM",
+  "components": {
+    "1": 6218,
+    "2": 12443,
+    "31": 21,
+    "5": 1396,
+    "60": 119,
+    "7": 1772,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Vargas the Tormented - Maelstrom Horseman Invader",
+  "gate_version": "auramar",
+  "id": 12654,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Maelstrom Horseman NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 935
+    }
+  ],
+  "type": "Enemies"
+}

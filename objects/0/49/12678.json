@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 4 AP 1 LP + Full Kit Bonus Skill",
+  "components": {
+    "11": 6226,
+    "2": 12467,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bat Lord Shield",
+  "gate_version": "auramar",
+  "id": 12678,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bat Lord Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1154
+    }
+  ],
+  "type": "Loot"
+}

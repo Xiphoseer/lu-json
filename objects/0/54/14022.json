@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6965,
+    "2": 13732
+  },
+  "description": "Big Head with mealstrom helm for NJ Skeleton",
+  "displayName": "NPC Skeleton Head Maelstrom helm on Big 1",
+  "gate_version": "njhub",
+  "id": 14022,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Skeleton Head Maelstrom helm on Big 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

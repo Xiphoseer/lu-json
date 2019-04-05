@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5698,
+    "3": 2597,
+    "40": 2598,
+    "5": 830
+  },
+  "description": "Another top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6283,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test MR - Finish Line Piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

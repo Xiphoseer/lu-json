@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7503,
+    "3": 3613
+  },
+  "description": "Pet Taming Item - ToothBrush",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7957,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Tooth Brush",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

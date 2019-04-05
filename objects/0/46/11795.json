@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5846,
+    "2": 11547,
+    "3": 5639,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Shelf 1 Model",
+  "gate_version": "nexustower",
+  "id": 11795,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Rewared Office Shelf1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

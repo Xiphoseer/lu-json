@@ -1,0 +1,101 @@
+{
+  "id": 2,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 110,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 111,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 506,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 688,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 994,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1182,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1183,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1186,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 1299,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1384,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "nexustower",
+      "missionID": 1385,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1387,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1390,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1391,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1392,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1393,
+      "offersMission": false
+    }
+  ]
+}

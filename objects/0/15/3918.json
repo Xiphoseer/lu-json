@@ -1,0 +1,54 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 83,
+    "17": 355,
+    "2": 3360,
+    "3": 1777,
+    "35": 85,
+    "73": 178
+  },
+  "description": "NS Consumable Vendor - Race",
+  "displayName": "Farnham Spoon - Supplies Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 129,
+      "iconState": 9
+    },
+    {
+      "iconID": 130,
+      "iconState": 10
+    },
+    {
+      "iconID": 139,
+      "iconState": 66
+    },
+    {
+      "iconID": 140,
+      "iconState": 69
+    }
+  ],
+  "id": 3918,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Consumable Vendor - Race Place",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

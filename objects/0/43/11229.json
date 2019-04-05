@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10999,
+    "3": 5161,
+    "39": 55,
+    "5": 1265
+  },
+  "description": "Treasure Chest for Dragon Instance",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11229,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Dragon Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

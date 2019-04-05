@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5175,
+    "2": 10325
+  },
+  "description": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "displayName": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "gate_version": null,
+  "id": 10482,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy Ninja Hood - Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

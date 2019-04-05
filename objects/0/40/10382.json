@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10228,
+    "3": 5164
+  },
+  "description": null,
+  "displayName": "Minspec version of Bob for spaceship",
+  "gate_version": null,
+  "id": 10382,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Minspec Bob - Low",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

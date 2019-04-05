@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3263,
+    "2": 7305,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Wizard Tunic",
+  "gate_version": null,
+  "id": 7749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wizard shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

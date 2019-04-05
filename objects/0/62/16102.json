@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 7473,
+    "2": 14821,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Haiiro Gi Pants",
+  "gate_version": "njhub",
+  "id": 16102,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Haiiro Gi Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

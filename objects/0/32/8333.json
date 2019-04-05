@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 3659,
+    "2": 7891,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Shield of Blocking",
+  "gate_version": null,
+  "id": 8333,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shield of Blocking",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

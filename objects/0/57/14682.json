@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/7/9 NJ Slashing",
+  "components": {
+    "11": 7179,
+    "2": 14370,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Shimmering Katana",
+  "gate_version": "njhub",
+  "id": 14682,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shimmering Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1421
+    }
+  ],
+  "type": "Loot"
+}

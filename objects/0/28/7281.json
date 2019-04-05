@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6855,
+    "3": 3287,
+    "48": 108,
+    "7": 933
+  },
+  "description": "temporary paradox pipe for the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7281,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Sentinel Pipe Fix",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

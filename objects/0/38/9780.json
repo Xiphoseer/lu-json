@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9616,
+    "3": 4287,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Butterfly",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9780,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Butterfly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

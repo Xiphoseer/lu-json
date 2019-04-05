@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13853,
+    "40": 3789,
+    "5": 1061
+  },
+  "description": "Sign that animates on proximity to the Assembly Vendor",
+  "displayName": "Assembly Banner",
+  "gate_version": null,
+  "id": 14138,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Assembly Advertisement Banner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

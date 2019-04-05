@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13982,
+    "3": 7126,
+    "43": 10,
+    "67": 23,
+    "78": 28
+  },
+  "description": "Launch pad to Nimbus Station from the NS Medium Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14292,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS PROP Medium - NS",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

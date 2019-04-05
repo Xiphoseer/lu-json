@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 539,
+    "2": 14040,
+    "3": 1777,
+    "35": 622,
+    "5": 1683,
+    "7": 305,
+    "73": 156
+  },
+  "description": "__MG__Mission giver for spaceship free trial",
+  "displayName": "Jett Moonshot - Venture League Officer",
+  "gate_version": "freetrial",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 14349,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "[TEMP] Spaceship Greeter",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

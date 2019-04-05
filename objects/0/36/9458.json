@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1253,
+    "3": 895,
+    "5": 1123,
+    "7": 932,
+    "9": 0
+  },
+  "description": "Cannon Base",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9458,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 1,
+      "skillID": 355
+    }
+  ],
+  "type": "NPC"
+}

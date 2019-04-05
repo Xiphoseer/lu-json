@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15494,
+    "3": 8035
+  },
+  "description": "Spaceship Launchpad FX",
+  "displayName": "",
+  "gate_version": "1.10_content",
+  "id": 16710,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ship FX 2 - Launchpad Return",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

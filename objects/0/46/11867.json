@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5918,
+    "2": 11619,
+    "3": 5711,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse Hut Model",
+  "gate_version": null,
+  "id": 11867,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Hut",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

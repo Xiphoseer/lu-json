@@ -1,0 +1,20 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/13/13455.json"
+    }
+  },
+  "behaviorID": 13455,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "duration": 0.25999999046325684,
+    "forward": 0.5,
+    "left": 0.0,
+    "move_target": 0.0,
+    "relative": 1.0,
+    "yaw": 0.0,
+    "yaw_abs": 0.0
+  },
+  "templateID": 40
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6660,
+    "3": 3067,
+    "5": 1220
+  },
+  "description": "Cage for Gnarled Forest",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 7085,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Jail Cage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

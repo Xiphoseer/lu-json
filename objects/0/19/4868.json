@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4304,
+    "40": 2438,
+    "6": 0,
+    "7": 689
+  },
+  "description": "Generic Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4868,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Ninja Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

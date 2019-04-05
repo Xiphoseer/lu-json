@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 109,
+    "17": 488,
+    "2": 13107,
+    "3": 1777,
+    "35": 576,
+    "7": 306,
+    "73": 144
+  },
+  "description": "NT Brick Vendor",
+  "displayName": "Axon Klaxon - Brick Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 13379,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Brick Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

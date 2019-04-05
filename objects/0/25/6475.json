@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6028,
+    "3": 2711,
+    "39": 5,
+    "49": 0,
+    "5": 886
+  },
+  "description": "model that ports player to scenario",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    }
+  ],
+  "id": 6475,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Waves Instancer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

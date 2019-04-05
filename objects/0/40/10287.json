@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5051,
+    "2": 10132,
+    "3": 4536,
+    "42": 0
+  },
+  "description": "Place this model on your property!",
+  "displayName": "Galleon with behaviors",
+  "gate_version": null,
+  "id": 10287,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brandis Loot that Behaves",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

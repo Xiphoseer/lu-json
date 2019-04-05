@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 417,
+    "2": 11003,
+    "3": 5175,
+    "35": 504,
+    "7": 1605,
+    "73": 95
+  },
+  "description": "__MG__Moonbase Commander",
+  "displayName": "Commander Han Nibble",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 11236,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Moonbase Commander - mission giver",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

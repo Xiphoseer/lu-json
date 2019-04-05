@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2508,
+    "2": 5440,
+    "3": 2498,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Medium Crate Model",
+  "gate_version": null,
+  "id": 6033,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Medium Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10742,
+    "23": 34,
+    "40": 5015,
+    "7": 306
+  },
+  "description": "Collectible Spawner for Johnny Thunder's mission object",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10985,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 - Johnny Thunder Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2929,
+    "3": 1721
+  },
+  "description": "Base for the Beastie Blocks Stage",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3533,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Stage Base",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

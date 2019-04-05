@@ -1,0 +1,753 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 175,
+      "value_2": 64,
+      "value_3": 480,
+      "value_4": 0,
+      "version": 46
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.5686274766921997,
+        0.4313725531101227,
+        0.4313725531101227,
+        1.0,
+        1.0,
+        1.0,
+        0.41960784792900085,
+        0.41960784792900085,
+        0.41960784792900085,
+        0.8399999737739563,
+        -0.5400000214576721,
+        -0.550000011920929,
+        2.0,
+        600.0,
+        10000.0,
+        100.0,
+        8000.0,
+        8000.0,
+        2.0,
+        600.0,
+        10000.0,
+        100.0,
+        8000.0,
+        8000.0
+      ],
+      "ids": [
+        {
+          "id": 0,
+          "value_1": 0.0,
+          "value_2": 0.0
+        },
+        {
+          "id": 1,
+          "value_1": 100.0,
+          "value_2": 150.0
+        },
+        {
+          "id": 2,
+          "value_1": 150.0,
+          "value_2": 200.0
+        },
+        {
+          "id": 3,
+          "value_1": 200.0,
+          "value_2": 250.0
+        },
+        {
+          "id": 4,
+          "value_1": 60.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 5,
+          "value_1": 40.0,
+          "value_2": 40.0
+        },
+        {
+          "id": 6,
+          "value_1": 40.0,
+          "value_2": 40.0
+        },
+        {
+          "id": 7,
+          "value_1": 400.0,
+          "value_2": 600.0
+        },
+        {
+          "id": 8,
+          "value_1": 60.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 9,
+          "value_1": 50.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 10,
+          "value_1": 300.0,
+          "value_2": 400.0
+        }
+      ],
+      "sky": [
+        "mesh\\env\\env_fv_sky_mantis.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 3573412809201,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1885.795166015625,
+              "y": 719.9323120117188,
+              "z": 552.795654296875
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 115.66000366210938,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809202,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1943.3697509765625,
+              "y": 611.9636840820313,
+              "z": 635.0770263671875
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 206.0,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809203,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1913.47705078125,
+              "y": 446.1583251953125,
+              "z": 640.7291259765625
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 151.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809204,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1915.52880859375,
+              "y": 787.9766845703125,
+              "z": 658.9863891601563
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 111.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809205,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1946.2508544921875,
+              "y": 859.5988159179688,
+              "z": 652.845458984375
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 111.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809206,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1988.6959228515625,
+              "y": 859.5504150390625,
+              "z": 538.198486328125
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 111.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809207,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -2011.9896240234375,
+              "y": 1024.4124755859375,
+              "z": 452.2744445800781
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 111.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809208,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -1984.0838623046875,
+              "y": 997.9217529296875,
+              "z": 580.1594848632813
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 111.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809209,
+          "lot": 9863,
+          "pos": {
+            "pos": {
+              "x": -2036.4815673828125,
+              "y": 928.2407836914063,
+              "z": 440.4023742675781
+            },
+            "rot": {
+              "w": 0.7874730229377747,
+              "x": 0.0,
+              "y": -0.6163491606712341,
+              "z": 0.0
+            }
+          },
+          "scale": 200.5,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CheckPrecondition": "",
+            "NDAudioEventGUID": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "FV_Racing_TrollLaunch",
+            "NDAudioMusicCue_BoredomTime": -0.8999999761581421,
+            "NDAudioMusicCue_Name": "",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "RacingSoundTriggerSpeedFactorThreshold": -1.0,
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809210,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": -1857.925537109375,
+              "y": 413.93109130859375,
+              "z": 686.694580078125
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CamRlBiasAmt": 0.0,
+            "CamRlBiasBi": false,
+            "CamRlBiasFwd": false,
+            "CamRlBiasRet": false,
+            "CamRlCamPath": "",
+            "CamRlCamRetPath": "",
+            "CamRlFaceTgt": true,
+            "CamRlPosPath": "",
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{c812dc5d-909a-4e4e-aba2-b873c9e467ea}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camDir": "",
+            "camGradSnap": false,
+            "camLkDir": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rlLeadIn": 1.0,
+            "rlLeadOut": -1.0,
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "setsRailCam": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809211,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": -1969.5804443359375,
+              "y": 888.943115234375,
+              "z": 326.1642150878906
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CamRlBiasAmt": 0.0,
+            "CamRlBiasBi": false,
+            "CamRlBiasFwd": false,
+            "CamRlBiasRet": false,
+            "CamRlCamPath": "",
+            "CamRlCamRetPath": "",
+            "CamRlFaceTgt": true,
+            "CamRlPosPath": "",
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{b353cee7-4883-4d08-b6f2-39a1821a744c}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camDir": "",
+            "camGradSnap": false,
+            "camLkDir": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rlLeadIn": 1.0,
+            "rlLeadOut": -1.0,
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "setsRailCam": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3573412809212,
+          "lot": 9613,
+          "pos": {
+            "pos": {
+              "x": -2009.2523193359375,
+              "y": 727.0113525390625,
+              "z": 438.96185302734375
+            },
+            "rot": {
+              "w": 0.9572529196739197,
+              "x": 0.0,
+              "y": 0.28925222158432007,
+              "z": 0.0
+            }
+          },
+          "scale": 50.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001drenderDisabled",
+            "custom_script_client": "scripts\\02_client\\Map\\FV\\Racing\\FV_RACING_JUMP_EXIT_FX.lua",
+            "custom_script_server": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

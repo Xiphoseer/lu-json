@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6522,
+    "2": 12933,
+    "3": 6399,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Fountain Model",
+  "gate_version": "march2011content",
+  "id": 13152,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Fountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

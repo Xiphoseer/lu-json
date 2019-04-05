@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ninjago ice shuriken that deals 2/8",
+  "components": {
+    "18": 7680,
+    "2": 15002,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 16256,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ice Shuriken Projectile 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1564
+    }
+  ],
+  "type": "Shooting Gallery"
+}

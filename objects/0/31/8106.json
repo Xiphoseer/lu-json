@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7650,
+    "3": 3736,
+    "5": 1292
+  },
+  "description": "LUP Robot Robot City",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8106,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Hover Bot Cam",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

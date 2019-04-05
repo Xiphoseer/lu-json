@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Faction token",
+  "components": {
+    "11": 3655,
+    "2": 7878
+  },
+  "description": "Spend this at a Sentinel vendor!",
+  "displayName": "Sentinel Faction Token",
+  "gate_version": null,
+  "id": 8319,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

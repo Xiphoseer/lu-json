@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2998,
+    "2": 6529,
+    "5": 940,
+    "60": 14,
+    "7": 633,
+    "9": 0
+  },
+  "description": "Uber gorilla",
+  "displayName": "Stromling Ape",
+  "gate_version": null,
+  "id": 6806,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Ape",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

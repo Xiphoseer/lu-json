@@ -1,0 +1,126 @@
+{
+  "_embedded": {
+    "mapItemTypes": [
+      {
+        "description": "Brick",
+        "equipLocation": "",
+        "id": 1
+      },
+      {
+        "description": "Hat",
+        "equipLocation": "head",
+        "id": 2
+      },
+      {
+        "description": "Hair",
+        "equipLocation": "hair",
+        "id": 3
+      },
+      {
+        "description": "Neck",
+        "equipLocation": "clavicle",
+        "id": 4
+      },
+      {
+        "description": "Left Hand",
+        "equipLocation": "special_l",
+        "id": 5
+      },
+      {
+        "description": "Right Hand",
+        "equipLocation": "special_r",
+        "id": 6
+      },
+      {
+        "description": "Legs",
+        "equipLocation": "legs",
+        "id": 7
+      },
+      {
+        "description": "Left Trinket",
+        "equipLocation": "trinket_l",
+        "id": 8
+      },
+      {
+        "description": "Right Trinket",
+        "equipLocation": "trinket_r",
+        "id": 9
+      },
+      {
+        "description": "Behavior",
+        "equipLocation": "",
+        "id": 10
+      },
+      {
+        "description": "Property",
+        "equipLocation": "",
+        "id": 11
+      },
+      {
+        "description": "Model",
+        "equipLocation": "",
+        "id": 12
+      },
+      {
+        "description": "Collectable",
+        "equipLocation": "",
+        "id": 13
+      },
+      {
+        "description": "Consumable",
+        "equipLocation": "",
+        "id": 14
+      },
+      {
+        "description": "Chest",
+        "equipLocation": "chest",
+        "id": 15
+      },
+      {
+        "description": "Egg",
+        "equipLocation": "",
+        "id": 16
+      },
+      {
+        "description": "Pet Food",
+        "equipLocation": "",
+        "id": 17
+      },
+      {
+        "description": "Quest Object",
+        "equipLocation": "",
+        "id": 18
+      },
+      {
+        "description": "Pet Inventory Item",
+        "equipLocation": "",
+        "id": 19
+      },
+      {
+        "description": "Package",
+        "equipLocation": "",
+        "id": 20
+      },
+      {
+        "description": "Loot Model",
+        "equipLocation": "",
+        "id": 21
+      },
+      {
+        "description": "Vehicle",
+        "equipLocation": "",
+        "id": 22
+      },
+      {
+        "description": "Currency",
+        "equipLocation": null,
+        "id": 23
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/mapItemTypes/index.json"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "All 3 pieces of the treasure map put together",
+  "components": {
+    "11": 4394,
+    "2": 8728
+  },
+  "description": null,
+  "displayName": "Captain Jack Knife's Treasure Map",
+  "gate_version": null,
+  "id": 9274,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Treasure Map",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

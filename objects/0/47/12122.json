@@ -1,0 +1,54 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 436,
+    "2": 11871,
+    "3": 1777,
+    "35": 536,
+    "7": 305,
+    "73": 131
+  },
+  "description": "__MG__Live mission giver",
+  "displayName": "Wenn Wuzzit - Venture League Time Traveler",
+  "gate_version": "nimbusinstance",
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 12122,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wenn Wuzzit",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

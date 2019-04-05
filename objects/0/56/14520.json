@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14205,
+    "3": 7277,
+    "5": 1590,
+    "7": 1983
+  },
+  "description": "",
+  "displayName": "NJ - Skulken Siege Tower Leg",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 162,
+      "iconState": 69
+    }
+  ],
+  "id": 14520,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Skulken Siege Tower Leg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

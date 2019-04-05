@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NT Easy Stromling type",
+  "components": {
+    "1": 5799,
+    "2": 11744,
+    "31": 13,
+    "5": 1312,
+    "60": 82,
+    "7": 1640,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Gull Rawstew - Stromling Pirate Invader",
+  "gate_version": "auramar",
+  "id": 11985,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Pirate NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 484
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 931
+    }
+  ],
+  "type": "Enemies"
+}

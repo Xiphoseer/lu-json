@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9975,
+    "3": 4490
+  },
+  "description": "GF battle tree module",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10135,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Trench Tree Module",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

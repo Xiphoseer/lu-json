@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 211,
+    "2": 6274,
+    "3": 2318,
+    "35": 260,
+    "5": 1024,
+    "7": 305,
+    "73": 39
+  },
+  "description": "__MG__Jailed Ninja",
+  "displayName": "Ninja Prisoner Hashi",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 6732,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Ninja Prisoner 02",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,21 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/5/6023.json"
+    }
+  },
+  "behaviorID": 6023,
+  "effectHandle": null,
+  "effectID": 1496,
+  "parameters": {
+    "dir_angle_xz": 0.0,
+    "dir_angle_y": 0.0,
+    "dir_force": 7.0,
+    "max damage": 2.0,
+    "min damage": 2.0,
+    "on_fail_armor": 6022.0,
+    "on_fail_blocked": 6157.0,
+    "on_success": 6022.0
+  },
+  "templateID": 1
+}

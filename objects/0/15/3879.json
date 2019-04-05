@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "19": 0,
+    "2": 3277,
+    "3": 1953,
+    "5": 597
+  },
+  "description": "Balloon Cannon SG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3879,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Balloon Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

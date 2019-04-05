@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Floats up and down",
+  "components": {
+    "11": 4875,
+    "2": 9886
+  },
+  "description": "Floats up and down",
+  "displayName": "Elevator Behavior",
+  "gate_version": null,
+  "id": 10050,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Elevator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

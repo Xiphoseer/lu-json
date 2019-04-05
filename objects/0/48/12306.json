@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12056,
+    "3": 6014,
+    "5": 1335
+  },
+  "description": "Interactive binoculars",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FB - Binoculars",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

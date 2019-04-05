@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2747,
+    "25": 0,
+    "3": 1569
+  },
+  "description": "Blue block moving platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4650,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Large Mover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

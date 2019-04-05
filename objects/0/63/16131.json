@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9507,
+    "3": 4218,
+    "5": 1612,
+    "7": 1931
+  },
+  "description": "TEST",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16131,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Castle Center Piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

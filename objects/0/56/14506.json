@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Consumable on Johnny Umami's vendor table; Medwards to determine buff",
+  "components": {
+    "11": 7128,
+    "2": 14194,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Chilly Freezesteak",
+  "gate_version": "njhub",
+  "id": 14506,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Chilly Freezesteak",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1503
+    }
+  ],
+  "type": "Loot"
+}

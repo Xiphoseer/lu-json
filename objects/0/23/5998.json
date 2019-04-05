@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 142,
+    "2": 5394,
+    "3": 1777,
+    "35": 176,
+    "7": 305
+  },
+  "description": "__MG__DO NOT PLACE IN GAME DO NOT EDIT TEMPLATE mg Minifigure template mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "raf_test_template Minifigure mission giver mg",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

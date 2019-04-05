@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6686,
+    "20": 5016,
+    "6": 0
+  },
+  "description": "TEST bouncer for vehicles",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10989,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST vehicle bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

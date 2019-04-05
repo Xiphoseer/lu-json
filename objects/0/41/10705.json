@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5204,
+    "2": 10556,
+    "3": 4841,
+    "42": 0
+  },
+  "description": null,
+  "displayName": "Chicken Model",
+  "gate_version": null,
+  "id": 10705,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "E3 Model Chicken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

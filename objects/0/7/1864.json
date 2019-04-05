@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 189,
+    "19": 1864,
+    "2": 1746,
+    "3": 895,
+    "5": 70,
+    "9": 0
+  },
+  "description": "Cannon Base",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1864,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 228
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 249
+    }
+  ],
+  "type": "NPC"
+}

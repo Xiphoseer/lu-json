@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4908,
+    "2": 9922,
+    "3": 4460,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Medium Wall Model",
+  "gate_version": null,
+  "id": 10086,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Medium Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9836,
+    "40": 4421,
+    "48": 148,
+    "6": 0
+  },
+  "description": "Bouncer for gnarled forest",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10010,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Gnarled Forest Cliff Bouncer Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

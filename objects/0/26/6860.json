@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "value 500000 coins",
+  "components": {
+    "11": 2882,
+    "2": 6415
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Clear Gem",
+  "gate_version": null,
+  "id": 6860,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Clear Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

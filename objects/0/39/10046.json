@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 364,
+    "2": 9882,
+    "3": 1777,
+    "35": 456,
+    "39": 53
+  },
+  "description": "NPC for the AG Footrace",
+  "displayName": "Oliver Sudden - Foot Race Host",
+  "gate_version": null,
+  "id": 10046,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG Foot Race Strongman",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

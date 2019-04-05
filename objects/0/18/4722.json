@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 157,
+    "25": 0,
+    "27": 0,
+    "3": 32
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4722,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TestMovingPlatform16x16",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

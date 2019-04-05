@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 7405,
+    "5": 1038,
+    "60": 29,
+    "7": 489
+  },
+  "description": "Ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7847,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Weeble Scale Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

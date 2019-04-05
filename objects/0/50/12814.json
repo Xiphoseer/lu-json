@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6356,
+    "2": 12603,
+    "3": 6231,
+    "42": 0,
+    "7": 1777
+  },
+  "description": null,
+  "displayName": "TEST Shane NPC",
+  "gate_version": null,
+  "id": 12814,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST NPC for Property",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

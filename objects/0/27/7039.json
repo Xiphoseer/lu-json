@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Sword with no caster stun skill",
+  "components": {
+    "11": 2966,
+    "2": 6617,
+    "9": 0
+  },
+  "description": "Sword with no caster stun skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7039,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test PvP Shortsword no stun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 295
+    }
+  ],
+  "type": "Loot"
+}

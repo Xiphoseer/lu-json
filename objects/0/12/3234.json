@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 25,
+    "2": 2845,
+    "3": 1731,
+    "5": 424
+  },
+  "description": "NP-Mission giver scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 3234,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old Man Sherland",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

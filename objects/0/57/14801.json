@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/7/7 NJ Double Bladed Slashing",
+  "components": {
+    "11": 7274,
+    "2": 14488,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Bone Dagger",
+  "gate_version": "njhub",
+  "id": 14801,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Double Bone Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1636
+    }
+  ],
+  "type": "Loot"
+}

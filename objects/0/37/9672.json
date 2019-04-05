@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4714,
+    "2": 9515,
+    "3": 4226,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Medium Straight Wall Model",
+  "gate_version": null,
+  "id": 9672,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Wall Straight Medium",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

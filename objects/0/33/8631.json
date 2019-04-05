@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 3886,
+    "2": 8188,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Confederate Shirt",
+  "gate_version": null,
+  "id": 8631,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Grey Cavalry Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1477,
+    "2": 3465,
+    "5": 633,
+    "7": 491,
+    "9": 0
+  },
+  "description": "Avant Gardens good robotonist following a path in maelstron spike scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4019,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Robotanist Corrupted",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "NPC"
+}

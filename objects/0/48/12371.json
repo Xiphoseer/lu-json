@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12122,
+    "20": 6060,
+    "5": 1352,
+    "7": 1715
+  },
+  "description": "Forbidden Valley racetrack -- ghost smashable -- GOOD",
+  "displayName": "FV racetrack -- ghost smashable -- GOOD",
+  "gate_version": null,
+  "id": 12371,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV racetrack -- ghost smashable -- GOOD",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

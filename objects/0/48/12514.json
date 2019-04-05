@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Deal damage until you run out of Imagination (41 per 10 sec)",
+  "components": {
+    "11": 6144,
+    "2": 12284,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Spark Thrower",
+  "gate_version": "auramar",
+  "id": 12514,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spark Thrower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 984
+    }
+  ],
+  "type": "Loot"
+}

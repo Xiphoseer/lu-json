@@ -1,0 +1,35 @@
+{
+  "LootMatrixIndex": 862,
+  "elements": [
+    {
+      "LootTableIndex": 416,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4589,
+      "maxToDrop": 4,
+      "minToDrop": 2,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 425,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4590,
+      "maxToDrop": 5,
+      "minToDrop": 3,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 421,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 4591,
+      "maxToDrop": 5,
+      "minToDrop": 3,
+      "percent": 1.0
+    }
+  ]
+}

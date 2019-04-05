@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5269,
+    "2": 10660,
+    "3": 4934,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Brown Silver Chair Model",
+  "gate_version": null,
+  "id": 10813,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward BrownSilverChair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

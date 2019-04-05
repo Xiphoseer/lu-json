@@ -1,0 +1,41 @@
+{
+  "id": 45,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 313,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1852,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "freetrial",
+      "missionID": 1853,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1862,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1863,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1935,
+      "offersMission": true
+    }
+  ]
+}

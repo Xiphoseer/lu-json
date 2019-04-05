@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 69,
+    "17": 345,
+    "2": 9856,
+    "3": 1777,
+    "35": 438,
+    "7": 306
+  },
+  "description": "GF Model Vendor - ???",
+  "displayName": "Squall Aye - Model Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 10029,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Model Vendor  - Race Scene",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

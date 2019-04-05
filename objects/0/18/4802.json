@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 2164,
+    "2": 4212,
+    "9": 0
+  },
+  "description": "Flaming arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4802,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Arrow Flaming",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 137
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 78,
+    "2": 3466,
+    "3": 1777,
+    "35": 96,
+    "7": 305
+  },
+  "description": "AG Mission Giver Gardener",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4037,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Gardener_",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

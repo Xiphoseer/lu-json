@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4151,
+    "3": 2040
+  },
+  "description": "Object that receives the cloned render object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4983,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Rocket Transition Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

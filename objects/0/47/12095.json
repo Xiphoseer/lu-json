@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP 4 AP + Group armor buff. Strengthen Armor 2 (778)",
+  "components": {
+    "11": 5987,
+    "2": 11844,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Crux Prime Armor",
+  "gate_version": "auramar",
+  "id": 12095,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Crux Prime Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1587
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,46 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3473,
+    "2": 7361,
+    "5": 1072,
+    "60": 26,
+    "7": 747,
+    "9": 0
+  },
+  "description": "FV Miniboss",
+  "displayName": "Torchblight - Maelstrom Dragon",
+  "gate_version": null,
+  "id": 11225,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Maelstrom Dragon 2",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 508
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 510
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 512
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 832
+    }
+  ],
+  "type": "Enemies"
+}

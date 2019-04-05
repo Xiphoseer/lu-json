@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 points of shielding",
+  "components": {
+    "11": 5505,
+    "2": 11042,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sentinel Shield",
+  "gate_version": null,
+  "id": 11272,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 879
+    }
+  ],
+  "type": "Loot"
+}

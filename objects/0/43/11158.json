@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10907,
+    "3": 5081
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11158,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG_PlayerProperty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

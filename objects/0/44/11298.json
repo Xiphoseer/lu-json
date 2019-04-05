@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 5521,
+    "2": 11075,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Peppy's Black Mug",
+  "gate_version": null,
+  "id": 11298,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Peppy's Black Mug",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

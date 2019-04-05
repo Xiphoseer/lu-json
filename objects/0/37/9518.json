@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5499,
+    "2": 9370,
+    "28": 226,
+    "3": 4101,
+    "42": 0
+  },
+  "description": "Nimbus Modular Build rocket engine",
+  "displayName": "Nimbus Rocket Engine",
+  "gate_version": null,
+  "id": 9518,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Nimbus Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

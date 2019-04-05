@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14452,
+    "3": 7450
+  },
+  "description": "animated 1x1 floating around",
+  "displayName": "fx_ag_ghost_cube",
+  "gate_version": "freetrial",
+  "id": 14765,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_ag_ghost_cube",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

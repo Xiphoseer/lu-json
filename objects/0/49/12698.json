@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 AP",
+  "components": {
+    "11": 6246,
+    "2": 12487,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Scale Mail Shirt",
+  "gate_version": "auramar",
+  "id": 12698,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Scale Mail Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    }
+  ],
+  "type": "Loot"
+}

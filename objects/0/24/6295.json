@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5730,
+    "3": 2312,
+    "5": 1719,
+    "7": 527
+  },
+  "description": "Blue Laser Mining Gun asset placed on Monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6295,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Laser Gun Orange",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

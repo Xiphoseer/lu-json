@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5557,
+    "2": 11253,
+    "28": 241,
+    "3": 5350,
+    "42": 0,
+    "63": 3
+  },
+  "description": "",
+  "displayName": "Choo-Choo Charger Engine Panel",
+  "gate_version": "dec2010content",
+  "id": 11505,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarH2_EnginePanel1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Money Magnet - Promo Item",
+  "components": {
+    "11": 3856,
+    "2": 8157,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Old Skool Shirt",
+  "gate_version": null,
+  "id": 8600,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Old Skool Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 520
+    }
+  ],
+  "type": "Loot"
+}

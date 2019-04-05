@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Piercing",
+  "components": {
+    "11": 3785,
+    "2": 8041,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Spear",
+  "gate_version": null,
+  "id": 8486,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Spear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 531
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13199,
+    "3": 6572
+  },
+  "description": null,
+  "displayName": "NJ-Mon_Fire_Ice_Transition_Tower",
+  "gate_version": "njhub",
+  "id": 13464,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Fire_Ice_Transition_Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

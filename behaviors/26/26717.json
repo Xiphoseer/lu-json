@@ -1,0 +1,14 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/26/26717.json"
+    }
+  },
+  "behaviorID": 26717,
+  "effectHandle": "waterspray",
+  "effectID": 0,
+  "parameters": {
+    "target_caster": 0.0
+  },
+  "templateID": 32
+}

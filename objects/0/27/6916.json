@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6478,
+    "3": 3044,
+    "7": 649
+  },
+  "description": "Smashable wall",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6916,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate Arch Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

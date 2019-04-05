@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6268,
+    "23": 24,
+    "40": 2944,
+    "7": 625
+  },
+  "description": "Collectible Spawner for NS Collectible Flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6726,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS -  Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

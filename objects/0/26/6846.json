@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Slashing + root chargeup",
+  "components": {
+    "11": 2866,
+    "2": 6397,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Captain's Cutlass",
+  "gate_version": null,
+  "id": 6846,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Captain's Cutlass",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 875
+    }
+  ],
+  "type": "Loot"
+}

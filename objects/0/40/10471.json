@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4650,
+    "11": 5163,
+    "2": 10315,
+    "5": 1225,
+    "7": 1559
+  },
+  "description": "TEST property tortoise",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10471,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Tortoise Property Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

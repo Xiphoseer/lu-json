@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 4 Space Marauder!",
+  "components": {
+    "11": 4845,
+    "2": 9823,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Rank 4 Space Marauder Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 734
+    }
+  ],
+  "type": "Loot"
+}

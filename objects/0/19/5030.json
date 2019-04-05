@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4451,
+    "3": 2308
+  },
+  "description": "AG Vendor table and cash register",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5030,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Vendor Table",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

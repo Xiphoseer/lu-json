@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6213,
+    "2": 12424,
+    "9": 0
+  },
+  "description": "Laser that cleaners fire",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12634,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Valiant Cleaner Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1017
+    }
+  ],
+  "type": "Shooting Gallery"
+}

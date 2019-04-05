@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11240,
+    "20": 5338,
+    "5": 1296
+  },
+  "description": "NSTrack_phyvol_snowdrift02",
+  "displayName": "Snowdrift Trigger02",
+  "gate_version": null,
+  "id": 11492,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSTrack_phyvol_snowdrift02",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

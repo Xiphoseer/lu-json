@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For performance testing accessories",
+  "components": {
+    "11": 3633,
+    "2": 7812,
+    "9": 0
+  },
+  "description": "For performance testing accessories",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8275,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Performance Test Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 342
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/7/8041.json"
+    }
+  },
+  "behaviorID": 8041,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "behavior 1": 8042.0,
+    "behavior 2": 8062.0,
+    "behavior 3": 8079.0,
+    "chain_delay": 1.0
+  },
+  "templateID": 38
+}

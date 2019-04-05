@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7889,
+    "3": 3888,
+    "48": 129,
+    "7": 876
+  },
+  "description": "Wall that blocks the horsemen from spawning",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8329,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Horsemen Blocker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

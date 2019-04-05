@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12025,
+    "25": 0,
+    "27": 0,
+    "3": 6002
+  },
+  "description": "Moving Platform for AM AuraMar Venture",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12277,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Venture Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

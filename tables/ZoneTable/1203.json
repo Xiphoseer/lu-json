@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Vertigo Loop Racetrack",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1203.json"
+    }
+  },
+  "clientPhysicsFramerate": "high",
+  "disableSaveLoc": false,
+  "fZoneWeight": 2.8499999046325684,
+  "gate_version": null,
+  "ghostdistance": 1200.0,
+  "ghostdistance_min": 700.0,
+  "heightInChunks": 99,
+  "locStatus": 2,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": "NS_Racing",
+  "mountsAllowed": true,
+  "petsAllowed": false,
+  "population_hard_cap": 8,
+  "population_soft_cap": 6,
+  "scriptID": -1,
+  "serverPhysicsFramerate": "high",
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": 99,
+  "zoneControlTemplate": 9306,
+  "zoneID": 1203,
+  "zoneName": "01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz"
+}

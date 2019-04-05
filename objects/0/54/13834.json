@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13573,
+    "3": 6842,
+    "5": 1481
+  },
+  "description": "atm in Nexus Tower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13834,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "nextower_sent_atm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

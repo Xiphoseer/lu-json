@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10385,
+    "3": 4673
+  },
+  "description": "Converted LUP object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10531,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - 6821 Digger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

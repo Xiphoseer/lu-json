@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 1001,
+    "2": 2486,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Red Pirate Scarf",
+  "gate_version": null,
+  "id": 2979,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Pirate Scarf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

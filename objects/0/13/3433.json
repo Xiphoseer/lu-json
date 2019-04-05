@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2857,
+    "25": 0,
+    "27": 0,
+    "3": 1649,
+    "5": 443
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3433,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Inventors Balloon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

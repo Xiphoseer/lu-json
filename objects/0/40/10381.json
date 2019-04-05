@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4620,
+    "2": 10227,
+    "5": 1165,
+    "60": 63,
+    "7": 1553,
+    "9": 0
+  },
+  "description": "Enemy for property unlock maps",
+  "displayName": "Maelstrom Horseman",
+  "gate_version": null,
+  "id": 10381,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property - Maelstrom Cavalry",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 589
+    }
+  ],
+  "type": "Enemies"
+}

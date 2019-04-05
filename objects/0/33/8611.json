@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 3867,
+    "2": 8168,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Ruffled Bodice",
+  "gate_version": null,
+  "id": 8611,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ruffled Bodice",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

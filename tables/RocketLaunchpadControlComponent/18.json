@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": null,
+  "altLandingSpawnPointName": null,
+  "defaultZoneID": 0,
+  "gmLevel": 0,
+  "id": 18,
+  "launchMusic": null,
+  "launchPrecondition": null,
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-AG",
+  "targetScene": "NS_GF",
+  "targetZone": 1200,
+  "useAltLandingPrecondition": false,
+  "useLaunchPrecondition": false
+}

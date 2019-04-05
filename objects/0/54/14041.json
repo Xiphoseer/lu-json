@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13752,
+    "3": 6980
+  },
+  "description": "",
+  "displayName": "NJ-Mon_Cave_E",
+  "gate_version": "njhub",
+  "id": 14041,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Cave_E",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

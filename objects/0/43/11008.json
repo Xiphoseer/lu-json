@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Property Pushback Tier 2 Behavior. - REBUILD password 1n0R1n0",
+  "components": {
+    "11": 5360,
+    "2": 10760
+  },
+  "description": "Rhino Behavior - For ND use only.",
+  "displayName": "BEHAVIOR - NS Property Pushback - Rhino",
+  "gate_version": null,
+  "id": 11008,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BEHAVIOR - NS Property Pushback - Rhino",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

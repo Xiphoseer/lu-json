@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9955,
+    "3": 4487,
+    "7": 989
+  },
+  "description": "property spawner for the darklings",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10118,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Darkling Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

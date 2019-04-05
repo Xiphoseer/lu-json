@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5829,
+    "3": 2667,
+    "5": 856
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 6380,
+  "interactionDistance": 16.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Sign - Exit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

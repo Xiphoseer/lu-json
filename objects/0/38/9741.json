@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9578,
+    "40": 4254,
+    "77": 0
+  },
+  "description": "Triggers music, 2D ambience, and/or mixer changes for player characters within a box-shaped area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9741,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sound Trigger -- Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

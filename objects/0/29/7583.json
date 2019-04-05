@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 269,
+    "19": 7583,
+    "2": 7145,
+    "3": 3340,
+    "5": 1019,
+    "9": 0
+  },
+  "description": "Cannon Base",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7583,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Duck SG Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 397
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 398
+    }
+  ],
+  "type": "NPC"
+}

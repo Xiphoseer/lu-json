@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6100,
+    "35": 235,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__Test Mission Giver Ihall",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6532,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DJ Rock Solid",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

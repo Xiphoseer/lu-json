@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11981,
+    "3": 5976,
+    "5": 1305
+  },
+  "description": "Celebration that plays when you join the Assembly Faction complete with minifig and animation",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12234,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Full Assembly Celebration",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

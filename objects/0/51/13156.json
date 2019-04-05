@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6526,
+    "2": 12937,
+    "3": 6403,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Scepter Stand Model",
+  "gate_version": "march2011content",
+  "id": 13156,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Sceptor Stand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

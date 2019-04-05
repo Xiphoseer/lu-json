@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Consumable on Johnny Umami's vendor table; Medwards to determine buff",
+  "components": {
+    "11": 7125,
+    "2": 14191,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Dirt Sandwich",
+  "gate_version": "njhub",
+  "id": 14502,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dirt Sandwich",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1500
+    }
+  ],
+  "type": "Loot"
+}

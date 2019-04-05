@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5328,
+    "2": 10719,
+    "3": 4993,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Record Player Model",
+  "gate_version": null,
+  "id": 10872,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward RecordPlayer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Long Slashing",
+  "components": {
+    "11": 6324,
+    "2": 12566,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Super Scimitar",
+  "gate_version": "auramar",
+  "id": 12776,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Scimitar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 286
+    }
+  ],
+  "type": "Loot"
+}

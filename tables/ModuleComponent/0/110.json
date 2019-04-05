@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 6,
+  "id": 110,
+  "partCode": 5,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"9366\" name=\"rear bumper\"><PlacementRotation x=\"0.0\" y=\"0.707\" z=\"0\" w=\"0.707\" /><BuildingPosition x=\"0\" y=\"0\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" /><connection name=\"CHASSIS_REAR_BUMPER\"><translation x=\"0.0\" y=\"1.3247\" z=\"-4.977\" /></connection></ModuleInfo>"
+}

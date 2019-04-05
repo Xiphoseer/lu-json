@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5830,
+    "2": 11531,
+    "3": 5623,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Copier Model",
+  "gate_version": "nexustower",
+  "id": 11779,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Office Copier",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

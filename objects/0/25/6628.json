@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6186,
+    "3": 2883
+  },
+  "description": "GF flora module 2 changer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6628,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTOTYPE - GF - Flora Module 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

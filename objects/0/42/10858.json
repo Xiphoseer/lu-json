@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5314,
+    "2": 10705,
+    "3": 4979,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fountain Model",
+  "gate_version": null,
+  "id": 10858,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Fountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

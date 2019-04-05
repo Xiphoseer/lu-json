@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5757,
+    "2": 11458,
+    "3": 5550,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Garden Model 2",
+  "gate_version": "march2011content",
+  "id": 11706,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Garden2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

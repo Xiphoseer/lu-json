@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Long Slashing",
+  "components": {
+    "11": 6267,
+    "2": 12508,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Super Cleaver",
+  "gate_version": "auramar",
+  "id": 12719,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Cleaver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 286
+    }
+  ],
+  "type": "Loot"
+}

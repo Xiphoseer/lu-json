@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Valiant Weapon",
+  "components": {
+    "11": 6200,
+    "2": 12428,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "The Broadsider",
+  "gate_version": "valiantweapons",
+  "id": 12638,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Buccaneer Valiant Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1019
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1264
+    }
+  ],
+  "type": "Loot"
+}

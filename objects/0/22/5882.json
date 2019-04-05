@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5301,
+    "25": 0,
+    "3": 2436,
+    "40": 2435
+  },
+  "description": "Moving Platform Water Plane",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5882,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Water Plane Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

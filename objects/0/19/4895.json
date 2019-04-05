@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4332,
+    "3": 2218
+  },
+  "description": "Concert path into AG scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4895,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Path",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3079,
+    "2": 6966,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Buccaneer Pistol & Cutlass 3",
+  "gate_version": null,
+  "id": 7402,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Buccaneer Weapon 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 596
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 713
+    }
+  ],
+  "type": "Loot"
+}

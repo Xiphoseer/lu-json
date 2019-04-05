@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Hot Air Balloon model",
+  "components": {
+    "11": 6637,
+    "2": 13148
+  },
+  "description": "A hot air balloon that moves up, floats, and moves down.",
+  "displayName": "Hotair Balloon Behavior",
+  "gate_version": null,
+  "id": 13419,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Hotair Balloon Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

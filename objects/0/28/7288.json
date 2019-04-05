@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6864,
+    "25": 0,
+    "3": 3292
+  },
+  "description": "Blue block moving platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7288,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Fuse Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

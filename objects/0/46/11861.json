@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5912,
+    "2": 11613,
+    "3": 5705,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse Elevator Tree Model",
+  "gate_version": null,
+  "id": 11861,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Elevator Tree",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

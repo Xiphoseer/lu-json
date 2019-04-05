@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12901,
+    "3": 6387
+  },
+  "description": "",
+  "displayName": "VE Brick B",
+  "gate_version": "auramar",
+  "id": 13124,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "VE Brick B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

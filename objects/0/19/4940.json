@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "40": 25
+  },
+  "description": "test object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4940,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "test_RigidBodyPhantom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

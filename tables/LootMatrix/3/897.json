@@ -1,0 +1,105 @@
+{
+  "LootMatrixIndex": 897,
+  "elements": [
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5057,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.10000000149011612
+    },
+    {
+      "LootTableIndex": 113,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5058,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    },
+    {
+      "LootTableIndex": 242,
+      "RarityTableIndex": 18,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5059,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.009999999776482582
+    },
+    {
+      "LootTableIndex": 415,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5060,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 420,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5061,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 424,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5062,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.5
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5063,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.02500000037252903
+    },
+    {
+      "LootTableIndex": 846,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5066,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.02500000037252903
+    },
+    {
+      "LootTableIndex": 847,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5067,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.004999999888241291
+    },
+    {
+      "LootTableIndex": 872,
+      "RarityTableIndex": 24,
+      "flagID": null,
+      "gate_version": "njhub",
+      "id": 5068,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.30000001192092896
+    }
+  ]
+}

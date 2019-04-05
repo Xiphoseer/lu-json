@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5811,
+    "17": 476,
+    "2": 11758,
+    "5": 1409,
+    "60": 94,
+    "7": 1652,
+    "9": 0
+  },
+  "description": "Test generic enemy rig medium",
+  "displayName": "Test Enemy Rig",
+  "gate_version": null,
+  "id": 12012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test New Enemy Rig",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 274
+    }
+  ],
+  "type": "Enemies"
+}

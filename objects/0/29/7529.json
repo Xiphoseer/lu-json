@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3184,
+    "2": 7094,
+    "5": 1240,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Summoner Staff 1",
+  "gate_version": null,
+  "id": 7529,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Summoner Weapon 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 601
+    }
+  ],
+  "type": "Loot"
+}

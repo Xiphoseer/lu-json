@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4447,
+    "3": 2304,
+    "5": 1002
+  },
+  "description": "Interactive binoculars",
+  "displayName": "Binoculars",
+  "gate_version": null,
+  "id": 6700,
+  "interactionDistance": 5.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Binoculars",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

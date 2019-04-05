@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "force field generator for sentinel area",
+  "components": {
+    "2": 12800,
+    "3": 6313
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 13016,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Assembly Force field generator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

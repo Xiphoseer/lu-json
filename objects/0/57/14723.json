@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Zane White Ninja hood",
+  "components": {
+    "11": 7217,
+    "2": 14410,
+    "9": 0
+  },
+  "description": "NPC Zane White Ninja hood",
+  "displayName": "NPC Zane White Ninja hood",
+  "gate_version": "njhub",
+  "id": 14723,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Zane White Ninja hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5653,
+    "40": 2614,
+    "5": 810
+  },
+  "description": "Another top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6234,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test MR - Up Arrow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

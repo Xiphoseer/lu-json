@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4548,
+    "2": 10155,
+    "7": 1544,
+    "9": 0
+  },
+  "description": "Projectile that turns into an life powerup when it hits",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10309,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Life Projectile 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 788
+    }
+  ],
+  "type": "Shooting Gallery"
+}

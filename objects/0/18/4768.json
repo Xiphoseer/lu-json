@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4317,
+    "23": 10,
+    "40": 1041,
+    "7": 447
+  },
+  "description": "Collectible Spawner for AG imagination orb",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4768,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Imagination Orb Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

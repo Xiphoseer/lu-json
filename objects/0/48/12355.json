@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6076,
+    "2": 12106,
+    "3": 6044,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Toy Shop Ladder Model",
+  "gate_version": "dec2010content",
+  "id": 12355,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Toy Shop Ladder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

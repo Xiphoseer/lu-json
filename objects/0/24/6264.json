@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2595,
+    "2": 5683,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Pet Buffalo Shirt",
+  "gate_version": null,
+  "id": 6264,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pet Buffalo Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

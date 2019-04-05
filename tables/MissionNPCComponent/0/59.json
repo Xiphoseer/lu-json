@@ -1,0 +1,65 @@
+{
+  "id": 59,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 516,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": null,
+      "missionID": 734,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 769,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 990,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 1301,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 1302,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 1303,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1925,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1926,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1927,
+      "offersMission": true
+    }
+  ]
+}

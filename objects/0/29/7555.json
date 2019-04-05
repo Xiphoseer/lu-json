@@ -1,0 +1,40 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3209,
+    "2": 7120,
+    "5": 1242,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Summoner Shoulderpads 3",
+  "gate_version": null,
+  "id": 7555,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Summoner Neck/Back 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 673
+    }
+  ],
+  "type": "Loot"
+}

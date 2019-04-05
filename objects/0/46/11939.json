@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11689,
+    "25": 0,
+    "27": 0,
+    "3": 5761
+  },
+  "description": "NT Venture Stairs High",
+  "displayName": "NT Venture Stairs High",
+  "gate_version": null,
+  "id": 11939,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Venture Stairs High",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

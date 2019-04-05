@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 4% speed boost + AoE Emote (group cheer)",
+  "components": {
+    "11": 6973,
+    "2": 13807,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Race Ace Shirt",
+  "gate_version": "nexustower",
+  "id": 14096,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Race Ace Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1353
+    }
+  ],
+  "type": "Loot"
+}

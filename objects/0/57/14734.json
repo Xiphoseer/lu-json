@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 7/7/8 Smashing",
+  "components": {
+    "11": 7226,
+    "2": 14419,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Artisan's Hammer",
+  "gate_version": "njhub",
+  "id": 14734,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Artisan's Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1423
+    }
+  ],
+  "type": "Loot"
+}

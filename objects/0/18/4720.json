@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2491,
+    "2": 4138,
+    "28": 6,
+    "3": 2555,
+    "42": 0
+  },
+  "description": "Modular Build rocket cockpit",
+  "displayName": "Pod Rocket Cockpit",
+  "gate_version": null,
+  "id": 4720,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Pod Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6863,
+    "2": 13496
+  },
+  "description": "Usedin Nexus Tower Mission Chains",
+  "displayName": "Dragon Disguise Shirt Proxy",
+  "gate_version": "nexustower",
+  "id": 13756,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Dragon Disguise Shirt Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

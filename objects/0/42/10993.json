@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TIER 2 Behavior",
+  "components": {
+    "11": 5349,
+    "2": 10746
+  },
+  "description": "Model smashes when a player walks away and rebuilds when a player walks close.",
+  "displayName": "Proximity Rebuild Behavior",
+  "gate_version": null,
+  "id": 10993,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Proximity Rebuild Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

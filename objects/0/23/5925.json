@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5338,
+    "3": 2465,
+    "5": 776
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5925,
+  "interactionDistance": 500.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - 05 - Control Misc",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

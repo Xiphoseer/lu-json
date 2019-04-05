@@ -1,0 +1,1469 @@
+{
+  "LootTableIndex": 111,
+  "elements": [
+    {
+      "MissionDrop": false,
+      "id": 15375,
+      "itemid": 16,
+      "sortPriority": 1170
+    },
+    {
+      "MissionDrop": false,
+      "id": 15428,
+      "itemid": 18,
+      "sortPriority": 2440
+    },
+    {
+      "MissionDrop": false,
+      "id": 15376,
+      "itemid": 19,
+      "sortPriority": 2150
+    },
+    {
+      "MissionDrop": false,
+      "id": 20185,
+      "itemid": 16405,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 15434,
+      "itemid": 23,
+      "sortPriority": 2700
+    },
+    {
+      "MissionDrop": false,
+      "id": 15436,
+      "itemid": 24,
+      "sortPriority": 1100
+    },
+    {
+      "MissionDrop": false,
+      "id": 20190,
+      "itemid": 16410,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 15440,
+      "itemid": 26,
+      "sortPriority": 110
+    },
+    {
+      "MissionDrop": false,
+      "id": 15382,
+      "itemid": 34,
+      "sortPriority": 120
+    },
+    {
+      "MissionDrop": false,
+      "id": 20202,
+      "itemid": 16423,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 15450,
+      "itemid": 43,
+      "sortPriority": 1460
+    },
+    {
+      "MissionDrop": false,
+      "id": 15392,
+      "itemid": 44,
+      "sortPriority": 1430
+    },
+    {
+      "MissionDrop": false,
+      "id": 15393,
+      "itemid": 45,
+      "sortPriority": 1440
+    },
+    {
+      "MissionDrop": false,
+      "id": 15451,
+      "itemid": 46,
+      "sortPriority": 1500
+    },
+    {
+      "MissionDrop": false,
+      "id": 15395,
+      "itemid": 47,
+      "sortPriority": 1450
+    },
+    {
+      "MissionDrop": false,
+      "id": 15452,
+      "itemid": 48,
+      "sortPriority": 1490
+    },
+    {
+      "MissionDrop": false,
+      "id": 15398,
+      "itemid": 49,
+      "sortPriority": 720
+    },
+    {
+      "MissionDrop": false,
+      "id": 15399,
+      "itemid": 50,
+      "sortPriority": 710
+    },
+    {
+      "MissionDrop": false,
+      "id": 15456,
+      "itemid": 51,
+      "sortPriority": 820
+    },
+    {
+      "MissionDrop": false,
+      "id": 15457,
+      "itemid": 52,
+      "sortPriority": 830
+    },
+    {
+      "MissionDrop": false,
+      "id": 15400,
+      "itemid": 53,
+      "sortPriority": 630
+    },
+    {
+      "MissionDrop": false,
+      "id": 15461,
+      "itemid": 55,
+      "sortPriority": 2360
+    },
+    {
+      "MissionDrop": false,
+      "id": 15462,
+      "itemid": 56,
+      "sortPriority": 2350
+    },
+    {
+      "MissionDrop": false,
+      "id": 20220,
+      "itemid": 16442,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 20221,
+      "itemid": 16443,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 15471,
+      "itemid": 62,
+      "sortPriority": 1370
+    },
+    {
+      "MissionDrop": false,
+      "id": 15495,
+      "itemid": 73,
+      "sortPriority": 950
+    },
+    {
+      "MissionDrop": false,
+      "id": 15507,
+      "itemid": 76,
+      "sortPriority": 40
+    },
+    {
+      "MissionDrop": false,
+      "id": 15414,
+      "itemid": 84,
+      "sortPriority": 2070
+    },
+    {
+      "MissionDrop": false,
+      "id": 15533,
+      "itemid": 86,
+      "sortPriority": 10
+    },
+    {
+      "MissionDrop": false,
+      "id": 15611,
+      "itemid": 104,
+      "sortPriority": 690
+    },
+    {
+      "MissionDrop": false,
+      "id": 15486,
+      "itemid": 109,
+      "sortPriority": 50
+    },
+    {
+      "MissionDrop": false,
+      "id": 15487,
+      "itemid": 110,
+      "sortPriority": 1610
+    },
+    {
+      "MissionDrop": false,
+      "id": 15470,
+      "itemid": 111,
+      "sortPriority": 760
+    },
+    {
+      "MissionDrop": false,
+      "id": 15405,
+      "itemid": 113,
+      "sortPriority": 900
+    },
+    {
+      "MissionDrop": false,
+      "id": 15496,
+      "itemid": 114,
+      "sortPriority": 970
+    },
+    {
+      "MissionDrop": false,
+      "id": 15498,
+      "itemid": 115,
+      "sortPriority": 1070
+    },
+    {
+      "MissionDrop": false,
+      "id": 15520,
+      "itemid": 120,
+      "sortPriority": 670
+    },
+    {
+      "MissionDrop": false,
+      "id": 15560,
+      "itemid": 121,
+      "sortPriority": 460
+    },
+    {
+      "MissionDrop": false,
+      "id": 15599,
+      "itemid": 124,
+      "sortPriority": 2840
+    },
+    {
+      "MissionDrop": false,
+      "id": 15472,
+      "itemid": 141,
+      "sortPriority": 940
+    },
+    {
+      "MissionDrop": false,
+      "id": 15478,
+      "itemid": 143,
+      "sortPriority": 1650
+    },
+    {
+      "MissionDrop": false,
+      "id": 15485,
+      "itemid": 178,
+      "sortPriority": 2080
+    },
+    {
+      "MissionDrop": false,
+      "id": 15473,
+      "itemid": 179,
+      "sortPriority": 840
+    },
+    {
+      "MissionDrop": false,
+      "id": 15411,
+      "itemid": 180,
+      "sortPriority": 1400
+    },
+    {
+      "MissionDrop": false,
+      "id": 15479,
+      "itemid": 335,
+      "sortPriority": 1680
+    },
+    {
+      "MissionDrop": false,
+      "id": 15480,
+      "itemid": 343,
+      "sortPriority": 2940
+    },
+    {
+      "MissionDrop": false,
+      "id": 15481,
+      "itemid": 349,
+      "sortPriority": 1480
+    },
+    {
+      "MissionDrop": false,
+      "id": 15482,
+      "itemid": 350,
+      "sortPriority": 2590
+    },
+    {
+      "MissionDrop": false,
+      "id": 15483,
+      "itemid": 351,
+      "sortPriority": 2610
+    },
+    {
+      "MissionDrop": false,
+      "id": 15488,
+      "itemid": 362,
+      "sortPriority": 2550
+    },
+    {
+      "MissionDrop": false,
+      "id": 15490,
+      "itemid": 364,
+      "sortPriority": 960
+    },
+    {
+      "MissionDrop": false,
+      "id": 15491,
+      "itemid": 365,
+      "sortPriority": 2400
+    },
+    {
+      "MissionDrop": false,
+      "id": 15492,
+      "itemid": 366,
+      "sortPriority": 1740
+    },
+    {
+      "MissionDrop": false,
+      "id": 15493,
+      "itemid": 373,
+      "sortPriority": 540
+    },
+    {
+      "MissionDrop": false,
+      "id": 15494,
+      "itemid": 379,
+      "sortPriority": 1420
+    },
+    {
+      "MissionDrop": false,
+      "id": 15412,
+      "itemid": 390,
+      "sortPriority": 1380
+    },
+    {
+      "MissionDrop": false,
+      "id": 15499,
+      "itemid": 394,
+      "sortPriority": 990
+    },
+    {
+      "MissionDrop": false,
+      "id": 15500,
+      "itemid": 395,
+      "sortPriority": 1970
+    },
+    {
+      "MissionDrop": false,
+      "id": 15501,
+      "itemid": 396,
+      "sortPriority": 1160
+    },
+    {
+      "MissionDrop": false,
+      "id": 15502,
+      "itemid": 400,
+      "sortPriority": 640
+    },
+    {
+      "MissionDrop": false,
+      "id": 15503,
+      "itemid": 401,
+      "sortPriority": 1890
+    },
+    {
+      "MissionDrop": false,
+      "id": 15504,
+      "itemid": 404,
+      "sortPriority": 70
+    },
+    {
+      "MissionDrop": false,
+      "id": 15505,
+      "itemid": 408,
+      "sortPriority": 60
+    },
+    {
+      "MissionDrop": false,
+      "id": 15509,
+      "itemid": 415,
+      "sortPriority": 2570
+    },
+    {
+      "MissionDrop": false,
+      "id": 15510,
+      "itemid": 424,
+      "sortPriority": 1000
+    },
+    {
+      "MissionDrop": false,
+      "id": 15511,
+      "itemid": 428,
+      "sortPriority": 2630
+    },
+    {
+      "MissionDrop": false,
+      "id": 15512,
+      "itemid": 434,
+      "sortPriority": 2190
+    },
+    {
+      "MissionDrop": false,
+      "id": 15515,
+      "itemid": 446,
+      "sortPriority": 550
+    },
+    {
+      "MissionDrop": false,
+      "id": 15516,
+      "itemid": 450,
+      "sortPriority": 590
+    },
+    {
+      "MissionDrop": false,
+      "id": 15517,
+      "itemid": 462,
+      "sortPriority": 2110
+    },
+    {
+      "MissionDrop": false,
+      "id": 15518,
+      "itemid": 465,
+      "sortPriority": 90
+    },
+    {
+      "MissionDrop": false,
+      "id": 15519,
+      "itemid": 466,
+      "sortPriority": 100
+    },
+    {
+      "MissionDrop": false,
+      "id": 15522,
+      "itemid": 474,
+      "sortPriority": 2560
+    },
+    {
+      "MissionDrop": false,
+      "id": 15524,
+      "itemid": 475,
+      "sortPriority": 2500
+    },
+    {
+      "MissionDrop": false,
+      "id": 15525,
+      "itemid": 476,
+      "sortPriority": 2510
+    },
+    {
+      "MissionDrop": false,
+      "id": 15530,
+      "itemid": 483,
+      "sortPriority": 570
+    },
+    {
+      "MissionDrop": false,
+      "id": 15532,
+      "itemid": 487,
+      "sortPriority": 2650
+    },
+    {
+      "MissionDrop": false,
+      "id": 15534,
+      "itemid": 499,
+      "sortPriority": 1220
+    },
+    {
+      "MissionDrop": false,
+      "id": 15535,
+      "itemid": 500,
+      "sortPriority": 1210
+    },
+    {
+      "MissionDrop": false,
+      "id": 15536,
+      "itemid": 501,
+      "sortPriority": 2520
+    },
+    {
+      "MissionDrop": false,
+      "id": 15537,
+      "itemid": 503,
+      "sortPriority": 2390
+    },
+    {
+      "MissionDrop": false,
+      "id": 15540,
+      "itemid": 518,
+      "sortPriority": 2050
+    },
+    {
+      "MissionDrop": false,
+      "id": 15543,
+      "itemid": 535,
+      "sortPriority": 3070
+    },
+    {
+      "MissionDrop": false,
+      "id": 15544,
+      "itemid": 537,
+      "sortPriority": 2680
+    },
+    {
+      "MissionDrop": false,
+      "id": 15546,
+      "itemid": 541,
+      "sortPriority": 600
+    },
+    {
+      "MissionDrop": false,
+      "id": 15548,
+      "itemid": 551,
+      "sortPriority": 1050
+    },
+    {
+      "MissionDrop": false,
+      "id": 15549,
+      "itemid": 566,
+      "sortPriority": 2330
+    },
+    {
+      "MissionDrop": false,
+      "id": 15550,
+      "itemid": 567,
+      "sortPriority": 2340
+    },
+    {
+      "MissionDrop": false,
+      "id": 15551,
+      "itemid": 568,
+      "sortPriority": 2170
+    },
+    {
+      "MissionDrop": false,
+      "id": 15552,
+      "itemid": 571,
+      "sortPriority": 2750
+    },
+    {
+      "MissionDrop": false,
+      "id": 15553,
+      "itemid": 572,
+      "sortPriority": 650
+    },
+    {
+      "MissionDrop": false,
+      "id": 15554,
+      "itemid": 573,
+      "sortPriority": 2760
+    },
+    {
+      "MissionDrop": false,
+      "id": 15555,
+      "itemid": 574,
+      "sortPriority": 1020
+    },
+    {
+      "MissionDrop": false,
+      "id": 15556,
+      "itemid": 576,
+      "sortPriority": 660
+    },
+    {
+      "MissionDrop": false,
+      "id": 15557,
+      "itemid": 579,
+      "sortPriority": 2770
+    },
+    {
+      "MissionDrop": false,
+      "id": 15561,
+      "itemid": 590,
+      "sortPriority": 1080
+    },
+    {
+      "MissionDrop": false,
+      "id": 15562,
+      "itemid": 591,
+      "sortPriority": 2100
+    },
+    {
+      "MissionDrop": false,
+      "id": 15563,
+      "itemid": 592,
+      "sortPriority": 2120
+    },
+    {
+      "MissionDrop": false,
+      "id": 15564,
+      "itemid": 593,
+      "sortPriority": 1180
+    },
+    {
+      "MissionDrop": false,
+      "id": 15565,
+      "itemid": 595,
+      "sortPriority": 2780
+    },
+    {
+      "MissionDrop": false,
+      "id": 15425,
+      "itemid": 8788,
+      "sortPriority": 1360
+    },
+    {
+      "MissionDrop": false,
+      "id": 15566,
+      "itemid": 603,
+      "sortPriority": 2180
+    },
+    {
+      "MissionDrop": false,
+      "id": 15567,
+      "itemid": 604,
+      "sortPriority": 1980
+    },
+    {
+      "MissionDrop": false,
+      "id": 15568,
+      "itemid": 613,
+      "sortPriority": 1670
+    },
+    {
+      "MissionDrop": false,
+      "id": 15569,
+      "itemid": 614,
+      "sortPriority": 2250
+    },
+    {
+      "MissionDrop": false,
+      "id": 15446,
+      "itemid": 8826,
+      "sortPriority": 1540
+    },
+    {
+      "MissionDrop": false,
+      "id": 15402,
+      "itemid": 8827,
+      "sortPriority": 280
+    },
+    {
+      "MissionDrop": false,
+      "id": 15571,
+      "itemid": 639,
+      "sortPriority": 1550
+    },
+    {
+      "MissionDrop": false,
+      "id": 15464,
+      "itemid": 8831,
+      "sortPriority": 1850
+    },
+    {
+      "MissionDrop": false,
+      "id": 15572,
+      "itemid": 641,
+      "sortPriority": 1300
+    },
+    {
+      "MissionDrop": false,
+      "id": 15573,
+      "itemid": 642,
+      "sortPriority": 1290
+    },
+    {
+      "MissionDrop": false,
+      "id": 15574,
+      "itemid": 647,
+      "sortPriority": 1130
+    },
+    {
+      "MissionDrop": false,
+      "id": 15575,
+      "itemid": 648,
+      "sortPriority": 1150
+    },
+    {
+      "MissionDrop": false,
+      "id": 15576,
+      "itemid": 649,
+      "sortPriority": 1320
+    },
+    {
+      "MissionDrop": false,
+      "id": 15577,
+      "itemid": 650,
+      "sortPriority": 1310
+    },
+    {
+      "MissionDrop": false,
+      "id": 15578,
+      "itemid": 651,
+      "sortPriority": 1240
+    },
+    {
+      "MissionDrop": false,
+      "id": 15579,
+      "itemid": 652,
+      "sortPriority": 1230
+    },
+    {
+      "MissionDrop": false,
+      "id": 15580,
+      "itemid": 653,
+      "sortPriority": 2240
+    },
+    {
+      "MissionDrop": false,
+      "id": 15581,
+      "itemid": 654,
+      "sortPriority": 2230
+    },
+    {
+      "MissionDrop": false,
+      "id": 15584,
+      "itemid": 659,
+      "sortPriority": 1750
+    },
+    {
+      "MissionDrop": false,
+      "id": 15489,
+      "itemid": 8852,
+      "sortPriority": 3110
+    },
+    {
+      "MissionDrop": false,
+      "id": 15585,
+      "itemid": 663,
+      "sortPriority": 1030
+    },
+    {
+      "MissionDrop": false,
+      "id": 15586,
+      "itemid": 664,
+      "sortPriority": 1270
+    },
+    {
+      "MissionDrop": false,
+      "id": 15587,
+      "itemid": 665,
+      "sortPriority": 1280
+    },
+    {
+      "MissionDrop": false,
+      "id": 15588,
+      "itemid": 666,
+      "sortPriority": 1350
+    },
+    {
+      "MissionDrop": false,
+      "id": 15589,
+      "itemid": 669,
+      "sortPriority": 1260
+    },
+    {
+      "MissionDrop": false,
+      "id": 15590,
+      "itemid": 670,
+      "sortPriority": 1250
+    },
+    {
+      "MissionDrop": false,
+      "id": 15591,
+      "itemid": 671,
+      "sortPriority": 2210
+    },
+    {
+      "MissionDrop": false,
+      "id": 15592,
+      "itemid": 672,
+      "sortPriority": 2200
+    },
+    {
+      "MissionDrop": false,
+      "id": 15593,
+      "itemid": 673,
+      "sortPriority": 160
+    },
+    {
+      "MissionDrop": false,
+      "id": 15594,
+      "itemid": 675,
+      "sortPriority": 2580
+    },
+    {
+      "MissionDrop": false,
+      "id": 15595,
+      "itemid": 676,
+      "sortPriority": 170
+    },
+    {
+      "MissionDrop": false,
+      "id": 15598,
+      "itemid": 677,
+      "sortPriority": 9
+    },
+    {
+      "MissionDrop": false,
+      "id": 15514,
+      "itemid": 8879,
+      "sortPriority": 1120
+    },
+    {
+      "MissionDrop": false,
+      "id": 15600,
+      "itemid": 693,
+      "sortPriority": 2310
+    },
+    {
+      "MissionDrop": false,
+      "id": 15601,
+      "itemid": 694,
+      "sortPriority": 2320
+    },
+    {
+      "MissionDrop": false,
+      "id": 15602,
+      "itemid": 700,
+      "sortPriority": 2900
+    },
+    {
+      "MissionDrop": false,
+      "id": 15603,
+      "itemid": 701,
+      "sortPriority": 2890
+    },
+    {
+      "MissionDrop": false,
+      "id": 15604,
+      "itemid": 702,
+      "sortPriority": 2880
+    },
+    {
+      "MissionDrop": false,
+      "id": 15526,
+      "itemid": 8895,
+      "sortPriority": 2540
+    },
+    {
+      "MissionDrop": false,
+      "id": 15527,
+      "itemid": 8896,
+      "sortPriority": 3010
+    },
+    {
+      "MissionDrop": false,
+      "id": 15529,
+      "itemid": 8897,
+      "sortPriority": 230
+    },
+    {
+      "MissionDrop": false,
+      "id": 15531,
+      "itemid": 8898,
+      "sortPriority": 2670
+    },
+    {
+      "MissionDrop": false,
+      "id": 15605,
+      "itemid": 711,
+      "sortPriority": 30
+    },
+    {
+      "MissionDrop": false,
+      "id": 15538,
+      "itemid": 8913,
+      "sortPriority": 2420
+    },
+    {
+      "MissionDrop": false,
+      "id": 15539,
+      "itemid": 8914,
+      "sortPriority": 3100
+    },
+    {
+      "MissionDrop": false,
+      "id": 15608,
+      "itemid": 726,
+      "sortPriority": 1630
+    },
+    {
+      "MissionDrop": false,
+      "id": 15609,
+      "itemid": 728,
+      "sortPriority": 2300
+    },
+    {
+      "MissionDrop": false,
+      "id": 15610,
+      "itemid": 729,
+      "sortPriority": 2290
+    },
+    {
+      "MissionDrop": false,
+      "id": 15541,
+      "itemid": 8937,
+      "sortPriority": 220
+    },
+    {
+      "MissionDrop": false,
+      "id": 15612,
+      "itemid": 746,
+      "sortPriority": 2620
+    },
+    {
+      "MissionDrop": false,
+      "id": 15613,
+      "itemid": 748,
+      "sortPriority": 2220
+    },
+    {
+      "MissionDrop": false,
+      "id": 15547,
+      "itemid": 8941,
+      "sortPriority": 3080
+    },
+    {
+      "MissionDrop": false,
+      "id": 15614,
+      "itemid": 752,
+      "sortPriority": 610
+    },
+    {
+      "MissionDrop": false,
+      "id": 15615,
+      "itemid": 753,
+      "sortPriority": 320
+    },
+    {
+      "MissionDrop": false,
+      "id": 15616,
+      "itemid": 755,
+      "sortPriority": 2280
+    },
+    {
+      "MissionDrop": false,
+      "id": 15617,
+      "itemid": 756,
+      "sortPriority": 2270
+    },
+    {
+      "MissionDrop": false,
+      "id": 15558,
+      "itemid": 8950,
+      "sortPriority": 150
+    },
+    {
+      "MissionDrop": false,
+      "id": 15629,
+      "itemid": 766,
+      "sortPriority": 2990
+    },
+    {
+      "MissionDrop": false,
+      "id": 15630,
+      "itemid": 767,
+      "sortPriority": 3000
+    },
+    {
+      "MissionDrop": false,
+      "id": 15426,
+      "itemid": 789,
+      "sortPriority": 860
+    },
+    {
+      "MissionDrop": false,
+      "id": 15427,
+      "itemid": 797,
+      "sortPriority": 2130
+    },
+    {
+      "MissionDrop": false,
+      "id": 15429,
+      "itemid": 800,
+      "sortPriority": 2260
+    },
+    {
+      "MissionDrop": false,
+      "id": 15430,
+      "itemid": 804,
+      "sortPriority": 2140
+    },
+    {
+      "MissionDrop": false,
+      "id": 15431,
+      "itemid": 807,
+      "sortPriority": 2380
+    },
+    {
+      "MissionDrop": false,
+      "id": 15432,
+      "itemid": 809,
+      "sortPriority": 580
+    },
+    {
+      "MissionDrop": false,
+      "id": 15433,
+      "itemid": 811,
+      "sortPriority": 2690
+    },
+    {
+      "MissionDrop": false,
+      "id": 15435,
+      "itemid": 814,
+      "sortPriority": 1410
+    },
+    {
+      "MissionDrop": false,
+      "id": 15437,
+      "itemid": 815,
+      "sortPriority": 2090
+    },
+    {
+      "MissionDrop": false,
+      "id": 15438,
+      "itemid": 816,
+      "sortPriority": 190
+    },
+    {
+      "MissionDrop": false,
+      "id": 15439,
+      "itemid": 817,
+      "sortPriority": 200
+    },
+    {
+      "MissionDrop": false,
+      "id": 15596,
+      "itemid": 9015,
+      "sortPriority": 1140
+    },
+    {
+      "MissionDrop": false,
+      "id": 15441,
+      "itemid": 846,
+      "sortPriority": 1190
+    },
+    {
+      "MissionDrop": false,
+      "id": 15442,
+      "itemid": 852,
+      "sortPriority": 2160
+    },
+    {
+      "MissionDrop": false,
+      "id": 15443,
+      "itemid": 854,
+      "sortPriority": 2730
+    },
+    {
+      "MissionDrop": false,
+      "id": 15444,
+      "itemid": 861,
+      "sortPriority": 2740
+    },
+    {
+      "MissionDrop": false,
+      "id": 15445,
+      "itemid": 863,
+      "sortPriority": 330
+    },
+    {
+      "MissionDrop": false,
+      "id": 15447,
+      "itemid": 866,
+      "sortPriority": 1520
+    },
+    {
+      "MissionDrop": false,
+      "id": 15448,
+      "itemid": 867,
+      "sortPriority": 1510
+    },
+    {
+      "MissionDrop": false,
+      "id": 15449,
+      "itemid": 868,
+      "sortPriority": 1470
+    },
+    {
+      "MissionDrop": false,
+      "id": 15396,
+      "itemid": 870,
+      "sortPriority": 740
+    },
+    {
+      "MissionDrop": false,
+      "id": 15397,
+      "itemid": 871,
+      "sortPriority": 730
+    },
+    {
+      "MissionDrop": false,
+      "id": 15453,
+      "itemid": 872,
+      "sortPriority": 800
+    },
+    {
+      "MissionDrop": false,
+      "id": 15454,
+      "itemid": 873,
+      "sortPriority": 790
+    },
+    {
+      "MissionDrop": false,
+      "id": 15455,
+      "itemid": 874,
+      "sortPriority": 780
+    },
+    {
+      "MissionDrop": false,
+      "id": 15458,
+      "itemid": 875,
+      "sortPriority": 810
+    },
+    {
+      "MissionDrop": false,
+      "id": 15459,
+      "itemid": 876,
+      "sortPriority": 850
+    },
+    {
+      "MissionDrop": false,
+      "id": 15460,
+      "itemid": 877,
+      "sortPriority": 2460
+    },
+    {
+      "MissionDrop": false,
+      "id": 15463,
+      "itemid": 878,
+      "sortPriority": 2000
+    },
+    {
+      "MissionDrop": false,
+      "id": 15403,
+      "itemid": 890,
+      "sortPriority": 180
+    },
+    {
+      "MissionDrop": false,
+      "id": 15404,
+      "itemid": 891,
+      "sortPriority": 910
+    },
+    {
+      "MissionDrop": false,
+      "id": 15465,
+      "itemid": 892,
+      "sortPriority": 930
+    },
+    {
+      "MissionDrop": false,
+      "id": 15619,
+      "itemid": 9084,
+      "sortPriority": 2450
+    },
+    {
+      "MissionDrop": false,
+      "id": 15466,
+      "itemid": 893,
+      "sortPriority": 920
+    },
+    {
+      "MissionDrop": false,
+      "id": 15620,
+      "itemid": 9086,
+      "sortPriority": 2980
+    },
+    {
+      "MissionDrop": false,
+      "id": 15621,
+      "itemid": 9088,
+      "sortPriority": 140
+    },
+    {
+      "MissionDrop": false,
+      "id": 15467,
+      "itemid": 900,
+      "sortPriority": 1530
+    },
+    {
+      "MissionDrop": false,
+      "id": 15626,
+      "itemid": 9106,
+      "sortPriority": 3060
+    },
+    {
+      "MissionDrop": false,
+      "id": 15469,
+      "itemid": 916,
+      "sortPriority": 770
+    },
+    {
+      "MissionDrop": false,
+      "id": 15474,
+      "itemid": 917,
+      "sortPriority": 1040
+    },
+    {
+      "MissionDrop": false,
+      "id": 15475,
+      "itemid": 919,
+      "sortPriority": 1090
+    },
+    {
+      "MissionDrop": false,
+      "id": 15476,
+      "itemid": 920,
+      "sortPriority": 1110
+    },
+    {
+      "MissionDrop": false,
+      "id": 15477,
+      "itemid": 927,
+      "sortPriority": 980
+    },
+    {
+      "MissionDrop": false,
+      "id": 15627,
+      "itemid": 9130,
+      "sortPriority": 2370
+    },
+    {
+      "MissionDrop": false,
+      "id": 15628,
+      "itemid": 9157,
+      "sortPriority": 2040
+    },
+    {
+      "MissionDrop": false,
+      "id": 15632,
+      "itemid": 9192,
+      "sortPriority": 700
+    },
+    {
+      "MissionDrop": false,
+      "id": 15633,
+      "itemid": 9193,
+      "sortPriority": 80
+    },
+    {
+      "MissionDrop": false,
+      "id": 15634,
+      "itemid": 9194,
+      "sortPriority": 3090
+    },
+    {
+      "MissionDrop": false,
+      "id": 15635,
+      "itemid": 9195,
+      "sortPriority": 2410
+    },
+    {
+      "MissionDrop": false,
+      "id": 15636,
+      "itemid": 9197,
+      "sortPriority": 680
+    },
+    {
+      "MissionDrop": false,
+      "id": 15637,
+      "itemid": 9201,
+      "sortPriority": 20
+    },
+    {
+      "MissionDrop": false,
+      "id": 15638,
+      "itemid": 9203,
+      "sortPriority": 1660
+    },
+    {
+      "MissionDrop": false,
+      "id": 15639,
+      "itemid": 9204,
+      "sortPriority": 2060
+    },
+    {
+      "MissionDrop": false,
+      "id": 15640,
+      "itemid": 9237,
+      "sortPriority": 2490
+    },
+    {
+      "MissionDrop": false,
+      "id": 15545,
+      "itemid": 1199,
+      "sortPriority": 560
+    },
+    {
+      "MissionDrop": false,
+      "id": 15508,
+      "itemid": 1218,
+      "sortPriority": 2870
+    },
+    {
+      "MissionDrop": false,
+      "id": 15506,
+      "itemid": 1265,
+      "sortPriority": 2860
+    },
+    {
+      "MissionDrop": false,
+      "id": 15416,
+      "itemid": 10195,
+      "sortPriority": 3020
+    },
+    {
+      "MissionDrop": false,
+      "id": 15401,
+      "itemid": 5074,
+      "sortPriority": 270
+    },
+    {
+      "MissionDrop": false,
+      "id": 15484,
+      "itemid": 5112,
+      "sortPriority": 2810
+    },
+    {
+      "MissionDrop": false,
+      "id": 15497,
+      "itemid": 5127,
+      "sortPriority": 750
+    },
+    {
+      "MissionDrop": false,
+      "id": 15513,
+      "itemid": 5152,
+      "sortPriority": 3120
+    },
+    {
+      "MissionDrop": false,
+      "id": 15521,
+      "itemid": 5176,
+      "sortPriority": 1200
+    },
+    {
+      "MissionDrop": false,
+      "id": 15523,
+      "itemid": 5179,
+      "sortPriority": 2530
+    },
+    {
+      "MissionDrop": false,
+      "id": 15415,
+      "itemid": 5180,
+      "sortPriority": 620
+    },
+    {
+      "MissionDrop": false,
+      "id": 15528,
+      "itemid": 5182,
+      "sortPriority": 130
+    },
+    {
+      "MissionDrop": false,
+      "id": 15542,
+      "itemid": 5219,
+      "sortPriority": 210
+    },
+    {
+      "MissionDrop": false,
+      "id": 15559,
+      "itemid": 5274,
+      "sortPriority": 2640
+    },
+    {
+      "MissionDrop": false,
+      "id": 15570,
+      "itemid": 5294,
+      "sortPriority": 870
+    },
+    {
+      "MissionDrop": false,
+      "id": 15582,
+      "itemid": 5355,
+      "sortPriority": 1340
+    },
+    {
+      "MissionDrop": false,
+      "id": 15583,
+      "itemid": 5356,
+      "sortPriority": 1330
+    },
+    {
+      "MissionDrop": false,
+      "id": 15606,
+      "itemid": 5390,
+      "sortPriority": 2430
+    },
+    {
+      "MissionDrop": false,
+      "id": 15607,
+      "itemid": 5400,
+      "sortPriority": 2920
+    },
+    {
+      "MissionDrop": false,
+      "id": 15618,
+      "itemid": 5489,
+      "sortPriority": 2950
+    },
+    {
+      "MissionDrop": false,
+      "id": 15622,
+      "itemid": 5519,
+      "sortPriority": 2030
+    },
+    {
+      "MissionDrop": false,
+      "id": 15623,
+      "itemid": 5521,
+      "sortPriority": 1010
+    },
+    {
+      "MissionDrop": false,
+      "id": 15624,
+      "itemid": 5523,
+      "sortPriority": 1390
+    },
+    {
+      "MissionDrop": false,
+      "id": 15625,
+      "itemid": 5524,
+      "sortPriority": 1060
+    },
+    {
+      "MissionDrop": false,
+      "id": 20108,
+      "itemid": 16323,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 20128,
+      "itemid": 16343,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 20151,
+      "itemid": 16366,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 20158,
+      "itemid": 16374,
+      "sortPriority": 0
+    },
+    {
+      "MissionDrop": false,
+      "id": 20159,
+      "itemid": 16375,
+      "sortPriority": 0
+    }
+  ]
+}

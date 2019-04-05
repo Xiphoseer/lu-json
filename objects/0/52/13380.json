@@ -1,0 +1,35 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 107,
+    "17": 489,
+    "2": 13108,
+    "3": 1777,
+    "35": 577,
+    "7": 306,
+    "73": 145
+  },
+  "description": "Assembly Faction Kits Vendor",
+  "displayName": "Torbert Oscillator - Assembly Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 13380,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Assembly Faction Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

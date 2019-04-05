@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1474,
+    "2": 2241,
+    "48": 37,
+    "5": 330,
+    "7": 234,
+    "9": 0
+  },
+  "description": "The Ninja mech rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2579,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Ninja Mech Rebuild - Whole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 99
+    }
+  ],
+  "type": "Rebuildables"
+}

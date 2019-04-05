@@ -1,0 +1,44 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6889,
+    "11": 6890,
+    "2": 5061,
+    "26": 20,
+    "42": 0,
+    "5": 1288,
+    "60": 58,
+    "7": 485,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 5641,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Dragon Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 1,
+      "skillID": 771
+    }
+  ],
+  "type": "NPC"
+}

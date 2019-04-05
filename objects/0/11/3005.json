@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 955,
+    "2": 1830,
+    "5": 81
+  },
+  "description": "NP missiongiver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3005,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Obstacle Course Punchclock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

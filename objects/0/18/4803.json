@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4214,
+    "3": 2165,
+    "5": 791,
+    "7": 436
+  },
+  "description": "This is only to be used on the spaceship in AG, it has special properties and should not be used anywhere else",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4803,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship - smashable crate - All Nose Cones",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

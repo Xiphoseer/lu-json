@@ -1,0 +1,19 @@
+{
+  "id": 852,
+  "tasks": [
+    {
+      "IconID": 2928,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": 0,
+      "locStatus": 2,
+      "localize": true,
+      "target": 1234,
+      "targetGroup": "FV_POI_NUMB_CHUCK",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 1227
+    }
+  ]
+}

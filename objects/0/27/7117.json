@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 229,
+    "2": 6694,
+    "35": 281,
+    "7": 307
+  },
+  "description": "Venture Grunt NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7117,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Venture Grunt",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

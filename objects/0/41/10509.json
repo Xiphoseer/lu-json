@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10362,
+    "3": 4660,
+    "7": 1564
+  },
+  "description": "Use this as a template for making new smashables",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10509,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Template Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1600,
+  "tasks": [
+    {
+      "IconID": 3057,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3057,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6550,
+      "targetGroup": null,
+      "targetValue": 15,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 2237
+    },
+    {
+      "IconID": 2919,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 2919,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6685,
+      "targetGroup": "6686,32",
+      "targetValue": 5,
+      "taskParam1": null,
+      "taskType": 2,
+      "uid": 2238
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6887,
+    "11": 6884,
+    "2": 3082,
+    "26": 13,
+    "42": 0,
+    "7": 242,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 125,
+      "iconState": 70
+    },
+    {
+      "iconID": 24,
+      "iconState": 100
+    },
+    {
+      "iconID": 126,
+      "iconState": 110
+    },
+    {
+      "iconID": 69,
+      "iconState": 111
+    }
+  ],
+  "id": 3672,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bunny Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

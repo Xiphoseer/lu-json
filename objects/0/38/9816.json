@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 2 Specialty Kit Item - Proxy",
+  "components": {
+    "11": 4768,
+    "2": 9653,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item. Tied to Buccaneer weapon 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9816,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Buccaneer Offhand 2 - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 696
+    }
+  ],
+  "type": "Loot"
+}

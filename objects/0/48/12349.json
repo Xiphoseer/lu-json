@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6070,
+    "2": 12100,
+    "3": 6038,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Bakery Model 1",
+  "gate_version": "dec2010content",
+  "id": 12349,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Bakery 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

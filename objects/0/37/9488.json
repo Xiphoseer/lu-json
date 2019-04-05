@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4551,
+    "2": 9341,
+    "3": 5071,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Television Model",
+  "gate_version": null,
+  "id": 9488,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Television",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

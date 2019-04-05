@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5854,
+    "3": 2682,
+    "32": 9
+  },
+  "description": "Showcase Display with large Y offset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7011,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Showcase Display Pedestal raf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Exhibits"
+}

@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7635,
+    "2": 14917,
+    "31": 91,
+    "5": 1643,
+    "60": 173,
+    "7": 2132,
+    "9": 0
+  },
+  "description": "Small Stromling spider - Spider Boss Version",
+  "displayName": "Dark Spiderling",
+  "gate_version": "freetrial",
+  "id": 16197,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Dark Spiderling (Spider Boss Version)",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

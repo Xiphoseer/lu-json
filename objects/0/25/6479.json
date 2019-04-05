@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6042,
+    "3": 1777,
+    "73": 72
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 6479,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Mission Puccio Turn in",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

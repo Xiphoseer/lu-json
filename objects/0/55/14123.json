@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Tier 3 projectile attack w/chargeup",
+  "components": {
+    "11": 7000,
+    "2": 13834,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "One-Eye's Blunderbuss",
+  "gate_version": "nexustower",
+  "id": 14123,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "One-Eye's Blunderbuss",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1346
+    }
+  ],
+  "type": "Loot"
+}

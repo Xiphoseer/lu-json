@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "DO NOT USE",
+  "components": {
+    "11": 5119,
+    "2": 10218,
+    "3": 4610,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Farm Silo Model 2",
+  "gate_version": "march2011content",
+  "id": 10370,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD Model Reward Farm Silo 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

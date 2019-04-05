@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2530,
+    "2": 5462,
+    "3": 2520,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Hat Stand Model 3",
+  "gate_version": null,
+  "id": 6055,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Hat Stand 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

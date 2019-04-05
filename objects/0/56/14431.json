@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7085,
+    "2": 14121
+  },
+  "description": "Earth NJ acolyte hood",
+  "displayName": "NPC Earth Hood",
+  "gate_version": "freetrial",
+  "id": 14431,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Earth Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

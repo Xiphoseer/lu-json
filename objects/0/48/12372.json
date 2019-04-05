@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12123,
+    "3": 6061
+  },
+  "description": "Test NPC  Rocktroll FX",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12372,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test NPC  Rocktroll FX",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

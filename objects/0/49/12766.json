@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 times duration run buff",
+  "components": {
+    "11": 6314,
+    "2": 12556,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Xpresso",
+  "gate_version": "auramar",
+  "id": 12766,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Xpresso",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1152
+    }
+  ],
+  "type": "Loot"
+}

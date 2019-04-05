@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Buccaneer Valiant Weapon Proxy",
+  "components": {
+    "11": 6572,
+    "2": 13011,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Buccaneer Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13281,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Buccaneer Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 980
+    }
+  ],
+  "type": "Loot"
+}

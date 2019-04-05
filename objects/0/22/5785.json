@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Character create shirt",
+  "components": {
+    "11": 2423,
+    "2": 5214
+  },
+  "description": null,
+  "displayName": "Mission Giver Shirt",
+  "gate_version": null,
+  "id": 5785,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Shirt 36",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

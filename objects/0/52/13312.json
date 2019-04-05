@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 6589,
+    "2": 13040,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Doc Overbuild Armor",
+  "gate_version": "nexustower",
+  "id": 13312,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Doc Overbuild Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

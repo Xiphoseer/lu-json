@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 1724,
+    "2": 4226,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Firefighter Axe",
+  "gate_version": null,
+  "id": 4824,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Firefighter Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 521
+    }
+  ],
+  "type": "Loot"
+}

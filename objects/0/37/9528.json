@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Standard Knight Sword Metal",
+  "components": {
+    "11": 4563,
+    "2": 9380
+  },
+  "description": "Standard Knight Sword Metal",
+  "displayName": "metal sword",
+  "gate_version": null,
+  "id": 9528,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Standard Knight Sword brushed Metal",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

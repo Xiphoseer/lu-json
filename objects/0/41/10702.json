@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5203,
+    "2": 10553,
+    "9": 0
+  },
+  "description": "Backneck object created dynamically for Club Lego Shirt: 9875",
+  "displayName": "Clug Lego Back/Neck Proxy",
+  "gate_version": null,
+  "id": 10702,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Clug Lego Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 838
+    }
+  ],
+  "type": "Loot"
+}

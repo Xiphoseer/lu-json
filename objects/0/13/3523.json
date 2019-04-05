@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3394,
+    "3": 1946,
+    "48": 28
+  },
+  "description": "AC rebuild for the Hazmat Piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3523,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Quickbuild AC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 20 IP",
+  "components": {
+    "11": 1011,
+    "2": 2505,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Super Notion Potion",
+  "gate_version": null,
+  "id": 2999,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Potion of Imagination 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 513
+    }
+  ],
+  "type": "Loot"
+}

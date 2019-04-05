@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10130,
+    "3": 4534,
+    "48": 143,
+    "5": 1269,
+    "7": 933
+  },
+  "description": "paradox pipe",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9645,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Paradox Pipe Fix",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

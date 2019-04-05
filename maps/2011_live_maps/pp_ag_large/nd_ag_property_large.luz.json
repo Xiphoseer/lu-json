@@ -1,0 +1,32 @@
+{
+  "map_description": "t",
+  "map_filename": "nd_ag_property_large.raw",
+  "map_name": "t",
+  "paths": [],
+  "revision": 93,
+  "scenes": [
+    {
+      "filename": "nd_ag_property_large.lvl",
+      "id": 0,
+      "is_audio": 0,
+      "name": "Global Scene"
+    }
+  ],
+  "something": "",
+  "spawnpoint": {
+    "pos": {
+      "x": -234.80975341796875,
+      "y": 605.8048706054688,
+      "z": -468.8372497558594
+    },
+    "rot": {
+      "w": 0.0,
+      "x": 0.9492884278297424,
+      "y": 0.0,
+      "z": 0.31440654397010803
+    }
+  },
+  "transitions": [],
+  "version": 41,
+  "world_id": 58004
+}

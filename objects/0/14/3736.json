@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "40": 1536,
+    "5": 614
+  },
+  "description": "bouncer that is spawned when a fire hydrant is broken in Youreeka",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3736,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - hydrant bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Bouncers"
+}

@@ -1,0 +1,94 @@
+{
+  "activity_rewards": [
+    null,
+    {
+      "ActivityRewardIndex": 202,
+      "ChallengeRating": 1,
+      "CurrencyIndex": null,
+      "LootMatrixIndex": 359,
+      "activityRating": -1,
+      "description": "AG Shooting Gallery Rating 0"
+    },
+    {
+      "ActivityRewardIndex": 203,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 56,
+      "LootMatrixIndex": 359,
+      "activityRating": 1000,
+      "description": "AG Shooting Gallery Rating 1"
+    },
+    {
+      "ActivityRewardIndex": 204,
+      "ChallengeRating": 2,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 624,
+      "activityRating": 15000,
+      "description": "AG Shooting Gallery Rating 2"
+    },
+    {
+      "ActivityRewardIndex": 205,
+      "ChallengeRating": 3,
+      "CurrencyIndex": 53,
+      "LootMatrixIndex": 625,
+      "activityRating": 35000,
+      "description": "AG Shooting Gallery Rating 3"
+    },
+    {
+      "ActivityRewardIndex": 206,
+      "ChallengeRating": 4,
+      "CurrencyIndex": 54,
+      "LootMatrixIndex": 360,
+      "activityRating": 50000,
+      "description": "AG Shooting Gallery Rating 4"
+    },
+    {
+      "ActivityRewardIndex": 207,
+      "ChallengeRating": 5,
+      "CurrencyIndex": 17,
+      "LootMatrixIndex": 362,
+      "activityRating": 75000,
+      "description": "AG Shooting Gallery Rating 5"
+    },
+    {
+      "ActivityRewardIndex": 208,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 18,
+      "LootMatrixIndex": 363,
+      "activityRating": 150000,
+      "description": "AG Shooting Gallery Rating 6"
+    },
+    {
+      "ActivityRewardIndex": 209,
+      "ChallengeRating": 7,
+      "CurrencyIndex": 19,
+      "LootMatrixIndex": 364,
+      "activityRating": 250000,
+      "description": "AG Shooting Gallery Rating 7"
+    },
+    {
+      "ActivityRewardIndex": 210,
+      "ChallengeRating": 8,
+      "CurrencyIndex": 20,
+      "LootMatrixIndex": 365,
+      "activityRating": 350000,
+      "description": "AG Shooting Gallery Rating 8"
+    },
+    {
+      "ActivityRewardIndex": 211,
+      "ChallengeRating": 9,
+      "CurrencyIndex": 21,
+      "LootMatrixIndex": 366,
+      "activityRating": 450000,
+      "description": "AG Shooting Gallery Rating 9"
+    },
+    {
+      "ActivityRewardIndex": 212,
+      "ChallengeRating": 10,
+      "CurrencyIndex": 22,
+      "LootMatrixIndex": 367,
+      "activityRating": 800000,
+      "description": "AG Shooting Gallery Rating 10"
+    }
+  ],
+  "objectTemplate": 126
+}

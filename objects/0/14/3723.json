@@ -1,0 +1,60 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 126,
+    "17": 94,
+    "2": 5055,
+    "3": 2318,
+    "35": 122,
+    "5": 1681,
+    "7": 305,
+    "73": 129
+  },
+  "description": null,
+  "displayName": "Hu Where - Ninja Picnicker",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 3723,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Ninja Picnicker",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

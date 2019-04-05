@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2890,
+    "2": 6425,
+    "3": 3068,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Snake Model",
+  "gate_version": null,
+  "id": 6870,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Snake",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Bonezai on Siege Field, only on mission",
+  "components": {
+    "11": 7137,
+    "2": 14203
+  },
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "displayName": "Eye Bone",
+  "gate_version": "njhub",
+  "id": 14518,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Eye Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

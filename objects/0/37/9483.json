@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9335,
+    "25": 0,
+    "27": 0,
+    "3": 4095,
+    "48": 139
+  },
+  "description": "Quick Build Moving Platform for Tree in FV",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9483,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Tree Platform Quick Build",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

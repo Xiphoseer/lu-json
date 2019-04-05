@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7209,
+    "2": 14400,
+    "28": 381,
+    "3": 7419,
+    "42": 0,
+    "63": 37
+  },
+  "description": null,
+  "displayName": "Duck Car Rear Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14712,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Duck Rear Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

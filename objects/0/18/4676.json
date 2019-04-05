@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 29,
+    "2": 4094,
+    "3": 1777,
+    "35": 99,
+    "7": 306
+  },
+  "description": "Parachute Instructor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4676,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dirtnap Phil",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

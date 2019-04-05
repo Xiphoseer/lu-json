@@ -1,0 +1,622 @@
+{
+  "513": {
+    "descriptionUI": "Restores 20 Imagination",
+    "name": "Restore Imagination 20"
+  },
+  "514": {
+    "descriptionUI": "Restores 5 Imagination",
+    "name": "Restore Imagination 5"
+  },
+  "515": {
+    "descriptionUI": "Restores 6 Imagination",
+    "name": "Restore Imagination 6"
+  },
+  "516": {
+    "descriptionUI": "Restores 7 Imagination",
+    "name": "Restore Imagination 7"
+  },
+  "517": {
+    "descriptionUI": "Restores 8 Imagination",
+    "name": "Restore Imagination 8"
+  },
+  "518": {
+    "descriptionUI": "Restores 9 Imagination",
+    "name": "Restore Imagination 9"
+  },
+  "519": {
+    "descriptionUI": "Restores 10 Imagination",
+    "name": "Restore Imagination 10"
+  },
+  "520": {
+    "descriptionUI": "Attracts coins and other rewards towards you",
+    "name": "Money Magnet Effect - Passive"
+  },
+  "521": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Slashes enemies",
+    "name": "Improved Attack"
+  },
+  "522": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Pokes enemies",
+    "name": "Improved Attack"
+  },
+  "523": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Smashes enemies",
+    "name": "Improved Attack"
+  },
+  "524": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Slashes enemies",
+    "name": "Improved Attack"
+  },
+  "525": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Pokes enemies",
+    "name": "Improved Attack"
+  },
+  "526": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Smashes enemies",
+    "name": "Improved Attack"
+  },
+  "527": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Slashes enemies",
+    "name": "Quality Attack"
+  },
+  "528": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Pokes enemies",
+    "name": "Quality Attack"
+  },
+  "529": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Smashes enemies",
+    "name": "Quality Attack"
+  },
+  "530": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Slashes enemies",
+    "name": "Quality Attack"
+  },
+  "531": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Pokes enemies",
+    "name": "Quality Attack"
+  },
+  "532": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(Description)Smashes enemies",
+    "name": "Quality Attack"
+  },
+  "538": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Pokes enemies",
+    "name": "Worthy Attack"
+  },
+  "539": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Slashes enemies",
+    "name": "Worthy Attack"
+  },
+  "540": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Pokes enemies",
+    "name": "Worthy Attack"
+  },
+  "541": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Smashes enemies",
+    "name": "Worthy Attack"
+  },
+  "542": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Slashes enemies",
+    "name": "Worthy Attack"
+  },
+  "543": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(Description)Smashes enemies",
+    "name": "Worthy Attack"
+  },
+  "544": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Slashes enemies",
+    "name": "Superior Attack"
+  },
+  "545": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Pokes enemies",
+    "name": "Superior Attack"
+  },
+  "546": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Smashes enemies",
+    "name": "Superior Attack"
+  },
+  "547": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Slashes enemies",
+    "name": "Superior Attack"
+  },
+  "548": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Pokes enemies",
+    "name": "Superior Attack"
+  },
+  "549": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(Description)Smashes enemies",
+    "name": "Superior Attack"
+  },
+  "550": {
+    "descriptionUI": "%(DamageCombo) 12 %(Description)Makes you perform a flying kick, doing 12 damage and knocking down enemies",
+    "name": "Ronin Rush"
+  },
+  "551": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Slashes enemies",
+    "name": "Exceptional Attack"
+  },
+  "552": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Pokes enemies",
+    "name": "Exceptional Attack"
+  },
+  "553": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Smashes enemies",
+    "name": "Exceptional Attack"
+  },
+  "554": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Slashes enemies",
+    "name": "Exceptional Attack"
+  },
+  "555": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Pokes enemies",
+    "name": "Exceptional Attack"
+  },
+  "556": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(Description)Smashes enemies",
+    "name": "Exceptional Attack"
+  },
+  "558": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Shoots a flaming arrow that does up to 5 damage over time",
+    "name": "Flaming Arrow 1"
+  },
+  "565": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Makes you rush forward, doing 10 damage and knocking down the enemy that you strike",
+    "name": "Shield Slam 2"
+  },
+  "571": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Shoots a flaming arrow that does up to 10 damage over time",
+    "name": "Flaming Arrow 2"
+  },
+  "572": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Blocks 3 attacks while charged",
+    "name": "Katana Mastery 1"
+  },
+  "573": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 5 attacks while charged",
+    "name": "Katana Mastery 2"
+  },
+  "574": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 7 attacks while charged",
+    "name": "Katana Mastery 3"
+  },
+  "575": {
+    "descriptionUI": "%(DamageCombo) 12 %(Description)Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time",
+    "name": "Maelstrom Breath 2"
+  },
+  "576": {
+    "descriptionUI": "%(DamageCombo) 16 %(Description)Breath a cone of Maelstrom energy that does up to 16 damage to enemies over time",
+    "name": "Maelstrom Breath 3"
+  },
+  "577": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Knocks back enemies",
+    "name": "Dark Thunder 2"
+  },
+  "578": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Maelstrom Vortex 2"
+  },
+  "584": {
+    "descriptionUI": "Prevents attacks from knocking you out of a Quick Build",
+    "name": "Master Builder"
+  },
+  "593": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
+    "name": "Wrench Wrecker 2"
+  },
+  "595": {
+    "descriptionUI": "%(DamageCombo) 2+2+3+3 %(ChargeUp)Fires a 7 damage projectile",
+    "name": "Cutlass and Pistol 2"
+  },
+  "596": {
+    "descriptionUI": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 10 damage projectile",
+    "name": "Cutlass and Pistol 3"
+  },
+  "597": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Slows enemies",
+    "name": "Fire Extinguisher 1"
+  },
+  "598": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Slows enemies",
+    "name": "Fire Extinguisher 2"
+  },
+  "599": {
+    "descriptionUI": "%(DamageCombo) 14 %(Description)Freezes enemies solid",
+    "name": "Fire Extinguisher 3"
+  },
+  "600": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 12 Armor to nearby characters - charge longer for more Armor",
+    "name": "Wrench Wrecker 3"
+  },
+  "601": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores up to 2 Armor to nearby characters",
+    "name": "Gnarled Staff 1"
+  },
+  "602": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
+    "name": "Gnarled Staff 2"
+  },
+  "603": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 12 Armor to nearby characters - charge longer for more Armor",
+    "name": "Gnarled Staff 3"
+  },
+  "604": {
+    "descriptionUI": "%(DamageCombo) 1+2+2+3 %(ChargeUp)Fires a 3 damage projectile",
+    "name": "Flare Guns 1"
+  },
+  "605": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
+    "name": "Blaster Master 1"
+  },
+  "606": {
+    "descriptionUI": "%(DamageCombo) 4x8 %(Description)Throws spheres of Maelstrom energy that each do 4 damage",
+    "name": "Cluster Strike"
+  },
+  "609": {
+    "descriptionUI": "%(DamageCombo) 7 %(Description)Launches a rocket that does 7 damage",
+    "name": "Maelstrom Rocket 1"
+  },
+  "610": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Flash Bulb"
+  },
+  "613": {
+    "descriptionUI": "Makes you howl like a wolf and stuns enemies in fear",
+    "name": "Howl"
+  },
+  "614": {
+    "descriptionUI": "%(DamageCombo) 1 %(Description)Yanks an enemy towards you",
+    "name": "Whip Pull"
+  },
+  "615": {
+    "descriptionUI": "Makes you dance around a hat that drops Imagination Power-ups",
+    "name": "Imagination Dance"
+  },
+  "624": {
+    "descriptionUI": "Creates a Quick Build turret that attacks enemies",
+    "name": "Deploy Turret 1"
+  },
+  "625": {
+    "descriptionUI": "Creates a Quick Build turret that attacks enemies",
+    "name": "Deploy Turret 2"
+  },
+  "626": {
+    "descriptionUI": "Creates a Quick Build turret that attacks enemies",
+    "name": "Deploy Turret 3"
+  },
+  "627": {
+    "descriptionUI": "Rolls a 6-sided die",
+    "name": "Roll the Dice"
+  },
+  "631": {
+    "descriptionUI": "Creates a Bulper that assists you in battle",
+    "name": "Summon Bulper 1"
+  },
+  "632": {
+    "descriptionUI": "Creates a Bulper that assists you in battle",
+    "name": "Summon Bulper 2"
+  },
+  "633": {
+    "descriptionUI": "Creates a Bulper that assists you in battle",
+    "name": "Summon Bulper 3"
+  },
+  "634": {
+    "descriptionUI": "Calls in a magnet to lift enemies into the air",
+    "name": "Magnetize 2"
+  },
+  "635": {
+    "descriptionUI": "Makes nearby characters strike a Crane pose and restores 5 Imagination",
+    "name": "Crane Kata"
+  },
+  "636": {
+    "descriptionUI": "Makes nearby characters strike a Tiger pose and restores 5 Imagination",
+    "name": "Tiger Kata"
+  },
+  "637": {
+    "descriptionUI": "Makes nearby characters strike a Mantis pose and restores 5 Imagination",
+    "name": "Mantis Kata"
+  },
+  "639": {
+    "descriptionUI": "%(DamageCombo) 2+2+3+3 %(ChargeUp)Fires a 4 damage projectile",
+    "name": "Flare Guns 2"
+  },
+  "640": {
+    "descriptionUI": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 5 damage projectile",
+    "name": "Flare Guns 3"
+  },
+  "645": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Blaster Master 2"
+  },
+  "646": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Blaster Master 3"
+  },
+  "647": {
+    "descriptionUI": "%(DamageCombo) 9 %(Description)Launches a rocket that does 9 damage",
+    "name": "Maelstrom Rocket 2"
+  },
+  "649": {
+    "descriptionUI": "%(DamageCombo) 1x16 %(Description)Creates a fortified turret that attacks enemies",
+    "name": "Personal Fortress"
+  },
+  "651": {
+    "descriptionUI": "Makes you show off your soccer skills",
+    "name": "Bend It Like Brickham"
+  },
+  "655": {
+    "descriptionUI": "%(DamageCombo) 13 %(Description)Releases a blast that does 13 damage and restores 30 Imagination to nearby characters",
+    "name": "Last Blast"
+  },
+  "659": {
+    "descriptionUI": "Restores 1 Imagination when you run out",
+    "name": "Imagination Bank 1"
+  },
+  "660": {
+    "descriptionUI": "Restores 2 Imagination when you run out",
+    "name": "Imagination Bank 2"
+  },
+  "661": {
+    "descriptionUI": "Restores 3 Imagination when you run out",
+    "name": "Imagination Bank 3"
+  },
+  "667": {
+    "descriptionUI": "Restores 4 Armor",
+    "name": "Repair Armor 4"
+  },
+  "668": {
+    "descriptionUI": "Restores 4 Life",
+    "name": "Heal Life 4"
+  },
+  "673": {
+    "descriptionUI": "%(DamageCombo) 2x8 %(Description)Creates Scratch, a creature who assists you in battle",
+    "name": "Summon Scratch"
+  },
+  "677": {
+    "descriptionUI": "Creates a first aid kit that nearby characters can use",
+    "name": "First Aid Kit 1"
+  },
+  "680": {
+    "descriptionUI": "Creates a first aid kit that nearby characters can use",
+    "name": "First Aid Kit 2"
+  },
+  "681": {
+    "descriptionUI": "Restores 10 Armor",
+    "name": "Repair Armor 10"
+  },
+  "682": {
+    "descriptionUI": "Restores 5 Armor",
+    "name": "Repair Armor 5"
+  },
+  "683": {
+    "descriptionUI": "Restores 6 Armor",
+    "name": "Repair Armor 6"
+  },
+  "684": {
+    "descriptionUI": "Restores 8 Armor",
+    "name": "Repair Armor 8"
+  },
+  "687": {
+    "descriptionUI": "Gives a speed boost for 9 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 1"
+  },
+  "689": {
+    "descriptionUI": "Creates a Thwok that assists you in battle",
+    "name": "Summon Thwok 1"
+  },
+  "690": {
+    "descriptionUI": "Creates a Thwok that assists you in battle",
+    "name": "Summon Thwok 2"
+  },
+  "693": {
+    "descriptionUI": "Restores 1 Imagination every time you smash an enemy",
+    "name": "Dark Inspiration 1"
+  },
+  "694": {
+    "descriptionUI": "Restores 2 Imagination every time you smash an enemy",
+    "name": "Dark Inspiration 2"
+  },
+  "695": {
+    "descriptionUI": "Restores 3 Imagination every time you smash an enemy",
+    "name": "Dark Inspiration 3"
+  },
+  "696": {
+    "descriptionUI": "Gives a speed boost for 12 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 2"
+  },
+  "697": {
+    "descriptionUI": "Gives a speed boost for 15 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 3"
+  },
+  "699": {
+    "descriptionUI": "Gives a speed boost for 9 seconds that does 3 damage over time",
+    "name": "Fig on Fire 1"
+  },
+  "700": {
+    "descriptionUI": "Gives a speed boost for 12 seconds that does 4 damage over time",
+    "name": "Fig on Fire 2"
+  },
+  "701": {
+    "descriptionUI": "Gives a speed boost for 15 seconds that does 5 damage over time",
+    "name": "Fig on Fire 3"
+  },
+  "702": {
+    "descriptionUI": "When you reach 0 Armor, reduces the amount of damage you take by 3, to a minimum of 1",
+    "name": "Toughness 3"
+  },
+  "703": {
+    "descriptionUI": "When you reach 0 Armor, reduces the amount of damage you take by 2, to a minimum of 1",
+    "name": "Toughness 2"
+  },
+  "704": {
+    "descriptionUI": "When you reach 0 Armor, reduces the amount of damage you take by 1, to a minimum of 1",
+    "name": "Toughness 1"
+  },
+  "705": {
+    "descriptionUI": "When you reach 0 Armor, nearby characters will be shielded from 8 damage for a short time",
+    "name": "For the Shogun 1"
+  },
+  "706": {
+    "descriptionUI": "When you reach 0 Armor, nearby characters will be shielded from 12 damage for a short time",
+    "name": "For the Shogun 2"
+  },
+  "707": {
+    "descriptionUI": "When you reach 0 Armor, nearby characters will be shielded from 15 damage for a short time",
+    "name": "For the Shogun 3"
+  },
+  "708": {
+    "descriptionUI": "Gives a speed boost for 9 seconds that does 3 damage over time",
+    "name": "Fig on Fire 1"
+  },
+  "709": {
+    "descriptionUI": "Gives a speed boost for 12 seconds that does 4 damage over time",
+    "name": "Fig on Fire 2"
+  },
+  "710": {
+    "descriptionUI": "Gives a speed boost for 15 seconds that does 5 damage over time",
+    "name": "Fig on Fire 3"
+  },
+  "711": {
+    "descriptionUI": "Gives a speed boost for 9 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 1"
+  },
+  "712": {
+    "descriptionUI": "Gives a speed boost for 12 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 2"
+  },
+  "713": {
+    "descriptionUI": "Gives a speed boost for 15 seconds that knocks down enemies",
+    "name": "Full Steam Ahead 3"
+  },
+  "720": {
+    "descriptionUI": "Shows dangerous enemies on your mini-map",
+    "name": "Danger Sense"
+  },
+  "721": {
+    "descriptionUI": "Shows collectibles on your mini-map",
+    "name": "Treasure Finding"
+  },
+  "727": {
+    "descriptionUI": "%(DamageCombo) 1+3+3 %(ChargeUp)Slows an enemy",
+    "name": "Shiver Me Timbers"
+  },
+  "728": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Turns you into a whirlwind that does 5 damage to enemies",
+    "name": "Whirlwind 1"
+  },
+  "731": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Buccaneer and unlock an Imagination Point!",
+    "name": "Secrets of a Buccaneer 2"
+  },
+  "732": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Buccaneer and unlock an Imagination Point!",
+    "name": "Secrets of a Buccaneer 3"
+  },
+  "733": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Daredevil and unlock an Imagination Point!",
+    "name": "Secrets of a Daredevil 2"
+  },
+  "734": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Daredevil and unlock an Imagination Point!",
+    "name": "Secrets of a Daredevil 3"
+  },
+  "735": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Sorcerer and unlock an Imagination Point!",
+    "name": "Secrets of a Sorcerer 2"
+  },
+  "736": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Sorcerer and unlock an Imagination Point!",
+    "name": "Secrets of a Sorcerer 3"
+  },
+  "737": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Space Marauder and unlock an Imagination Point!",
+    "name": "Secrets of a Space Marauder 2"
+  },
+  "738": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Space Marauder and unlock an Imagination Point!",
+    "name": "Secrets of a Space Marauder 3"
+  },
+  "739": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Engineer and unlock an Imagination Point!",
+    "name": "Secrets of an Engineer 2"
+  },
+  "740": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Engineer and unlock an Imagination Point!",
+    "name": "Secrets of an Engineer 3"
+  },
+  "741": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Summoner and unlock an Imagination Point!",
+    "name": "Secrets of a Summoner 2"
+  },
+  "742": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Summoner and unlock an Imagination Point!",
+    "name": "Secrets of a Summoner 3"
+  },
+  "743": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Knight and unlock an Imagination Point!",
+    "name": "Secrets of a Knight 2"
+  },
+  "744": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Knight and unlock an Imagination Point!",
+    "name": "Secrets of a Knight 3"
+  },
+  "745": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 2 Samurai and unlock an Imagination Point!",
+    "name": "Secrets of a Samurai 2"
+  },
+  "746": {
+    "descriptionUI": "Read this book to learn the secrets of a Rank 3 Samurai and unlock an Imagination Point!",
+    "name": "Secrets of a Samurai 3"
+  },
+  "748": {
+    "descriptionUI": "Restores 8 Life, 10 Armor, and 16 Imagination",
+    "name": "Replenish Minifigure"
+  },
+  "749": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Makes you roll into enemies, doing 2 damage",
+    "name": "Panda Style Attack"
+  },
+  "750": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you into the air, doing 1 damage to enemies you strike",
+    "name": "Dragon Style Attack"
+  },
+  "751": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you forward, doing up to 4 damage to enemies you strike",
+    "name": "Mantis Style Attack"
+  },
+  "752": {
+    "descriptionUI": "Shields you from up to 4 damage for 20 seconds",
+    "name": "Blow Bubbles"
+  },
+  "756": {
+    "descriptionUI": " %(ChargeUp)Restores up to 10 Imagination to nearby characters - charge longer for more Imagination",
+    "name": "Team Cheer"
+  },
+  "757": {
+    "descriptionUI": "%(DamageCombo) 2 %(Description)Slows enemies",
+    "name": "Freeze Ray 1"
+  },
+  "759": {
+    "descriptionUI": "Restores up to 5 Life, 10 Imagination and 10 Armor over time",
+    "name": "Yo Ho Ho"
+  },
+  "763": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(ChargeUp)Stuns enemies",
+    "name": "Worthy Attack with Stun"
+  },
+  "764": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(ChargeUp)Knocks back enemies",
+    "name": "Worthy Attack with Repulsion"
+  },
+  "765": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Superior Attack with Stun"
+  },
+  "766": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Knocks back enemies",
+    "name": "Superior Attack with Knockback"
+  },
+  "767": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Superior Attack with Stun"
+  }
+}

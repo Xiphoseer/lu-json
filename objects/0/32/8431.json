@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 7405,
+    "24": 3,
+    "42": 0,
+    "5": 1038,
+    "60": 29,
+    "7": 489
+  },
+  "description": "Template object for custom-built enemies",
+  "displayName": "Custom Built Enemy",
+  "gate_version": null,
+  "id": 8431,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Custom Built Enemy Template",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

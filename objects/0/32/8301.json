@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5498,
+    "2": 7859,
+    "28": 263,
+    "3": 3869,
+    "42": 0
+  },
+  "description": "Moonbase Modular Build Rocket Engine",
+  "displayName": "Moonbase Rocket Engine",
+  "gate_version": null,
+  "id": 8301,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP A-Team Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

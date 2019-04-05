@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5688,
+    "2": 11389,
+    "3": 5481,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Generator Model",
+  "gate_version": "nexustower",
+  "id": 11637,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Generator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

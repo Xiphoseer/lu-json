@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5114,
+    "2": 10213,
+    "3": 4605,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Window Model 6",
+  "gate_version": null,
+  "id": 10365,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Window 6",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

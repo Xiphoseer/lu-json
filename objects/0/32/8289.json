@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7849,
+    "3": 3856
+  },
+  "description": "Rocket Launch Pad for Luptario map",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8289,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Luptario Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

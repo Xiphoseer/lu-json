@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Brett test object",
+  "components": {
+    "11": 4872,
+    "2": 9881
+  },
+  "description": "Brett test object",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10045,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2520,
+    "2": 13156,
+    "3": 6524,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Samurai Statue Model",
+  "gate_version": "march2011content",
+  "id": 13427,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Samurai Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

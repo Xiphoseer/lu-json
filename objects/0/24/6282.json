@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5714,
+    "40": 2603,
+    "5": 826
+  },
+  "description": "Another top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6282,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test MR - Check Point Clicker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

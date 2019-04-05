@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2881,
+    "2": 6187,
+    "40": 2886,
+    "5": 925,
+    "7": 608,
+    "9": 0
+  },
+  "description": "T-Rex Motion Tracker",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6629,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CT - Motion Tracker Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

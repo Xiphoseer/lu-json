@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Piercing",
+  "components": {
+    "11": 2789,
+    "2": 6282,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Fishing Pole",
+  "gate_version": null,
+  "id": 6742,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Fishing Pole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 525
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7444,
+    "3": 3552
+  },
+  "description": "RACE-GFTrack10_TRACK_ShipBattle",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7886,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-GFTrack10_TRACK_ShipBattle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8700,
+    "3": 5160,
+    "5": 1267
+  },
+  "description": "Bloodraven",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9246,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bloodraven",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

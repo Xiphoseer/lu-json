@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13989,
+    "3": 7133,
+    "7": 2018
+  },
+  "description": null,
+  "displayName": "NJ Elemental PetStatue Fireline",
+  "gate_version": "njhub",
+  "id": 14299,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Elemental PetStatue Fireline",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

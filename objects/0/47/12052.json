@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11801,
+    "23": 39,
+    "40": 5847,
+    "7": 1658
+  },
+  "description": "Collectible Spawner for Johnny Thunder's chest in Aura Mar",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12052,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Johnny Thunder Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

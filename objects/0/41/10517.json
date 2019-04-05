@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4662,
+    "2": 10370,
+    "7": 1566,
+    "9": 0
+  },
+  "description": "Explosive used by Firecracker skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10517,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Firecracker Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 818
+    }
+  ],
+  "type": "Shooting Gallery"
+}

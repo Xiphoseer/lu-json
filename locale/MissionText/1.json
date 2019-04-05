@@ -1,0 +1,936 @@
+{
+  "256": {
+    "completion_succeed_tip": "Musical Repair 1!",
+    "description": "Quick Build all 4 instruments at the Red Blocks concert in Nimbus Station."
+  },
+  "259": {
+    "completion_succeed_tip": "Avant Gardens Achiever 1!",
+    "description": "Complete 10 Missions or Achievements in Avant Gardens."
+  },
+  "260": {
+    "completion_succeed_tip": "Avant Gardens Achiever 2!",
+    "description": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 20."
+  },
+  "261": {
+    "completion_succeed_tip": "Avant Gardens Achiever 3!",
+    "description": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 30."
+  },
+  "263": {
+    "completion_succeed_tip": "Robo-Repair 3!",
+    "description": "Quick Build 100 more smashed Stromling Mechs into turrets."
+  },
+  "268": {
+    "completion_succeed_tip": "Reputation Rank 1!",
+    "description": "Earn 100 Reputation."
+  },
+  "270": {
+    "completion_succeed_tip": "Reputation Rank 2!",
+    "description": "Earn 1000 more Reputation."
+  },
+  "271": {
+    "completion_succeed_tip": "Reputation Rank 3!",
+    "description": "Earn 10,000 more Reputation."
+  },
+  "272": {
+    "completion_succeed_tip": "Reputation Rank 4!",
+    "description": "Earn 100,000 more Reputation."
+  },
+  "273": {
+    "completion_succeed_tip": "Reputation Rank 5!",
+    "description": "Earn 1,000,000 more Reputation."
+  },
+  "282": {
+    "completion_succeed_tip": "Making More Friends!",
+    "description": "Talk to the picnicking Robot, Cowboy, and Astronaut at the Avant Gardens Launch Area."
+  },
+  "283": {
+    "completion_succeed_tip": "Stagecraft!",
+    "description": "Quick Build all 4 of the effects at the Red Blocks concert in Nimbus Station."
+  },
+  "284": {
+    "completion_succeed_tip": "Gnarled Forest Explorer!",
+    "description": "Discover all 7 points of interest in Gnarled Forest."
+  },
+  "286": {
+    "completion_succeed_tip": "You've completed the Monument Obstacle Course! Try again for an even faster time.",
+    "description": "Try the Monument Obstacle Course challenge!"
+  },
+  "287": {
+    "completion_succeed_tip": "Avant Guardian 1!",
+    "description": "Smash 50 Stromlings."
+  },
+  "293": {
+    "completion_succeed_tip": "Paradox Protector 1!",
+    "description": "Smash 25 Stromlings, 25 Stromling Mechs, and 25 Dark Spiderlings."
+  },
+  "294": {
+    "completion_succeed_tip": "Paradox Protector 2!",
+    "description": "Smash 100 more Stromlings, 100 more Stromling Mechs, and 100 more Dark Spiderlings."
+  },
+  "295": {
+    "completion_succeed_tip": "Paradox Protector 3!",
+    "description": "Smash 500 more Stromlings, 500 more Stromling Mechs, and 500 more Dark Spiderlings."
+  },
+  "296": {
+    "completion_succeed_tip": "Paradox Protector 4!",
+    "description": "Smash 1000 more Stromlings, 1000 more Stromling Mechs, and 1000 more Dark Spiderlings."
+  },
+  "301": {
+    "accept_chat_bubble": "Oh, and watch out fer them infected chests!",
+    "chat_state_1": "Don't let 'em see me! Them Pirates got the curse!",
+    "chat_state_2": "I can't fight 'em. Jus' look at me!",
+    "chat_state_3": "You showed 'em!",
+    "completion_succeed_tip": "Return to Toby Squidbarrel in the cave in Gnarled Forest.",
+    "in_progress": "Smash 10 Stromling Pirates in Gnarled Forest.",
+    "offer": "The infected treasure has cursed our crew! Smash 10 Stromling Pirates and send 'em to Davy Jones' locker!",
+    "ready_to_complete": "You're plenty brave! I was scared right out of my shirt, so you can have it now!"
+  },
+  "302": {
+    "completion_succeed_tip": "Solo Artist 1",
+    "description": "Play any instrument at the Red Blocks concert for at least 20 seconds."
+  },
+  "308": {
+    "accept_chat_bubble": "Check the upper platforms for Engine parts.",
+    "chat_state_1": "Time to start on your first rocket!",
+    "chat_state_2": "Look for engine parts on the upper platforms.",
+    "chat_state_3": "Okay, let's get you out of here!",
+    "chat_state_4": "Build that rocket and get out of here!",
+    "completion_succeed_tip": "You have all 3 rocket parts. Tell Sky Lane you're ready to go.",
+    "in_progress": "Smash crates to <font color='#FF7F00'>collect 3 rocket parts</font>. You'll need a Nose Cone, a Cockpit and an Engine.",
+    "offer": "Put that Mission Tracker to use! <font color='#FF7F00'>Collect 3 rocket parts</font>: a Nose Cone, a Cockpit, and an Engine.",
+    "ready_to_complete": "Outstanding! Here is your <font color='#FF7F00'>Thinking Hat</font>! You'll need it to build an escape rocket."
+  },
+  "311": {
+    "accept_chat_bubble": " Find Epsilon Starcracker. He can help you.",
+    "chat_state_1": "We had it all under control.",
+    "chat_state_2": "Paradox studies the Maelstrom to learn its secrets. Very dangerous secrets.",
+    "chat_state_3": "Find Epsilon Starcracker. He'll know what to do.",
+    "chat_state_3_turnin": "Quick! Over here, rookie!",
+    "chat_state_4": "At least you'll be safe now.",
+    "chat_state_4_turnin": "Nice work!",
+    "completion_succeed_tip": "Find Epsilon Starcracker, the Nexus Force Scout, on the battlefield.",
+    "in_progress": "Find <font color='#FF7F00'>Epsilon Starcracker</font> in Avant Gardens.",
+    "offer": "We’ve had some trouble here. Go see <font color='#FF7F00'>Epsilon Starcracker</font>, from the Nexus Force. He can help you.",
+    "ready_to_complete": "What are you doing out here unarmed? <font color='#FF7F00'>Choose a weapon!</font> You'll need it!"
+  },
+  "312": {
+    "accept_chat_bubble": "Those Stromlings are just askin' to get smashed. Better go make 'em happy.",
+    "chat_state_1": "So you're the reinforcements, huh?",
+    "chat_state_2": "If the Maelstrom takes Avant Gardens, Nimbus Station will be the next to fall!",
+    "chat_state_3": "I ain't seen smashin' like that since, well, since last time I was out there!",
+    "chat_state_4": "Good work, but don't get cocky, kid. That's how you get surrounded.",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker, the Nexus Force Scout.",
+    "in_progress": "<font color='#FF7F00'>Smash 15 Stromlings</font> and report back to Epsilon Starcracker.",
+    "offer": "Paradox scientists experimented with the Maelstrom and created this mess! Let's clean it up! <font color='#FF7F00'>Smash 15 Stromlings</font>!",
+    "ready_to_complete": "Score! Nexus Force 15, Stromlings 0."
+  },
+  "313": {
+    "accept_chat_bubble": "Keep circling around those Spiderlings to dodge their web shots!",
+    "chat_state_1": "How could something that big hide so well?",
+    "chat_state_2": "I used to be afraid of Spiders, but all that smashing makes a girl feel powerful!",
+    "chat_state_3": "Did you find anything in there?",
+    "completion_succeed_tip": "Take the postcards back to Melodie Foxtrot and turn in your borrowed Faction Gear.",
+    "in_progress": "<font color='#FF7F00'>Smash Dark Spiderlings</font> until you find <font color='#FF7F00'>5 clues</font> that might reveal where the Spider Queen is hiding.",
+    "offer": "We haven't seen the Spider Queen since she escaped in there, but maybe if you <font color='#FF7F00'>smash Dark Spiderlings</font>, you'll find some <font color='#FF7F00'>clues</font>!",
+    "ready_to_complete": "The Spider Queen sent postcards from the Block Yard Property?! You must find her, but first <font color='#FF7F00'>I must take that Trial gear back.</font> Be sure to re-equip your best gear!"
+  },
+  "314": {
+    "accept_chat_bubble": "Look for a big wall - and lots of monsters outside. That's the Sentinel Base Camp.",
+    "chat_state_1": "Ready to meet the Sentinels?",
+    "chat_state_2": "The Sentinel Base Camp is up the road - you'll have to fight your way there.",
+    "chat_state_3": "That's it, troops! Don't give 'em an inch!",
+    "chat_state_3_turnin": "Report, soldier!",
+    "chat_state_4": "Commander Strongheart is with the Sentinels. They'll get this place cleaned up.",
+    "completion_succeed_tip": "Go to the Sentinel Base Camp and find Commander Beck Strongheart.",
+    "in_progress": "Report to <font color='#FF7F00'>Beck Strongheart</font> at the <font color='#FF7F00'>Sentinel Base Camp</font>.",
+    "offer": "You may be Nexus Force material! But you’ll have to prove yourself to each of the 4 Factions. Report to Sentinel Commander <font color='#FF7F00'>Beck Strongheart</font>.",
+    "ready_to_complete": "You want to join the ranks, huh? Well, you're still in one piece. That's a good start."
+  },
+  "315": {
+    "accept_chat_bubble": "Sentinels respect the chain of command. Show me your salute!",
+    "chat_state_1": "Keep them back! Hold the line!",
+    "chat_state_2": "Sentinels respect the chain of command. Show me your salute!",
+    "chat_state_3": "Well done. At ease, soldier.",
+    "chat_state_4": "Welcome to the war.",
+    "completion_succeed_tip": "Use Speedchat to quickly communicate with other players.",
+    "in_progress": "Use the <font color='#FF7F00'>Speedchat</font> button on the lower left, choose <font color='#FF7F00'>Actions</font> and then choose <font color='#FF7F00'>Salute</font>.",
+    "offer": "I’ll teach you about the Sentinels. First I'll need a <font color='#FF7F00'>salute</font>, soldier! Use the <font color='#FF7F00'>Speedchat</font> button in the lower left of the screen.",
+    "ready_to_complete": "Let me give you more Backpack space to help carry all the items you are collecting."
+  },
+  "316": {
+    "accept_chat_bubble": "Quick Build those Stromling Mechs after you smash them!",
+    "chat_state_1": "I've got a plan to stop those robots, but it'll take some Imagination.",
+    "chat_state_2": "Build those turrets! They'll help keep those Stromlings at bay!",
+    "chat_state_3": "Report, soldier!",
+    "chat_state_4": "Our defenses should hold. For now.",
+    "completion_succeed_tip": "Return to Commander Beck Strongheart at the Sentinel Base Camp.",
+    "in_progress": "Smash and <font color='#FF7F00'>Quick Build 6 Stromling Mechs into turrets</font> on the Avant Gardens battlefield.",
+    "offer": "The Defense Robots were infected by the Maelstrom! Smash and then <font color='#FF7F00'>Quick Build 6 Stromling Mechs into turrets</font>.",
+    "ready_to_complete": "Any time you use Imagination, you destroy some of the Maelstrom!"
+  },
+  "317": {
+    "accept_chat_bubble": "Head through the tunnel to find Assembly Faction's Monument.",
+    "chat_state_1": "I've heard the launch area beyond the Monument is infected by Maelstrom now!",
+    "chat_state_2": "Wish I could go with you - it's not exactly safe in here!",
+    "chat_state_3": "Assembly has built this Monument to honor our battle against the Maelstrom!",
+    "chat_state_3_turnin": "Road is out, hope you don't mind a climb!",
+    "chat_state_4": "Thanks for pitching in. The Sentinel Faction is lucky to have you around!",
+    "completion_succeed_tip": "Pass through the tunnel to find Rusty Steele, the Assembly Foreman.",
+    "in_progress": "Pass through the tunnel to find the Monument and <font color='#FF7F00'>speak to Rusty Steele</font>.",
+    "offer": "Pass through this tunnel to find <font color='#FF7F00'>Rusty Steele</font>. He’ll tell you how to get to the top of the Monument.",
+    "ready_to_complete": "So, how do you like our Monument? Pretty monumental, wouldn't you say?"
+  },
+  "318": {
+    "accept_chat_bubble": "Hope the rest of construction is goin' as planned!",
+    "chat_state_1": "One last thing from you, buddy.",
+    "chat_state_2": "Vector Longview will know if everything is lookin' good.",
+    "chat_state_3_turnin": "Rusty sent you, huh? Figures. He's afraid of heights.",
+    "chat_state_4_turnin": "Did you come from the Sentinel Camp?",
+    "completion_succeed_tip": "Talk to Vector Longview on the road above the Monument.",
+    "in_progress": "Climb up the Monument to reach the road and <font color='#FF7F00'>talk to Vector Longview</font>.",
+    "offer": "Alright, use the Monument to get to the road, <font color='#FF7F00'>talk to Vector Longview</font> and make sure everything's goin' by the plans.",
+    "ready_to_complete": "You the reinforcements from the Sentinel Camp? Good, we got more Maelstrom problems down the road!"
+  },
+  "319": {
+    "accept_chat_bubble": "Interact with the bricks to Quick Build!",
+    "chat_state_1": "You fast on your feet?",
+    "chat_state_2": "You'll need Imagination to complete the Quick Build.",
+    "chat_state_3": "Interact with me and I'll unlock the Monument Race.",
+    "chat_state_4": "Let's see how fast you really are! I'll be up here watching!",
+    "completion_succeed_tip": "Talk to Vector Longview again.",
+    "in_progress": "<font color='#FF7F00'>Quick Build the Finish Line</font> to unlock the Monument Race.",
+    "offer": "Want to time your run up the Monument? <font color='#FF7F00'>Quick Build this Finish Line</font>!",
+    "ready_to_complete": "Looks beautiful! Now go back down and interact with the <font color='#FF7F00'>Starting Line</font> to begin the Monument Race!"
+  },
+  "320": {
+    "accept_chat_bubble": "Large launch pads lead to new worlds. Small ones lead to Property Worlds.",
+    "chat_state_1": "We need every able Minifigure to help fight the Maelstrom!",
+    "chat_state_2": "Sky Lane is waiting by the launch pad to Nimbus Station.",
+    "chat_state_3_turnin": "Good to see you again, Minifigure! Ready to blast off again?",
+    "completion_succeed_tip": "Check in with Sky Lane in the Avant Gardens Launch Area.",
+    "in_progress": "You saved Avant Gardens! <font color='#FF7F00'>Report to Sky Lane</font> at the launch area in Avant Gardens.",
+    "offer": "Your Imagination has pushed back the Maelstrom and saved Avant Gardens! <font color='#FF7F00'>Report to Sky Lane</font> at the launch area in Avant Gardens.",
+    "ready_to_complete": "Smashing the Spider Queen was a start, but when you began building on your Property, the Maelstrom finally disappeared!"
+  },
+  "322": {
+    "accept_chat_bubble": "Build a Satellite Beacon on the battlefield and we'll do the rest!",
+    "chat_state_1": "Sentinel Flight calling ground, come in.",
+    "chat_state_2": "You'll find the Satellite Beacons in the battlefield.",
+    "chat_state_3": "Oh yeah, they never knew what hit 'em!",
+    "chat_state_4": "We've got to keep those Beacons up and running!",
+    "completion_succeed_tip": "You built a Satellite Beacon. Use the console near Epsilon Starcracker to report back to the pilot.",
+    "in_progress": "<font color='#FF7F00'>Rebuild a Satellite Beacon</font> out on the battlefield.",
+    "offer": "<font color='#FF7F00'>Rebuild a Satellite Beacon</font> to call in an air strike. We'll take care of the rest.",
+    "offer_repeatable": "Want to rebuild another <font color='#FF7F00'>Satellite Beacon</font>?",
+    "ready_to_complete": "Great work! Those Satellite Beacons help us pinpoint our targets for precise sub-orbital smashing power!"
+  },
+  "324": {
+    "accept_chat_bubble": "Get the infected Maelstrom bricks from Stromlings.",
+    "chat_state_1": "Even though our lab has been destroyed, my research must continue!",
+    "chat_state_2": "Smash Stromlings and harvest their infected bricks.",
+    "chat_state_3": "I can't rest until I solve the secrets of the Maelstrom.",
+    "completion_succeed_tip": "You have 25 Maelstrom-infected bricks. Return to Wisp Lee in Avant Gardens.",
+    "in_progress": "Smash Stromlings and <font color='#FF7F00'>collect 25 Maelstrom-infected bricks</font> for Wisp Lee.",
+    "offer": "The Maelstrom infects common bricks, but how? <font color='#FF7F00'>Collect 25 Maelstrom-infected bricks</font> so that I may continue my research.",
+    "ready_to_complete": "The Maelstrom only corrupts bricks by replacing the Imagination within! Yet the reverse is not true - but why?"
+  },
+  "325": {
+    "accept_chat_bubble": "Hurry up and get building! They're coming through!",
+    "chat_state_1": "I hope we have enough bricks to plug this hole!",
+    "chat_state_2": "I'm glad we decided not to put windows in this wall.",
+    "chat_state_3": "Nice building! That looks like it'll hold really well!",
+    "chat_state_4": "You're pretty handy with a brick, you know that?",
+    "completion_succeed_tip": "Report back to Fitz Vanderbuilt at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Quick Build the wall</font> at the Sentinel Base Camp.",
+    "offer": "We've got to <font color='#FF7F00'>rebuild this wall</font> to keep those Maelstrom monsters out!",
+    "offer_repeatable": "It didn't hold! Can you collect more bricks and build the wall again?",
+    "ready_to_complete": "Building and Imagination are key to defeating the Maelstrom."
+  },
+  "329": {
+    "accept_chat_bubble": "Yeh gotta stop him 'fore he shoots up the place!",
+    "chat_state_1": "Watch your head, matey!",
+    "chat_state_2": "C'mon, bite the bullet an' climb up there!",
+    "chat_state_3": "Oooo oooo oooo!!",
+    "chat_state_3_turnin": "Oooo oooo oooo!!",
+    "completion_succeed_tip": "Talk to the mysterious shooter atop Brig Rock in Gnarled Forest.",
+    "in_progress": "Talk to the mysterious shooter atop Brig Rock in Gnarled Forest.",
+    "offer": "We're pinned down! Get up there and get that gun 'fore we all be shark bait!",
+    "ready_to_complete": "Eeeee Eeee Oooku!"
+  },
+  "333": {
+    "accept_chat_bubble": "Don't shoot yer eye out! An eyepatch ain't as comfy as it looks.",
+    "chat_state_1": "Now where did I put that gun?",
+    "chat_state_2": "Think I smell an elephant. 'Course, I need a shower too.",
+    "chat_state_3": "Yer a regular crackshot!",
+    "chat_state_4": "Stay clear of the crates when others are shooting 'em!",
+    "completion_succeed_tip": "Nice shooting! Return to Merciless Ned in Gnarled Forest.",
+    "in_progress": "Shoot 5 infected crates in Gnarled Forest to destroy them.",
+    "offer": "Cap'n says to shoot 5 evil crates, but I don't be havin' my gun!",
+    "offer_repeatable": "Shoot more <font color='#FF7F00'> evil crates</font>! They infected all our best crew!",
+    "ready_to_complete": "Cap'n pays us peanuts these days! Don't he know I'm allergic? Here, you take 'em!"
+  },
+  "338": {
+    "completion_succeed_tip": "Hearty Score 2!",
+    "description": "Score 125,000 points in one game in Cannon Cove Shooting Gallery."
+  },
+  "339": {
+    "completion_succeed_tip": "Hearty Score 3!",
+    "description": "Score 250,000 points in one game in Cannon Cove Shooting Gallery."
+  },
+  "340": {
+    "completion_succeed_tip": "Hearty Score 4!",
+    "description": "Score 500,000 points in one game in Cannon Cove Shooting Gallery."
+  },
+  "342": {
+    "completion_succeed_tip": "Crack Shot 2!",
+    "description": "Hit 15 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
+  },
+  "343": {
+    "completion_succeed_tip": "Crack Shot 3!",
+    "description": "Hit 20 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
+  },
+  "344": {
+    "completion_succeed_tip": "Crack Shot 4!",
+    "description": "Hit 25 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
+  },
+  "345": {
+    "completion_succeed_tip": "Crack Shot 5!",
+    "description": "Hit 30 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
+  },
+  "346": {
+    "completion_succeed_tip": "You've discovered the start of the Monument's Green Path!",
+    "description": "Discover the Monument's Green Path."
+  },
+  "347": {
+    "completion_succeed_tip": "You've discovered the start of the Monument's Yellow Path!",
+    "description": "Discover the Monument's Yellow Path."
+  },
+  "348": {
+    "completion_succeed_tip": "You've discovered the start of the Monument's Orange Path!",
+    "description": "Discover the Monument's Orange Path."
+  },
+  "349": {
+    "completion_succeed_tip": "You've discovered all 3 paths up the Monument!",
+    "description": "Discover all 3 paths up the Monument."
+  },
+  "353": {
+    "completion_succeed_tip": "You've found all 3 Steampunk rocket modules!",
+    "description": "Find all 3 Steampunk Rocket modules."
+  },
+  "354": {
+    "completion_succeed_tip": "You've found all 3 white rocket modules!",
+    "description": "Find all 3 white rocket modules on the Venture Explorer spaceship."
+  },
+  "355": {
+    "completion_succeed_tip": "You've found all 3 Pod rocket modules!",
+    "description": "Find all 3 Pod rocket modules."
+  },
+  "356": {
+    "completion_succeed_tip": "Rocket Roundup!",
+    "description": "Collect all of the modules for the Steampunk and Pod rockets."
+  },
+  "360": {
+    "completion_succeed_tip": "Barnacle Blaster 1!",
+    "description": "Hit 10 Sea Monsters in Cannon Cove Shooting Gallery."
+  },
+  "377": {
+    "accept_chat_bubble": "Vance will let you borrow some more Faction gear!",
+    "chat_state_1": "Vance Bulwark is the bravest guy I know.",
+    "chat_state_2": "Use this launch pad to fly to Block Yard.",
+    "chat_state_3_turnin": "Did Crash send you?",
+    "chat_state_4_turnin": "Imagination and creativity keep the Maelstrom off of property!",
+    "completion_succeed_tip": "Talk to Vance Bulwark on the Block Yard Property.",
+    "in_progress": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+    "offer": "Vance Bulwark flew to Block Yard to find that monster, but he hasn't come back! Fly there to find him and <font color='#FF7F00'>borrow Trial Faction Gear</font>.",
+    "ready_to_complete": "That Spider Queen is spewing out Maelstrom and polluting the whole system! <font color='#FF7F00'>Borrow some Faction Gear</font> so you can face her!"
+  },
+  "379": {
+    "accept_chat_bubble": "You'll need good aim if you're gonna hit that crate!",
+    "chat_state_1": "Did you see the parachute in that tree?",
+    "chat_state_2": "You'll need a gun or crossbow to be able to shoot that crate down.",
+    "chat_state_3": "Way to go!",
+    "chat_state_3_turnin": "Way to go!",
+    "chat_state_4": "I think next time I'll use ground delivery.",
+    "chat_state_4_turnin": "I think next time I'll use ground delivery.",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station.",
+    "in_progress": "Find a gun in Gnarled Forest and shoot down the crate in the tree near the Red Blocks concert.",
+    "offer": "Our delivery is stuck in a tree near the Red Blocks Amphitheatre. Can you shoot it down?",
+    "ready_to_complete": "Crate job, thanks! Here, aren't you collecting Water Sprayer parts?"
+  },
+  "380": {
+    "accept_chat_bubble": "I think that lass is just ahead. Renee Tombcrusher be her name.",
+    "chat_state_1": "I need some more o' yer help!",
+    "chat_state_2": "Do I look like a sassy Venture League lass? Go find her!",
+    "chat_state_3": "Nice to see a friendly face again!",
+    "chat_state_3_turnin": "Welcome, explorer.",
+    "chat_state_4": "I'll tell ya, this here is one cozy barrel.",
+    "completion_succeed_tip": "Talk to Renee Tombcrusher, from the Venture League.",
+    "in_progress": "Find Renee Tombcrusher by the Maelstrom Trench in Gnarled Forest.",
+    "offer": "A brave lass from the Venture League be explorin' the forest. She needs something built, but I'm too scared.",
+    "ready_to_complete": "You found your way through this tangled mess? You're a born adventurer!"
+  },
+  "382": {
+    "accept_chat_bubble": "Don't just look on the paths, some of the Pirates took to the trees as well.",
+    "chat_state_1": "Those Siren statues are simply stunning.",
+    "chat_state_2": "Don't expect the Pirates to give you too much help fighting the Maelstrom.",
+    "chat_state_3": "Psst! You there!",
+    "chat_state_3_turnin": "Did the Venture League send you? I need help!",
+    "completion_succeed_tip": "Find Arrrthur Arrrbuckle in Gnarled Forest and help him out. Look up in the trees!",
+    "in_progress": "Help Arrrthur Arrrbuckle in Gnarled Forest.",
+    "offer": "Them Siren Statues stun the Stromlings. Arrrthur Arrrbuckle, the Pirate Mechanic up ahead, needs help fixing one.",
+    "ready_to_complete": "Did that Renee lass send yeh? Good, I need help with this here Siren contraption!"
+  },
+  "383": {
+    "accept_chat_bubble": "Look in that there crate for the rest of them bricks.",
+    "chat_state_1": "I ain't cut out for mechanicking... I just wanted to dance!",
+    "chat_state_2": "Go and fix that thar Siren 'fore them Stromlings swab our decks!",
+    "chat_state_3": "That there is a mechanical marvel.",
+    "completion_succeed_tip": "The Siren Stunner will keep the Stromlings at bay. Return to Arrrthur Arrrbuckle in Gnarled Forest.",
+    "in_progress": "Find the missing bricks and rebuild a Siren Stunner in Gnarled Forest.",
+    "offer": "That mermaid contraption looks like it's missin' some bricks. Can you fix that Siren Stunner?",
+    "ready_to_complete": "Yer pretty crafty with a brick! For a landlubber, I means."
+  },
+  "384": {
+    "accept_chat_bubble": "Look for Bert Scurvyburp, he might know what's goin' on!",
+    "chat_state_1": "You hear that? Sounds like shots fired in the Jail area!",
+    "chat_state_2": "Just head down the path an' over the ledge.",
+    "chat_state_3": "Duck an' cover! Get outta the open!",
+    "chat_state_3_turnin": "Yeh came to help us out, right?",
+    "completion_succeed_tip": "Find Bert Scurvyburp at Brig Rock and investigate the commotion.",
+    "in_progress": "Speak to Bert Scurvyburp at Brig Rock in Gnarled Forest.",
+    "offer": "Did you hear that? Sounded like gunshots! Head down to Brig Rock and see what's happenin'!",
+    "ready_to_complete": "Yer just in time! We got a big problem with a mad gunman!"
+  },
+  "385": {
+    "accept_chat_bubble": "Them Ninjas are gonna eat bananas and like it!",
+    "chat_state_1": "You there! I got a job for yeh!",
+    "chat_state_2": "Sneaky Ninjas or no, we still gotta feed 'em. We ain't no savages, no sir!",
+    "chat_state_3": "All fed n' happy now?",
+    "chat_state_4": "It be hard work takin' care of these prisoners.",
+    "completion_succeed_tip": "Return to Ralphie Brig-Eyes at Brig Rock for a reward.",
+    "in_progress": "Feed the 4 prisoners at Brig Rock in Gnarled Forest.",
+    "offer": "That crazy monkey got me pinned down. I can't feed my prisoners. Can yeh do it?",
+    "ready_to_complete": "Aye, that's enough grub, don't want 'em gettin' the banana splits. Here yeh go."
+  },
+  "386": {
+    "accept_chat_bubble": "Only a banana can cure this longing.",
+    "chat_state_2": "Please. A banana. But not too mushy.",
+    "chat_state_3": "Did you pick a good one?",
+    "chat_state_4": "Thank you, oh Bringer of Bananas.",
+    "completion_succeed_tip": "Find a banana to feed Ninja Hashi in Gnarled Forest. He's locked up on Brig Rock.",
+    "in_progress": "Find a banana for Ninja Hashi in Gnarled Forest.",
+    "offer": "My soul is a pit of hunger, and it can only be filled by a banana.",
+    "ready_to_complete": "Slender, lovely and yellow. It will fill me with strength."
+  },
+  "387": {
+    "accept_chat_bubble": "Peelfruit! Find a yellow peelfruit!",
+    "chat_state_2": "I long to eat the yellow peelfruit!",
+    "chat_state_3": "I sense the presence of bananas!",
+    "chat_state_4": "No more bitter melon for me, only peelfruit!",
+    "completion_succeed_tip": "Find a banana to feed Ninja Mashi in Gnarled Forest. He's locked up on Brig Rock.",
+    "in_progress": "Find a banana for Ninja Mashi in Gnarled Forest.",
+    "offer": "The hunger is so great. Bring me a yellow peelfruit!",
+    "ready_to_complete": "Its shiny yellow coat protects it from the rain! So delicious."
+  },
+  "388": {
+    "accept_chat_bubble": "Make sure it's ripe! I don't like unripe bananas.",
+    "chat_state_2": "Ba. Na. Na?",
+    "chat_state_3": "I hope it's not all brown and mushy-mushy.",
+    "chat_state_4": "Oh thank you, Banana Angel.",
+    "completion_succeed_tip": "Find a banana to feed Ninja Steve in Gnarled Forest. He's locked up on Brig Rock.",
+    "in_progress": "Find a banana for Ninja Steve in Gnarled Forest.",
+    "offer": "Food. I need food! I would even eat a banana!",
+    "ready_to_complete": "So this is a banana. Do I eat the peel too?"
+  },
+  "390": {
+    "accept_chat_bubble": "Every night I dream of bananas.",
+    "chat_state_2": "My spirit aches for a banana.",
+    "chat_state_3": "Am I to be visited by a banana?",
+    "chat_state_4": "The banana has made me whole again.",
+    "completion_succeed_tip": "Find a banana to feed Ninja Zashi in Gnarled Forest. He's locked up on Brig Rock.",
+    "in_progress": "Find a banana for Ninja Zashi in Gnarled Forest.",
+    "offer": "The pirates feed us only gruel. Yet a banana would taste so much better!",
+    "ready_to_complete": "Oh how I have longed for you, succulent yellow nanner. Nom."
+  },
+  "392": {
+    "completion_succeed_tip": "Outwit!",
+    "description": "Survive as a team for 1 minute in the Avant Gardens Survival game."
+  },
+  "393": {
+    "completion_succeed_tip": "Outplay!",
+    "description": "Survive as a team for 3 minutes in the Avant Gardens Survival game."
+  },
+  "394": {
+    "completion_succeed_tip": "Outlast!",
+    "description": "Survive as a team for 5 minutes in the Avant Gardens Survival game."
+  },
+  "395": {
+    "completion_succeed_tip": "Survivalist!",
+    "description": "Survive as a team for 7 minutes in the Avant Gardens Survival game."
+  },
+  "396": {
+    "completion_succeed_tip": "Be Prepared!",
+    "description": "Survive as a team for 8 minutes in the Avant Gardens Survival game."
+  },
+  "397": {
+    "completion_succeed_tip": "Send more paramedics!",
+    "description": "Survive as a team for 9 minutes in the Avant Gardens Survival game."
+  },
+  "398": {
+    "completion_succeed_tip": "Unstoppable!",
+    "description": "Survive as a team for 10 minutes in the Avant Gardens Survival game."
+  },
+  "399": {
+    "completion_succeed_tip": "Nothing Left for Dead 1!",
+    "description": "Smash 100 Survival enemies."
+  },
+  "400": {
+    "completion_succeed_tip": "Nothing Left for Dead 2!",
+    "description": "Smash 1000 more Survival enemies."
+  },
+  "401": {
+    "completion_succeed_tip": "Nothing Left for Dead 4!",
+    "description": "Smash 10,000 more Survival enemies."
+  },
+  "402": {
+    "completion_succeed_tip": "Brains!",
+    "description": "Smash 100 Survival Stromlings."
+  },
+  "403": {
+    "completion_succeed_tip": "Pest Control!",
+    "description": "Smash 100 Survival Spiders."
+  },
+  "404": {
+    "completion_succeed_tip": "Crush the Uprising!",
+    "description": "Smash 100 Survival Mechs."
+  },
+  "405": {
+    "completion_succeed_tip": "Battle Booster!",
+    "description": "Build the Survival Buff Station 100 times."
+  },
+  "408": {
+    "completion_succeed_tip": "Gunner's Mate 1!",
+    "description": "Collect 25 cannonballs."
+  },
+  "409": {
+    "completion_succeed_tip": "Gunner's Mate 2!",
+    "description": "Collect 100 more cannonballs."
+  },
+  "410": {
+    "completion_succeed_tip": "That's Appealing 1!",
+    "description": "Collect 25 bananas."
+  },
+  "411": {
+    "completion_succeed_tip": "That's Appealing 2!",
+    "description": "Collect 100 more bananas."
+  },
+  "412": {
+    "completion_succeed_tip": "You've discovered the Ravine!",
+    "description": "Discover the Ravine in Gnarled Forest."
+  },
+  "413": {
+    "completion_succeed_tip": "You've discovered Brig Rock!",
+    "description": "Discover Brig Rock in Gnarled Forest."
+  },
+  "414": {
+    "completion_succeed_tip": "You've discovered the Pirate Camp!",
+    "description": "Discover the Pirate Camp in Gnarled Forest."
+  },
+  "415": {
+    "completion_succeed_tip": "You've discovered Tortoise Terrace!",
+    "description": "Discover Tortoise Terrace in Gnarled Forest."
+  },
+  "416": {
+    "completion_succeed_tip": "You've discovered Elephant Escarpment!",
+    "description": "Discover Elephant Escarpment in Gnarled Forest."
+  },
+  "417": {
+    "completion_succeed_tip": "You've discovered Crocodile Corner!",
+    "description": "Discover Crocodile Corner in Gnarled Forest."
+  },
+  "419": {
+    "completion_succeed_tip": "You've discovered the Maelstrom Trench!",
+    "description": "Discover the Maelstrom Trench in Gnarled Forest."
+  },
+  "420": {
+    "completion_succeed_tip": "Gnarled Forest Observer!",
+    "description": "Use all 9 of the Binoculars in Gnarled Forest."
+  },
+  "421": {
+    "completion_succeed_tip": "Venture League Privateer 1!",
+    "description": "Smash 25 Stromling Pirates."
+  },
+  "422": {
+    "completion_succeed_tip": "Venture League Privateer 2!",
+    "description": "Smash 100 more Stromling Pirates."
+  },
+  "423": {
+    "completion_succeed_tip": "Venture League Privateer 3!",
+    "description": "Smash 1000 more Stromling Pirates."
+  },
+  "424": {
+    "completion_succeed_tip": "Pirate Duelist 1!",
+    "description": "Smash 10 Stromling Admirals."
+  },
+  "425": {
+    "completion_succeed_tip": "Pirate Duelist 2!",
+    "description": "Smash 50 more Stromling Admirals."
+  },
+  "426": {
+    "completion_succeed_tip": "Pirate Duelist 3!",
+    "description": "Smash 500 more Stromling Admirals."
+  },
+  "427": {
+    "completion_succeed_tip": "Pirate Swashbuckler 1!",
+    "description": "Smash 5 Stromling Apes."
+  },
+  "428": {
+    "completion_succeed_tip": "Pirate Swashbuckler 2!",
+    "description": "Smash 25 more Stromling Apes."
+  },
+  "429": {
+    "completion_succeed_tip": "Pirate Swashbuckler 3!",
+    "description": "Smash 75 more Stromling Apes."
+  },
+  "430": {
+    "completion_succeed_tip": "Boom Boxes 1!",
+    "description": "Smash 25 explosive crates."
+  },
+  "431": {
+    "completion_succeed_tip": "Boom Boxes 2!",
+    "description": "Smash 100 more explosive crates."
+  },
+  "432": {
+    "completion_succeed_tip": "Boom Boxes 3!",
+    "description": "Smash 1000 more explosive crates."
+  },
+  "433": {
+    "completion_succeed_tip": "Everybody's chum, Chief Brody 1!",
+    "description": "Smash 25 sharks."
+  },
+  "434": {
+    "completion_succeed_tip": "Everybody's chum, Chief Brody 2!",
+    "description": "Smash 100 more sharks."
+  },
+  "435": {
+    "completion_succeed_tip": "For Pirates Only 1!",
+    "description": "Use a 'Pirates Only' Quick Build 10 times."
+  },
+  "436": {
+    "completion_succeed_tip": "For Pirates Only 2!",
+    "description": "Use a 'Pirates Only' Quick Build 100 more times."
+  },
+  "439": {
+    "completion_succeed_tip": "A New Parable!",
+    "description": "Tame the Tortoise and Warthog Pets."
+  },
+  "440": {
+    "completion_succeed_tip": "Toast!",
+    "description": "Get burnt by a campfire 25 times."
+  },
+  "445": {
+    "completion_succeed_tip": "Shark Bite 1!",
+    "description": "Get eaten by a shark."
+  },
+  "446": {
+    "completion_succeed_tip": "Shark Bite 2!",
+    "description": "Get eaten by a shark 10 more times."
+  },
+  "447": {
+    "completion_succeed_tip": "Shark Bite 3!",
+    "description": "Get eaten by a shark 100 more times."
+  },
+  "448": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 1!",
+    "description": "Complete 10 Missions or Achievements in Gnarled Forest."
+  },
+  "449": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 2!",
+    "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 20."
+  },
+  "450": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 3!",
+    "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 30."
+  },
+  "451": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 4!",
+    "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 40."
+  },
+  "452": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 5!",
+    "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 50."
+  },
+  "453": {
+    "completion_succeed_tip": "Gnarled Forest Achiever 6!",
+    "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 60."
+  },
+  "454": {
+    "completion_succeed_tip": "Pirate Legend 1!",
+    "description": "Complete a number of 'Piratey' activities."
+  },
+  "455": {
+    "completion_succeed_tip": "Pirate Legend 2!",
+    "description": "Complete more 'Piratey' activities."
+  },
+  "456": {
+    "completion_succeed_tip": "Pirate Legend 3!",
+    "description": "Complete even more 'Piratey' activities."
+  },
+  "457": {
+    "completion_succeed_tip": "Pirate Legend 4!",
+    "description": "Complete still more 'Piratey' activities."
+  },
+  "458": {
+    "completion_succeed_tip": "Pirate Legend 5!",
+    "description": "Complete a lot more 'Piratey' activities."
+  },
+  "460": {
+    "accept_chat_bubble": "Smash them Admirals! And watch out for them anchor shots!",
+    "chat_state_1": "Hoist yerself up, it's not safe down there!",
+    "chat_state_2": "Get clear before they shoot their anchors!",
+    "chat_state_3": "Sink me, ya done it!",
+    "completion_succeed_tip": "Return to Bert Scurvyburp at Brig Rock in Gnarled Forest.",
+    "in_progress": "Smash 3 Stromling Admirals in Gnarled Forest.",
+    "offer": "Begad! That Maelstrom got all our best men! I know it's treason, but you gotta smash 3 Admirals!",
+    "ready_to_complete": "Yo ho ho! You sure swashed their buckles!"
+  },
+  "461": {
+    "accept_chat_bubble": "Go build some walls to hold off them Stromlings!",
+    "chat_state_1": "A plague on all of us! They keep on comin'!",
+    "chat_state_2": "No quarter fer them scurvy Maelstrom swabs!",
+    "chat_state_3": "Yaaargh! You were quicker n' a greased cannonball out there!",
+    "chat_state_4": "We should never've looted no Maelstrom treasure!",
+    "completion_succeed_tip": "Enemies blocked! Return to Bert Scurvyburp at Brig Rock.",
+    "in_progress": "Build 3 barricades below Brig Rock to stop Stromlings from spawning.",
+    "offer": "Them blaggard enemies come from below. Wall off the cracks to stop the attack!",
+    "ready_to_complete": "Yaaarrgh! You shivered their timbers!"
+  },
+  "462": {
+    "completion_succeed_tip": "Pirate Arch-itect 1!",
+    "description": "Quick Build the Pirate Archway in Gnarled Forest."
+  },
+  "463": {
+    "completion_succeed_tip": "Pirate Arch-itect 2!",
+    "description": "Quick Build the Pirate Archway in Gnarled Forest 25 more times."
+  },
+  "467": {
+    "completion_succeed_tip": "Survivor!",
+    "description": "Stay alive for 5 minutes as a solo player in a Survival game."
+  },
+  "468": {
+    "completion_succeed_tip": "Ultimate Survivor!",
+    "description": "Stay alive for 10 minutes as a solo player in a Survival game."
+  },
+  "470": {
+    "accept_chat_bubble": "Head up to the Monument and get those bricks!",
+    "chat_state_1": "This hole's too big, we can't hold them back like this!",
+    "chat_state_2": "There are plenty of bricks up by the Monument!",
+    "chat_state_3": "I always feel better when I can build something.",
+    "chat_state_4": "Thanks for your help!",
+    "completion_succeed_tip": "That's enough bricks. Return to Fitz Vanderbuilt at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Smash lumber piles</font> near the Monument to find <font color='#FF7F00'>bricks</font> for the wall at the Sentinel Base Camp.",
+    "offer": "We need to rebuild this wall! Assembly has some <font color='#FF7F00'>bricks</font> up at the Monument - can you get some?",
+    "ready_to_complete": "Just in time! Now we can fix this hole and keep those Stromlings out!"
+  },
+  "472": {
+    "completion_succeed_tip": "Pirate Firefighter!",
+    "description": "Put out 10 tiki torches with the Water Sprayer or other water spraying device!"
+  },
+  "474": {
+    "accept_chat_bubble": "You remember where Nexus Jay is, right?",
+    "chat_state_1": "I love concerts! Wanna hear the Thunder clap?",
+    "chat_state_2": "Off with ya! Time for the Thunder to daydream about his adventures.",
+    "chat_state_3_turnin": "Over here, recruit!",
+    "chat_state_4_turnin": "You'll make a fine addition to the Nexus Force.",
+    "completion_succeed_tip": " Return to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza. Then select a Faction to join!",
+    "offer": "You earned the approval of the Venture League today, mate! Go tell <font color='#FF7F00'>Nexus Jay</font>!",
+    "ready_to_complete": "Looks like you've seen some action and sampled each <font color='#FF7F00'>Faction</font>! Are you ready to <font color='#FF7F00'>make your choice</font> now?"
+  },
+  "475": {
+    "accept_chat_bubble": "Imagination is the key to defeating the Maelstrom.",
+    "chat_state_1": "Building is a skill that grows when Imagination is added.",
+    "chat_state_2": "Look for Nexus Jay in Nimbus Plaza.",
+    "chat_state_3_turnin": "The Nexus Force needs you!",
+    "completion_succeed_tip": "Find Nexus Jay in Nimbus Plaza.",
+    "in_progress": "Tell <font color='#FF7F00'>Nexus Jay</font> that you earned the approval of the Assembly Faction.",
+    "offer": "<font color='#FF7F00'>Talk to Nexus Jay</font> and let him know you have the approval of Assembly! He's waiting back in Nimbus Plaza.",
+    "ready_to_complete": "Mardolf is one of the best builders around. He must see great potential in you!"
+  },
+  "476": {
+    "accept_chat_bubble": "Learn the secrets of building from Mardolf the Orange!",
+    "chat_state_1": "Become a builder! Join Assembly!",
+    "chat_state_2": "Look for orange robes and a long white beard - that's Mardolf.",
+    "chat_state_3": "Come to build on your knowledge, eh?",
+    "chat_state_3_turnin": "Mardolf is never late, nor is he early.",
+    "chat_state_4": "Build yourself up with Assembly gear!",
+    "completion_succeed_tip": "Find Mardolf the Orange in Nimbus Station to earn approval from the Assembly Faction.",
+    "in_progress": "<font color='#FF7F00'>Talk to Mardolf the Orange</font> to earn approval from the Assembly Faction.",
+    "offer": "<font color='#FF7F00'>Talk to Mardolf the Orange</font> in Brick Annex and try to earn approval from the Assembly Faction.",
+    "ready_to_complete": "So you want to build, that it? Snap, click, stack, done and done? Oh, there's more to it than that."
+  },
+  "477": {
+    "accept_chat_bubble": "Smash enemies to find Maelstrom-infected bricks.",
+    "chat_state_1": "We were so close to an answer!",
+    "chat_state_2": "Be careful with those bricks - you don't want to build with them!",
+    "chat_state_3": "Did you find enough?",
+    "chat_state_4": "Paradox will unlock the secrets of the Maelstrom. One day.",
+    "completion_succeed_tip": "Take the Maelstrom-infected bricks back to Wisp Lee.",
+    "in_progress": "Smash enemies and <font color='#FF7F00'>collect 15 Maelstrom-infected bricks</font>. Then take them back to <font color='#FF7F00'>Wisp Lee</font>.",
+    "offer": "We must find out how the Maelstrom infects Imagination! Smash enemies and <font color='#FF7F00'>collect 15 Maelstrom-infected bricks</font>.",
+    "ready_to_complete": "Dark and powerful things can be created from Maelstrom-infected bricks. Unfortunately, we created one of those things: a Spider Queen!"
+  },
+  "478": {
+    "accept_chat_bubble": "Find Johnny Thunder and earn approval from the Venture League.",
+    "chat_state_1": "Blaze your own trail! Travel the Universe! Join the Venture League!",
+    "chat_state_2": "I met Johnny Thunder once - now that's a Venture League hero!",
+    "chat_state_3": "Oh, another adorin' fan, eh? Good, I can always use more.",
+    "chat_state_3_turnin": "It's not the years, it's the mileage.",
+    "chat_state_4": "Ready to explore? Come get your Venture League gear!",
+    "completion_succeed_tip": "Find Johnny Thunder somewhere in Nimbus Station to earn approval from the Venture League.",
+    "in_progress": "Explore Nimbus Station and <font color='#FF7F00'>find Johnny Thunder</font> to earn approval from the Venture League.",
+    "offer": "You must earn approval from the Venture League. <font color='#FF7F00'>Find Johnny Thunder</font> and convince him that you know all about exploring and treasure!",
+    "ready_to_complete": "You found the Thunder, eh? Good on ya! On your way to becoming a Venture League explorer already!"
+  },
+  "479": {
+    "accept_chat_bubble": "You'll need Green Imaginite to enter Survival.",
+    "chat_state_1": "Can you survive under extreme conditions?",
+    "chat_state_2": "Interact with the Battle Tower to enter Survival.",
+    "chat_state_3": "How long can you last in there? Come back with better gear!",
+    "completion_succeed_tip": "Report to Commander Beck Strongheart.",
+    "in_progress": "Interact with the <font color='#FF7F00'>Battle Tower</font> to enter the <font color='#FF7F00'>Avant Gardens Survival</font> challenge, then <font color='#FF7F00'>last for 1 minute</font>. Survival requires 1 Green Imaginite.",
+    "offer": "Now for the real test. If you can <font color='#FF7F00'>last for 1 minute</font> in our Survival challenge, I’ll approve your entry into the Nexus Force.",
+    "ready_to_complete": "The Sentinel Faction approves your entry into the Nexus Force! I'll make sure Duke Exeter hears about your skills on the battlefield."
+  },
+  "482": {
+    "accept_chat_bubble": "Don't bring me any buried chests - I only want the floating, bouncing ones!",
+    "chat_state_1": "I'm a lot to take in at once, I know. Blinkin' might help with that!",
+    "chat_state_2": "Aw, you can't have found all 3 already! Not even I'm that good, mate.",
+    "chat_state_3": "And you even found your way back, eh?",
+    "chat_state_4": "Treasure Chests? Ah, that was easy. But can you get that Imagination Brick up there?",
+    "completion_succeed_tip": "Return to Johnny Thunder by the Red Blocks concert.",
+    "in_progress": "<font color='#FF7F00'>Find 3 floating treasure chests</font> hidden around Nimbus Station.",
+    "offer": "Right mate, ready for some hardcore explorin'? <font color='#FF7F00'>Find 3 floating treasure chests</font> I hid around Nimbus Station!",
+    "ready_to_complete": "The <font color='#FF7F00'>Venture League </font> approves! Ripper! Now, who wants to hear about the Thunder's latest adventure?"
+  },
+  "483": {
+    "accept_chat_bubble": "Each new Minifigure in our ranks helps weaken the spread of the Maelstrom!",
+    "chat_state_1": "Hey! Minifigure!",
+    "chat_state_2": "Nexus Jay is standing on the edge of Nimbus Plaza.",
+    "chat_state_3_turnin": "Welcome to Nimbus Station!",
+    "completion_succeed_tip": "See Nexus Jay in Nimbus Station about joining one of the Nexus Force Factions!",
+    "in_progress": "<font color='#FF7F00'>Fly to Nimbus Station</font> and <font color='#FF7F00'>talk to Nexus Jay</font>, the Nexus Force Recruiter.",
+    "offer": "The Nexus Force needs more Minifigures like you! <font color='#FF7F00'>Talk to Nexus Jay</font> in <font color='#FF7F00'>Nimbus Station</font> and find out how to join a Faction!",
+    "ready_to_complete": "You earned approval from the Sentinels and Paradox. Now prove yourself to the <font color='#FF7F00'>Assembly Faction</font>, masters of building and Imagination!"
+  },
+  "488": {
+    "completion_succeed_tip": "Spaceship Observer!",
+    "description": "Use all 5 of the binoculars in the Venture Explorer spaceship."
+  },
+  "489": {
+    "completion_succeed_tip": "Avant Gardens Observer!",
+    "description": "Use all 9 of the binoculars in Avant Gardens."
+  },
+  "490": {
+    "accept_chat_bubble": "If you cannot find the Tree, look for a large trunk and many branches.",
+    "chat_state_1": "A traveler? In these lands?",
+    "chat_state_2": "Seek the Great Tree, brave traveler.",
+    "chat_state_3": "How do you like the view?",
+    "chat_state_3_turnin": "Wax on... Wax off.",
+    "chat_state_4": "Knowledge means nothing if you do not know it.",
+    "completion_succeed_tip": "Travel to the Great Tree in Forbidden Valley and find Master Fong Shader.",
+    "in_progress": "Find Master Fong Shader at the Great Tree in Forbidden Valley.",
+    "offer": "You are clever and adventurous! Travel to Great Tree and speak with Master Fong. He may have a use for you.",
+    "ready_to_complete": "News from my old master? Hmm. Dark tidings about the Maelstrom. I must ponder this."
+  },
+  "493": {
+    "accept_chat_bubble": "Some think things Through, while others think things Over.",
+    "chat_state_1": "If you think our Gate is impressive, wait until you see our Guard.",
+    "chat_state_2": "Look high and low for a path.",
+    "chat_state_3": "Your face is new to me. Then again, my eyesight is not as keen as it used to be.",
+    "completion_succeed_tip": "Find a way past Ravencloud Gate and talk to Kenjin the Wise.",
+    "in_progress": "Look for a secret path around Ravencloud Gate and talk to Kenjin the Wise.",
+    "offer": "A Ninja creates his own path. Find a way past Ravencloud Gate and speak to Kenjin the Wise on the other side.",
+    "ready_to_complete": "Others see a Gate where a Ninja only sees another path. You show much promise."
+  },
+  "496": {
+    "accept_chat_bubble": "Go and train. There is much to be learned.",
+    "chat_state_1": "A student studies. A trainee trains. But a Ninja? A Ninja ninjas.",
+    "chat_state_2": "Seek the Ninjas in the branches of the Tree.",
+    "chat_state_3": "I once tried some pizza, but it appears I am lactose-intolerant.",
+    "chat_state_4": "It seems that Ninjas simply cannot help being awesome.",
+    "completion_succeed_tip": "Return to Master Fong Shader in Forbidden Valley.",
+    "in_progress": "Find the 3 Ninja Masters in the Great Tree in Forbidden Valley.",
+    "offer": "Welcome to the Great Tree, seeker. You must branch out and prove yourself to the 3 Ninjas above.",
+    "ready_to_complete": "You are ready to proceed. Numb Chuck will train you now."
+  },
+  "497": {
+    "accept_chat_bubble": "Find the Horsemen, dodge their dash, then bravely you prepare to smash!",
+    "chat_state_1": "Strike and smash and crush and scatter! Swift or stealthy, need not matter!",
+    "chat_state_2": "Spreading misty purple doom, the Horsemen ride out from their tombs.",
+    "chat_state_3": "And have you smashed the deadly steed? For you are brave! Indeed! Indeed!",
+    "chat_state_4": "The Horsemen smashed, the mission's done. But still the battle’s not yet won.",
+    "completion_succeed_tip": "Return to Smashmaster Foom in Forbidden Valley.",
+    "in_progress": "Smash 5 Maelstrom Horsemen in Forbidden Valley.",
+    "offer": "Upon dark steed the Horsemen ride, the Maelstrom burning deep inside. Smash 5 Horsemen!",
+    "ready_to_complete": "Pwned the ponies? Stallions smashed? Upon the Hill your weapons clashed!"
+  },
+  "498": {
+    "accept_chat_bubble": "In statues do the Ronin sleep, on battlegrounds and pathways steep.",
+    "chat_state_1": "With lightning moves and deadly might, strike hard and make their bricks take flight!",
+    "chat_state_2": "These Ronin once knew no commands, but now the Maelstrom guides their hands.",
+    "chat_state_3": "Did 10 Dark Ronin smash apart? You’re fleet of feet and stout of heart!",
+    "chat_state_4": "I sling together words and rhyme, for Rhyming Ninjas flow sublime!",
+    "completion_succeed_tip": "Return to Smashmaster Foom in Forbidden Valley.",
+    "in_progress": "Smash 10 Dark Ronin in Forbidden Valley. Wait until the Maelstrom has possessed the statues.",
+    "offer": "In haunted armor, evil grows. Inside the Ronin, Maelstrom flows. Smash 10 to find your zen!",
+    "ready_to_complete": "The statues rose, the Maelstrom surged! But thanks to you, the evil's purged!"
+  },
+  "500": {
+    "accept_chat_bubble": "I hope I look cool in those Party Pants!",
+    "chat_state_1": "Um, excuse me.",
+    "chat_state_2": "Hey, if you bring me Party Pants, I'll give you this water sprayer part!",
+    "chat_state_3": "Did you find my size?",
+    "chat_state_4": "Next time I need some Pants I'll know who to ask!",
+    "completion_succeed_tip": "Take the Party Pants back to Milo Snackpigeon in Nimbus Station.",
+    "in_progress": "Get some Party Pants from the Concert vendor for Milo Snackpigeon.",
+    "offer": "There's a Pants Party and I'm invited! Except I lost mine. Can you get me some Party Pants?",
+    "ready_to_complete": "Niiice. Hey, do these Pants make my legs look square?"
+  },
+  "502": {
+    "completion_succeed_tip": "Pet Cove Explorer!",
+    "description": "Discover all points of interest in Pet Cove."
+  },
+  "505": {
+    "completion_succeed_tip": "Pet Excavator!",
+    "description": "Dig up 6 different Pet Digs in Pet Cove."
+  },
+  "506": {
+    "accept_chat_bubble": "Every world has different Pets to tame, so look everywhere!",
+    "chat_state_1": "Being a Pet owner is a special bond, isn't it?",
+    "chat_state_2": "How many Pets have you found so far?",
+    "chat_state_3": "I can already tell you've made a lot of new friends!",
+    "completion_succeed_tip": "Return to Coalessa in Pet Cove.",
+    "in_progress": "Tame 7 pets and return to Coalessa in Pet Cove. Look on different worlds for different kinds of Pets!",
+    "offer": "The only thing better than one Pet is a whole bunch! Can you tame 7 Pets?",
+    "ready_to_complete": "All of your Pets tell me they're so happy you found them! Here, this Imagination should help you with them!"
+  },
+  "509": {
+    "accept_chat_bubble": "The Bell Shrines can be found throughout the Valley. Search everywhere.",
+    "chat_state_1": "To acquire new things, one must be ready to explore and discover.",
+    "chat_state_2": "Find all 4 Bell Shrines, then bring me the Hammer pieces you find within.",
+    "chat_state_3": "Have you brought the pieces? My forge is ready for steel.",
+    "completion_succeed_tip": "Take the 4 Hammer pieces to Gathermaster Klex in Forbidden Valley.",
+    "in_progress": "Smash all 4 Bell Shrines in Forbidden Valley and retrieve the Hammer bricks.",
+    "offer": "Hidden in the Bell Shrines are 4 bricks of great strength. Collect them and I will build you a Hammer forged from the Maelstrom.",
+    "ready_to_complete": "To understand darkness, you must wield it. The Maelstrom Hammer smashes things that other weapons cannot."
+  },
+  "510": {
+    "completion_succeed_tip": "Pet Cove Observer!",
+    "description": "Use all 4 of the binoculars in Pet Cove."
+  },
+  "511": {
+    "completion_succeed_tip": "Nimbus Station Observer!",
+    "description": "Use all 10 of the binoculars in Nimbus Station."
+  }
+}

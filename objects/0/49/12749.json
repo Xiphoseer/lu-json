@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 4 AP",
+  "components": {
+    "11": 6297,
+    "2": 12539,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cow Skull Shirt",
+  "gate_version": "auramar",
+  "id": 12749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cow Skull Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

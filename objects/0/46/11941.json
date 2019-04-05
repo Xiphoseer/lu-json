@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11691,
+    "3": 5763,
+    "39": 61,
+    "5": 1304
+  },
+  "description": "model that puts player in an instance for NS Survival",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11941,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Survival Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

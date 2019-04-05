@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6154,
+    "40": 2876,
+    "5": 919,
+    "7": 605
+  },
+  "description": "This is the thing you click on to capture the barrel",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6620,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PvP Capture Barrel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

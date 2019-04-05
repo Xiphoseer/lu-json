@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "DO NOT USE",
+  "components": {
+    "11": 5116,
+    "2": 10215,
+    "3": 4607,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Farm Barn Front Model",
+  "gate_version": "march2011content",
+  "id": 10367,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD Model Reward Farm Barn Front",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14019,
+    "3": 7151,
+    "67": 28,
+    "78": 33
+  },
+  "description": "Launch pad to Avant Gardens in the LEGO Club",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14330,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LEGO Club - AG Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

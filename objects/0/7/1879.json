@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing",
+  "components": {
+    "11": 850,
+    "2": 1756,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Katana",
+  "gate_version": null,
+  "id": 1879,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 285
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "+Random consumables",
+  "components": {
+    "11": 6843,
+    "2": 13474,
+    "53": 126
+  },
+  "description": "Double-click to open!",
+  "displayName": "Pirate's Picnic Basket",
+  "gate_version": "april2011content",
+  "id": 13737,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Picnic Basket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

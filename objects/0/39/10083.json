@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4905,
+    "2": 9919,
+    "3": 4457,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Barrel Hut Model 3",
+  "gate_version": null,
+  "id": 10083,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Barrel Hut 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4431,
+    "2": 9202,
+    "28": 87,
+    "3": 4042,
+    "42": 0,
+    "63": 5
+  },
+  "description": null,
+  "displayName": "Hyperstarter Side Panels",
+  "gate_version": null,
+  "id": 9343,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car1_SidePanels1_r",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

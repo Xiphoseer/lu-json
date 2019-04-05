@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13290,
+    "3": 6646,
+    "7": 1844
+  },
+  "description": "Pet Taming Item - toothbrush",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 13553,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Pet Taming - saber  toothbrush",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

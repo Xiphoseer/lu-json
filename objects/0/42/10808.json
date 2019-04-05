@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5264,
+    "2": 10655,
+    "3": 4929,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Water Pump Model",
+  "gate_version": null,
+  "id": 10808,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Water Pump",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

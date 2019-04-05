@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Lightning Kit",
+  "components": {
+    "11": 7557,
+    "2": 15012,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Lightning and rocket directly to the Ninjago Caves!",
+  "displayName": "Gi of Storms",
+  "gate_version": "njhub",
+  "id": 16266,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Spinjitzu Gi Gi of Storms",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7252,
+    "3": 3403
+  },
+  "description": "Animated nif for whale",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7692,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FX_env_petrock_whale",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

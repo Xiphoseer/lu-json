@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Skeleton Lieutenant",
+  "components": {
+    "1": 7574,
+    "17": 552,
+    "2": 14766,
+    "31": 83,
+    "5": 1607,
+    "60": 165,
+    "7": 2101,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Chopov - Skeleton of Earth",
+  "gate_version": "njhub",
+  "id": 16047,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Chopov Skeleton Lieutenant",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1524
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1529
+    }
+  ],
+  "type": "Enemies"
+}

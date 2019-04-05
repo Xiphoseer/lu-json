@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test",
+  "components": {
+    "11": 3619,
+    "2": 7725
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 8182,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Nexus Force Faction Token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

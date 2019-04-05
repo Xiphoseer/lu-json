@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11155,
+    "3": 5281
+  },
+  "description": "RACE-FVTrack09_TRACK_FVTree",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11382,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack09_TRACK_FVTree",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

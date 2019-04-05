@@ -1,0 +1,49 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 541,
+    "2": 14090,
+    "3": 1777,
+    "35": 624,
+    "7": 305
+  },
+  "description": "__MG__Kiki Kawaii",
+  "displayName": "Kiki Kawaii - Master of Cutejitzu",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    }
+  ],
+  "id": 14399,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Mon- Kiki Kawaii",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

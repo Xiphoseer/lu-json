@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12158,
+    "23": 44,
+    "40": 6085,
+    "7": 1709
+  },
+  "description": "Collectible Spawner for NT Treasure Chest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12405,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Treasure Chest Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

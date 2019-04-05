@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 2238
+  },
+  "description": "Ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2625,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Perched Crow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

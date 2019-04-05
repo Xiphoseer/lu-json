@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 6341,
+    "2": 12583,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Lederhosen Legs",
+  "gate_version": "nexustower",
+  "id": 12793,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lederhosen Legs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

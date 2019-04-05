@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8708,
+    "3": 3985
+  },
+  "description": "maelstrom pit fog -- Forbidden Valley",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9255,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "maelstrom pit fog - FV",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

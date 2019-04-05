@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2939,
+    "2": 6504,
+    "3": 3051,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Shark Model",
+  "gate_version": null,
+  "id": 6942,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Shark",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

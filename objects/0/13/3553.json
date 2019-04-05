@@ -1,0 +1,45 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1087,
+    "2": 3425,
+    "5": 478,
+    "7": 310,
+    "73": 7,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 3553,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Skunk Buster Trainee",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 773
+    }
+  ],
+  "type": "NPC"
+}

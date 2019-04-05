@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4840,
+    "2": 5855,
+    "31": 23,
+    "5": 850,
+    "60": 10,
+    "7": 1569,
+    "9": 0
+  },
+  "description": "Spawned from Behavior, no loot",
+  "displayName": "Dark Spiderling",
+  "gate_version": null,
+  "id": 10697,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior Spawn - Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Enemies"
+}

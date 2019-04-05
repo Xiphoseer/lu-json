@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 5061,
+    "2": 10142,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Black Cat Backpack",
+  "gate_version": null,
+  "id": 10296,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Cat in a Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

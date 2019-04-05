@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Tier 4 projectile attack",
+  "components": {
+    "11": 6999,
+    "2": 13833,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Skyme's Blunderbuss",
+  "gate_version": "nexustower",
+  "id": 14122,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skyme's Blunderbuss",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1344
+    }
+  ],
+  "type": "Loot"
+}

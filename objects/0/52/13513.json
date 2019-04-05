@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6667,
+    "2": 13247,
+    "28": 332,
+    "3": 6619,
+    "42": 0,
+    "63": 29
+  },
+  "description": null,
+  "displayName": "Assembly Blockader Engine Panel",
+  "gate_version": "factionvehicles",
+  "id": 13513,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAS_EnginePanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

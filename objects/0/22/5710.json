@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test for package tech",
+  "components": {
+    "11": 2365,
+    "2": 5267,
+    "53": 1
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 5710,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

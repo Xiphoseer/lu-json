@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire element elevator spinner trap",
+  "components": {
+    "2": 14940,
+    "25": 21,
+    "3": 7651,
+    "39": 115,
+    "5": 1659
+  },
+  "description": "",
+  "displayName": "NJ - Fire  - Elevator Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16224,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Elevator Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

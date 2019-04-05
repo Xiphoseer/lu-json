@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11835,
+    "3": 5880
+  },
+  "description": "Test of the Teeth Section A of Aura Mar",
+  "displayName": "AM Teeth Section A",
+  "gate_version": null,
+  "id": 12086,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Teeth Section A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

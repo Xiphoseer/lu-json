@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 425,
+    "2": 11651,
+    "3": 1777,
+    "35": 523,
+    "7": 307
+  },
+  "description": "For Credits",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11903,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "nd - tarr ben",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14589,
+    "3": 7520,
+    "7": 2080
+  },
+  "description": "",
+  "displayName": "NJ - Cave Rock Smashable Medium",
+  "gate_version": "njhub",
+  "id": 15896,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Cave Rock Smashable Medium",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

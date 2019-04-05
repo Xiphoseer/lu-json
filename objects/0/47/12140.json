@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11889,
+    "3": 5898
+  },
+  "description": "Nexus Tower G09-Shell",
+  "displayName": "NT G09-Shell",
+  "gate_version": null,
+  "id": 12140,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G09-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

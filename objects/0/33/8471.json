@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing + Freeze",
+  "components": {
+    "11": 3770,
+    "2": 8026,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Katana of Freezing",
+  "gate_version": null,
+  "id": 8471,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Katana of Freezing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 939
+    }
+  ],
+  "type": "Loot"
+}

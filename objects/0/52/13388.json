@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13116,
+    "3": 6512
+  },
+  "description": "UI poster hologram",
+  "displayName": "CruxPrimeSignage",
+  "gate_version": "auramar",
+  "id": 13388,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CruxPrimeSignage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5860,
+    "3": 2691,
+    "7": 534
+  },
+  "description": "Wartime Barrier smashable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6415,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Hedgehog Barrier",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

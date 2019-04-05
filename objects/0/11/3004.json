@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1955,
+    "2": 2984,
+    "35": 142,
+    "39": 0,
+    "5": 378
+  },
+  "description": "__MG__AG NPC starts timed challenge on course",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3004,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Course Starter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

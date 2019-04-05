@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5652,
+    "2": 11353,
+    "3": 5445,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Barn Tall End Model",
+  "gate_version": "march2011content",
+  "id": 11601,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Barn End Tall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

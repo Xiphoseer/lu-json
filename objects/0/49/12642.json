@@ -1,0 +1,45 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Valiant Weapon",
+  "components": {
+    "11": 6202,
+    "2": 12432,
+    "5": 1083,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "The Samuraizor",
+  "gate_version": "valiantweapons",
+  "id": 12642,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Samurai Valiant Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1021
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1267
+    }
+  ],
+  "type": "Loot"
+}

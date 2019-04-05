@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/32/33220.json"
+    }
+  },
+  "behaviorID": 33220,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "affects_caster": 1.0,
+    "attack_speed": 0.0,
+    "run_speed": 750.0
+  },
+  "templateID": 23
+}

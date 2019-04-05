@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10257,
+    "3": 4633,
+    "39": 39
+  },
+  "description": "model that puts player in an instance for GF race",
+  "displayName": "",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 182,
+      "iconState": 69
+    }
+  ],
+  "id": 10413,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Race Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

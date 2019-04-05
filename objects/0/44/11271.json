@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11041,
+    "3": 5205
+  },
+  "description": "birdbath located in picnic area in AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11271,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NS_vendingmachine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

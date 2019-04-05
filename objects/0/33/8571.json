@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9474,
+    "3": 4192,
+    "5": 1093,
+    "7": 945,
+    "9": 0
+  },
+  "description": "Spawning device for the ronin.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8571,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV-Stone Warrior Spawner 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 305
+    }
+  ],
+  "type": "Smashables"
+}

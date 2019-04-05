@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 010 2011",
+  "components": {
+    "11": 7392,
+    "2": 14679,
+    "53": 153
+  },
+  "description": "Double-click to open!",
+  "displayName": "Pencil Rocket Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15978,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pencil Rocket Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

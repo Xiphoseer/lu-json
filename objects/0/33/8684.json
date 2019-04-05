@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3923,
+    "2": 8238,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Epaulets of Extravagance",
+  "gate_version": null,
+  "id": 8684,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Epaulets of Extravagance",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

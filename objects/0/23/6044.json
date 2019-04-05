@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2519,
+    "2": 5451,
+    "3": 2509,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Small Table Model",
+  "gate_version": null,
+  "id": 6044,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Table Small",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

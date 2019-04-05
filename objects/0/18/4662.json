@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4080,
+    "3": 1977
+  },
+  "description": "Temp Object For Effects",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4662,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rebuild Helper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

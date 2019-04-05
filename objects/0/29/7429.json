@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 62,
+    "17": 363,
+    "2": 9875,
+    "3": 1777,
+    "35": 455,
+    "7": 306
+  },
+  "description": "FV Brick Vendor - Facility",
+  "displayName": "Shu Fitts - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 7429,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Brick Vendor - Facility",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

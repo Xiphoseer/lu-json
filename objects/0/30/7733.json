@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 3247,
+    "2": 7289,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Frying Pan",
+  "gate_version": null,
+  "id": 7733,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Frying Pan",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 523
+    }
+  ],
+  "type": "Loot"
+}

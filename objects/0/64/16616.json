@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit 2",
+  "components": {
+    "11": 7809,
+    "2": 15396,
+    "9": 0
+  },
+  "description": "Wear this to look like Kai!",
+  "displayName": "Kai's Pants of Flames",
+  "gate_version": "njhub",
+  "id": 16616,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Pants Kai's Pants of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

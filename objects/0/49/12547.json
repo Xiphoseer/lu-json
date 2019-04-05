@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6160,
+    "2": 12338
+  },
+  "description": "Return this item to Epsilon Starcracker",
+  "displayName": "Venture Explorer Datacard",
+  "gate_version": "ventureinstance",
+  "id": 12547,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "VE Instance Datacard Mission Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

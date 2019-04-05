@@ -1,0 +1,18 @@
+{
+  "airSpeed": 10.0,
+  "boundaryAsset": null,
+  "collisionGroup": 4,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 1442,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "str\\misc\\str_o_wall-2x16x10BLUE.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

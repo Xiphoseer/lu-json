@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6097,
+    "2": 12203,
+    "9": 0
+  },
+  "description": "NPC Skeleton Pick Axe",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12449,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skeleton Pick Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 150
+    }
+  ],
+  "type": "Loot"
+}

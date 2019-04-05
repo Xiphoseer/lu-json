@@ -1,0 +1,19 @@
+{
+  "id": 1214,
+  "tasks": [
+    {
+      "IconID": 0,
+      "gate_version": "auramar",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 0,
+      "locStatus": 0,
+      "localize": true,
+      "target": 0,
+      "targetGroup": "AM_DROPSHIP_WRECK",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 12,
+      "uid": 1682
+    }
+  ]
+}

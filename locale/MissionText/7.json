@@ -1,0 +1,1605 @@
+{
+  "1793": {
+    "accept_chat_bubble": "Nya sells weapons and Johnny Umami sells supplies. Check out their shops!",
+    "chat_state_1": "Have you met Nya yet? She's got a fiery temper. Like bro, like sis!",
+    "chat_state_2": "Nya's shop is out in the Courtyard. We used to have a Blacksmith shop before we met Sensei.",
+    "chat_state_3": "Got the goods?",
+    "completion_succeed_tip": "Take the Sharp Kunai and Bancha Tea to Kai in the Monastery Dojo of Fire.",
+    "in_progress": "Buy a Sharp Kunai from Nya and 3 Bancha Tea from Johnny Umami in the Monastery. Then take them back to Kai.",
+    "offer": "I've got an idea to rain down some hurt on those Skeletons! Bring me a Sharp Kunai from Nya and 3 Bancha Tea from Johnny Umami.",
+    "ready_to_complete": "Nothing cracks Skeletons like Spinjitzu, but I've got a plan for something new!"
+  },
+  "1794": {
+    "accept_chat_bubble": "Smash those Siege Shields, then rebuild them into Targets!",
+    "chat_state_1": "What comes before Fire? Ready and aim!",
+    "chat_state_2": "You might have to deal with the Skeletons before you can build the Targets!",
+    "chat_state_3": "It worked!",
+    "completion_succeed_tip": "Return to Kai in the Monastery Dojo of Fire.",
+    "in_progress": "Smash 5 Skeleton Shields on the Ninjago Battlefield, then rebuild them into Archery Targets to launch Kai's Imagination arrows.",
+    "offer": "Okay, I used those items to create special Imagination-tipped arrows! Smash 5 of the Skeletons' Shields and rebuild them into Targets!",
+    "ready_to_complete": "That was awesome! We must have launched like 300 arrows out there!"
+  },
+  "1795": {
+    "accept_chat_bubble": "The orange banners bear the symbol of Earth.",
+    "chat_state_1": "Once again, the Nexus Force has come to our aid. We are grateful.",
+    "chat_state_2": "Follow the orange banners to find the Dojo of Earth!",
+    "chat_state_3_turnin": "Sensei sent you? Must be important!",
+    "completion_succeed_tip": "Speak to Cole in the Monastery Dojo of Earth.",
+    "in_progress": "Sensei Wu wants you to speak to Cole. Find him in the Monastery Dojo of Earth.",
+    "offer": "You must learn the 4 forms of Spinjitzu if you are to protect this Monastery! First, you must seek out Cole in the Dojo of Earth!",
+    "ready_to_complete": "So you've passed Sensei's first few lessons, huh? Did he make you get him tea?"
+  },
+  "1796": {
+    "accept_chat_bubble": "Put on the Gi, Hood and Pants you just got out of this chest.",
+    "chat_state_1": "Those should fit, unless you've been visiting Johnny Umami's stand!",
+    "chat_state_2": "This kit will help you focus on the spirit of Earth!",
+    "chat_state_3": "Whoa, it's like looking in a mirror!",
+    "completion_succeed_tip": "Talk to Cole again.",
+    "in_progress": "Equip all 3 pieces of the Earth Ninja kit.",
+    "offer": "Now that you have the Earth Ninja kit, you must prove that you can embody the spirit of Earth!",
+    "ready_to_complete": "You look ready to rock! Want to learn your first Earth Spinjitzu skill?"
+  },
+  "1797": {
+    "accept_chat_bubble": "Hurry to Sensei Wu - and stay solid out there!",
+    "chat_state_1": "Wait - what's that?!",
+    "chat_state_2": "Hurry, return to Sensei Wu in the Center Courtyard!",
+    "chat_state_3_turnin": "So Cole sensed it too? I have trained him well.",
+    "completion_succeed_tip": "Speak to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Cole wants you to return to Sensei Wu in the Ninjago Monastery.",
+    "offer": "I sense a rumble in the earth below! That can't be good. Hurry to Sensei Wu and find out what's happening!",
+    "ready_to_complete": "Skeletons have broken into the caves below this Monastery! They must be searching for the Weapons of Spinjitzu!"
+  },
+  "1798": {
+    "accept_chat_bubble": "The blue banners bear the symbol of Lightning.",
+    "chat_state_1": "3 more Weapons remain! And 3 more forms of Spinjitzu!",
+    "chat_state_2": "Follow the blue banners to find the Dojo of Lightning!",
+    "chat_state_3_turnin": "Yeah, I'm Jay. Careful, I've got an electric personality!",
+    "chat_state_4": "Return to me once you have learned enough from Jay!",
+    "completion_succeed_tip": "Speak to Jay in the Monastery Dojo of Lightning.",
+    "in_progress": "Sensei Wu wants you to speak with Jay. Find him in the Monastery Dojo of Lightning.",
+    "offer": "Earth is only the first element of 4. Next is Lightning! Speak to Jay in the Monastery Dojo of Lightning.",
+    "ready_to_complete": "Did Cole teach you anything good? He may seem all hard and tough, but he's a big softie."
+  },
+  "1799": {
+    "accept_chat_bubble": "You have to find Bozu Roku! He'll know if the other villagers are safe!",
+    "chat_state_1": "How did all of those Skeletons get in here? This is bad!",
+    "chat_state_2": "Look up on the ledges - if Bozu Roku is smart, he'll be hiding up there!",
+    "chat_state_3_turnin": "Aaaahhh!!! Are you a Skeleton? You don’t look like a Skeleton.",
+    "completion_succeed_tip": "Find Bozu Roku, who is hiding in the first cave below the Monastery.",
+    "in_progress": "Find Bozu Roku, who is hiding in the first cave below the Monastery.",
+    "offer": "Some Ninjago villagers came down here to hide, but I haven't seen them since! Can you find their leader, Bozu Roku?",
+    "ready_to_complete": "Are you here to save me? There are Skeletons everywhere!"
+  },
+  "1801": {
+    "accept_chat_bubble": "You won't be able to open those terrible cages until you build something fiendish!",
+    "chat_state_1": "These caves used to be safe - now they're a playground for Skeletons!",
+    "chat_state_2": "I know the purple button opens the cage somehow, but I'm not sure what to do!",
+    "chat_state_3": "You're even braver than Hari Howzen! She's not very brave, actually.",
+    "completion_succeed_tip": "Return to Bozu Roku in the Ninjago Caves.",
+    "in_progress": "Rescue all 6 of the villagers in the Ninjago Caves.",
+    "offer": "Now that you have the Skull-a-Ton Instructions, you can open those dreadful cages! Rescue all 6 of the villagers!",
+    "ready_to_complete": "You found them all? Even my mother-in-law? Oh well, thank you anyway!"
+  },
+  "1802": {
+    "accept_chat_bubble": "Search the caverns for piles of debris. Smash each to rebuild the Altar!",
+    "chat_state_1": "These caverns were once a sacred place.",
+    "chat_state_2": "Interact with each Altar to receive a blessing of Imagination!",
+    "chat_state_3": "I sense some light has returned to these caves - but they're still scary!",
+    "completion_succeed_tip": "Return to Bozu Roku in the Ninjago Caves.",
+    "in_progress": "Smash 7 piles of debris in the Ninjago Caves and rebuild each one into an Altar of Imagination.",
+    "offer": "We were trapped down here because the ancient Altars were smashed! Can you find 7 and rebuild them?",
+    "ready_to_complete": "Those Altars will bring some much-needed light back to these Caverns!"
+  },
+  "1805": {
+    "accept_chat_bubble": "Rush in and smash 'em before they wake up! You know, like a Ninja!",
+    "chat_state_1": "Who sleeps in a coffin anyway? Besides vampires, I mean.",
+    "chat_state_2": "Just look for something that looks like a creepy stone bed!",
+    "chat_state_3": "Maybe now they'll get tired and go home!",
+    "completion_succeed_tip": "Return to Podo Pandaheart, one of the Guards outside the Monastery Gates.",
+    "in_progress": "Smash 10 Skeleton Coffins on the Ninjago Battlefield before the Skeletons can pop out!",
+    "offer": "Even Skeletons need their beauty sleep! Smash 10 Coffins before the Skeletons inside can wake up!",
+    "ready_to_complete": "Hope you gave 'em all a Coffin fit!"
+  },
+  "1806": {
+    "accept_chat_bubble": "Use the brown Earth Spinjitzu Lanterns to get inside the Siege Tower barricades!",
+    "chat_state_1": "I'm tired of hearing those shots against our walls!",
+    "chat_state_2": "Use Spinjitzu to take out the legs, and then the tops will come crashing down!",
+    "chat_state_3": "That must have done wonders for morale out there!",
+    "completion_succeed_tip": "Return to Kai in the Monastery Dojo of Fire.",
+    "in_progress": "Destroy 2 Skeleton Siege Towers on the Ninjago Battlefield.",
+    "offer": "I think you're strong enough now to really topple the Skeletons' war efforts! Take down 2 of their Siege Towers!",
+    "ready_to_complete": "Awesome! I heard the crash from out here!"
+  },
+  "1809": {
+    "accept_chat_bubble": "Use the brown Earth Spinjitzu Lantern on the ledge up there for a fast way to Nexus Tower!",
+    "chat_state_1": "This is the strangest metal I've ever encountered.",
+    "chat_state_2": "I hear Paradox understands the evil mysteries of the Maelstrom!",
+    "chat_state_3_turnin": "News from Ninjago?",
+    "completion_succeed_tip": "Show the Maelstrom Dagger to Vanda Darkflame in Nexus Tower.",
+    "in_progress": "Show the Maelstrom Dagger to Vanda Darkflame in Nexus Tower.",
+    "offer": "Sensei Wu asked me to examine one of the Maelstrom Daggers. It's too dangerous for me to handle, but perhaps Paradox can help.",
+    "ready_to_complete": "A Skeleton weapon forged from pure Maelstrom Crystals? This is intriguing."
+  },
+  "1813": {
+    "accept_chat_bubble": "I bet those Skeletons will have the tools I need!",
+    "chat_state_1": "I lost most of my tools in all the fighting. I'll need some more to get started.",
+    "chat_state_2": "Keep smashing those Skeleton Marksmen and Commandos until you find the tools!",
+    "chat_state_3": "Got 'em all? I'm ready to get to work on this thing!",
+    "completion_succeed_tip": "Return the Bone Tools to Jay in the Dojo of Lightning.",
+    "in_progress": "Smash Skeleton Marksmen and Commandos to get 1 Shoulder Socket Wrench, 3 Hammer Toes and 5 Finger Nails.",
+    "offer": "I need some tools to finish this Chaos Cleaner. Smash Skeletons and get me 1 Shoulder Socket Wrench, 3 Hammer Toes and 5 Finger Nails!",
+    "ready_to_complete": "Got all the Bone Tools? Bet those Skeletons didn't let go of 'em so easily!"
+  },
+  "1814": {
+    "accept_chat_bubble": "There aren't many Diamonds down there, believe me, I've looked!",
+    "chat_state_1": "Okay, just one missing piece. One missing, very-hard-to-find piece.",
+    "chat_state_2": "Just keep smashing rocks in the caves until you find a Diamond Gem.",
+    "chat_state_3": "Got karats?",
+    "completion_succeed_tip": "Take the Diamond Gem back to Jay in the Dojo of Lightning.",
+    "in_progress": "Smash rocks in the Ninjago Caves until you find a Diamond Gem, then take it back to Jay in the Dojo of Lightning.",
+    "offer": "Now I need something to purify all this dark energy. Smash rocks in the Ninjago Caves until you find a Diamond!",
+    "ready_to_complete": "Now that's a rock! I think we're ready to try it out!"
+  },
+  "1815": {
+    "accept_chat_bubble": "Tell Nya I'm almost done. And not to be a stranger!",
+    "chat_state_1": "This thing won't work on Stromlings or whatever you call them.",
+    "chat_state_2": "You can use this to add tons of new stock to Nya's shop!",
+    "chat_state_3_turnin": "Wow, you've been all over today!",
+    "completion_succeed_tip": "Go back to Nya and tell her about the Portable Chaos Cleaner.",
+    "in_progress": "Tell Nya that Jay is almost done with the Portable Chaos Cleaner.",
+    "offer": "Almost done with this Chaos Cleaner! I'll get it to Nya in a bit. Go back and see what she needs next!",
+    "ready_to_complete": "Jay is a genius! But don't tell him I said that. I like to keep him guessing."
+  },
+  "1816": {
+    "accept_chat_bubble": "You may need to use your Earth Spinjitzu to locate the hiding place of this Mask.",
+    "chat_state_1": "How can a joke be practical? I must ponder this.",
+    "chat_state_2": "Look for hollows in the Cave of Black Echoes to find a treasure chest that may contain the Dragon Mask.",
+    "chat_state_3": "Did you find the Mask? I am looking forward to this joke!",
+    "completion_succeed_tip": "Return the Dragon Mask to Zane in the Monastery Dojo of Ice.",
+    "in_progress": "Find the Dragon Mask in a treasure chest hidden in the alcoves of the Cave of Black Echoes, below the Monastery.",
+    "offer": "Kai has taught me something called a practical joke! Find a Dragon Mask in the Ninjago Caves and we will make this joke!",
+    "ready_to_complete": "Hmm, it is not as scary as I thought it would be. But I am also not afraid of Dragons."
+  },
+  "1817": {
+    "accept_chat_bubble": "Equip the Dragon Mask and show me how fearsome you look!",
+    "chat_state_1": "Hmm, this is certainly not as scary as a clown.",
+    "chat_state_2": "Do not be afraid. It is only a mask.",
+    "chat_state_3": "I have to admit, I was a little scared.",
+    "completion_succeed_tip": "Talk to Zane again.",
+    "in_progress": "Equip the Dragon Mask so Zane can see how it looks.",
+    "offer": "Hmm, perhaps the Dragon Mask will be scarier if you put it on.",
+    "ready_to_complete": "I think that is scary enough for our joke. And here, I will teach you this as well!"
+  },
+  "1818": {
+    "accept_chat_bubble": "Go do the joke for Cole!",
+    "chat_state_1": "Now it is time for the joke!",
+    "chat_state_2": "Has Sensei Wu told you his Skeleton jokes yet? They aren't very humerus.",
+    "chat_state_3_turnin": "Why are you smiling at me like that?",
+    "completion_succeed_tip": "Talk to Cole again.",
+    "in_progress": "Equip the Dragon Mask and go to Cole in the Monastery Dojo of Earth. Then use the Speedchat menu to perform the Dragon Roar.",
+    "offer": "Wear the Dragon Mask and use Speedchat to perform your new Dragon Roar for Cole! He will like the joke!",
+    "ready_to_complete": "Aaaahhh!! A dragon! Wait a second, I know you. Kai set this up, didn't he?"
+  },
+  "1819": {
+    "accept_chat_bubble": "He wouldn't have left the Monastery, so he's around here somewhere.",
+    "chat_state_1": "Where is that fool errand boy?",
+    "chat_state_2": "Cringe Lo said something about getting Jay to protect him. Sigh.",
+    "chat_state_3_turnin": "Are you a Skeleton?!",
+    "completion_succeed_tip": "Find Cringe Lo, who is hiding somewhere in the Ninjago Monastery.",
+    "in_progress": "Find Cringe Lo, who is hiding somewhere in the Ninjago Monastery.",
+    "offer": "My cowardly assistant, Cringe Lo, has gone off to hide from the Skeletons! Find him and tell him to get back to work!",
+    "ready_to_complete": "What? Who are you? Don't tell anyone about my hiding place!"
+  },
+  "1820": {
+    "accept_chat_bubble": "Flame Fruit burn my mouth and cramp my tummy. Is this what love feels like?",
+    "chat_state_1": "Nya, your hair glistens like melted ice cream. No that's not right. Nya, your scent is like, hmm.",
+    "chat_state_2": "You can find Flame Fruit by smashing those little red flowers in the Fire Garden.",
+    "chat_state_3": "So far, my love note reads \"Hi, this is Cringe Lo.\"",
+    "completion_succeed_tip": "Take the Flame Fruit back to Cringe Lo in the Dojo of Lightning.",
+    "in_progress": "Smash Fire Blossoms in the Ninjago Monastery until you collect 10 pieces of Flame Fruit, then take them to Cringe Lo.",
+    "offer": "I'm trying to write a love note for Nya! But my heart craves the fire of inspiration that can only come from Flame Fruit!",
+    "ready_to_complete": "Nom nom slurp urp! My heart is alive with fire, and now I know the words I will say to Nya!"
+  },
+  "1821": {
+    "accept_chat_bubble": "I'm so nervous! I'll sit here and cry until you get back.",
+    "chat_state_1": "What if she doesn't like it? Or me?",
+    "chat_state_2": "Go and give her the note before I change my mind!",
+    "chat_state_3_turnin": "What's that? You have something for me?",
+    "completion_succeed_tip": "Take Cringe Lo's Love Note to Nya in the Ninjago Monastery.",
+    "in_progress": "Take Cringe Lo's Love Note to Nya in the Ninjago Monastery.",
+    "offer": "My love note for Nya is finished! But I'm too afraid to take it to her myself. Will you do it for me?",
+    "ready_to_complete": "A love note? For me? Ooh, who's it from?"
+  },
+  "1822": {
+    "accept_chat_bubble": "Go easy on Cringe Lo. I don't know why he didn't just tell me himself.",
+    "chat_state_1": "I'm flattered, really I am. But am I really that intimidating?",
+    "chat_state_2": "It was a nice note, but my brother is a Fire Ninja. A girl needs some kind of standards!",
+    "chat_state_3_turnin": "Back already? Did you give Nya the note?",
+    "completion_succeed_tip": "Go back to the Dojo of Lightning and tell Cringe Lo that Nya isn't interested in him.",
+    "in_progress": "Go back to the Dojo of Lightning and tell Cringe Lo that Nya isn't interested in him.",
+    "offer": "Cringe Lo was too afraid to even tell me himself? Oh sorry, tell him I only like brave Ninjas.",
+    "ready_to_complete": "What did Nya say? Was her heart a-flutter with fiery doves and sweetest coos?"
+  },
+  "1823": {
+    "accept_chat_bubble": "Don't tell Bubu Mumu where I am!",
+    "chat_state_1": "If Nya only likes brave Ninjas, then I shall become the bravest Ninja in the history of bravery!",
+    "chat_state_2": "Maybe we should put Bubu Mumu outside and he can eat the Skeletons.",
+    "chat_state_3_turnin": "Where's Cringe Lo? I have models to unpack and bricks that need replacing!",
+    "completion_succeed_tip": "Go to Bubu Mumu in the Ninjago Monastery and tell him that Cringe Lo has decided to quit his job.",
+    "in_progress": "Go to Bubu Mumu in the Ninjago Monastery and tell him that Cringe Lo has decided to quit his job.",
+    "offer": "I must prove my bravery to Nya! But first, tell Bubu Mumu that I quit! I'm too afraid to tell him myself.",
+    "ready_to_complete": "What?! That worthless bowl of tofu can't quit on me!"
+  },
+  "1824": {
+    "accept_chat_bubble": "If I know Cringe Lo, he's likely found somewhere to hide in those caves.",
+    "chat_state_1": "That boy doesn't have a brave bone in his body!",
+    "chat_state_2": "Once you get inside the caves, look high and low for Cringe Lo.",
+    "chat_state_3_turnin": "Aaaahh!! Are you a Skeleton?",
+    "completion_succeed_tip": "Find Cringe Lo in the Ninjago Caves below the Monastery.",
+    "in_progress": "Find Cringe Lo in the Ninjago Caves below the Monastery.",
+    "offer": "Prove his bravery?! That fool must have gone into the caves! Go down there and rescue him!",
+    "ready_to_complete": "I've been so scared, even my armpits have dried up! I'm not cut out for this bravery stuff!"
+  },
+  "1825": {
+    "accept_chat_bubble": "Those Woofs are even scarier than Furious Urufu!",
+    "chat_state_1": "I jumped up here to hide from those terrible Woofs!",
+    "chat_state_2": "Do you think those Woofs chew on their own bony legs? All I need is one Paw!",
+    "chat_state_3": "It is Woof, isn't it? Bubu Mumu says W-O-L-F but that seems wrong.",
+    "completion_succeed_tip": "Take the Lucky Wolf's Paw back to Cringe Lo in the Ninjago Caves.",
+    "in_progress": "Smash Bone Wolves until you find a Lucky Wolf's Paw, then take it back to Cringe Lo in the Ninjago Caves.",
+    "offer": "I can't leave until I prove my bravery! Can you get a Lucky Wolf's Paw from one of those Bone Woofs?",
+    "ready_to_complete": "A Lucky Wolf's Paw! Now Nya will see how brave I am!"
+  },
+  "1826": {
+    "accept_chat_bubble": "I don't have a job anymore, so I'll just go back to my spot in the Dojo of Lightning.",
+    "chat_state_1": "If I can get out of here in one piece, Nya will be so impressed!",
+    "chat_state_2": "I'm leaving here soon, so just look for me later in the Dojo of Lightning.",
+    "chat_state_3_turnin": "Sigh.",
+    "completion_succeed_tip": "Talk to Cringe Lo when he gets back to his hiding spot in the Dojo of Lightning.",
+    "in_progress": "Talk to Cringe Lo when he gets back to his hiding spot in the Dojo of Lightning.",
+    "offer": "I'm going to give this Wolf's Paw to Nya! Come find me later in the Dojo of Lightning to find out how she liked it!",
+    "ready_to_complete": "Nya was grossed out by the Paw! Now I have no girlfriend and no job! FAIL."
+  },
+  "1827": {
+    "accept_chat_bubble": "You can find Rock Fruit here in the Monastery, but you may need to go to Gnarled Forest for the biscuit.",
+    "chat_state_1": "I don't sell much now, but you can help me fill my menu!",
+    "chat_state_2": "I have many recipes, but no ingredients. You can help me fill my store!",
+    "chat_state_3": "Did you bring the ingredients? I'm ready to start cooking!",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 5 Rock Fruit and a Hardtack Biscuit and take them back to Johnny Umami in the Ninjago Monastery.",
+    "offer": "I can cook some wonderful things for you if you bring me what I need! First, I need 5 Rock Fruit and 1 Hardtack Biscuit!",
+    "ready_to_complete": "A Dirt Sandwich! Full of earthy goodness! It tastes like genius!"
+  },
+  "1828": {
+    "accept_chat_bubble": "You'll have to smash rock after rock to find those Onyx Gems!",
+    "chat_state_1": "Gems are excitement! Oooh, gems! Gems are adventure!",
+    "chat_state_2": "Only Onyx Gems will do! No Amber, no Pink.",
+    "chat_state_3": "Mmm, I can smell those gems already!",
+    "completion_succeed_tip": "Take the Onyx Gems back to Bubu Mumu in the Monastery.",
+    "in_progress": "Find 20 Onyx Gems by smashing rocks in the caves below the Monastery, then take them to Bubu Mumu.",
+    "offer": "My cousin, Craven Jules, can get a good price for Onyx Gems! Bring me 20 from the rocks in the caves below the Monastery!",
+    "ready_to_complete": "These gems are truly outrageous!"
+  },
+  "1830": {
+    "accept_chat_bubble": "I would go and get the bones myself, but Furious Urufu is a pacifist!",
+    "chat_state_1": "Urufuuuuuuu!!!",
+    "chat_state_2": "Skeleton Troopers have the tastiest ribs!",
+    "chat_state_3": "Drooooool.",
+    "completion_succeed_tip": "Take the Rib Bones back to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Smash Skeleton Troopers on the Ninjago Battlefield until you collect 10 Rib Bones, then take them back to Furious Urufu.",
+    "offer": "Is it true? Skeletons are made from bones? Furious Urufu loves bones! Bring me 10 Rib Bones!",
+    "ready_to_complete": "Delicious ribs! Curvy, white, delicious ribs! Urufuuuuuu!!!"
+  },
+  "1831": {
+    "accept_chat_bubble": "Make those doggies howl! Urufuuuuu!!!",
+    "chat_state_1": "Bone Wolves. Ha! I mark my territory on Bone Wolves.",
+    "chat_state_2": "Find those doggies in caves below the Monastery.",
+    "chat_state_3": "Droooooool.",
+    "completion_succeed_tip": "Take the Tail Bones back to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Smash Bone Wolves until you find 15 Tail Bones, then take them back to Furious Urufu in the Ninjago Monastery.",
+    "offer": "Bone Wolves think they are tough, but Furious Urufu is the Alpha Dog around here! Bring me 15 of their Tail Bones!",
+    "ready_to_complete": "Tails were tucked and Wolves were smashed! Urufuuuu!!!"
+  },
+  "1832": {
+    "accept_chat_bubble": "I hear Bonezai's eye bone is like frozen treat!",
+    "chat_state_1": "It is hot today. Urufu is panting, heh heh heh.",
+    "chat_state_2": "Look for Bonezai in Ice Shrine in Caves below!",
+    "chat_state_3": "Drooooooooool.",
+    "completion_succeed_tip": "Take the Eye Bone back to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Smash Bonezai in the Ice Shrine below the Monastery, then bring his Eye Bone back to Furious Urufu.",
+    "offer": "Urufu wants a frozen treat! A nice frozen Eye Bone will do! An Eye Bone from Bonezai!",
+    "ready_to_complete": "Ecch, this Eye Bone tastes like spoiled ice cream!"
+  },
+  "1833": {
+    "accept_chat_bubble": "Can a bone really be funny? I have only had tasty bones.",
+    "chat_state_1": "Do you know any good jokes?",
+    "chat_state_2": "Search for Krazi in the Lightning Shrine below!",
+    "chat_state_3": "Drooooooooooool.",
+    "completion_succeed_tip": "Take the Funny Bone back to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Smash Krazi in the Lightning Shrine below the Monastery and take his Funny Bone back to Furious Urufu.",
+    "offer": "Furious Urufu needs a good laugh! Smash the Skeleton known as Krazi and bring me his Funny Bone!",
+    "ready_to_complete": "This bone, it is very humerus! Ha ha ha!"
+  },
+  "1834": {
+    "accept_chat_bubble": "Frakjaw is big boss, no? Urufu doesn't care!",
+    "chat_state_1": "Teeth are feeling fuzzy. Need good brushing.",
+    "chat_state_2": "Look for Frakjaw in the Fire Shrine below! Then crunch him!",
+    "chat_state_3": "Droooooooooooool.",
+    "completion_succeed_tip": "Take the Jaw Bone back to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Smash Frakjaw in the Fire Shrine below the Monastery and take his Jawbone back to Furious Urufu.",
+    "offer": "What better way to strengthen doggie jaws then to chew on a jawbone? Get me a Jaw Bone from Frakjaw!",
+    "ready_to_complete": "Gnaw gnaw nom. Urufu's dentist will be pleased! Urufuuuu!!!"
+  },
+  "1835": {
+    "accept_chat_bubble": "You might have to help Johnny Umami make some other foods before making the Rockolate Bars.",
+    "chat_state_1": "You're not afraid of Dragons, are you?",
+    "chat_state_2": "You can get Rockolate Bars from Johnny Umami - once he figures out how to make them.",
+    "chat_state_3": "Dragons eat Rockolate Bars? Who knew?",
+    "completion_succeed_tip": "Take the Rockolate Bars back to Cole in the Dojo of Earth.",
+    "in_progress": "Get 10 Rockolate Bars from Johnny Umami. You'll need to help him make them first.",
+    "offer": "I need to get over my fear of Dragons - and there's one inside this statue! Get 10 Rockolate Bars and you can try to tame it!",
+    "ready_to_complete": "Okay, be strong Cole. Be strong. It's just a Dragon pet."
+  },
+  "1836": {
+    "accept_chat_bubble": "I wouldn't get too close when that thing is eating.",
+    "chat_state_1": "Still got those Rockolate Bars?",
+    "chat_state_2": "What's a good name for an Earth Dragon pet? Don't pick something dirty!",
+    "chat_state_3": "I really don't like dragons. At least this one is small.",
+    "completion_succeed_tip": "Talk to Cole again.",
+    "in_progress": "Interact one of the Dragon statues in the Dojo of Earth. Then tame the pet that appears.",
+    "offer": "Interact with the statue and then tame the Dragon pet! And I'll stand here and try to be brave!",
+    "ready_to_complete": "Huh, wow. It's not that scary at all. But I still don't want to pet it!!"
+  },
+  "1837": {
+    "accept_chat_bubble": "That Monastery is just crawlin' with Skeletons!",
+    "chat_state_1": "Ready for another treasure-huntin' challenge, are ya?",
+    "chat_state_2": "Look in the Monastery, them Caves, even that dangerous Battlefield outside!",
+    "chat_state_3": "Found 'em all, did ya?",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find the 5 floating treasure chests that Johnny Thunder hid around the Ninjago Monastery.",
+    "offer": "Been to that new Ninjago world have ya? Maybe you can find the 5 floating treasure chests I hid 'round there!",
+    "ready_to_complete": "What're you, part Ninja? Was your Daddy a Ninja? I bet your Mommy was a Ninja too!"
+  },
+  "1838": {
+    "completion_succeed_tip": "Smashing Success 4!",
+    "description": "Smash 5000 more Smashables."
+  },
+  "1839": {
+    "completion_succeed_tip": "Smash 'Em All 5!",
+    "description": "Smash 5000 more enemies."
+  },
+  "1840": {
+    "completion_succeed_tip": "Nothing Left for Dead 3!",
+    "description": "Smash 5000 more Survival enemies."
+  },
+  "1841": {
+    "completion_succeed_tip": "A Worthy Builder 4!",
+    "description": "Complete 5000 more Quick Builds."
+  },
+  "1842": {
+    "completion_succeed_tip": "A Collector's Dream 1!",
+    "description": "Complete 10 collection Quick Builds."
+  },
+  "1843": {
+    "completion_succeed_tip": "A Collector's Dream 2!",
+    "description": "Complete 100 collection Quick Builds."
+  },
+  "1844": {
+    "completion_succeed_tip": "A Collector's Dream 3!",
+    "description": "Complete 500 collection Quick Builds."
+  },
+  "1845": {
+    "completion_succeed_tip": "Green Thumb 3!",
+    "description": "Grow 500 more flowers."
+  },
+  "1846": {
+    "completion_succeed_tip": "Avant Guardian 4!",
+    "description": "Smash 2500 more Stromlings."
+  },
+  "1847": {
+    "accept_chat_bubble": "Tell Epsilon Starcracker I approve!",
+    "chat_state_1": "We need more strong Minifigures like you around!",
+    "chat_state_2": "Epsilon is still stationed back at his outpost. Look for him there.",
+    "chat_state_3_turnin": "Have a good time with the Sentinels?",
+    "chat_state_4_turnin": "You’re well on your way to joining the Nexus Force.",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker on the battlefield.",
+    "in_progress": "Report back to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+    "offer": "You’ve proven yourself to the Sentinel Faction. Report back to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+    "ready_to_complete": "If the Sentinels think you're ready to join the Nexus Force, you're off to a great start. But you must also prove yourself to Paradox."
+  },
+  "1848": {
+    "accept_chat_bubble": "Time to get some answers from Wisp.",
+    "chat_state_1": "Paradox is the most secretive Faction in the Nexus Force.",
+    "chat_state_2": "Look back near the landing pad to find Wisp Lee.",
+    "chat_state_3_turnin": "You're back! You seem much stronger now.",
+    "chat_state_4_turnin": "You can help set things right!",
+    "completion_succeed_tip": "Talk to Wisp Lee at the destroyed Paradox Lab in Avant Gardens.",
+    "in_progress": "<font color='#FF7F00'>Talk to Wisp Lee</font> at the destroyed Paradox Lab in Avant Gardens.",
+    "offer": "The Maelstrom didn't just invade Avant Gardens. Paradox had something to do with it. Talk to <font color='#FF7F00'>Wisp Lee</font> and find out what happened here.",
+    "ready_to_complete": "Paradox searches for weaknesses in the Maelstrom, but this time it was too strong for us!"
+  },
+  "1849": {
+    "accept_chat_bubble": "Look for dark Maelstrom spots on the ground. That's the Spider Queen's trail.",
+    "chat_state_1": "Every experiment we've ever done was strictly controlled. Why did this fail?",
+    "chat_state_2": "There are caves hidden behind these labs. The trail leads down there.",
+    "chat_state_3": "No sign of the beast?",
+    "completion_succeed_tip": "You have enough Maelstrom Samples. Return to Wisp Lee.",
+    "in_progress": "Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 8 Maelstrom Samples</font>. Follow the Spider Queen's trail behind the Paradox Lab in Avant Gardens.",
+    "offer": "The Spider Queen escaped our lab, but she left a trail to follow. Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 8 Maelstrom Samples</font>.",
+    "ready_to_complete": "I will turn your Maelstrom Samples into a powerful <font color='#FF7F00'>Maelstrom Cube</font>. With this, we can harness the power of chaos!"
+  },
+  "1850": {
+    "accept_chat_bubble": "If the Maelstrom is chaos, then how can it create anything?",
+    "chat_state_1": "Others in the Nexus Force may not agree, but the work we do here is of vital importance!",
+    "chat_state_2": "Interact with the bricks in the cage to repeat the experiment.",
+    "chat_state_3": "So far we've only been able to create Spiders. That's probably a good thing.",
+    "completion_succeed_tip": "Return to Wisp Lee and tell him about the experiment.",
+    "in_progress": "<font color='#FF7F00'>Interact with the bricks</font> in the cage to use the Maelstrom Cube on them and repeat Wisp's experiment.",
+    "offer": "Time to try the experiment again! <font color='#FF7F00'>Interact with the bricks</font> in that cage to apply this Maelstrom Cube to them.",
+    "ready_to_complete": "Another beast. I will need to find a way to modify the Maelstrom before we can truly control it."
+  },
+  "1851": {
+    "accept_chat_bubble": "Return to Epsilon and let him know I approve.",
+    "chat_state_1": "Only by facing darkness can we understand darkness.",
+    "chat_state_2": "Joining the Nexus Force is just the first step!",
+    "chat_state_3_turnin": "Did you learn anything from Wisp?",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker.",
+    "in_progress": "Report to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+    "offer": "I support your entry into the Nexus Force. Perhaps one day you'll join Paradox. Report back to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+    "ready_to_complete": "You have proven yourself to the Sentinels and Paradox. <font color='#FF7F00'>You are now a member of the Nexus Force!</font> Welcome to the battle for Imagination!"
+  },
+  "1852": {
+    "accept_chat_bubble": "You're Nexus Force now. Fight for Imagination!",
+    "chat_state_1": "Sorry, recruit. No rest for the weary!",
+    "chat_state_2": "The entrance to the caves is across the battlefield from the Sentinel Base Camp.",
+    "chat_state_3_turnin": "So you're the new recruit, huh?",
+    "completion_succeed_tip": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens.",
+    "in_progress": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+    "offer": "<font color='#FF7F00'>Melodie Foxtrot</font> is looking for the Spider Queen in the caves behind the Paradox Lab. Find her and <font color='#FF7F00'>borrow some Faction Gear</font> to help out.",
+    "ready_to_complete": "Those Spiderlings will chew through your gear! I will lend you something stronger. <font color='#FF7F00'>Choose a set of gear to borrow</font>!"
+  },
+  "1853": {
+    "accept_chat_bubble": "Tell Commander Beck what happened here! Hurry!",
+    "chat_state_1": "I'll stay here and take care of these little nightmares!",
+    "chat_state_2": "Don’t worry about me, just go!",
+    "chat_state_3_turnin": "The Spider Queen? You found out what happened to it?",
+    "chat_state_4_turnin": "You've got strong Sentinel instincts if you faced up to those Spiderlings!",
+    "completion_succeed_tip": "Talk Beck Strongheart at the Sentinel Base Camp.",
+    "in_progress": "Give the Spider Queen's location to <font color='#FF7F00'>Beck Strongheart</font> at the Sentinel Base Camp.",
+    "offer": "We've got to stop that Spider Queen! Inform <font color='#FF7F00'>Beck Strongheart</font> that she's on the Block Yard Property!",
+    "ready_to_complete": "What? That monster made it out to Block Yard? That must explain that huge Maelstrom cloud on the horizon!"
+  },
+  "1854": {
+    "accept_chat_bubble": "Hope the damage is gonna buff out!",
+    "chat_state_1": "Those lasers are going to turn the Monument into ruins!",
+    "chat_state_2": "Careful of those fans, they'll blow ya right off the edge!",
+    "chat_state_3": "Are you still in one piece?",
+    "chat_state_4": "Now we can finish the Monument!",
+    "completion_succeed_tip": "Take the Flashlights and Hamster Wheels back to Rusty Steele.",
+    "in_progress": "Smash the fans and lasers on the Monument to <font color='#FF7F00'>collect 3 Flashlights and 4 Hamster Wheels</font>.",
+    "offer": "The lasers and cooling fans are overheating! Remove their power sources so they can cool down. Smash ‘em and <font color='#FF7F00'>collect 3 Flashlights and 4 Hamster Wheels</font>.",
+    "ready_to_complete": "High-tech parts we got here. Soon as I fix 'em, we can get those lasers and fans workin' again!"
+  },
+  "1855": {
+    "accept_chat_bubble": "Need to get this place back on track!",
+    "chat_state_1": "Blast this Maelstrom, why's it have ta be so chaotic?",
+    "chat_state_2": "Check alla the paths up the Monument - it gets tricky up there!",
+    "chat_state_3": "Looks good from here, I'd say.",
+    "completion_succeed_tip": "Return to Rusty Steele at the base of the Monument.",
+    "in_progress": "<font color='#FF7F00'>Quick Build 1 button, 1 bouncer, and 1 moving platform</font> on the Monument.",
+    "offer": "There’s some assembling that needs to be done! <font color='#FF7F00'>Quick Build 1 button, 1 bouncer, and 1 moving platform</font> up there!",
+    "ready_to_complete": "You’re pretty handy with them bricks, pal! The Assembly Faction would be lucky to have you!"
+  },
+  "1856": {
+    "accept_chat_bubble": "Dang birds! Might as well paint the Monument white already.",
+    "chat_state_1": "Where's all this mess comin' from?",
+    "chat_state_2": "Make sure them birds don’t fly over my head when you scare 'em off!",
+    "chat_state_3": "You sure gave 'em a good goose!",
+    "completion_succeed_tip": "Tell Rusty Steele you scared the birds away.",
+    "in_progress": "<font color='#FF7F00'>Scare 5 birds</font> off of the top of the Monument.",
+    "offer": "Them fool birds are making a mess of our Monument! Work your way up to the top and <font color='#FF7F00'>scare 5 birds</font> away!",
+    "ready_to_complete": "Haha, you sure scared the feathers off of those birds! They won’t be back anytime soon."
+  },
+  "1858": {
+    "accept_chat_bubble": "Get out there and smash those Stromlings!",
+    "chat_state_1": "We've got to contain the Maelstrom! These Stromlings are everywhere!",
+    "chat_state_2": "Wherever the Maelstrom appears, the Nexus Force will be there to stop it!",
+    "chat_state_3": "You didn’t even break a sweat out there!",
+    "chat_state_4": "The Nexus Force is sworn to save all of Imagination.",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker.",
+    "in_progress": "<font color='#FF7F00'>Smash 20 Stromlings</font> on the Avant Gardens battlefield.",
+    "offer": "The Maelstrom keeps creating more Stromlings! <font color='#FF7F00'>Smash 20 Stromlings</font> to thin out their ranks!",
+    "offer_repeatable": "The Maelstrom keeps creating more Stromlings! <font color='#FF7F00'>Smash 20 Stromlings</font> to thin out their ranks!",
+    "ready_to_complete": "Ugly little monsters, aren't they? That Maelstrom is nasty business, I'll tell you."
+  },
+  "1859": {
+    "accept_chat_bubble": "The Maelstrom can corrupt almost anything! That's why we need to protect Imagination!",
+    "chat_state_1": "The Maelstrom got into those Assembly Defense Robots and they went berserk!",
+    "chat_state_2": "Time to give those robots a reboot!",
+    "chat_state_3": "Good work! All I saw was flying bricks and exploding Maelstrom!",
+    "chat_state_4": "How did everything get so out of control?",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker.",
+    "in_progress": "<font color='#FF7F00'>Smash 10 Stromling Mechs</font> on the Avant Gardens battlefield.",
+    "offer": "The Maelstrom is using Assembly Defense Robots against us! Send <font color='#FF7F00'>10 Stromling Mechs</font> back to the scrap heap!",
+    "offer_repeatable": "Ready to smash some more Stromling Mechs? How about 10 more?",
+    "ready_to_complete": "Now that's what I call a system crash! Way to blue-screen those robots out there!"
+  },
+  "1860": {
+    "accept_chat_bubble": "Don't get surrounded out there! Find a safe spot if you need to!",
+    "chat_state_1": "Time to step it up out there.",
+    "chat_state_2": "Avant Gardens used to be a pretty nice place. We'll clean it up again!",
+    "chat_state_3": "Hopefully that put a dent in the problem!",
+    "chat_state_4": "If the Maelstrom continues to grow, it will infect the entire Universe!",
+    "completion_succeed_tip": "Report back to Epsilon Starcracker.",
+    "in_progress": "<font color='#FF7F00'>Smash 15 Stromlings and 5 Stromling Mechs</font> on the Avant Gardens battlefield.",
+    "offer": "Now for an all-out attack! <font color='#FF7F00'>Smash 5 Stromling Mechs and 15 Stromlings</font> on the battlefield!",
+    "offer_repeatable": "The Maelstrom keeps making more Stromlings and Mechs. Luckily, we're ready to keep smashing them!",
+    "ready_to_complete": "What do you get when you smash a bunch of Stromlings and Mechs? A big mess!"
+  },
+  "1862": {
+    "accept_chat_bubble": "Okay, let’s surf some webs!",
+    "chat_state_1": "Since you're not afraid of Spiderlings, I've got a job for you!",
+    "chat_state_2": "Don't let them swarm you! Swarmed by Spiderlings. That'll give you bad dreams!",
+    "chat_state_3": "Did you leave any for me?",
+    "completion_succeed_tip": "Return to Melodie Foxtrot in Avant Gardens.",
+    "in_progress": "<font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in the Avant Gardens caves.",
+    "offer": "What's got eight eyes and explodes when you smash it? <font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in there and you'll find out!",
+    "ready_to_complete": "Piece of cake, right? Ooey gooey spidery cake, yuck!"
+  },
+  "1863": {
+    "accept_chat_bubble": "Okay, ready to surf some webs?",
+    "chat_state_1": "Since you're not afraid of Spiderlings, I've got a job for you!",
+    "chat_state_2": "Don't let them swarm you! Swarmed by Spiderlings. That'll give you bad dreams!",
+    "chat_state_3": "Did you leave any for me?",
+    "chat_state_4": "Come back tomorrow to smash some more!",
+    "completion_succeed_tip": "Return to Melodie Foxtrot.",
+    "in_progress": "<font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in the Avant Gardens caves.",
+    "offer": "They keep hatching, we keep smashing! <font color='#FF7F00'>Smash 10 more Dark Spiderlings</font>!",
+    "offer_repeatable": "These Spiderlings just keep coming back for more. <font color='#FF7F00'>Smash 10 more Dark Spiderlings</font>!",
+    "ready_to_complete": "Spiders? No problem. Now Maelstrom Piglets on the other hand, now that would freak me out!"
+  },
+  "1864": {
+    "accept_chat_bubble": "Don't forget the one in the Sentinel Base Camp!",
+    "chat_state_1": "Time for some air support!",
+    "chat_state_2": "Be sure to find all 4 Satellite Beacons out there.",
+    "chat_state_3": "Good building, soldier!",
+    "completion_succeed_tip": "You built the last Satellite Beacon. Use the console to report back to the pilot.",
+    "in_progress": "<font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> in Avant Gardens.",
+    "offer": "We need more airstrikes! <font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> on the battlefield!",
+    "offer_repeatable": "We need more airstrikes! Quick Build all <font color='#FF7F00'>4 Satellite Beacons</font> on the battlefield!",
+    "ready_to_complete": "Those Stromlings never see that coming! That should hold them back for now."
+  },
+  "1865": {
+    "accept_chat_bubble": "Use supplies and play with friends to last longer!",
+    "chat_state_1": "Got what it takes to survive a Maelstrom onslaught?",
+    "chat_state_2": "Gear up for this battle - you'll need it!",
+    "chat_state_3": "Well done, soldier!",
+    "chat_state_4": "Sentinels never rest.",
+    "completion_succeed_tip": "Return to Beck Strongheart at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Survive for 3 minutes</font> in the Avant Gardens Survival mini-game.",
+    "offer": "Sentinels constantly test their mettle against the enemy. Show me you can <font color='#FF7F00'>survive for 3 minutes</font> in Avant Gardens Survival.",
+    "offer_repeatable": "Sentinels constantly test their mettle against the enemy. Show me you can survive in Avant Gardens Survival for <font color='#FF7F00'>3 minutes</font>.",
+    "ready_to_complete": "Quick on your feet and fearless in the face of danger! That's how you stay in one piece!"
+  },
+  "1866": {
+    "accept_chat_bubble": "You can get the Shock Fruit here in the Monastery, but you'll need to travel elsewhere to find the other ingredients.",
+    "chat_state_1": "My recipes are inspired by the 4 elements!",
+    "chat_state_2": "Have you met other chefs on other worlds? I should form a guild with them!",
+    "chat_state_3": "Did you get it all? We have to follow the recipe!",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 5 Shock Fruit, 1 Buttery Croissant and 1 Healing Drumstick for Johnny Umami in the Ninjago Monastery.",
+    "offer": "Now for our next recipe! I'll need 5 Shock Fruit, 1 Buttery Croissant and 1 Healing Drumstick!",
+    "ready_to_complete": "The Electric Hoagie! A truly shocking sandwich! It tastes like genius!"
+  },
+  "1867": {
+    "accept_chat_bubble": "I think you can buy two of the ingredients but the Stinky Fish might be hard to find!",
+    "chat_state_1": "This recipe is not elemental - but it sure is delicious! Well, I think it is.",
+    "chat_state_2": "Make sure you don't bring me Tasty Fish! That would be all wrong!",
+    "chat_state_3": "I can feel my nose hairs curling up! That must be the Stinky Fish!",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find or buy 3 Stinky Fish, 1 Hiccup Tablet and 1 Cup of Yo for Johnny Umami in the Ninjago Monastery.",
+    "offer": "Now for something from my childhood! I'll need 3 Stinky Fish, 1 Hiccup Tablet and 1 Cup of Yo!",
+    "ready_to_complete": "My grandmother used to make Yucki-Yaki for me whenever I was sick. It always made me worse!"
+  },
+  "1868": {
+    "accept_chat_bubble": "Don't ever let anyone put lettuce and tomato on this, that's not how it's done.",
+    "chat_state_1": "Everything I make, it tastes like genius!",
+    "chat_state_2": "The Tough Buff Sauce might be hard to find, but it gives this recipe its zing!",
+    "chat_state_3": "You's want this 'wit cheez' or without?",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 6 Frost Fruit, a bottle of Tough Buff Sauce and a BBQ Blast Hot Dog for Johnny Umami in the Ninjago Monastery.",
+    "offer": "Yo, you's ever try a Chilly Freezesteak? I'll need a BBQ Blast Hot Dog, a Tough Buff Sauce and 6 Frost Fruit to make it!",
+    "ready_to_complete": "One Chilly Freezesteak, comin' up! Yo, don't eat it all at once or you'll get a head-freeze!"
+  },
+  "1869": {
+    "accept_chat_bubble": "We need to patch this hole again, but we'll need the right bricks!",
+    "chat_state_1": "I don't want a window in this wall!",
+    "chat_state_2": "Check around the Monument for spare bricks.",
+    "chat_state_3": "Did you find enough bricks?",
+    "chat_state_4": "Thanks! I always feel better when I can build something.",
+    "completion_succeed_tip": "That's enough bricks. Return to Fitz Vanderbuilt at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Collect 6 bricks</font> for the wall at the Sentinel Base Camp.",
+    "offer": "Stromlings keep destroying your hard work, and we need to keep this wall up! <font color='#FF7F00'>Collect 6 bricks</font> from the Monument!",
+    "offer_repeatable": "Stromlings keep destroying your hard work, and we need to keep this wall up! Grab <font color='#FF7F00'>6</font> more <font color='#FF7F00'>bricks</font> from the Monument!",
+    "ready_to_complete": "Quick! We still need to patch the hole before any Stromlings can make their way through!"
+  },
+  "1870": {
+    "accept_chat_bubble": "Hurry up and get building! They're coming through!",
+    "chat_state_1": "I hope we have enough bricks to plug this hole!",
+    "chat_state_2": "I hadn't realized how nasty those Stromlings really are!",
+    "chat_state_3": "Nice building! That looks like it'll hold really well!",
+    "chat_state_4": "I'm glad we decided not to put windows in this wall.",
+    "completion_succeed_tip": "Report back to Fitz Vanderbuilt at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Quick Build the wall</font> at the Sentinel Base Camp.",
+    "offer": "Those Stromlings are getting close! Hurry and <font color='#FF7F00'>Quick Build the wall</font>!",
+    "offer_repeatable": "Those Stromlings are getting close! Hurry and <font color='#FF7F00'>Quick Build the wall</font>!",
+    "ready_to_complete": "That should hold, at least for another day! Maybe we should get Assembly to build us something stronger."
+  },
+  "1871": {
+    "accept_chat_bubble": "Bamboo isn't just for pandas, you know!",
+    "chat_state_1": "Ready for more?",
+    "chat_state_2": "You can get the Bamboo Bites right here, but you'll need to go to Forbidden Valley and Gnarled Forest for the other stuff.",
+    "chat_state_3": "What does a sad panda eat? Bamboooooo.",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 10 Bamboo Bites, 3 pieces of Sushi and 2 Tasty Fish for Johnny Umami in the Ninjago Monastery.",
+    "offer": "Now for a healthy, crunchy snack! I'll need 3 pieces of Sushi, 2 Tasty Fish and 10 Bamboo Bites!",
+    "ready_to_complete": "Munchy, crunchy Bento Blocks! They taste like genius! And bamboo."
+  },
+  "1872": {
+    "accept_chat_bubble": "Your tongue will be on fire, but your teeth will be chattering!",
+    "chat_state_1": "This recipe makes no sense, but it tastes like genius!",
+    "chat_state_2": "Be careful going to Crux Prime to find those Cherry Blasts!",
+    "chat_state_3": "My teeth are chattering in anticipation!",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 8 Flame Fruit, 8 Frost Fruit and 2 Cherry Blasts for Johnny Umami in the Ninjago Monastery.",
+    "offer": "Time for some dessert! I'll need 8 Flame Fruit, 8 Frost Fruit and 2 Cherry Blasts!",
+    "ready_to_complete": "A Flame-Roasted Popsicle! Perfect on a hot summer day or a cold winter night!"
+  },
+  "1873": {
+    "accept_chat_bubble": "Be safe up there!",
+    "chat_state_1": "Yo, I could use some help over here!",
+    "chat_state_2": "Laser burns smart some, don’t they?",
+    "chat_state_3": "Done already?",
+    "chat_state_4": "Some days I wonder if we’ll ever finish this thing.",
+    "completion_succeed_tip": "Return to Rusty Steele at the bottom of the Monument.",
+    "in_progress": "<font color='#FF7F00'>Collect 3 Hamster Wheels and 4 Flashlights</font> by smashing fans and lasers on the Monument.",
+    "offer": "The cooling fans and cutting lasers are goin' crazy! Go smash 'em and <font color='#FF7F00'>collect 3 Hamster Wheels and 4 Flashlights</font>!",
+    "offer_repeatable": "The cooling fans and cutting lasers are goin' crazy! Go smash 'em and collect 3 <font color='#FF7F00'>Hamster Wheels</font>and 4 <font color='#FF7F00'>Flashlights</font>!",
+    "ready_to_complete": "Thanks buddy! Gonna see if I can get these fixed up right."
+  },
+  "1874": {
+    "accept_chat_bubble": "I’ll just supervise from down here.",
+    "chat_state_1": "Back for more building?",
+    "chat_state_2": "This wrench is heavier than it looks.",
+    "chat_state_3": "Did you get ‘er done?",
+    "chat_state_4": "Thanks for patchin' up the place!",
+    "completion_succeed_tip": "Return to Rusty Steele at the base of the Monument.",
+    "in_progress": "<font color='#FF7F00'>Quick Build 1 button, 1 Bouncer and 1 moving platform</font> on the Monument.",
+    "offer": "The Monument's takin' a beating from all this foot traffic! Go up there and <font color='#FF7F00'>Quick Build 1 button, 1 bouncer and 1 moving platform</font> to keep things safe.",
+    "offer_repeatable": "The Monument's takin' a beating from all this foot traffic! Go up there and rebuild <font color='#FF7F00'>1 button</font>, <font color='#FF7F00'>1 bouncer</font>, and <font color='#FF7F00'>1 moving platform</font> to keep things safe.",
+    "ready_to_complete": "Good as new, thanks! Now if we can only keep the Maelstrom away from here!"
+  },
+  "1875": {
+    "accept_chat_bubble": "Watching you work is makin' me hungry.",
+    "chat_state_1": "Fool birds. Might be easier to just repaint the monument white.",
+    "chat_state_2": "Good thing this giant wrench doubles as a lunch box.",
+    "chat_state_3": "Is it starting to rain? I just felt a drop.",
+    "chat_state_4": "Hmm, maybe I should ask Coalessa about getting a cat.",
+    "completion_succeed_tip": "Tell Rusty Steele you scared the birds away.",
+    "in_progress": "<font color='#FF7F00'>Scare 10 birds</font> off of the Avant Gardens Monument.",
+    "offer": "Them pesky birds are back! Wanna do me a solid and <font color='#FF7F00'>scare 10 birds</font> off again?",
+    "offer_repeatable": "Them pesky birds are back! Wanna do me a solid and scare <font color='#FF7F00'>10 Birds</font> off again?",
+    "ready_to_complete": "If a job ever opened up to do that full-time, you'd be a shoo-in!"
+  },
+  "1876": {
+    "accept_chat_bubble": "Careful - this one's a dentist's worst nightmare!",
+    "chat_state_1": "This next treat will break your teeth!",
+    "chat_state_2": "Brave the caves below the Monastery to find a key ingredient!",
+    "chat_state_3": "Let's get cooking!",
+    "completion_succeed_tip": "Take the ingredients back to Johnny Umami in the Ninjago Monastery.",
+    "in_progress": "Find 10 Rock Fruit, 5 Hot Chocolate, 5 Onyx Gems and 5 Bamboo Bites for Johnny Umami in the Ninjago Monastery.",
+    "offer": "This next one is special. You'll see why. Bring me 10 Rock Fruit, 5 Hot Chocolate, 5 Onyx Gems and 5 Bamboo Bites!",
+    "ready_to_complete": "Takes a lot of work to make a Rockolate Bar! I've heard you can use this to tame a mysterious Earth pet!"
+  },
+  "1877": {
+    "accept_chat_bubble": "Binoculars can help you find secret areas.",
+    "chat_state_1": "I'm nearsighted, but it doesn't matter if you've got some Binoculars handy!",
+    "chat_state_2": "Just head over there and interact with that Binoculars at the edge of the road.",
+    "chat_state_3": "What a view, huh?",
+    "completion_succeed_tip": "Tell Vector Longview that you used the Binoculars.",
+    "in_progress": "<font color='#FF7F00'>Interact with the Binoculars</font> at the end of the broken road to see a view of the Monument.",
+    "offer": "Want to see what I see? <font color='#FF7F00'>Use the Binoculars</font> by the end of the road there!",
+    "ready_to_complete": "Use Binoculars to find hidden objects, a new location, or something cool! You can also <font color='#FF7F00'>complete Achievements</font> by using them!"
+  },
+  "1879": {
+    "accept_chat_bubble": "Beep! My brothers have all been infected by Maelstrom.",
+    "chat_state_1": "Beep! Receiving transmission from a damaged Defense Robot.",
+    "chat_state_2": "Beep! Gather parts then rebuild a Defense Robot near Wisp.",
+    "chat_state_3": "Beep! Receiving Reports from PRDX-7.",
+    "chat_state_4": "Beep! 01001001 01101101 01100001.",
+    "completion_succeed_tip": "Tell PRDX-4 in the Launch Area that you were able to rebuild the Defense Robot.",
+    "in_progress": "<font color='#FF7F00'>Collect 3 spare parts</font> by smashing <font color='#FF7F00'>Stromling Mechs</font> in Avant Gardens. Then smash and <font color='#FF7F00'>rebuild the Defense Robot</font> by the Paradox Lab.",
+    "offer": "Beep! Smash Stromling Mechs to <font color='#FF7F00'>collect 3 Spare Parts</font>. Beep! Then <font color='#FF7F00'>smash and rebuild the Defense Robot</font> near Wisp.",
+    "offer_repeatable": "Beep! Smash Stromling Mechs to collect <font color='#FF7F00'>3 Spare Parts</font>. Beep! Then <font color='#FF7F00'>smash and rebuild</font> the Defense Robot near Wisp.",
+    "ready_to_complete": "Beep! I’m receiving transmissions from PRDX-7. Beep! Good job rebuilding him. Beep! PRDX-7 may need more parts tomorrow."
+  },
+  "1880": {
+    "accept_chat_bubble": "Make sure your holster is on right!",
+    "chat_state_1": "Howdy, pardner! Come check this out.",
+    "chat_state_2": "Look around Avant Gardens for the targets!",
+    "chat_state_3": "So how'd ya do? Didn't shoot yer eye out, I hope!",
+    "chat_state_4": "There’s more to bein' a cowboy than just wearin' the boots!",
+    "completion_succeed_tip": "Return to Dusty Holster in the Avant Gardens Launch Area.",
+    "in_progress": "Equip the Plunger Gun, select 3 on your Action Bar and press Attack to fire. <font color='#FF7F00'>Shoot  6 targets</font> around Avant Gardens.",
+    "offer": "This Plunger Gun ain’t a real pistol, but it works on them targets! <font color='#FF7F00'>Shoot 6 targets</font> in Avant Gardens!",
+    "offer_repeatable": "This Plunger Gun ain’t a real pistol, but it works on them targets! <font color='#FF7F00'>Shoot 6 targets</font> in Avant Gardens!",
+    "ready_to_complete": "Great shootin', pardner! Ya nailed those targets dead center! I’ll take my toy gun back and get 'em targets set up again for ya tomorrow!"
+  },
+  "1881": {
+    "accept_chat_bubble": "I can’t go me-self, I get spacesick on rocketships!",
+    "chat_state_1": "Shh, over here. I gots a favor to ask ye!",
+    "chat_state_2": "Just pick a Property that's been settled by another player, then start yer diggin'!",
+    "chat_state_3": "Did you find me treasure?",
+    "chat_state_4": "I never knew I had so much booty!",
+    "completion_succeed_tip": "Return the treasure to Swabby Bilgebarrel in the Avant Gardens Launch Area.",
+    "in_progress": "<font color='#FF7F00'>Use Swabby’s Shovel</font> on 5 player Properties to dig up 5 hidden treasures.",
+    "offer": "I stashed me booty and forgot where I put it! Visit 5 player <font color='#FF7F00'>Properties</font> and <font color='#FF7F00'>use this lucky shovel</font> to dig up 5 treasures!",
+    "offer_repeatable": "I stashed me booty and forgot where I put it! Take me <font color='#FF7F00'>lucky shovel</font>, visit 5 player <font color='#FF7F00'>Properties</font> and use it to dig up 5 treasures!",
+    "ready_to_complete": "Ah! Bonny good job, matey! Here’s a bit of the plunder for yer efforts."
+  },
+  "1882": {
+    "accept_chat_bubble": "Hurry and find Wisp Lee while I stand here and look mysterious.",
+    "chat_state_1": "Some Ninjas hide in plain sight! Wait, you see me?",
+    "chat_state_2": "Wisp Lee is waiting for you by the destroyed Paradox Lab here in Avant Gardens.",
+    "chat_state_3": "Did anyone see you? No matter, so long as they didn't stare too long.",
+    "chat_state_4": "You are most honorable.",
+    "completion_succeed_tip": "Take the Maelstrom Cube to Hu Where in the Avant Gardens Launch Area.",
+    "in_progress": "<font color='#FF7F00'>Talk to Wisp Lee</font> in Avant Gardens about a <font color='#FF7F00'>Maelstrom Cube</font> for Hu Where.",
+    "offer": "Psst. I'm actually a secret Paradox agent. My master in Forbidden Valley needs a <font color='#FF7F00'>Maelstrom Cube</font>. Can you <font color='#FF7F00'>talk to Wisp Lee</font> and get one for me?",
+    "offer_repeatable": "Psst. I'm actually a secret Paradox agent. My master in Forbidden Valley needs a <font color='#FF7F00'>Maelstrom Cube</font>. Can you <font color='#FF7F00'>talk to Wisp Lee</font> and get one for me?",
+    "ready_to_complete": "You are most honorable, thank you for the help. Now walk away. We never had this conversation."
+  },
+  "1883": {
+    "accept_chat_bubble": "Be careful! You don’t want to get that stuff on your hands.",
+    "chat_state_1": "My bandage is losing its clutch power.",
+    "chat_state_2": "Hu Where isn't just a picnicking Ninja, he's a secret Paradox agent!",
+    "chat_state_3": "It takes exactly 9 Maelstrom Samples to build a cube. And 1 for good luck.",
+    "completion_succeed_tip": "You have enough Maelstrom Samples. Return to Wisp Lee in Avant Gardens.",
+    "in_progress": "Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 10 Maelstrom Samples</font> in Avant Gardens.",
+    "offer": "A Maelstrom Cube for Hu Where? Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 10 Maelstrom Samples</font> and then I'll make the Cube.",
+    "offer_repeatable": "Where’s Hu Where? Him and his picnic baskets. He’s one of our best agents because he’s smarter than the average Ninja. Use the Maelstrom Vacuum to collect <font color='#FF7F00'>10 Maelstrom Samples</font> to make a Cube for Hu Where.",
+    "ready_to_complete": "Okay, take this Maelstrom Cube back to Hu Where. Don't drop it!"
+  },
+  "1884": {
+    "accept_chat_bubble": "Interact with the Starting Line next to  Rusty Steele down at the bottom to start the race.",
+    "chat_state_1": "You feeling fast today?",
+    "chat_state_2": "You can just jump down off the road here to get down quickly.",
+    "chat_state_3": "Back so soon?!",
+    "chat_state_4": "Bet you'll get a faster time tomorrow!",
+    "completion_succeed_tip": "Tell Vector Longview how fast you ran the race.",
+    "in_progress": "<font color='#FF7F00'>Interact with the Starting Line</font> at the base of the Monument to run the Monument Race.",
+    "offer": "Want to run the Monument Race? <font color='#FF7F00'>Interact with the Starting Line</font> behind Rusty Steele at the base of the Monument to start the race.",
+    "offer_repeatable": "Have you run the <font color='#FF7F00'>Monument Race</font> today? Interact with the <font color='#FF7F00'>Starting Line</font>  next to <font color='#FF7F00'>Rusty Steele</font> at the base of the Monument to start the race.",
+    "ready_to_complete": "That was really fast! Come back tomorrow and try it again."
+  },
+  "1885": {
+    "completion_succeed_tip": "Solo Blotch!",
+    "description": "As a solo player, defeat Murgle Blotch in the Battle of Nimbus Station."
+  },
+  "1886": {
+    "completion_succeed_tip": "Solo Hurl!",
+    "description": "As a solo player, defeat Kinga Hurl in the Battle of Nimbus Station."
+  },
+  "1887": {
+    "completion_succeed_tip": "Solo Bliddo!",
+    "description": "As a solo player, defeat Whack Bliddo in the Battle of Nimbus Station."
+  },
+  "1888": {
+    "completion_succeed_tip": "Solo Riders!",
+    "description": "As a solo player, defeat the 4 Riders in the Battle of Nimbus Station."
+  },
+  "1889": {
+    "accept_chat_bubble": "One day you may even meet Dr. Overbuild himself!",
+    "chat_state_1": "Come back when you have more Faction Tokens to spend!",
+    "chat_state_2": "Check with Nexus Jay for your next orders.",
+    "chat_state_3_turnin": "Whoa! Check out that kit!",
+    "chat_state_4_turnin": "Check around Nimbus Station for others that may need your help!",
+    "completion_succeed_tip": "Talk to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+    "offer": "As a member of Assembly, it's time to construct your destiny! <font color='#FF7F00'>Talk to Nexus Jay</font> for your next orders.",
+    "ready_to_complete": "Look at you! Geared up and ready to go! Why don't you start with some new adventures right here in Nimbus Station!"
+  },
+  "1890": {
+    "accept_chat_bubble": "Don't forget to check out the racetrack here! It's awesome!",
+    "chat_state_1": "Come back when you have more Faction Tokens to spend!",
+    "chat_state_2": "Check with Nexus Jay for your next orders.",
+    "chat_state_3_turnin": "Whoa! Check out that kit!",
+    "chat_state_4_turnin": "Check around Nimbus Station for others that may need your help!",
+    "completion_succeed_tip": "Talk to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+    "offer": "What are you standing around here for? Go find your next adventure! <font color='#FF7F00'>Talk to Nexus Jay</font> and he'll point you in the right direction.",
+    "ready_to_complete": "Look at you! Geared up and ready to go! Why don't you start with some new adventures right here in Nimbus Station!"
+  },
+  "1891": {
+    "accept_chat_bubble": "Prove yourself and one day you may even be useful to Vanda Darkflame.",
+    "chat_state_1": "Come back when you have more Faction Tokens to spend!",
+    "chat_state_2": "Check with Nexus Jay for your next orders.",
+    "chat_state_3_turnin": "Whoa! Check out that kit!",
+    "chat_state_4_turnin": "Check around Nimbus Station for others that may need your help!",
+    "completion_succeed_tip": "Talk to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+    "offer": "You're ready to show the Maelstrom what real chaos is like! <font color='#FF7F00'>Talk to Nexus Jay</font> for your next orders.",
+    "ready_to_complete": "Look at you! Geared up and ready to go! Why don't you start with some new adventures right here in Nimbus Station!"
+  },
+  "1892": {
+    "accept_chat_bubble": "Imagine the damage you could do in Survival with this gear!",
+    "chat_state_1": "Come back when you have more Faction Tokens to spend!",
+    "chat_state_2": "Check with Nexus Jay for your next orders.",
+    "chat_state_3_turnin": "Whoa! Check out that kit!",
+    "chat_state_4_turnin": "Check around Nimbus Station for others that may need your help!",
+    "completion_succeed_tip": "Talk to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+    "offer": "Time to show off your new Sentinel strength! <font color='#FF7F00'>Talk to Nexus Jay</font> for your next orders.",
+    "ready_to_complete": "Look at you! Geared up and ready to go! Why don't you start with some new adventures right here in Nimbus Station!"
+  },
+  "1894": {
+    "completion_succeed_tip": "Monument Maintenance 1!",
+    "description": "Quick Build 25 Bouncers, buttons or moving platforms on the Avant Gardens Monument."
+  },
+  "1895": {
+    "completion_succeed_tip": "Monument Maintenance 2!",
+    "description": "Quick Build 100 more Bouncers, buttons or moving platforms on the Avant Gardens Monument."
+  },
+  "1896": {
+    "accept_chat_bubble": "Always check your Mission Tracker to find out what to do next!",
+    "chat_state_1": "You're doing great.",
+    "chat_state_2": "The Mission Tracker shows you any Missions you currently have.",
+    "chat_state_3": "Don't forget, completing Missions earns you U-Score!",
+    "chat_state_4": "Don't forget, completing Missions earns you U-Score!",
+    "completion_succeed_tip": "Tell Sky Lane you found the Mission Tracker.",
+    "in_progress": "The orange circle at the top of the screen is the <font color='#FF7F00'>Mission Tracker</font>. It shows your current objective.",
+    "offer": "Have you used the <font color='#FF7F00'>Mission Tracker</font>? Click the <font color='#FF7F00'>orange circle</font> at the top of the screen.",
+    "ready_to_complete": "When a Mission is completed, a <font color='#FF7F00'>light beam</font> will show you where to turn it in."
+  },
+  "1897": {
+    "accept_chat_bubble": "Check the water all around Nimbus Station for hungry sharks!",
+    "chat_state_1": "Oh man, it smells like sour sushi in here.",
+    "chat_state_2": "Look for the ripples in the water! Ripples mean sharks!",
+    "chat_state_3": "Did you find the sharks? Do you still have all your parts?",
+    "completion_succeed_tip": "Return to Farnham Spoon in Nimbus Station.",
+    "in_progress": "<font color='#FF7F00'>Buy 5 Stinky Fish</font> from Farnham Spoon and use them to <font color='#FF7F00'>feed 5 sharks</font> in the water around Nimbus Station.",
+    "offer": "My shipment of fish went bad, but that doesn't mean they should go to waste! <font color='#FF7F00'>Buy 5 Stinky Fish</font> from me and use them to <font color='#FF7F00'>feed 5 sharks</font>!",
+    "offer_repeatable": "My shipment of fish went bad, but that doesn't mean they should go to waste! <font color='#FF7F00'>Buy 5 Stinky Fish</font> from me and use them to <font color='#FF7F00'>feed 5 sharks</font>!",
+    "ready_to_complete": "Thanks for feeding those sharks! You're a real chum!"
+  },
+  "1914": {
+    "accept_chat_bubble": "Use Earth Spinjitzu to locate the Earth Shrine in the caves!",
+    "chat_state_1": "Cole has taught you well, but now we must put your new skills to the test!",
+    "chat_state_2": "Look to my left for a way into our Storeroom, then find the caves below!",
+    "chat_state_3": "Got your hands dirty down there, did you?",
+    "completion_succeed_tip": "Return to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Find the Earth Shrine in the Ninjago Caves below the Monastery. Then defeat Chopov to recover the Scythe of Quakes.",
+    "offer": "I hid the 4 Weapons of Spinjitzu in the caves below this Monastery. Find and protect the Scythe of Quakes from the Skeletons!",
+    "ready_to_complete": "It is safe! Good! We must not let the Weapons of Spinjitzu fall into the Skeletons' bony hands!"
+  },
+  "1918": {
+    "accept_chat_bubble": "You'll need a pet to unbury this treasure!",
+    "chat_state_1": "I love burying bones!",
+    "chat_state_2": "I'll bury the bones by the time you get there! I'm that fast!",
+    "chat_state_3": "Did you find my treasure?",
+    "completion_succeed_tip": "Return to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Use a pet on the Pet Dig by the Ninjago rocket launchpad to find a treasure.",
+    "offer": "I'll bury these Rib Bones in a special spot by the launch pad! Dig there and you might also find a treasure!",
+    "ready_to_complete": "Urufuuuuu!!! You found it!"
+  },
+  "1919": {
+    "accept_chat_bubble": "You'll need a pet to unbury this treasure!",
+    "chat_state_1": "Tail bones frail bones!",
+    "chat_state_2": "Hurry! Go and look! I will bury it before you get there!",
+    "chat_state_3": "I am Sensei's loyal dog! He never pets me though.",
+    "completion_succeed_tip": "Return to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Use a pet on the Pet Dig under the Ninjago Battlefield bridge to find a treasure.",
+    "offer": "I'll bury these Tail Bones in a special spot under the bridge outside! Dig there and you might also find a treasure!",
+    "ready_to_complete": "Urufuuuu!!! You found it!"
+  },
+  "1920": {
+    "accept_chat_bubble": "Hurry to the Earth Garden! And watch out for quicksand!",
+    "chat_state_1": "Funny bone money bone!",
+    "chat_state_2": "Have you checked the Pet Dig yet? Look in the Earth Garden!",
+    "chat_state_3": "No this isn't a mask. Furious Urufu is a real dog!",
+    "completion_succeed_tip": "Return to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Use a pet on the Pet Dig beneath the Rock Face in the Earth Garden to find a treasure.",
+    "offer": "I'll bury this Funny Bone beneath the Rock Face in the Earth Garden! Dig there and you might also find a treasure!",
+    "ready_to_complete": "Urufuuuu!!! You found it!"
+  },
+  "1921": {
+    "accept_chat_bubble": "Do you know how to get into the caves? Look in the storeroom!",
+    "chat_state_1": "Eye bone cry bone!",
+    "chat_state_2": "Don't let Hari Howzen see you digging! She doesn't like Furious Urufu!",
+    "chat_state_3": "You smell like a cave! That means you found the treasure!",
+    "completion_succeed_tip": "Return to Furious Urufu in the Monastery.",
+    "in_progress": "Use a pet on the Pet Dig by the entrance to the Ninjago Caves to find a treasure.",
+    "offer": "Furious Urufu will bury this Eye Bone by the entrance to the Ninjago Caves! Dig there and you might also find a treasure!",
+    "ready_to_complete": "Urufuuuu!!! You found it!"
+  },
+  "1922": {
+    "accept_chat_bubble": "Last bone to bury for now!",
+    "chat_state_1": "Gnaw bone jaw bone!",
+    "chat_state_2": "Hurry and find my best treasure of all!",
+    "chat_state_3": "Who wants to scratch my tummy?",
+    "completion_succeed_tip": "Return to Furious Urufu in the Ninjago Monastery.",
+    "in_progress": "Use a pet on the Pet Dig by the Black Banner in the Ninjago Caves to find a treasure.",
+    "offer": "Furious Urufu will bury this Jaw Bone by the Black Banner in the Caverns! Dig there and you might also find a treasure!",
+    "ready_to_complete": "Urufuuuu!!! You found it!"
+  },
+  "1924": {
+    "accept_chat_bubble": "Don't forget to check the attic spaces above each of the Dojos!",
+    "chat_state_1": "Are you Ninja enough for this challenge?",
+    "chat_state_2": "I hid the flags in high, hard to reach places.",
+    "chat_state_3": "C'mon, be honest. Did Jay give you any help?",
+    "completion_succeed_tip": "Return to Cole in the Dojo of Earth.",
+    "in_progress": "Find all 10 of Cole's Climbing Flags around the Ninjago Monastery.",
+    "offer": "Can you climb like me? I hid 10 of my Climbing Flags around the Monastery. See if you can find them all!",
+    "ready_to_complete": "Whoa, you're a rock climber like me!"
+  },
+  "1925": {
+    "accept_chat_bubble": "Echs Ray is our lead scientist at the Refinery in Forbidden Valley.",
+    "chat_state_1": "Why Maelstrom Crystals? Don't Skeletons have their own bone technology?",
+    "chat_state_2": "Echs Ray may be able to purify this weapon somehow!",
+    "chat_state_3_turnin": "A visitor from Nexus Tower? Oh, what's that, you say? From Ninjago?!",
+    "completion_succeed_tip": "Show the Maelstrom Dagger to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "in_progress": "Show the Maelstrom Dagger to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "offer": "The Maelstrom levels in this weapon are very dangerous. We have a machine in Forbidden Valley that will purify it. Go and see Echs Ray.",
+    "ready_to_complete": "A weapon forged from Crux Prime Maelstrom Crystals, you say? Such craftsmanship!"
+  },
+  "1926": {
+    "accept_chat_bubble": "I'm sure you don't want to hold onto that thing any longer than you need to!",
+    "chat_state_1": "We've been studying the properties of Maelstrom Crystals at this refinery.",
+    "chat_state_2": "Smash those pipes to Quick Build the machine, then interact with it.",
+    "chat_state_3": "Amazing machine, isn't it? It also doubles as a DVR!",
+    "completion_succeed_tip": "Talk to Echs Ray again.",
+    "in_progress": "Smash the Refinery pipes and Quick Build the Chaos Cleaner machine. Then interact with it to purify the Maelstrom Dagger.",
+    "offer": "I have a machine here that may purify this weapon! Simply interact with the device over there.",
+    "ready_to_complete": "Amazing! The dagger is completely free of corruption!"
+  },
+  "1927": {
+    "accept_chat_bubble": "I'd like to see this Ninjago world one day. Is it nicer than Forbidden Valley?",
+    "chat_state_1": "Thank you for bringing this to us. Anything we learn about the Maelstrom assists our efforts to defeat it!",
+    "chat_state_2": "You may not understand these Instructions, but perhaps Jay will.",
+    "chat_state_3": "Of course I have time to look at some cool new Instructions!",
+    "completion_succeed_tip": "Talk to Jay in the Dojo of Lightning on Ninjago.",
+    "in_progress": "Give the Portable Chaos Cleaner Instructions to Jay in the Dojo of Lightning on Ninjago.",
+    "offer": "I've given you Instructions to construct your own Portable Chaos Cleaner. Take it to your inventor friend on Ninjago!",
+    "ready_to_complete": "A fancy new machine? From Paradox? Let's check it out!"
+  },
+  "1932": {
+    "accept_chat_bubble": "Use a white Ice Spinjitzu Lantern to find a way into the Ice Shrine!",
+    "chat_state_1": "And now for the Shurikens of Ice!",
+    "chat_state_2": "You must find the Shurikens before the Skeletons do!",
+    "chat_state_3": "I sense the power of ice already!",
+    "completion_succeed_tip": "Return to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Find the Ice Shrine in the Ninjago Caves below the Monastery. Then defeat Bonezai to recover the Shurikens of Ice.",
+    "offer": "Next you must find the Ice Shrine in the caves below the Monastery! Find and protect the Shurikens of Ice from Bonezai!",
+    "ready_to_complete": "Use the Shurikens of Ice to unleash Ice Spinjitzu and freeze the Skeletons where they stand!"
+  },
+  "1933": {
+    "completion_succeed_tip": "By collecting all of the Backpack Flags in Ninjago, you've unlocked an extra Backpack space!",
+    "description": "Collect 15 Backpack Flags in Ninjago."
+  },
+  "1934": {
+    "completion_succeed_tip": "By collecting all of the Heart Flags in Ninjago, you've unlocked an extra Life Point!",
+    "description": "Collect 15 Heart Flags in Ninjago."
+  },
+  "1935": {
+    "accept_chat_bubble": "Equip the kit. Just click and drag it onto yourself!",
+    "chat_state_1": "This Faction kit will give you new skills to use in battle!",
+    "chat_state_2": "It's not completely spider-proof, but then again, what is?",
+    "chat_state_3": "I sense a high-five comin' on!",
+    "completion_succeed_tip": "Show Melodie Foxtrot how you look in the Faction kit.",
+    "in_progress": "Equip the <font color='#FF7F00'>Trial Faction Gear</font> by dragging it from your backpack onto yourself.",
+    "offer": "You can't fight if your gear doesn't fit! <font color='#FF7F00'>Equip the Trial Faction Gear</font> and let's see how you look!",
+    "ready_to_complete": "You look pretty awesome in that! Just wait until you get your own!"
+  },
+  "1936": {
+    "accept_chat_bubble": "Theo Balfour is stationed inside the tunnel back there.",
+    "chat_state_1": "I've got the perfect Minifigure for this mission. You!",
+    "chat_state_2": "Tell Theo you have clearance to pass through to the Monument.",
+    "chat_state_3_turnin": "Whoa, hold up! This is a restricted area!",
+    "completion_succeed_tip": "Find Theo Balfour in the tunnel behind the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Talk to Theo Balfour</font> in the tunnel behind the Sentinel Base Camp.",
+    "offer": "Get to the Block Yard Property and stop that Spider Queen! I’ll tell <font color='#FF7F00'>Theo Balfour</font> you're cleared to pass through the tunnel.",
+    "ready_to_complete": "Oh, it's you! Commander Beck has authorized you to use this Bouncer!"
+  },
+  "1941": {
+    "completion_succeed_tip": "I Can Do It On My Own!",
+    "description": "Return to the Spider Queen's lair and smash her a second time."
+  },
+  "1942": {
+    "completion_succeed_tip": "Smash Frakjaw!",
+    "description": "Smash Frakjaw in the Fire Shrine in the caves below the Monastery."
+  },
+  "1943": {
+    "completion_succeed_tip": "Smash Chopov!",
+    "description": "Smash Chopov in the Earth Shrine in the caves below the Monastery."
+  },
+  "1944": {
+    "completion_succeed_tip": "Smash Bonezai!",
+    "description": "Smash Bonezai in the Ice Shrine in the caves below the Monastery."
+  },
+  "1945": {
+    "completion_succeed_tip": "Smash Krazi!",
+    "description": "Smash Krazi in the Lightning Shrine in the caves below the Monastery."
+  },
+  "1946": {
+    "accept_chat_bubble": "Look for a bouncer that will get you up into the attic!",
+    "chat_state_1": "Prove your worth to learn some Earth!",
+    "chat_state_2": "Give me the package you get out of that chest.",
+    "chat_state_3": "Solid performance up there!",
+    "completion_succeed_tip": "Talk to Cole again.",
+    "in_progress": "Get the Earth Key from the attic above the Dojo of Earth. Then use the Key to unlock the chest in front of Cole.",
+    "offer": "There's an Earth Ninja kit locked inside this chest. Search the attic above to find the Key, then unlock this chest!",
+    "ready_to_complete": "You moved like a real Ninja up there! Now, want to learn how to move like a Ninja of Earth?"
+  },
+  "1947": {
+    "accept_chat_bubble": "There is a hidden bouncer in here that will get you up into the attic.",
+    "chat_state_1": "Are you quick on your feet?",
+    "chat_state_2": "Give me the package you get out of the chest.",
+    "chat_state_3": "I foresaw your victory already, but nice job anyway.",
+    "completion_succeed_tip": "Talk to Zane again.",
+    "in_progress": "Get the Ice Key from the attic above the Dojo of Ice. Then use the Key to unlock the chest in front of Zane.",
+    "offer": "There is a Key hidden in the attic above this Dojo. If you can find it, you can unlock this chest and earn your Ice Ninja kit.",
+    "ready_to_complete": "You kept your cool up there. Now to learn the secrets of Ice!"
+  },
+  "1948": {
+    "accept_chat_bubble": "Find a bouncer that will get you up into the attic!",
+    "chat_state_1": "Hope you're not afraid of heights!",
+    "chat_state_2": "Give me the package you get out of that chest, okay?",
+    "chat_state_3": "Can't say I'm shocked that you made it.",
+    "completion_succeed_tip": "Talk to Jay again.",
+    "in_progress": "Get the Lightning Key from the attic above the Dojo of Lightning. Then use the Key to unlock the chest in front of Jay.",
+    "offer": "There's a Key hidden in the attic above this Dojo. Bring it down here and unlock this chest to find your Lightning Ninja kit inside!",
+    "ready_to_complete": "Lightning Bolt! Ready to become a Ninja of Lightning?"
+  },
+  "1949": {
+    "accept_chat_bubble": "Check the weapon racks in the Dojo for a bouncer that will get you up top.",
+    "chat_state_1": "Ready to get your scorch on?",
+    "chat_state_2": "Give me the package you get out of that chest, alright?",
+    "chat_state_3": "Dude, that was hot!",
+    "completion_succeed_tip": "Talk to Kai again.",
+    "in_progress": "Get the Fire Key from the attic above the Dojo of Fire. Then use the Key to unlock the chest in front of Kai.",
+    "offer": "Okay, you know the drill. Get the Key from the attic up above. Then come down here, unlock this chest and get your Fire Ninja kit!",
+    "ready_to_complete": "That was some fancy, fiery footwork up there! Ready to heat it up as a Fire Ninja?"
+  },
+  "1950": {
+    "accept_chat_bubble": "Equip the Trial Faction Gear and let's see how it looks.",
+    "chat_state_1": "You can't go out there like that!",
+    "chat_state_2": "Remember, you only get to borrow this Faction Gear!",
+    "chat_state_3": "That Spider Queen won't know what hit her!",
+    "completion_succeed_tip": "Show Vance Bulwark how you look in the Trial Faction Gear.",
+    "in_progress": "Find the <font color='#FF7F00'>Trial Faction Gear</font> in your Backpack and equip it.",
+    "offer": "Don't try to fight her without suiting up first! Equip <font color='#FF7F00'>the Trial Faction Gear</font>!",
+    "ready_to_complete": "Looks good on you! When you get your own, it will fit even better! Now, are you ready?"
+  },
+  "1951": {
+    "accept_chat_bubble": "A Ninja must be able to sneak as well as smash!",
+    "chat_state_1": "Our lawn is ruined! We had a whole mini-golf course planned out here!",
+    "chat_state_2": "We need to know how strong those Skeletons really are!",
+    "chat_state_3": "I was watching you out there - you've got some Ninja skills!",
+    "completion_succeed_tip": "You've found all 4 camps. Return to Kodo Pandaheart, one of the Guards outside the Monastery Gates.",
+    "in_progress": "Scout the Ninjago Battlefield and find all 4 of the Skeletons' Camps.",
+    "offer": "We need to know what we're up against out there! Find all 4 of the Skeletons' camps!",
+    "ready_to_complete": "Sounds like those Skeletons are making themselves nice and cozy! That won't last long!"
+  },
+  "1952": {
+    "accept_chat_bubble": "Put on the Gi, Hood and Pants you just got out of this chest.",
+    "chat_state_1": "Blue is the new black!",
+    "chat_state_2": "Look in your Backpack for the package you just got out of this chest.",
+    "chat_state_3": "Are you a snazzy dresser or what?",
+    "completion_succeed_tip": "Talk to Jay again.",
+    "in_progress": "Equip all 3 pieces of the Lightning Ninja kit.",
+    "offer": "Okay, let's see you in your new blue suit! Put on the Lightning Ninja kit you just got out of this chest!",
+    "ready_to_complete": "Now you can use blue Lightning Spinjitzu Lanterns to zip through the air! Just like a bolt of lightning!"
+  },
+  "1953": {
+    "accept_chat_bubble": "Hurry and see Sensei Wu!",
+    "chat_state_1": "Now all you need is an awesome weapon! I know just the thing.",
+    "chat_state_2": "You remember the Sensei, right? White hair, beard, awesome sense of rhythm?",
+    "chat_state_3_turnin": "You are back! And even stronger than before, it seems!",
+    "completion_succeed_tip": "Speak to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Jay wants you to return to Sensei Wu in the Ninjago Monastery.",
+    "offer": "You know enough to use Lightning Spinjitzu Lanterns, but if you talk to Sensei Wu, he'll tell you how to learn more!",
+    "ready_to_complete": "Jay has taught you well, but in order to learn Lightning Spinjitzu, you must next find the Nunchuks of Lightning!"
+  },
+  "1954": {
+    "accept_chat_bubble": "Search the caverns for the Lightning Shrine.",
+    "chat_state_1": "The Skeleton known as Krazi is trying to find the Nunchuks of Lightning!",
+    "chat_state_2": "Look for a Lightning Spinjitzu Lantern - it may be your clue to get into the Lightning Shrine.",
+    "chat_state_3": "You are positively crackling with energy!",
+    "completion_succeed_tip": "Return to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Find the Lightning Shrine in the Ninjago Caves below the Monastery. Then defeat Krazi to recover the Nunchuks of Lightning.",
+    "offer": "Next you must find the Lightning Shrine in the caves below the Monastery! Find and protect the Nunchuks of Lightning from Krazi!",
+    "ready_to_complete": "Use the Nunchuks of Lightning to unleash Lightning Spinjitzu and give those Skeletons a real shock!"
+  },
+  "1955": {
+    "accept_chat_bubble": "You must retrieve the Instructions that will allow us to open those cages!",
+    "chat_state_1": "What shall we do? Those cages are fiendishly constructed!",
+    "chat_state_2": "Only Spinjitzu can save us!",
+    "chat_state_3": "Did you find them all?",
+    "completion_succeed_tip": "Return to Bozu Roku in the Ninjago Caves.",
+    "in_progress": "Smash Skeleton Mad Scientists in the Ninjago Caves until you retrieve the 3 pages of the Skull-a-Ton Building Instructions.",
+    "offer": "Please, rescue my fellow villagers! But first you will need to retrieve some fiendish Instructions from the Skeleton Mad Scientists down here!",
+    "ready_to_complete": "Wonderful! And disturbing. These Instructions will allow you to build something that will open the cages!"
+  },
+  "1956": {
+    "accept_chat_bubble": "The light blue banners bear the symbol of Ice.",
+    "chat_state_1": "Earth, Lightning and now Ice. Zane is waiting for you.",
+    "chat_state_2": "Follow the light blue banners to find the Dojo of Ice!",
+    "chat_state_3_turnin": "I knew you were coming. I am mysterious like that.",
+    "chat_state_4": "Return to me once you have learned enough from Zane!",
+    "completion_succeed_tip": "Speak to Zane in the Monastery Dojo of Ice.",
+    "in_progress": "Sensei Wu wants you to speak to Zane. Find him in the Monastery Dojo of Ice.",
+    "offer": "Now it is time to chill with Zane! Speak to Zane in the Monastery Dojo of Ice!",
+    "ready_to_complete": "Ah. You are the new student. I am Zane."
+  },
+  "1958": {
+    "accept_chat_bubble": "Go on back and talk to Zane.",
+    "chat_state_1": "I thought Jay was supposed to be the jokester! Huh.",
+    "chat_state_2": "You'd better get back to your Ice training with Zane.",
+    "chat_state_3_turnin": "Was it a good joke?",
+    "completion_succeed_tip": "Cole wants you to return to Zane in the Monastery Dojo of Ice.",
+    "in_progress": "Return to Zane in the Monastery Dojo of Ice.",
+    "offer": "So Zane put you up to this? Well, tell him that you guys got me good!",
+    "ready_to_complete": "Cole was not mad? Good. However, our little joke has given me an idea to use against the Skeletons!"
+  },
+  "1959": {
+    "accept_chat_bubble": "Put on the Gi, Hood and Pants you just got out of this chest.",
+    "chat_state_1": "What does this mean, to have a cold?",
+    "chat_state_2": "Look for the package I just gave you. Check your mailbox if it is not in your Backpack!",
+    "chat_state_3": "You seem icy. Like a snowstorm of the coldest vanilla.",
+    "completion_succeed_tip": "Talk to Zane again.",
+    "in_progress": "Equip all 3 pieces of the Ice Ninja kit.",
+    "offer": "And now to see if you can embody the frozen spirit of Ice. Put on the Ice Ninja kit you got from this chest.",
+    "ready_to_complete": "Now you can use white Ice Spinjiztu Lanterns to smash blocks of ice! Just focus your power - then fly like a snowball!"
+  },
+  "1960": {
+    "accept_chat_bubble": "Seek out Sensei Wu for your next challenge!",
+    "chat_state_1": "One thing remains - to master the Shurikens of Ice!",
+    "chat_state_2": "Hurry and return to Sensei Wu!",
+    "chat_state_3_turnin": "Been staying frosty out there? Hah!",
+    "chat_state_4": "I have enjoyed our time together. Chilling, as you call it?",
+    "completion_succeed_tip": "Speak to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Zane wants you to return to Sensei Wu in the Ninjago Monastery.",
+    "offer": "Please return to Sensei Wu. Next you must quest for the Shurikens of Ice!",
+    "ready_to_complete": "I hear you and Zane got into some mischief together! Hah! Good to hear that he is thawing out!"
+  },
+  "1961": {
+    "accept_chat_bubble": "The red banners bear the symbol of Fire!",
+    "chat_state_1": "Only 1 form of Spinjitzu remains for you to learn!",
+    "chat_state_2": "Follow the red banners to find the Dojo of Fire!",
+    "chat_state_3_turnin": "Master sent you? Good, he saved the best for last!",
+    "completion_succeed_tip": "Speak to Kai in the Monastery Dojo of Fire.",
+    "in_progress": "Sensei Wu wants you to speak to Kai. Find him in the Monastery Dojo of Fire.",
+    "offer": "Do you burn for further knowledge of Spinjitzu? Time to train with the most fiery of my students! Find Kai!",
+    "ready_to_complete": "Don't worry, I was a complete noob at one point too. Hope you learn as fast as I did!"
+  },
+  "1962": {
+    "accept_chat_bubble": "Put on the Gi, Hood and Pants you just got out of this chest.",
+    "chat_state_1": "If you're gonna be a Fire Ninja, you gotta look the part!",
+    "chat_state_2": "Check your Backpack for the Fire Kit package. If it's not there, check your Mailbox!",
+    "chat_state_3": "Yep, I think red's your color!",
+    "completion_succeed_tip": "Talk to Kai again.",
+    "in_progress": "Equip all 3 pieces of the Fire Ninja kit.",
+    "offer": "Okay, let's heat things up a few more degrees! Put on the Fire Ninja kit you got out of this chest.",
+    "ready_to_complete": "Now you can use red Fire Spinjitzu Lanterns to launch yourself into the air! It's a blast!"
+  },
+  "1963": {
+    "accept_chat_bubble": "Hurry back to Sensei Wu!",
+    "chat_state_1": "Feel the burn!",
+    "chat_state_2": "Go on, get outta here! Master is waiting for you!",
+    "chat_state_3_turnin": "Kai has trained you well, I hope?",
+    "chat_state_4": "Do us proud out there!",
+    "completion_succeed_tip": "Speak to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Kai wants you to return to Sensei Wu in the Ninjago Monastery.",
+    "offer": "I've taught you all I can for now. Sensei Wu needs your help recovering the Sword of Fire, so go back and see him!",
+    "ready_to_complete": "Just in time! Frakjaw, the Skeleton of Fire, has led a Skeleton strike force into the Fire Shrine! You must stop him!"
+  },
+  "1964": {
+    "accept_chat_bubble": "A red Fire Spinjitzu Lantern will blast you up to the entrance to the Fire Shrine!",
+    "chat_state_1": "Frakjaw must not be allowed to claim the Sword of Fire!",
+    "chat_state_2": "You may not want to face Frakjaw alone! Take some fellow Ninjas with you!",
+    "chat_state_3": "The Skeletons may still be here, but I feel a great sense of relief.",
+    "completion_succeed_tip": "Return to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Interact with the red Dragon Statue in the Ninjago Caves to find the Fire Shrine. Then defeat Frakjaw to recover the Sword of Fire.",
+    "offer": "A Dragon statue guards the way into the Fire Shrine in the caves below! Enter and defeat Frakjaw to protect the Sword of Fire!",
+    "ready_to_complete": "The Weapons of Spinjitzu are safe! But Lord Garmadon will come at us again. We must be ready!"
+  },
+  "1967": {
+    "completion_succeed_tip": "Ninjago Observer!",
+    "description": "Use all 9 of the binoculars around Ninjago."
+  },
+  "1968": {
+    "completion_succeed_tip": "The Ninjago Story!",
+    "description": "Read all 7 of the Story Plaques around Ninjago."
+  },
+  "1969": {
+    "completion_succeed_tip": "What's in the Box?!! 1",
+    "description": "Quick Build 5 Dragon-in-a-Boxes on the Ninjago Battlefield."
+  },
+  "1970": {
+    "completion_succeed_tip": "What's in the Box?!! 2",
+    "description": "Quick Build 25 more Dragon-in-a-Boxes on the Ninjago Battlefield."
+  },
+  "1971": {
+    "completion_succeed_tip": "What's in the Box?!!",
+    "description": "Quick Build 75 more Dragon-in-a-Boxes on the Ninjago Battlefield."
+  },
+  "1972": {
+    "completion_succeed_tip": "Bone Up 1!",
+    "description": "Quick Build 5 Skeleton Bouncers on the Ninjago Battlefield."
+  },
+  "1973": {
+    "completion_succeed_tip": "Bone Up 2!",
+    "description": "Quick Build 25 more Skeleton Bouncers on the Ninjago Battlefield."
+  },
+  "1974": {
+    "completion_succeed_tip": "Bone Up!",
+    "description": "Quick Build 75 more Skeleton Bouncers on the Ninjago Battlefield."
+  },
+  "1975": {
+    "completion_succeed_tip": "Fight in the Shade!",
+    "description": "Quick Build 75 more Archery Targets on the Ninjago Battlefield."
+  },
+  "1976": {
+    "completion_succeed_tip": "Just a Fling!",
+    "description": "Quick Build 75 more Catapults on the Ninjago Battlefield."
+  },
+  "1977": {
+    "completion_succeed_tip": "Coffin Fit 1!",
+    "description": "Smash 15 Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
+  },
+  "1978": {
+    "completion_succeed_tip": "Coffin Fit 2!",
+    "description": "Smash 35 more Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
+  },
+  "1979": {
+    "completion_succeed_tip": "Coffin Fit!",
+    "description": "Smash 100 more Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
+  },
+  "1980": {
+    "completion_succeed_tip": "Skullcracker 1!",
+    "description": "Smash 10 Skeletons of any type in Ninjago."
+  },
+  "1981": {
+    "completion_succeed_tip": "Skullcracker 2!",
+    "description": "Smash 50 more Skeletons of any type in Ninjago."
+  },
+  "1982": {
+    "completion_succeed_tip": "Skullcracker 3!",
+    "description": "Smash 100 more Skeletons of any type in Ninjago."
+  },
+  "1983": {
+    "completion_succeed_tip": "Skullcracker 4!",
+    "description": "Smash 200 more Skeletons of any type in Ninjago."
+  },
+  "1984": {
+    "completion_succeed_tip": "Heel, Boy! 1",
+    "description": "Smash 10 Bone Wolves in the Ninjago Caves."
+  },
+  "1985": {
+    "completion_succeed_tip": "Heel, Boy! 2",
+    "description": "Smash 50 more Bone Wolves in the Ninjago Caves."
+  },
+  "1986": {
+    "completion_succeed_tip": "Heel, Boy!",
+    "description": "Smash 100 more Bone Wolves in the Ninjago Caves."
+  },
+  "2003": {
+    "completion_succeed_tip": "Discover the Ninjago Battlefield!",
+    "description": "Discover the Ninjago Battlefield."
+  },
+  "2004": {
+    "completion_succeed_tip": "Discover the Ninjago Caves!",
+    "description": "Discover the Ninjago Caves."
+  },
+  "2005": {
+    "completion_succeed_tip": "Discover the Earth Shrine!",
+    "description": "Discover the Earth Shrine in the caves below the Ninjago Monastery."
+  },
+  "2006": {
+    "completion_succeed_tip": "Hero of Ninjago!",
+    "description": "Recover the 4 Weapons of Spinjitzu."
+  },
+  "2007": {
+    "completion_succeed_tip": "Earth Tamer!",
+    "description": "Tame the Earth Dragon pet."
+  },
+  "2008": {
+    "completion_succeed_tip": "The Bloom is Off 1!",
+    "description": "Smash 25 Elemental Flowers around the Ninjago Monastery."
+  },
+  "2009": {
+    "completion_succeed_tip": "The Bloom is Off 2!",
+    "description": "Smash 75 more Elemental Flowers around the Ninjago Monastery."
+  },
+  "2010": {
+    "completion_succeed_tip": "The Bloom is Off 3!",
+    "description": "Smash 150 more Elemental Flowers around the Ninjago Monastery."
+  },
+  "2011": {
+    "completion_succeed_tip": "The Bloom is Off!",
+    "description": "Smash 250 more Elemental Flowers around the Ninjago Monastery."
+  },
+  "2012": {
+    "completion_succeed_tip": "Sad Panda 1!",
+    "description": "Smash 25 Bamboo Stalks around the Ninjago Monastery."
+  },
+  "2013": {
+    "completion_succeed_tip": "Sad Panda 2!",
+    "description": "Smash 75 more Bamboo Stalks around the Ninjago Monastery."
+  },
+  "2014": {
+    "completion_succeed_tip": "Sad Panda 3!",
+    "description": "Smash 150 more Bamboo Stalks around the Ninjago Monastery."
+  },
+  "2015": {
+    "completion_succeed_tip": "Sad Panda!",
+    "description": "Smash 250 more Bamboo Stalks around the Ninjago Monastery."
+  },
+  "2017": {
+    "completion_succeed_tip": "Tastes Like Genius 1!",
+    "description": "Craft any 5 of Johnny Umami's special recipes."
+  },
+  "2018": {
+    "completion_succeed_tip": "Tastes Like Genius 2!",
+    "description": "Craft 15 more of any of Johnny Umami's special recipes."
+  },
+  "2019": {
+    "completion_succeed_tip": "Tastes Like Genius 3!",
+    "description": "Craft 50 more of any of Johnny Umami's special recipes."
+  },
+  "2020": {
+    "completion_succeed_tip": "Tastes Like Genius!",
+    "description": "Craft 125 more of any of Johnny Umami's special recipes."
+  },
+  "2021": {
+    "accept_chat_bubble": "Hari Howzen told me she's seen Chopov lurking in the Earth Shrine below the Monastery.",
+    "chat_state_1": "You've faced Chopov once already, right?",
+    "chat_state_2": "Don't try to equip the weapon, I don't know what it will do to you!",
+    "chat_state_3": "Did you find out why he's called Chopov?",
+    "completion_succeed_tip": "Take the Maelstrom Dark Blade back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Chopov in the Earth Shrine until he drops a Maelstrom Dark Blade, then take it back to Nya.",
+    "offer": "I've heard that Chopov, one of the Skeleton leaders, carries a nasty Maelstrom Dark Blade. Let's try to reforge that!",
+    "ready_to_complete": "Now that is dangerous looking. Go smash some Skeletons with it!"
+  },
+  "2022": {
+    "accept_chat_bubble": "Make sure you don't bring back a leg or something! Eeew!",
+    "chat_state_1": "Who fights with a bone? Besides Skeletons. And cavemen.",
+    "chat_state_2": "Don't let Furious Urufu get a hold of this!",
+    "chat_state_3": "You got a bone to pick with me?",
+    "completion_succeed_tip": "Take the Maelstrom Bone back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Krazi in the Lightning Shrine until he drops a Maelstrom Bone, then take it back to Nya.",
+    "offer": "With all of these Maelstrom weapons around, you'd have to be Krazi to fight with a Maelstrom Bone! Smash him and get his weapon!",
+    "ready_to_complete": "That thing was really creepy! Now it's just creepy. Have fun with it!"
+  },
+  "2023": {
+    "accept_chat_bubble": "Look for the Commandos by the edges of the Battlefield!",
+    "chat_state_1": "I think I'm getting the hang of this reforging stuff!",
+    "chat_state_2": "Bring the Axe right back so we can purify it!",
+    "chat_state_3": "Okay, let's purify that nasty ol' axe!",
+    "completion_succeed_tip": "Take the Maelstrom Bone Axe back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Skeleton Commandos on the Ninjago Battlefield until you retrieve a Maelstrom Bone Axe, then take it back to Nya.",
+    "offer": "A Bone's just a Bone, but add a blade to it and you have something worse! Get me a Maelstrom Bone Axe!",
+    "ready_to_complete": "You're gonna go on quite the chopping spree with this bad boy!"
+  },
+  "2024": {
+    "accept_chat_bubble": "I'd never try forging with a Maelstrom Hammer. Too scary.",
+    "chat_state_1": "Let's use the Skeletons' armory against them!",
+    "chat_state_2": "Do the Skeletons have any girl blacksmiths? Shudder.",
+    "chat_state_3": "I can't wait to try this thing out for myself!",
+    "completion_succeed_tip": "Take the Maelstrom Blacksmith's Hammer back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Skeleton Blacksmiths on the Ninjago Battlefield until you retrieve a Maelstrom Blacksmith's Hammer, then take it back to Nya.",
+    "offer": "Now that we have this Paradox invention, maybe we can figure out how the Skeletons forge their weapons! Bring me a Maelstrom Blacksmith's Hammer!",
+    "ready_to_complete": "Okay, let's try this machine out. Whoa! It removed all of the Maelstrom!"
+  },
+  "2025": {
+    "accept_chat_bubble": "How many Skeletons have you smashed so far? Gotta be some kind of Achievement for that!",
+    "chat_state_1": "Ready for the next weapon?",
+    "chat_state_2": "I wonder what the Skeletons do with all the slag from their forge? Probably eat it.",
+    "chat_state_3": "That is one nasty looking weapon. Well, technically two.",
+    "completion_succeed_tip": "Take the Maelstrom Double Bone Dagger back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Skeleton Raiders in the Ninjago Caves until you find a Maelstrom Double Bone Dagger, then take it back to Nya.",
+    "offer": "The Skeletons don't just forge with metal - they use bone as well! Get me a Maelstrom Double Bone Dagger so I can study it!",
+    "ready_to_complete": "It's all purified and that thing is still scary looking!"
+  },
+  "2026": {
+    "accept_chat_bubble": "What's worse than a mace to the face? Nothing.",
+    "chat_state_1": "Frakjaw scares me. And there's not much that scares me.",
+    "chat_state_2": "Take some back-up if you're gonna face down Frakjaw!",
+    "chat_state_3": "Just looking at that thing makes me want to go put a helmet on!",
+    "completion_succeed_tip": "Take the Maelstrom Mace back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Frakjaw in the Fire Shrine until he drops his Maelstrom Mace, then take it back to Nya.",
+    "offer": "Frakjaw carries a heavy spiked ball on a chain. That'll ruin your day! Ruin his and get me that Maelstrom Mace!",
+    "ready_to_complete": "The Skeletons' Maelstrom Weapons are still dangerous, but at least we know how to deal with them! You da Ninja!"
+  },
+  "2027": {
+    "accept_chat_bubble": "I love all these cool weapons! Even if they can hurt you.",
+    "chat_state_1": "I was thinking of asking for a Maelstrom Feather Duster, but I have a better idea!",
+    "chat_state_2": "Make sure you show off your other weapons! Tell 'em you got them from me!",
+    "chat_state_3": "For an evil weapon of doom, that is pretty cool-looking!",
+    "completion_succeed_tip": "Take the Maelstrom Double-Bladed Axe back to Nya in the Ninjago Monastery.",
+    "in_progress": "Smash Skeleton Overseers in the Siege Towers until you retrieve a Maelstrom Double-Bladed Axe, then take it back to Nya.",
+    "offer": "What's worse than a Bone Axe? How about a Double-Bladed Axe? Go and get me one!",
+    "ready_to_complete": "Don't cut yourself shaving with this! Actually, don't shave with this, period!"
+  },
+  "2028": {
+    "accept_chat_bubble": "Troopers mass near the bridge, but you'll need to scout the outer areas to find Commandos.",
+    "chat_state_1": "Look what they've done to our front lawn!",
+    "chat_state_2": "Make sure you have plenty of Imagination before you go down there!",
+    "chat_state_3": "Ninja Go!",
+    "completion_succeed_tip": "Return to Toshiro Gojira, the Monastery Guard.",
+    "in_progress": "Smash 10 Skeleton Troopers and 3 Skeleton Commandos on the Ninjago Battlefield.",
+    "offer": "We need to crack down on these boneheads! Smash 10 Skeleton Troopers and 3 Skeleton Commandos!",
+    "offer_repeatable": "Still too many boneheads out there! Smash 10 Troopers and 3 Commandos!",
+    "ready_to_complete": "Okay that's a little better. Kind of."
+  },
+  "2029": {
+    "accept_chat_bubble": "Grind those bones!",
+    "chat_state_1": "Who ordered all these Skeleton lawn ornaments?",
+    "chat_state_2": "Make sure you're armored up to face those terrors!",
+    "chat_state_3": "Ninja Go!",
+    "completion_succeed_tip": "Return to Toshiro Gojira, the Monastery Guard.",
+    "in_progress": "Smash 8 Skeleton Blacksmiths and 3 Skeleton Marksmen on the Ninjago Battlefield.",
+    "offer": "I can't stand listening to all this bony racket! Smash 8 Skeleton Blacksmiths and 3 Skeleton Marksmen!",
+    "offer_repeatable": "I can't stand listening to all this bony racket! Smash 8 Skeleton Blacksmiths and 3 Skeleton Marksmen!",
+    "ready_to_complete": "Ahh, that's more peaceful. Except for that huge battle down there, of course."
+  },
+  "2030": {
+    "accept_chat_bubble": "Those Skeletons down there are tough! Be careful!",
+    "chat_state_1": "I can't stand all that whining and howling! And that's just from me!",
+    "chat_state_2": "Use the Imagination Altars if you need to recharge your Spinjitzu!",
+    "chat_state_3": "Is it safe now?",
+    "completion_succeed_tip": "Return to Hari Howzen at the mouth of the Ninjago Caves.",
+    "in_progress": "Smash 4 Skeleton Raiders and 2 Bone Wolves in the Ninjago Caves.",
+    "offer": "Too many scary things down in these caves! Smash 4 Skeleton Raiders and 2 Bone Wolves!",
+    "offer_repeatable": "Too many scary things down in these caves! Smash 4 Skeleton Raiders and 2 Bone Wolves!",
+    "ready_to_complete": "Too bad you can't smash the dark! I'm afraid of that too."
+  },
+  "2031": {
+    "accept_chat_bubble": "I'll just stay up here and um, watch this gate.",
+    "chat_state_1": "Mad Scientists? What's next, Skeleton Dentists?",
+    "chat_state_2": "Take a friend with you! I would!",
+    "chat_state_3": "Do you want to do this job? Please?",
+    "completion_succeed_tip": "Return to Hari Howzen at the mouth of the Ninjago Caves.",
+    "in_progress": "Smash 4 Skeleton Mad Scientists and 2 Bone Wolves in the Ninjago Caves.",
+    "offer": "I took this post because I thought it'd be safe! Can you smash 4 Skeleton Mad Scientists and 2 Bone Wolves?",
+    "offer_repeatable": "I took this post because I thought it'd be safe! Can you smash 4 Skeleton Mad Scientists and 2 Bone Wolves?",
+    "ready_to_complete": "I wonder how Toshiro is doing up there. It can't be worse than down here!"
+  },
+  "2032": {
+    "accept_chat_bubble": "A well-timed burst of Spinjitzu should make short work of those Tower legs!",
+    "chat_state_1": "We can't withstand that barrage forever!",
+    "chat_state_2": "Be sure to smash the coffins before those uglies pop out!",
+    "chat_state_3": "Ninja Go!",
+    "completion_succeed_tip": "Return to Toshiro Gojira, the Monastery Guard.",
+    "in_progress": "Smash 10 Skeleton Coffins and 1 Skeleton Siege Tower on the Ninjago Battlefield.",
+    "offer": "Battle back the boneheads! Smash 10 of their Coffins and then topple 1 Siege Tower!",
+    "offer_repeatable": "Battle back the boneheads! Smash 10 of their Coffins and then topple 1 Siege Tower!",
+    "ready_to_complete": "The Ninjas taught you well! Man, they're so cool."
+  },
+  "2033": {
+    "accept_chat_bubble": "After you rebuild the Siege Shields, get a bunch of Skeletons to follow you over to the target!",
+    "chat_state_1": "Hope you can build as well as you break bones!",
+    "chat_state_2": "If there are Skeletons around when you rebuild the Weapons Crates, they'll get a surprise!",
+    "chat_state_3": "Ninja Go!",
+    "completion_succeed_tip": "Return to Toshiro Gojira, the Monastery Guard.",
+    "in_progress": "Smash and rebuild 4 Skeleton Siege Shields and 3 Maelstrom Weapon Crates on the Ninjago Battlefield.",
+    "offer": "Let's do some damage control out there! Smash and rebuild 4 Siege Shields and 3 Maelstrom Weapon Crates!",
+    "offer_repeatable": "Let's do some damage control out there! Smash and rebuild 4 Siege Shields and 3 Maelstrom Weapon Crates!",
+    "ready_to_complete": "I never get tired of seeing those arrows rain down. Beautiful."
+  },
+  "2034": {
+    "accept_chat_bubble": "Clear out the Skeletons before you try to rebuild the Catapults!",
+    "chat_state_1": "Time to put a bounce in your step!",
+    "chat_state_2": "Those Skeleton Bouncers come in pretty handy!",
+    "chat_state_3": "You racked up a lot of air miles with that mission!",
+    "completion_succeed_tip": "Return to Toshiro Gojira, the Monastery Guard.",
+    "in_progress": "Smash and rebuild 2 Skeleton Catapults and 5 Skeleton Bouncers on the Ninjago Battlefield.",
+    "offer": "You're not afraid of heights, are you? Smash and rebuild 2 Skeleton Catapults and 5 Skeleton Bouncers!",
+    "offer_repeatable": "Time to fly! Smash and rebuild 2 Skeleton Catapults and 5 Skeleton Bouncers!",
+    "ready_to_complete": "You are one awesome flying Ninja!"
+  },
+  "2035": {
+    "accept_chat_bubble": "Don't fall in that big pit in the Lightning Garden! It hurts.",
+    "chat_state_1": "Musty caves smell like sadness wrapped in a blanket of fear.",
+    "chat_state_2": "You can find Bamboo growing in any of the gardens.",
+    "chat_state_3": "What is that wonderful scent I smell? Is it you?",
+    "completion_succeed_tip": "Return to Hari Howzen at the mouth of the Ninjago Caves.",
+    "in_progress": "Smash 5 Lightning Blossoms, 5 Fire Blossoms and 5 Bamboo around the Monastery.",
+    "offer": "I miss the smell of flowers! Smash 5 Lightning Blossoms, 5 Fire Blossoms and 5 Bamboo for me!",
+    "offer_repeatable": "I miss the smell of flowers! Smash 5 Lightning Blossoms, 5 Fire Blossoms and 5 Bamboo for me!",
+    "ready_to_complete": "Mmm, you're covered in the sweet smell of smashed flowers! Sniff, sniff. Cry."
+  },
+  "2036": {
+    "accept_chat_bubble": "There's something about the smell of frozen earth that makes me think of winter.",
+    "chat_state_1": "Do you smell that? It smells like cave. Boo.",
+    "chat_state_2": "Look for the flowers in the gardens. Don't fall in the quicksand!",
+    "chat_state_3": "Oooh, you smell nice.",
+    "completion_succeed_tip": "Return to Hari Howzen at the mouth of the Ninjago Caves.",
+    "in_progress": "Smash 5 Ice Blossoms, 5 Earth Blossoms and 5 Bamboo around the Monastery.",
+    "offer": "It smells so musty down here. If you smash 5 Ice Blossoms, 5 Earth Blossoms and 5 Bamboo, I can catch their scent!",
+    "offer_repeatable": "It smells so musty down here. If you smash 5 Ice Blossoms, 5 Earth Blossoms and 5 Bamboo, I can catch their scent!",
+    "ready_to_complete": "Hold your weapon up to my nose. Don't cut me. Mmm, that's lovely."
+  },
+  "2037": {
+    "accept_chat_bubble": "Look for Johnny Umami inside the Monastery.",
+    "chat_state_1": "My tummy is all rumbly. And it's not from all this battle!",
+    "chat_state_2": "You may need to help him make these dishes first!",
+    "chat_state_3": "Mmm I can taste that mud sauce already.",
+    "completion_succeed_tip": "Take the Dirt Sandwich and Chilly Freezesteak back to Toshiro Gojira.",
+    "in_progress": "Toshiro Gojira wants a Dirt Sandwich and a Chilly Freezesteak from Johnny Umami.",
+    "offer": "I need to keep my strength up! Can you bring me a Dirt Sandwich and a Chilly Freezesteak from Johnny Umami?",
+    "offer_repeatable": "I need to keep my strength up! Can you bring me a Dirt Sandwich and a Chilly Freezesteak from Johnny Umami?",
+    "ready_to_complete": "How can something made with dirt taste so good? Om nom nom."
+  },
+  "2038": {
+    "accept_chat_bubble": "Yucki-Yaki makes my breath smell like sweaty feet, but it tastes so good!",
+    "chat_state_1": "I'm so hungry I could gnaw on a Skeleton. Wait, that's gross.",
+    "chat_state_2": "Johnny Umami baked my first birthday cake! It had fish in it.",
+    "chat_state_3": "I'm so hungry I can't remember my own name!",
+    "completion_succeed_tip": "Take the Yucki-Yaki and Bento Blocks back to Hari Howzen.",
+    "in_progress": "Hari Howzen wants 1 order of Yucki-Yaki and 2 Bento Blocks from Johnny Umami.",
+    "offer": "Johnny Umami makes some weird stuff, but boy is it tasty! Can you get me some Yucki-Yaki and 2 Bento Blocks?",
+    "offer_repeatable": "Johnny Umami makes some weird stuff, but boy is it tasty! Can you get me some Yucki-Yaki and 2 Bento Blocks?",
+    "ready_to_complete": "Om nom nom. Don't watch me eat!"
+  },
+  "2039": {
+    "accept_chat_bubble": "I wonder what kind of bait the Skeletons are using to capture those villagers.",
+    "chat_state_1": "Either those Skeletons are very smart, or those villagers are not!",
+    "chat_state_2": "I used to live in the village, but then I got this job. I think mucking out the barn was much better.",
+    "chat_state_3": "Did you find them all? Even Gloomy Megumi? She cries a lot.",
+    "completion_succeed_tip": "Return to Hari Howzen at the mouth of the Ninjago Caves.",
+    "in_progress": "Rescue all 6 of the Ninjago Villagers from the Skeleton Cages in the Ninjago Caves.",
+    "offer": "The Skeletons keep capturing our villagers! Can you rescue all 6 of them again?",
+    "offer_repeatable": "The Skeletons keep capturing our villagers! Can you rescue all 6 of them again?",
+    "ready_to_complete": "I don't know why those villagers don't just all go home. They wouldn't keep getting captured!"
+  },
+  "2040": {
+    "accept_chat_bubble": "You must be swift and nimble to find all 4 of the Dragon Relics!",
+    "chat_state_1": "The Spirits of the Dragons watch over our Monastery!",
+    "chat_state_2": "Each Dragon Relic you collect increases our protection!",
+    "chat_state_3": "The Monastery is a little safer today. Thank you.",
+    "completion_succeed_tip": "Return to Sensei Wu in the Ninjago Monastery.",
+    "in_progress": "Collect all 4 Elemental Dragon Relics from the 4 Gardens in the Monastery, then return to Sensei Wu.",
+    "offer": "Hidden in the 4 Gardens are 4 Elemental Dragon Relics! Collect all 4 to light these protective Dragon Beacons!",
+    "offer_repeatable": "Hidden in the 4 Gardens are 4 Elemental Dragon Relics! Collect all 4 to light these protective Dragon Beacons!",
+    "ready_to_complete": "The Dragon Beacons are lit, and look! The Dragon has rewarded you with a surprise! Open it up!"
+  },
+  "2041": {
+    "completion_succeed_tip": "Discover the Monastery!",
+    "description": "Discover the center courtyard of the Ninjago Monastery."
+  },
+  "2042": {
+    "completion_succeed_tip": "Discover the Dojo of Earth!",
+    "description": "Discover the Dojo of Earth in Ninjago."
+  },
+  "2043": {
+    "completion_succeed_tip": "Discover the Dojo of Lightning!",
+    "description": "Discover the Dojo of Lightning in Ninjago."
+  },
+  "2044": {
+    "completion_succeed_tip": "Discover the Dojo of Ice!",
+    "description": "Discover the Dojo of Ice in Ninjago."
+  },
+  "2045": {
+    "completion_succeed_tip": "Discover the Dojo of Fire!",
+    "description": "Discover the Dojo of Fire in Ninjago."
+  },
+  "2046": {
+    "completion_succeed_tip": "Discover the Ninjago Storeroom!",
+    "description": "Discover the Ninjago Storeroom."
+  },
+  "2047": {
+    "completion_succeed_tip": "Discover the Cave of Ancient Ways!",
+    "description": "Discover the Cave of Ancient Ways."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Piercing",
+  "components": {
+    "11": 3805,
+    "2": 8061,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Dirk",
+  "gate_version": null,
+  "id": 8506,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Dirk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 528
+    }
+  ],
+  "type": "Loot"
+}

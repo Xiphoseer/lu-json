@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from space marauder Valiant weapon",
+  "components": {
+    "1": 6222,
+    "2": 13601,
+    "5": 1397,
+    "60": 120,
+    "7": 1773,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Mech",
+  "gate_version": "valiantweapons",
+  "id": 12662,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Mech",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1025
+    }
+  ],
+  "type": "NPC"
+}

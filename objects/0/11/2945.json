@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 983,
+    "2": 2449,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "No Robots Shirt",
+  "gate_version": null,
+  "id": 2945,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "No Robots Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

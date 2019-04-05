@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nic's Test Item for Post Mission Selling",
+  "components": {
+    "11": 7098,
+    "2": 14148
+  },
+  "description": "Nic's Test Item for Post Mission Selling",
+  "displayName": "Nic's Test Item for Post Mission Selling",
+  "gate_version": "njhub",
+  "id": 14459,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Nic's Test Item for Post Mission Selling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

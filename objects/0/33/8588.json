@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3844,
+    "2": 8145,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Pet Goat Shirt",
+  "gate_version": null,
+  "id": 8588,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pet Goat Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

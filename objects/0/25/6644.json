@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Restores 3 points of Armor",
+  "components": {
+    "11": 3344,
+    "2": 2503,
+    "9": 0
+  },
+  "description": "Restores 3 points of Armor",
+  "displayName": "3 pt Repair Kit",
+  "gate_version": null,
+  "id": 6644,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Armor Kit - 3 pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 220
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 234,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 126,
+      "LootMatrixIndex": 765,
+      "activityRating": 1,
+      "description": "Frakjaw 1 Player"
+    },
+    {
+      "ActivityRewardIndex": 235,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 125,
+      "LootMatrixIndex": 875,
+      "activityRating": 2,
+      "description": "Frakjaw 2 Player"
+    },
+    {
+      "ActivityRewardIndex": 236,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 124,
+      "LootMatrixIndex": 876,
+      "activityRating": 3,
+      "description": "Frakjaw 3 Player"
+    },
+    {
+      "ActivityRewardIndex": 237,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 123,
+      "LootMatrixIndex": 877,
+      "activityRating": 4,
+      "description": "Frakjaw 4 Player"
+    }
+  ],
+  "objectTemplate": 58
+}

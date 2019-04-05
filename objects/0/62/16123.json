@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 7492,
+    "2": 14842,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Murasaki Hakama",
+  "gate_version": "njhub",
+  "id": 16123,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Murasaki Hakama",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

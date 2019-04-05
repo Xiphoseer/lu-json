@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9983,
+    "3": 4496,
+    "5": 1209
+  },
+  "description": "Interactable plaque to display model info from an exhibit",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10143,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Exhibit Plaque",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

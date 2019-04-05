@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/10/11221.json"
+    }
+  },
+  "behaviorID": 11221,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "LOT_ID": 9522.0,
+    "distance": 5.0,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "offsetZ": 0.0
+  },
+  "templateID": 57
+}

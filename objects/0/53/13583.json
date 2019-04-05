@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6710,
+    "2": 13320,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Gem Hammer",
+  "gate_version": "nexustower",
+  "id": 13583,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gem Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 290
+    }
+  ],
+  "type": "Loot"
+}

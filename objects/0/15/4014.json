@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4061,
+    "25": 0,
+    "3": 1278,
+    "5": 644,
+    "7": 361
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4014,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mission Arrows",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

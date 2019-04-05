@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15249,
+    "3": 4308
+  },
+  "description": "mesh used to show effect in x marks the spot",
+  "displayName": "Basic Shovel",
+  "gate_version": null,
+  "id": 9825,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bucs Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

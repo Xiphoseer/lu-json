@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Kai Red Ninja hood",
+  "components": {
+    "11": 7220,
+    "2": 14413,
+    "9": 0
+  },
+  "description": "NPC Kai Red Ninja hood",
+  "displayName": "NPC Kai Red Ninja hood",
+  "gate_version": "njhub",
+  "id": 14726,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Kai Red Ninja hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

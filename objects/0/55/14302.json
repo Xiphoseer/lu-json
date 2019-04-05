@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13992,
+    "3": 7136,
+    "43": 12,
+    "67": 25,
+    "78": 30
+  },
+  "description": "Launch pad to Gnarled Forest from the GF Small Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14302,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF PROP Small - GF",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

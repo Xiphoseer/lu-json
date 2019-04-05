@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing the Spinjutzu tornado skill",
+  "components": {
+    "11": 3028,
+    "2": 6886,
+    "9": 0
+  },
+  "description": "Testing the SJ tornado skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7313,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test SJ Katana NOT CURRENT",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 287
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 328
+    }
+  ],
+  "type": "Loot"
+}

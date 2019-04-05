@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15236,
+    "3": 7890
+  },
+  "description": "NJ Fire Property",
+  "displayName": "NJ - Fire Property",
+  "gate_version": "njhub",
+  "id": 16490,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ - Fire Property",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

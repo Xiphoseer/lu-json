@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4276,
+    "3": 2186
+  },
+  "description": "Tower crane for Scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4842,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Tower Crane",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

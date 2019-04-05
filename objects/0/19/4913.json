@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2806,
+    "40": 1610,
+    "48": 54,
+    "49": 0
+  },
+  "description": "Test for a switch that is quickbuildable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4913,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Quickbuild Switch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

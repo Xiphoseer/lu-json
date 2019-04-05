@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5781,
+    "2": 11482,
+    "3": 5574,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Mech Bay Ball-Bot Boss Model",
+  "gate_version": "march2011content",
+  "id": 11730,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mechbay Ball Bot Boss",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

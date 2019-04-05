@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 5273,
+    "2": 10664,
+    "3": 4938,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Dog House Model",
+  "gate_version": null,
+  "id": 10817,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Doghouse",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

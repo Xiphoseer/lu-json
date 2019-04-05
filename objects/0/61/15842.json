@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "40": 7471,
+    "5": 1588
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 15842,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Invisible Jetpack Physics Phantom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

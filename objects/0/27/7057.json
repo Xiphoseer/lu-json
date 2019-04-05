@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2968,
+    "2": 6634,
+    "3": 3136,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Frog Model",
+  "gate_version": null,
+  "id": 7057,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Frog",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7454,
+    "2": 14472,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Brown Mouse Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14782,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brown Mouse Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

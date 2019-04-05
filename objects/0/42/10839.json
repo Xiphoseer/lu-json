@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5295,
+    "2": 10686,
+    "3": 4960,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Wooden Dining Table Model",
+  "gate_version": null,
+  "id": 10839,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward WoodenDiningTable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

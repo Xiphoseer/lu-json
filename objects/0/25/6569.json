@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5754,
+    "3": 2617,
+    "40": 2618,
+    "48": 61,
+    "5": 911,
+    "57": 28,
+    "6": 0
+  },
+  "description": "Siege QB Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6569,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Defender Bouncer QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 192,
+    "2": 6083,
+    "35": 233,
+    "7": 579,
+    "9": 0
+  },
+  "description": "Sentinel Brawler",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6513,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Brawler",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 203
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

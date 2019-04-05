@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 66,
+    "17": 342,
+    "2": 9853,
+    "3": 1777,
+    "35": 435,
+    "7": 306
+  },
+  "description": "AG Model Vendor - Picnic",
+  "displayName": "Brutus Speck - Model Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 10026,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG Model Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

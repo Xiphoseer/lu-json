@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7802,
+    "3": 3849
+  },
+  "description": "Tester object for the artist Tanner Kalstrom",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8265,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test-Object1_TannerK",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

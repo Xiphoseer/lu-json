@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP - Promo Item",
+  "components": {
+    "11": 3297,
+    "2": 7345,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Sun Headdress",
+  "gate_version": null,
+  "id": 7789,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Aztec Headdress",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

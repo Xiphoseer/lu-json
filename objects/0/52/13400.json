@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 498,
+    "2": 13128,
+    "3": 1777,
+    "35": 590,
+    "7": 307
+  },
+  "description": "VFX -- test -- Inventor Rank3",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13400,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "VFX -- Inventor Rank 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

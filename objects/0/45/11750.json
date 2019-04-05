@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5801,
+    "2": 11502,
+    "3": 5594,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Plain Model",
+  "gate_version": "nexustower",
+  "id": 11750,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Plain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

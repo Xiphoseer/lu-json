@@ -1,0 +1,531 @@
+{
+  "7424": {
+    "description": "__MG__FV Ninja 4 mission giver ",
+    "name": "Gathermaster Klex - Paradox Ninja"
+  },
+  "7425": {
+    "description": "__MG__FV Ninja 5 - Smash Ninja",
+    "name": "Smashmaster Foom - Paradox Ninja"
+  },
+  "7426": {
+    "description": "__MG__FV Numb Chuck Mission Giver",
+    "name": "Numb Chuck - Paradox Agent"
+  },
+  "7428": {
+    "description": "__MG__FV Zen Master Mission Giver",
+    "name": "Zen Master"
+  },
+  "7429": {
+    "description": "FV Brick Vendor - Facility",
+    "name": "Shu Fitts - Brick Vendor"
+  },
+  "7430": {
+    "description": "FV Accessory Vendor - Refinery",
+    "name": "Kore Swordcube - Gear Vendor"
+  },
+  "7432": {
+    "description": "__MG__Brick Fury's Handler",
+    "name": "Vapor Overcast - Paradox Technician"
+  },
+  "7436": {
+    "name": "Hammer Brick 1"
+  },
+  "7437": {
+    "name": "Hammer Brick 2"
+  },
+  "7438": {
+    "name": "Hammer Brick 3"
+  },
+  "7439": {
+    "name": "Hammer Brick 4"
+  },
+  "7442": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Ranger Helmet 1"
+  },
+  "7443": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Ranger Helmet 2"
+  },
+  "7444": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Helmet 3"
+  },
+  "7445": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Samurai Helm 1"
+  },
+  "7446": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Samurai Helm 2"
+  },
+  "7447": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Helm 3"
+  },
+  "7448": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Marauder Helm 1"
+  },
+  "7449": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Marauder Helm 2"
+  },
+  "7450": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Helm 3"
+  },
+  "7451": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Shinobi Hood 1"
+  },
+  "7452": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Shinobi Hood 2"
+  },
+  "7453": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Shinobi Hood 3"
+  },
+  "7454": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Inventor Goggles 1"
+  },
+  "7455": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Inventor Goggles 2"
+  },
+  "7456": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Inventor Goggles 3"
+  },
+  "7457": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Summoner Hat 1"
+  },
+  "7458": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Summoner Hat 2"
+  },
+  "7459": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Hat 3"
+  },
+  "7460": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Adventurer Hat 1"
+  },
+  "7461": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Adventurer Hat 2"
+  },
+  "7462": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Adventurer Hat 3"
+  },
+  "7463": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Daredevil Helmet 1"
+  },
+  "7464": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Daredevil Helmet 2"
+  },
+  "7465": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Daredevil Helmet 3"
+  },
+  "7466": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Ranger Armor 1"
+  },
+  "7467": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Ranger Armor 2"
+  },
+  "7468": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Armor 3"
+  },
+  "7469": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Samurai Breastplate 1"
+  },
+  "7470": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Samurai Breastplate 2"
+  },
+  "7471": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Breastplate 3"
+  },
+  "7472": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Marauder Jacket 1"
+  },
+  "7473": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Marauder Jacket 2"
+  },
+  "7474": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Jacket 3"
+  },
+  "7475": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Shinobi Gi 1"
+  },
+  "7476": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Shinobi Gi 2"
+  },
+  "7477": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Shinobi Gi 3"
+  },
+  "7478": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Inventor Armor 1"
+  },
+  "7479": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Inventor Armor 2"
+  },
+  "7480": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Inventor Armor 3"
+  },
+  "7481": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Summoner Robe 1"
+  },
+  "7482": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Summoner Robe 2"
+  },
+  "7483": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Robe 3"
+  },
+  "7484": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Adventurer Coat 1"
+  },
+  "7485": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Adventurer Coat 2"
+  },
+  "7486": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Adventurer Coat 3"
+  },
+  "7487": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Daredevil Jacket 1"
+  },
+  "7488": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Daredevil Jacket 2"
+  },
+  "7489": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Daredevil Jacket 3"
+  },
+  "7490": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Ranger Pants 1"
+  },
+  "7491": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Ranger Pants 2"
+  },
+  "7492": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Pants 3"
+  },
+  "7493": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Samurai Leggings 1"
+  },
+  "7494": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Samurai Leggings 2"
+  },
+  "7495": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Leggings 3"
+  },
+  "7496": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Marauder Pants 1"
+  },
+  "7497": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Marauder Pants 2"
+  },
+  "7498": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Pants 3"
+  },
+  "7499": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Shinobi Leggings 1"
+  },
+  "7500": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Shinobi Leggings 2"
+  },
+  "7501": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Shinobi Leggings 3"
+  },
+  "7502": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Inventor Pants 1"
+  },
+  "7503": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Inventor Pants 2"
+  },
+  "7504": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Inventor Pants 3"
+  },
+  "7505": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Summoner Pants 1"
+  },
+  "7506": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Summoner Pants 2"
+  },
+  "7507": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Pants 3"
+  },
+  "7508": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Adventurer Pants 1"
+  },
+  "7509": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Adventurer Pants 2"
+  },
+  "7510": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Adventurer Pants 3"
+  },
+  "7511": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Daredevil Pants 1"
+  },
+  "7512": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Daredevil Pants 2"
+  },
+  "7513": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Daredevil Pants 3"
+  },
+  "7514": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Ranger Zipgun 1"
+  },
+  "7515": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Ranger Zipgun 2"
+  },
+  "7516": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Zipgun 3"
+  },
+  "7517": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Samurai Katana 1"
+  },
+  "7518": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Samurai Katana 2"
+  },
+  "7519": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Katana 3"
+  },
+  "7520": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Space Marauder Blaster 1"
+  },
+  "7521": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Marauder Blaster 2"
+  },
+  "7522": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Blaster 3"
+  },
+  "7523": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Shinobi Katana 1"
+  },
+  "7524": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Shinobi Katana 2"
+  },
+  "7525": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Shinobi Katana 3"
+  },
+  "7526": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Inventor Improved Launcher 1"
+  },
+  "7527": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Inventor Improved Launcher 2"
+  },
+  "7528": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Inventor Improved Launcher 3"
+  },
+  "7529": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Summoner Staff 1"
+  },
+  "7530": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Summoner Staff 2"
+  },
+  "7531": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Staff 3"
+  },
+  "7532": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Adventurer Crossbow 1"
+  },
+  "7533": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Adventurer Crossbow 2"
+  },
+  "7534": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Adventurer Crossbow 3"
+  },
+  "7535": {
+    "description": "Rank 1 Specialty Kit Item",
+    "name": "Daredevil Flareguns 1"
+  },
+  "7536": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Daredevil Flareguns 2"
+  },
+  "7537": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Daredevil Flareguns 3"
+  },
+  "7538": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Pack 3"
+  },
+  "7539": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Shoulderpads 3"
+  },
+  "7540": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Shoulderpads 3"
+  },
+  "7541": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Shinobi Shoulderpads 3"
+  },
+  "7542": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Inventor Shoulderpads 3"
+  },
+  "7543": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Daredevil Shoulderpads 3"
+  },
+  "7544": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Ranger Launcher 2"
+  },
+  "7545": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Ranger Launcher 3"
+  },
+  "7546": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Samurai Bow 2"
+  },
+  "7547": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Samurai Bow 3"
+  },
+  "7548": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Space Marauder Launcher 2"
+  },
+  "7550": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Space Marauder Launcher 3"
+  },
+  "7555": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Shoulderpads 3"
+  },
+  "7556": {
+    "description": "Rank 2 Specialty Kit Item",
+    "name": "Summoner Orb 2"
+  },
+  "7557": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Summoner Orb 3"
+  },
+  "7558": {
+    "description": "Rank 3 Specialty Kit Item",
+    "name": "Adventurer Backpack 3"
+  },
+  "7570": {
+    "name": "Red Shoulder Parrot"
+  },
+  "7586": {
+    "description": "Double-click to get the Rank 1 Buccaneer Specialty Gear!",
+    "name": "Rank 1 Buccaneer Kit Package"
+  },
+  "7589": {
+    "description": "Double-click to get the Rank 1 Sorcerer Specialty Gear!",
+    "name": "Rank 1 Sorcerer Kit Package"
+  },
+  "7590": {
+    "description": "Double-click to get the Rank 1 Knight Specialty Gear!",
+    "name": "Rank 1 Knight Kit Package"
+  },
+  "7591": {
+    "description": "Double-click to get the Rank 1 Engineer Specialty Gear!",
+    "name": "Rank 1 Engineer Kit Package"
+  },
+  "7592": {
+    "name": "Red Ninja Gi"
+  },
+  "7601": {
+    "description": "Somewhere, a Minifigure is embarrassed.",
+    "name": "Party Pants"
+  },
+  "7610": {
+    "name": "Assembly Package"
+  },
+  "7638": {
+    "description": "Tamable Pet",
+    "name": "Goat Pet"
+  },
+  "7672": {
+    "description": "LUPS bot",
+    "name": "Seperator"
+  },
+  "7679": {
+    "description": "Robot Enemy for the LUP team",
+    "name": "Infected Citizen"
+  }
+}

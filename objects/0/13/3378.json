@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3400,
+    "3": 1045,
+    "5": 399
+  },
+  "description": "looks like a skunk fountain statue but also controls the earthquake",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3378,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Earthquake Control",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

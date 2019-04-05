@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1583,
+    "2": 2714,
+    "48": 32,
+    "5": 609,
+    "7": 317,
+    "9": 0
+  },
+  "description": "YouReeka NPC",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 59,
+      "iconState": 65
+    }
+  ],
+  "id": 3247,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Broombot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 115
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 117
+    }
+  ],
+  "type": "NPC"
+}

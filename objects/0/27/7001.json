@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6581,
+    "3": 3096,
+    "48": 101,
+    "5": 1015
+  },
+  "description": "A quick build for a giant red X",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7001,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF- Quick Build X",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

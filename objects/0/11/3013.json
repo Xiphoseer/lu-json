@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 3 IP",
+  "components": {
+    "11": 1017,
+    "2": 2510,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Grey Knit Cap",
+  "gate_version": null,
+  "id": 3013,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Grey Knit Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

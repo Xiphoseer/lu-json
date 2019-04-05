@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Melodie Foxtrot Weapon",
+  "components": {
+    "11": 3537,
+    "2": 7654
+  },
+  "description": "NPC Melodie Foxtrot Weapon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8110,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Melodie Foxtrot Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

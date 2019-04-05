@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Slashing + Lightning",
+  "components": {
+    "11": 3775,
+    "2": 8031,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Force Blade of Lightning",
+  "gate_version": null,
+  "id": 8476,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Force Blade of Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 876
+    }
+  ],
+  "type": "Loot"
+}

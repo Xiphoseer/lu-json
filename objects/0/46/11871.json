@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5922,
+    "2": 11623,
+    "3": 5715,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse Medium Tree Model",
+  "gate_version": null,
+  "id": 11871,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Tree Medium",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

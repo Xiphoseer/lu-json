@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Imagination Staff changed to double bladed dagger",
+  "components": {
+    "11": 7761,
+    "2": 15329,
+    "9": 0
+  },
+  "description": "Charge-up to release a Spinjitzu attack!",
+  "displayName": "Imagination Spinjitzu Double-Bladed Dagger",
+  "gate_version": "auramar",
+  "id": 11195,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imagination Spinjitzu Double Bladed Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 869
+    }
+  ],
+  "type": "Loot"
+}

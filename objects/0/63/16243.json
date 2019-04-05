@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Lightning element high-blade spinner trap",
+  "components": {
+    "2": 14959,
+    "25": 40,
+    "27": 0,
+    "3": 7670,
+    "39": 115,
+    "5": 1678,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Lightning - High-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16243,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - High-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

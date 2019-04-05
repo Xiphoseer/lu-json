@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9765,
+    "3": 4394
+  },
+  "description": "FV - Pipe Control Panel (non rebuildable)",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9937,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Pipe Control Panel (non rebuildable)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

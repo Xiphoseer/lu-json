@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1538,
+    "2": 2695,
+    "5": 428
+  },
+  "description": "For the Mime Swap",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3213,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mime",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

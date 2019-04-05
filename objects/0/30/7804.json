@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7359,
+    "40": 3472,
+    "48": 121,
+    "6": 0
+  },
+  "description": "Bouncer that spawns from the smashable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7804,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV QB Bouncer from Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

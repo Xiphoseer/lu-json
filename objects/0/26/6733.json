@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 212,
+    "2": 6275,
+    "3": 1777,
+    "35": 261,
+    "5": 1024,
+    "7": 305,
+    "73": 40
+  },
+  "description": "__MG__Jailed Ninja",
+  "displayName": "Ninja Prisoner Mashi",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 6733,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Ninja Prisoner 03",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

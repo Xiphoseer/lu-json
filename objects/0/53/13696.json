@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6806,
+    "2": 13434,
+    "3": 6754,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Building Wall with Closed Doors Model",
+  "gate_version": "april2011content",
+  "id": 13696,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Building Wall Doors Closed ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

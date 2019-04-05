@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item for PreOrders",
+  "components": {
+    "11": 4762,
+    "2": 9642
+  },
+  "description": null,
+  "displayName": "Nexus Astronaut Helmet",
+  "gate_version": null,
+  "id": 9806,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Astronaut Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

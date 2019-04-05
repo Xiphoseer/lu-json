@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2793,
+    "2": 6292,
+    "28": 28,
+    "3": 2956,
+    "42": 0,
+    "63": 19
+  },
+  "description": "Modular Car Engine",
+  "displayName": "Modular Car Engine #2",
+  "gate_version": null,
+  "id": 6752,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Engine 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

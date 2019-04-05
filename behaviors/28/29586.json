@@ -1,0 +1,14 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/28/29586.json"
+    }
+  },
+  "behaviorID": 29586,
+  "effectHandle": "deploytower3B",
+  "effectID": 0,
+  "parameters": {
+    "target_caster": 0.0
+  },
+  "templateID": 32
+}

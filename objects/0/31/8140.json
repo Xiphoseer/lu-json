@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7684,
+    "40": 3755,
+    "5": 1061
+  },
+  "description": "Sign that animates on proximity to the Paradox Building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8140,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Paradox Faction Sign for Nimbus Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

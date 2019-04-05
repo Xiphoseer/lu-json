@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Faction token",
+  "components": {
+    "11": 3656,
+    "2": 7879
+  },
+  "description": "Spend this at a Paradox vendor!",
+  "displayName": "Paradox Token",
+  "gate_version": null,
+  "id": 8320,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Paradox Token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13627,
+    "3": 6884
+  },
+  "description": null,
+  "displayName": "NewAG_Spider_Transition",
+  "gate_version": null,
+  "id": 13896,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NewAG_Spider_Transition",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

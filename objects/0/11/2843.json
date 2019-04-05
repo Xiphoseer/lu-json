@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "needs icon",
+  "components": {
+    "11": 855,
+    "2": 2382
+  },
+  "description": null,
+  "displayName": "Test Pink Wizard Hat",
+  "gate_version": null,
+  "id": 2843,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Pink Wizard Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

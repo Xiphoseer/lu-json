@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5610,
+    "3": 2562,
+    "48": 115,
+    "5": 1131,
+    "7": 575
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 9501,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss Rebuild dish",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

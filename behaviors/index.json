@@ -1,0 +1,465 @@
+{
+  "_embedded": {
+    "pages": [
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/0/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/1/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/2/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/3/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/4/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/5/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/6/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/7/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/8/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/9/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/10/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/11/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/12/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/13/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/14/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/15/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/16/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/17/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/18/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/19/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/20/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/21/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/22/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/23/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/24/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/25/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/26/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/27/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/28/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/29/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/30/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/31/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/32/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/33/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/35/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/36/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/37/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/38/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/39/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/40/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/41/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/42/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/43/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/44/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/45/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/46/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/47/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/48/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/49/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/50/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/51/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/52/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/53/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/54/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/55/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/56/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/57/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/58/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/59/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/60/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/61/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/62/index.json"
+          }
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/63/index.json"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "/lu-json/behaviors/0/index.json"
+    },
+    "last": {
+      "href": "/lu-json/behaviors/63/index.json"
+    },
+    "self": {
+      "href": "/lu-json/behaviors/index.json"
+    }
+  }
+}

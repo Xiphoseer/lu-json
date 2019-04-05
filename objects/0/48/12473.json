@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6125,
+    "2": 12237,
+    "7": 1733,
+    "9": 0
+  },
+  "description": "fires Cherry Explosion skill on impact",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12473,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cherry Explosion Bullet - Player Only",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 978
+    }
+  ],
+  "type": "Shooting Gallery"
+}

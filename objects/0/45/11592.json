@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5643,
+    "2": 11344,
+    "3": 5436,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Barn Door Model 1",
+  "gate_version": "march2011content",
+  "id": 11592,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Barn Door 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

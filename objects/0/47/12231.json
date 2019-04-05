@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6023,
+    "2": 11978,
+    "53": 81
+  },
+  "description": "Double-click to use!",
+  "displayName": "Winter Model Surprise Giftbox",
+  "gate_version": "dec2010content",
+  "id": 12231,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Winter Model Surprise Giftbox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

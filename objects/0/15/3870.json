@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 1093,
+    "2": 3266,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Witch Broom",
+  "gate_version": null,
+  "id": 3870,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Witch Broom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 526
+    }
+  ],
+  "type": "Loot"
+}

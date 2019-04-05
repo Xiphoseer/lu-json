@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Achievement Reward",
+  "components": {
+    "11": 7174,
+    "2": 14364,
+    "53": 133
+  },
+  "description": "Double-click to use!",
+  "displayName": "Med Pack",
+  "gate_version": "freetrial",
+  "id": 14679,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Med Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

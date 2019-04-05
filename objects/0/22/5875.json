@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5289,
+    "3": 2431,
+    "40": 2432,
+    "5": 765
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5875,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Chain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

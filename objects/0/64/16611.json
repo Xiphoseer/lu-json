@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Ice Kit 2",
+  "components": {
+    "11": 7804,
+    "2": 15391,
+    "9": 0
+  },
+  "description": "Wear this to look like Zane!",
+  "displayName": "Zane's Hood of Frost",
+  "gate_version": "njhub",
+  "id": 16611,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Spinjitzu Hood Zane's Hood of Frost",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1571
+    }
+  ],
+  "type": "Loot"
+}

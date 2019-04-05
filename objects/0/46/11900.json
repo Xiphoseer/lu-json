@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 5739,
+    "2": 11648,
+    "9": 0
+  },
+  "description": "5 damage projectile",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11900,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "5 Dmg Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 896
+    }
+  ],
+  "type": "Shooting Gallery"
+}

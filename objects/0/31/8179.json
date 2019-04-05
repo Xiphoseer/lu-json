@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7722,
+    "40": 3788,
+    "5": 1061
+  },
+  "description": "Sign that animates on proximity to the Venture Vendor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8179,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Venture Faction Sign for Nimbus Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

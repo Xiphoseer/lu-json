@@ -1,0 +1,47 @@
+{
+  "id": 496,
+  "tasks": [
+    {
+      "IconID": 3199,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Forbidden_valley\\Task_icons\\mission_496_01.dds",
+      "largeTaskIconID": 3203,
+      "locStatus": 2,
+      "localize": true,
+      "target": 498,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 16,
+      "uid": 752
+    },
+    {
+      "IconID": 3201,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3204,
+      "locStatus": 2,
+      "localize": true,
+      "target": 509,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 758
+    },
+    {
+      "IconID": 3202,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3205,
+      "locStatus": 2,
+      "localize": true,
+      "target": 594,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 841
+    }
+  ]
+}

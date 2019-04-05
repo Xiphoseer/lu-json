@@ -1,0 +1,46 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6201,
+    "2": 10990,
+    "5": 1391,
+    "60": 115,
+    "7": 1763,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Borborygmus - Maelstrom Dragon",
+  "gate_version": "nimbusinstance",
+  "id": 12612,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Maelstrom Dragon",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 508
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 510
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 512
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 832
+    }
+  ],
+  "type": "Enemies"
+}

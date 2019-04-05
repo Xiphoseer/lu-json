@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 4 Sorcerer!",
+  "components": {
+    "11": 4844,
+    "2": 9822,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9997,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Rank 4 Sorcerer Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 734
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9712,
+    "3": 4346
+  },
+  "description": "fx_fv_brokengate_wires",
+  "displayName": "fx_fv_brokengate_wires",
+  "gate_version": null,
+  "id": 9880,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_fv_brokengate_wires",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7290,
+    "2": 15334,
+    "9": 0
+  },
+  "description": "TEST SKILL SET OWL",
+  "displayName": "TEST SKILL SET OWL",
+  "gate_version": null,
+  "id": 16647,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST SKILL SET OWL",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1656
+    }
+  ],
+  "type": "Loot"
+}

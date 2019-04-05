@@ -1,0 +1,41 @@
+{
+  "id": 170,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1819,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1820,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1821,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1822,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1823,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1826,
+      "offersMission": false
+    }
+  ]
+}

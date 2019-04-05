@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5071,
+    "40": 2348,
+    "48": 54,
+    "49": 0,
+    "57": 0,
+    "7": 502
+  },
+  "description": "Switch for siege",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6729,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pirate Siege QB Switch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

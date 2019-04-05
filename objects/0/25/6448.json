@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2970,
+    "3": 1737,
+    "5": 876,
+    "7": 821
+  },
+  "description": "test asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6448,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test staff for PvP",
+  "components": {
+    "11": 2891,
+    "2": 6426,
+    "9": 0
+  },
+  "description": "Test staff for PvP",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6871,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test PvP Awesome Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 152
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 243
+    }
+  ],
+  "type": "Loot"
+}

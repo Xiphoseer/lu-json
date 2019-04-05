@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7231,
+    "2": 14428,
+    "28": 384,
+    "3": 7427,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Dune Buggy Side Panels",
+  "gate_version": "ftcommunityitems",
+  "id": 14741,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Dune Buggy Side Panels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2808,
+    "17": 157,
+    "2": 5416,
+    "35": 190,
+    "7": 307
+  },
+  "description": "NPC that wakes the sleeping player when a new character enters the world",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6019,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Venture Ship Greeter",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 70,
+    "2": 3367,
+    "3": 1777,
+    "35": 87,
+    "7": 306
+  },
+  "description": "NS Accessory Vendor - Race",
+  "displayName": "Cecil Eyetwitch - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 139,
+      "iconState": 66
+    },
+    {
+      "iconID": 140,
+      "iconState": 69
+    }
+  ],
+  "id": 3925,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Gear Vendor - Race Place",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

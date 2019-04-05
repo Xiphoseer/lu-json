@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5087,
+    "25": 0,
+    "3": 2357
+  },
+  "description": "Death Volume for Steam Roller Moving Plat Prototype",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5664,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Steam Roller Death Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4862,
+    "2": 5800,
+    "31": 36,
+    "5": 846,
+    "60": 17,
+    "7": 515,
+    "9": 0
+  },
+  "description": "survival stromling",
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 6351,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Survival Stromling Lvl 1",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

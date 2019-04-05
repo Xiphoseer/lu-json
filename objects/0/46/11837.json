@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5888,
+    "2": 11589,
+    "3": 5681,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Forcefield Door Model",
+  "gate_version": null,
+  "id": 11837,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Door Forcefield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

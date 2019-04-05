@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "prototype platform for ninjago testing",
+  "components": {
+    "2": 13844,
+    "25": 0,
+    "27": 0,
+    "3": 7027
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 14133,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Proto - NJ moving platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 202,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 512,
+      "activityRating": 1,
+      "description": "AM Dragon Invader - 1 Player"
+    },
+    {
+      "ActivityRewardIndex": 203,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 677,
+      "activityRating": 2,
+      "description": "AM Dragon Invader - 2 Player"
+    },
+    {
+      "ActivityRewardIndex": 204,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 678,
+      "activityRating": 3,
+      "description": "AM Dragon Invader - 3 Player"
+    },
+    {
+      "ActivityRewardIndex": 205,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 679,
+      "activityRating": 4,
+      "description": "AM Dragon Invader - 4 Player"
+    }
+  ],
+  "objectTemplate": 13385
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5788,
+    "25": 0,
+    "3": 1226,
+    "5": 179,
+    "7": 119
+  },
+  "description": "Shooting Gallery Target",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2565,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Kraken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

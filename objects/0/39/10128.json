@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 1 IP",
+  "components": {
+    "11": 4940,
+    "2": 9965,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Vampire Shirt",
+  "gate_version": null,
+  "id": 10128,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Vampire Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

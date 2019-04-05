@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ mission item - this is the deletable version we give you after the mission",
+  "components": {
+    "11": 7830,
+    "2": 15429,
+    "9": 0
+  },
+  "description": "A most mysterious Mask!",
+  "displayName": "Dragon Mask",
+  "gate_version": "njhub",
+  "id": 16644,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Mask",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1542
+    }
+  ],
+  "type": "Loot"
+}

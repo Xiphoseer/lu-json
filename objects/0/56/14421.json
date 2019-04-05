@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14113,
+    "3": 7228,
+    "5": 1570,
+    "7": 1967,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Skullkin Coffin Smashable",
+  "gate_version": "njhub",
+  "id": 14421,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Skullkin Coffin Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

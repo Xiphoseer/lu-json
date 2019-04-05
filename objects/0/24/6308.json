@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7246,
+    "3": 48,
+    "5": 1027
+  },
+  "description": "Spider Boss",
+  "displayName": "Spider Boss",
+  "gate_version": null,
+  "id": 6308,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spider Boss",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

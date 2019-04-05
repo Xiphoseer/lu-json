@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3095,
+    "3": 1795,
+    "5": 551,
+    "7": 261
+  },
+  "description": "YRK TB maze piece 3-2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3683,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Maze Piece 3-2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Interactives"
+}

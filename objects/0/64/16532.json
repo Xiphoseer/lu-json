@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7746,
+    "2": 15310,
+    "3": 7922,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Monastery Shrine Model",
+  "gate_version": "njhub",
+  "id": 16532,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Monastery Shrine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

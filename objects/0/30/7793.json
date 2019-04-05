@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3301,
+    "2": 7349,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Grey Kepi Hat",
+  "gate_version": null,
+  "id": 7793,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Grey Kepi Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

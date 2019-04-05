@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12000,
+    "29": 2,
+    "40": 5986,
+    "7": 689
+  },
+  "description": "TEST JETPACK PAD DISTANCE",
+  "displayName": "TEST JETPACK PAD DISTANCE",
+  "gate_version": null,
+  "id": 14593,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST JETPACK PAD DISTANCE",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

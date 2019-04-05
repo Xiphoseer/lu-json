@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9552,
+    "3": 4239,
+    "5": 1158,
+    "7": 948,
+    "9": 0
+  },
+  "description": "Daredevil first aid kit 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9712,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "First Aid Kit 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 678
+    }
+  ],
+  "type": "Environmental"
+}

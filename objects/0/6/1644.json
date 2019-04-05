@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 680,
+    "2": 1475,
+    "5": 4,
+    "7": 22
+  },
+  "description": "Test; don't use in a production map",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1644,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Soccer Ball",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

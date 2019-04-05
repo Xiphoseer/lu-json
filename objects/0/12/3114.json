@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2580,
+    "3": 1483,
+    "48": 24,
+    "5": 79
+  },
+  "description": "Ninja Arch Small Rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3114,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Ninja Arch Small Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

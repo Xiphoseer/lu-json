@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9770,
+    "40": 3873,
+    "7": 866
+  },
+  "description": "testing maelstrom fx removal from property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9939,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Effect - Test multiEffects Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

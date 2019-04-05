@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/3 Slashing",
+  "components": {
+    "11": 3788,
+    "2": 8044,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Worthy Ice Saw",
+  "gate_version": null,
+  "id": 8489,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Worthy Ice Saw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 539
+    }
+  ],
+  "type": "Loot"
+}

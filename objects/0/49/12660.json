@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12449,
+    "3": 6221
+  },
+  "description": "minifig cutout used for NSI",
+  "displayName": null,
+  "gate_version": "nimbusinstance",
+  "id": 12660,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSI - Minifig Cutout",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

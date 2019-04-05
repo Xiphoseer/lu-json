@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5331,
+    "2": 10722,
+    "3": 4996,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Table Saw Model",
+  "gate_version": null,
+  "id": 10875,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward TableSaw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6803,
+    "3": 3258
+  },
+  "description": "PiCo demo object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7224,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PiCo Wall Piece 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,1059 @@
+{
+  "map_description": "FV medium property ",
+  "map_filename": "nd_fv_dragon_crevice.raw",
+  "map_name": "testmap 1451",
+  "paths": [
+    {
+      "behavior": 0,
+      "clone_limit": 10,
+      "description": "This is the Cliff's Edge",
+      "max_building_height": 128.0,
+      "name": "FVMedProperty",
+      "path_version": 16,
+      "player_coord": {
+        "x": -209.0,
+        "y": 265.0,
+        "z": -32.0
+      },
+      "price": 1000,
+      "rental_time": 1,
+      "rental_time_unit": 6,
+      "reputation_multiplier": 1.0,
+      "req_achievement": 0,
+      "type": 2,
+      "value_1": 1,
+      "value_2": 0,
+      "waypoints": [
+        {
+          "x": -39.055320739746094,
+          "y": 0.5,
+          "z": -35.21040725708008
+        },
+        {
+          "x": -56.58570861816406,
+          "y": 0.5,
+          "z": -42.44392776489258
+        },
+        {
+          "x": -69.81021118164063,
+          "y": 0.5,
+          "z": -57.332183837890625
+        },
+        {
+          "x": -70.28925323486328,
+          "y": 0.5,
+          "z": -60.881717681884766
+        },
+        {
+          "x": -70.39918518066406,
+          "y": 0.5003662109375,
+          "z": -86.33387756347656
+        },
+        {
+          "x": -68.65259552001953,
+          "y": 0.5,
+          "z": -90.13363647460938
+        },
+        {
+          "x": -69.21786499023438,
+          "y": 0.5,
+          "z": -150.76783752441406
+        },
+        {
+          "x": -60.57685852050781,
+          "y": 0.5001220703125,
+          "z": -161.83705139160156
+        },
+        {
+          "x": -43.9964714050293,
+          "y": 0.4940185546875,
+          "z": -168.8756561279297
+        },
+        {
+          "x": 46.69215393066406,
+          "y": 0.5001220703125,
+          "z": -162.98489379882813
+        },
+        {
+          "x": 58.6461067199707,
+          "y": 0.5001220703125,
+          "z": -151.56358337402344
+        },
+        {
+          "x": 62.76043701171875,
+          "y": 0.5001220703125,
+          "z": -133.8224334716797
+        },
+        {
+          "x": 66.14799499511719,
+          "y": 0.5,
+          "z": -83.25604248046875
+        },
+        {
+          "x": 65.56157684326172,
+          "y": 0.5245361328125,
+          "z": -80.0316162109375
+        },
+        {
+          "x": 64.04187774658203,
+          "y": 0.5,
+          "z": -31.282543182373047
+        },
+        {
+          "x": 36.3020133972168,
+          "y": 0.5,
+          "z": -32.02412414550781
+        },
+        {
+          "x": 31.84036636352539,
+          "y": 0.5,
+          "z": -32.22074508666992
+        },
+        {
+          "x": -3.152271270751953,
+          "y": 0.5,
+          "z": -32.26697540283203
+        },
+        {
+          "x": -7.054527282714844,
+          "y": 0.5,
+          "z": -32.260887145996094
+        }
+      ],
+      "zone": 1400
+    },
+    {
+      "behavior": 2,
+      "name": "LandingCine_0",
+      "next_path": "",
+      "path_version": 16,
+      "type": 3,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": 157.4987335205078,
+            "y": 674.3819580078125,
+            "z": -301.01708984375
+          },
+          "tension": 0.0,
+          "time": 5.0,
+          "value_1": -0.3304451107978821,
+          "value_2": -0.45015576481819153,
+          "value_3": 0.8088662028312683,
+          "value_4": 0.18412327766418457,
+          "value_5": 32.000003814697266
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": 157.00575256347656,
+            "y": 550.5422973632813,
+            "z": -300.7327880859375
+          },
+          "tension": 0.0,
+          "time": 2.0,
+          "value_1": -0.4005361795425415,
+          "value_2": -0.18864373862743378,
+          "value_3": 0.8926432132720947,
+          "value_4": 0.08468997478485107,
+          "value_5": 32.000003814697266
+        }
+      ]
+    },
+    {
+      "behavior": 2,
+      "name": "Property_Takeoff",
+      "next_path": "",
+      "path_version": 16,
+      "type": 3,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": 126.90223693847656,
+            "y": 518.6663818359375,
+            "z": -148.91575622558594
+          },
+          "tension": 0.0,
+          "time": 10.0,
+          "value_1": 0.5695652961730957,
+          "value_2": -0.04236104339361191,
+          "value_3": 0.8203338980674744,
+          "value_4": -0.029210980981588364,
+          "value_5": 32.000003814697266
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": 117.12045288085938,
+            "y": 511.64752197265625,
+            "z": -228.7018280029297
+          },
+          "tension": 0.0,
+          "time": 0.0,
+          "value_1": 0.34287336468696594,
+          "value_2": 0.12927895784378052,
+          "value_3": 0.9292128682136536,
+          "value_4": 0.0478370301425457,
+          "value_5": 32.000003814697266
+        }
+      ]
+    },
+    {
+      "behavior": 0,
+      "name": "Crevice_Dragon_1",
+      "path_version": 16,
+      "travel_sound": "",
+      "type": 1,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -217.1884002685547,
+              "y": 301.2933044433594,
+              "z": 172.3944549560547
+            },
+            "rot": {
+              "w": 0.9989705681800842,
+              "x": 0.0,
+              "y": 0.04536332190036774,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -195.2494659423828,
+              "y": 301.8345642089844,
+              "z": 237.1666717529297
+            },
+            "rot": {
+              "w": 0.9410281777381897,
+              "x": 0.0,
+              "y": 0.33832842111587524,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -161.0971221923828,
+              "y": 289.1759033203125,
+              "z": 259.581298828125
+            },
+            "rot": {
+              "w": 0.7649196982383728,
+              "x": 0.0,
+              "y": 0.6441258192062378,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -122.97553253173828,
+              "y": 281.8804626464844,
+              "z": 253.9322967529297
+            },
+            "rot": {
+              "w": 0.5976216197013855,
+              "x": 0.0,
+              "y": 0.8017783164978027,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -93.7477035522461,
+              "y": 278.68011474609375,
+              "z": 236.72874450683594
+            },
+            "rot": {
+              "w": 0.8607422113418579,
+              "x": 0.0,
+              "y": 0.5090413093566895,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 5.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -28.668407440185547,
+              "y": 264.09954833984375,
+              "z": 264.35107421875
+            },
+            "rot": {
+              "w": 0.6797537803649902,
+              "x": 0.0,
+              "y": 0.7334403991699219,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 58.30217742919922,
+              "y": 258.1142272949219,
+              "z": 232.76268005371094
+            },
+            "rot": {
+              "w": 0.6599991917610168,
+              "x": 0.0,
+              "y": 0.751266360282898,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 151.53302001953125,
+              "y": 265.514892578125,
+              "z": 213.4119110107422
+            },
+            "rot": {
+              "w": 0.6204622387886047,
+              "x": 0.0,
+              "y": 0.7842363119125366,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 201.95851135253906,
+              "y": 269.2152099609375,
+              "z": 208.5899200439453
+            },
+            "rot": {
+              "w": 0.6180615425109863,
+              "x": 0.0,
+              "y": 0.7861297130584717,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 222.3987579345703,
+              "y": 271.0653991699219,
+              "z": 199.4639129638672
+            },
+            "rot": {
+              "w": 0.37763580679893494,
+              "x": 0.0,
+              "y": 0.925954282283783,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 243.10182189941406,
+              "y": 272.9155578613281,
+              "z": 169.9307098388672
+            },
+            "rot": {
+              "w": 0.052334338426589966,
+              "x": 0.0,
+              "y": 0.9986296892166138,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 238.80198669433594,
+              "y": 284.4971618652344,
+              "z": 132.0974884033203
+            },
+            "rot": {
+              "w": -0.33503761887550354,
+              "x": 0.0,
+              "y": 0.9422048330307007,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 243.8023223876953,
+              "y": 297.7801208496094,
+              "z": 14.058759689331055
+            },
+            "rot": {
+              "w": -0.2982079088687897,
+              "x": 0.0,
+              "y": 0.9545010328292847,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 211.2754364013672,
+              "y": 294.4863586425781,
+              "z": -33.134178161621094
+            },
+            "rot": {
+              "w": -0.3493848145008087,
+              "x": 0.0,
+              "y": 0.9369794130325317,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 184.03488159179688,
+              "y": 288.64013671875,
+              "z": -89.00019836425781
+            },
+            "rot": {
+              "w": -0.2495323121547699,
+              "x": 0.0,
+              "y": 0.9683664441108704,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 132.5208282470703,
+              "y": 292.26702880859375,
+              "z": -123.1556625366211
+            },
+            "rot": {
+              "w": 0.5124093294143677,
+              "x": 0.0,
+              "y": -0.8587414026260376,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 66.23229217529297,
+              "y": 298.46014404296875,
+              "z": -146.88124084472656
+            },
+            "rot": {
+              "w": 0.6963512897491455,
+              "x": 0.0,
+              "y": -0.7177011370658875,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 4.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": 27.770732879638672,
+              "y": 296.46014404296875,
+              "z": -148.6637725830078
+            },
+            "rot": {
+              "w": 0.8308385610580444,
+              "x": 0.0,
+              "y": -0.5565136671066284,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -26.681774139404297,
+              "y": 293.9343566894531,
+              "z": -131.82870483398438
+            },
+            "rot": {
+              "w": 0.8374797701835632,
+              "x": 0.0,
+              "y": -0.5464682579040527,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -111.01090240478516,
+              "y": 292.1747741699219,
+              "z": -42.66334533691406
+            },
+            "rot": {
+              "w": 0.9496991038322449,
+              "x": 0.0,
+              "y": -0.31316420435905457,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        },
+        {
+          "arrive_sound": "",
+          "depart_sound": "",
+          "lock_player": false,
+          "pos": {
+            "pos": {
+              "x": -186.9992218017578,
+              "y": 290.7840881347656,
+              "z": 59.84172439575195
+            },
+            "rot": {
+              "w": 0.9850342273712158,
+              "x": 0.0,
+              "y": -0.17235887050628662,
+              "z": 0.0
+            }
+          },
+          "speed": 40.0,
+          "wait": 0.0
+        }
+      ]
+    },
+    {
+      "behavior": 2,
+      "name": "IntroCam",
+      "next_path": "",
+      "path_version": 16,
+      "type": 3,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": -97.46226501464844,
+            "y": -181.07040405273438,
+            "z": 127.03712463378906
+          },
+          "tension": 0.0,
+          "time": 3.0,
+          "value_1": 0.8185554146766663,
+          "value_2": 0.10048890113830566,
+          "value_3": 0.14951582252979279,
+          "value_4": 0.5454485416412354,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": 65.10662841796875,
+            "y": 241.88604736328125,
+            "z": 111.90986633300781
+          },
+          "tension": 0.0,
+          "time": 1.5,
+          "value_1": 0.8828448057174683,
+          "value_2": 0.07351750135421753,
+          "value_3": 0.14645397663116455,
+          "value_4": 0.4401493966579437,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": -1.0,
+          "pos": {
+            "x": 150.2469024658203,
+            "y": 274.2806091308594,
+            "z": 62.605613708496094
+          },
+          "tension": 1.0,
+          "time": 1.0,
+          "value_1": 0.9890100359916687,
+          "value_2": 0.010416117496788502,
+          "value_3": 0.08468847721815109,
+          "value_4": 0.12074148654937744,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": -1.0,
+          "pos": {
+            "x": 150.2469024658203,
+            "y": 274.2806091308594,
+            "z": 62.605613708496094
+          },
+          "tension": 0.5,
+          "time": 3.0,
+          "value_1": 0.9890162348747253,
+          "value_2": 0.010424824431538582,
+          "value_3": 0.08461697399616241,
+          "value_4": 0.12074044346809387,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": -39.66279220581055,
+            "y": 269.594970703125,
+            "z": 284.7486572265625
+          },
+          "tension": 0.0,
+          "time": 3.0,
+          "value_1": 0.9238804578781128,
+          "value_2": 0.007348122540861368,
+          "value_3": 0.38220372796058655,
+          "value_4": 0.01764577254652977,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": -90.964111328125,
+            "y": 285.2554626464844,
+            "z": 309.5453796386719
+          },
+          "tension": 0.5,
+          "time": 3.0,
+          "value_1": 0.8432592153549194,
+          "value_2": -0.004765371326357126,
+          "value_3": 0.5374342203140259,
+          "value_4": -0.0074568334966897964,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": -228.81814575195313,
+            "y": 302.17230224609375,
+            "z": 302.2503356933594
+          },
+          "tension": 0.0,
+          "time": 1.0,
+          "value_1": 0.953737199306488,
+          "value_2": -0.027208445593714714,
+          "value_3": 0.28553348779678345,
+          "value_4": -0.09008682519197464,
+          "value_5": 31.999998092651367
+        },
+        {
+          "bias": 0.0,
+          "continuity": 0.0,
+          "pos": {
+            "x": -281.6662902832031,
+            "y": 302.220947265625,
+            "z": 321.823974609375
+          },
+          "tension": 0.0,
+          "time": 0.0,
+          "value_1": 0.908776581287384,
+          "value_2": -0.05529177188873291,
+          "value_3": 0.39347901940345764,
+          "value_4": -0.1274455487728119,
+          "value_5": 32.0
+        }
+      ]
+    },
+    {
+      "activate_on_load": true,
+      "behavior": 0,
+      "max_to_spawn": 1,
+      "name": "LeftDragon",
+      "number_to_maintain": 1,
+      "object_id": 2317204,
+      "path_version": 16,
+      "respawn_time": 0,
+      "spawned_lot": 11226,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "CheckPrecondition": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "aggroRadius": 102.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "currency": 0,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "fxpriority": 0,
+            "gatingGameReleaseID": 0,
+            "gatingHolidayEventID": 0,
+            "gatingMajorReleaseID": 0,
+            "gatingValidInternal": true,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "name": "",
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": false,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "respawn": 0.0,
+            "sceneID": 0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerID": 0,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "4 ",
+            "smashable_loot_matrix": -1,
+            "smashable_loot_matrix_set": false,
+            "softtetherRadius": 102.0,
+            "spawner_active_on_load": true,
+            "spawner_name": "LeftDragon",
+            "spawner_node_id": 0,
+            "spawntemplate": 11226,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 135.0,
+            "usetetherdb": false,
+            "usewanderdb": false,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 29.690000534057617,
+              "y": 252.39999389648438,
+              "z": -72.18000030517578
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": true,
+      "behavior": 0,
+      "max_to_spawn": 1,
+      "name": "MiddleDragon",
+      "number_to_maintain": 1,
+      "object_id": 2317205,
+      "path_version": 16,
+      "respawn_time": 0,
+      "spawned_lot": 7805,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "CheckPrecondition": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "aggroRadius": 102.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "currency": 0,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "fxpriority": 0,
+            "gatingGameReleaseID": 0,
+            "gatingHolidayEventID": 0,
+            "gatingMajorReleaseID": 0,
+            "gatingValidInternal": true,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "name": "",
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": false,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "respawn": 0.0,
+            "sceneID": 0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerID": 0,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "4 ",
+            "smashable_loot_matrix": -1,
+            "smashable_loot_matrix_set": false,
+            "softtetherRadius": 102.0,
+            "spawner_active_on_load": true,
+            "spawner_name": "MiddleDragon",
+            "spawner_node_id": 0,
+            "spawntemplate": 7805,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 135.0,
+            "usetetherdb": false,
+            "usewanderdb": false,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": 187.80999755859375,
+              "y": 272.04998779296875,
+              "z": 56.41999816894531
+            },
+            "rot": {
+              "w": 0.8226404786109924,
+              "x": 0.0,
+              "y": -0.5685619115829468,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activate_on_load": true,
+      "behavior": 0,
+      "max_to_spawn": 1,
+      "name": "RightDragon",
+      "number_to_maintain": 1,
+      "object_id": 2317206,
+      "path_version": 16,
+      "respawn_time": 0,
+      "spawned_lot": 11225,
+      "type": 4,
+      "value_1": 0,
+      "waypoints": [
+        {
+          "config": {
+            "CheckPrecondition": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "aggroRadius": 102.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "currency": 0,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "fxpriority": 0,
+            "gatingGameReleaseID": 0,
+            "gatingHolidayEventID": 0,
+            "gatingMajorReleaseID": 0,
+            "gatingValidInternal": true,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_network_spawner": true,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "max_to_spawn": -1,
+            "name": "",
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": false,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "respawn": 0.0,
+            "sceneID": 0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerID": 0,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "4 ",
+            "smashable_loot_matrix": -1,
+            "smashable_loot_matrix_set": false,
+            "softtetherRadius": 102.0,
+            "spawner_active_on_load": true,
+            "spawner_name": "RightDragon",
+            "spawner_node_id": 0,
+            "spawntemplate": 11225,
+            "startsQBActivator": false,
+            "template": -1,
+            "tetherRadius": 135.0,
+            "usetetherdb": false,
+            "usewanderdb": false,
+            "wanderRadius": 2.0
+          },
+          "pos": {
+            "pos": {
+              "x": -5.460000038146973,
+              "y": 247.72999572753906,
+              "z": 257.0
+            },
+            "rot": {
+              "w": 0.01570739783346653,
+              "x": 0.0,
+              "y": 0.9998766183853149,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "revision": 61,
+  "scenes": [
+    {
+      "filename": "nd_fv_dragon_crevice.lvl",
+      "id": 0,
+      "is_audio": 0,
+      "name": "Global Scene"
+    }
+  ],
+  "something": "",
+  "spawnpoint": {
+    "pos": {
+      "x": -264.42657470703125,
+      "y": 290.34521484375,
+      "z": 308.6190490722656
+    },
+    "rot": {
+      "w": 0.0,
+      "x": 0.4851876497268677,
+      "y": 0.0,
+      "z": 0.874410092830658
+    }
+  },
+  "transitions": [],
+  "version": 41,
+  "world_id": 1402
+}

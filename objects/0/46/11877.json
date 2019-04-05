@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5928,
+    "2": 11629,
+    "3": 5721,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Gingerbread House End Model 2",
+  "gate_version": "dec2010content",
+  "id": 11877,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Gingerbread House End 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

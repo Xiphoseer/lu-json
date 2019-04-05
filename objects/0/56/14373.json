@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14064,
+    "3": 7182,
+    "7": 2027
+  },
+  "description": null,
+  "displayName": "NJ - Skullkin Smashable Crate Medium",
+  "gate_version": "njhub",
+  "id": 14373,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Skullkin Smashable Crate Medium",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

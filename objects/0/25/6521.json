@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2749,
+    "2": 6092,
+    "3": 2822,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Mini Raft Model",
+  "gate_version": null,
+  "id": 6521,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mini Raft",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

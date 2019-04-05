@@ -1,0 +1,35 @@
+{
+  "elements": [
+    {
+      "LootTableIndex": 83,
+      "MissionDrop": false,
+      "id": 5465,
+      "sortPriority": 0
+    },
+    {
+      "LootTableIndex": 72,
+      "MissionDrop": false,
+      "id": 8711,
+      "sortPriority": 0
+    },
+    {
+      "LootTableIndex": 190,
+      "MissionDrop": false,
+      "id": 10755,
+      "sortPriority": 200
+    },
+    {
+      "LootTableIndex": 89,
+      "MissionDrop": false,
+      "id": 13997,
+      "sortPriority": 600
+    },
+    {
+      "LootTableIndex": 575,
+      "MissionDrop": false,
+      "id": 18354,
+      "sortPriority": 0
+    }
+  ],
+  "itemid": 10431
+}

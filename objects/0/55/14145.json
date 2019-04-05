@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "104": 2,
+    "2": 2453,
+    "3": 1436
+  },
+  "description": null,
+  "displayName": "Rail activator",
+  "gate_version": null,
+  "id": 14145,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST btarr rail activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

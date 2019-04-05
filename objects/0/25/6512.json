@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Rusty Wrench",
+  "components": {
+    "11": 2746,
+    "2": 6081
+  },
+  "description": "NPC Rusty Wrench",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6512,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Rusty Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7193,
+    "2": 14384,
+    "28": 369,
+    "3": 7407,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Pencil Rocket Cockpit",
+  "gate_version": "ftcommunityitems",
+  "id": 14696,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Pencil Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

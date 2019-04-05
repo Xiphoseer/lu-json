@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5084,
+    "2": 10183,
+    "3": 4575,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Open Door Model 3",
+  "gate_version": null,
+  "id": 10335,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Door 3 open",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

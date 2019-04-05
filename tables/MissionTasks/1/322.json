@@ -1,0 +1,19 @@
+{
+  "id": 322,
+  "tasks": [
+    {
+      "IconID": 2882,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\RebuildBeacon_322_Task.dds",
+      "largeTaskIconID": 3034,
+      "locStatus": 2,
+      "localize": true,
+      "target": 40,
+      "targetGroup": "111,112,113,114",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 2,
+      "uid": 483
+    }
+  ]
+}

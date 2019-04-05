@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6002,
+    "2": 11859,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Spring Shoes",
+  "gate_version": "nexustower",
+  "id": 12110,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spring Shoes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1228
+    }
+  ],
+  "type": "Loot"
+}

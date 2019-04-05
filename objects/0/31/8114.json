@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7664,
+    "3": 1993,
+    "5": 1053,
+    "7": 241
+  },
+  "description": "Rooster that pops out of crates randomly",
+  "displayName": "Robert the Crate Chicken",
+  "gate_version": null,
+  "id": 8114,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Crate Chicken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6205,
+    "2": 12438,
+    "9": 0
+  },
+  "description": "NPC Sentinel  Scout Helmet",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12648,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Sentinel Scout Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 298
+    }
+  ],
+  "type": "Loot"
+}

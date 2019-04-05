@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4326,
+    "3": 2212,
+    "7": 457
+  },
+  "description": "Umbrella for AG areas",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4888,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Umbrella",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

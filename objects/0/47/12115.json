@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "consumable",
+  "components": {
+    "11": 6007,
+    "2": 11864,
+    "53": 107
+  },
+  "description": "Double-click to open this crate of supplies!",
+  "displayName": "Nexus Force Supply Crate",
+  "gate_version": "auramar",
+  "id": 12115,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Force Supply Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

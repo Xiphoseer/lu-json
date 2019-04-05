@@ -1,0 +1,105 @@
+{
+  "LootMatrixIndex": 521,
+  "elements": [
+    {
+      "LootTableIndex": 443,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 2966,
+      "maxToDrop": 8,
+      "minToDrop": 4,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 444,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 2967,
+      "maxToDrop": 12,
+      "minToDrop": 8,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 445,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 2968,
+      "maxToDrop": 8,
+      "minToDrop": 4,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 446,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 2969,
+      "maxToDrop": 8,
+      "minToDrop": 4,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 110,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 2970,
+      "maxToDrop": 16,
+      "minToDrop": 12,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3390,
+      "maxToDrop": 14,
+      "minToDrop": 10,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3466,
+      "maxToDrop": 16,
+      "minToDrop": 12,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 417,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3497,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 421,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3498,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 425,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 3499,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    }
+  ]
+}

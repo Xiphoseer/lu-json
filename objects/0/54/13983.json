@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "For Ian to test kit bonuses",
+  "components": {
+    "11": 6948,
+    "2": 13694,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Rank 2 Shield",
+  "gate_version": "LIVE",
+  "id": 13983,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Rank 2 Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5398,
+    "3": 873
+  },
+  "description": "Land Mine asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Land Mine Solid",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

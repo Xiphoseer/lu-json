@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5918,
+    "40": 1041,
+    "5": 869,
+    "7": 535,
+    "9": 0
+  },
+  "description": "Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6432,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - Armor Powerup 1 point",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 747
+    }
+  ],
+  "type": "NPC"
+}

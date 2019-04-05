@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7278,
+    "2": 14210,
+    "9": 0
+  },
+  "description": "NJ Skeleton thrown bone bullet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14524,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Skeleton thrown bone Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1392
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7146,
+    "3": 3341,
+    "7": 697
+  },
+  "description": "Smashable flower for pet rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7584,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PC -Flower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 98,
+    "2": 4202,
+    "3": 2318,
+    "35": 129,
+    "5": 666
+  },
+  "description": "__MG__hangs out with kipper commercial NPCs.  Gives mission to talk to Zorillo reporter",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 4791,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Venture Faction Greeter",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "NPC"
+}

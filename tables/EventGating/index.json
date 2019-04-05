@@ -1,0 +1,51 @@
+{
+  "_embedded": {
+    "EventGating": [
+      {
+        "date_end": 1301788799,
+        "date_start": 1301702400,
+        "eventName": "buildNexusTowerEnd"
+      },
+      {
+        "date_end": 1298937599,
+        "date_start": 1291161600,
+        "eventName": "frostburgh2010_notused"
+      },
+      {
+        "date_end": 1301616001,
+        "date_start": 1298160000,
+        "eventName": "TestLucas"
+      },
+      {
+        "date_end": 1316563199,
+        "date_start": 1316390400,
+        "eventName": "pirateDay"
+      },
+      {
+        "date_end": 1290211199,
+        "date_start": 1288569600,
+        "eventName": "testDonate"
+      },
+      {
+        "date_end": 1298160000,
+        "date_start": 1291161600,
+        "eventName": "TestLucasFake"
+      },
+      {
+        "date_end": 1299801600,
+        "date_start": 1268092800,
+        "eventName": "buildNexusTower"
+      },
+      {
+        "date_end": 1290902399,
+        "date_start": 1290211200,
+        "eventName": "testDonateEnd"
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/EventGating/index.json"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Piercing",
+  "components": {
+    "11": 3802,
+    "2": 8058,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Corseque",
+  "gate_version": null,
+  "id": 8503,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Corseque",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 531
+    }
+  ],
+  "type": "Loot"
+}

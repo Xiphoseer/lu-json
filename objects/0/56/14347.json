@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14038,
+    "3": 7170,
+    "67": 34,
+    "78": 39
+  },
+  "description": "Launch pad in LUP Robot City",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14347,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LUP - Robot City Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

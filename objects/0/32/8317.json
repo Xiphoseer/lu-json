@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7876,
+    "3": 3880,
+    "7": 873
+  },
+  "description": "don't use in game",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8317,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Smashable for Loot Testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Smashables"
+}

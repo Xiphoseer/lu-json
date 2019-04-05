@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10914,
+    "3": 5083,
+    "39": 55
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 127,
+      "iconState": 69
+    }
+  ],
+  "id": 11165,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Entrance Instance Dragon Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

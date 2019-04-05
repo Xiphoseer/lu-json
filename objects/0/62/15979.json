@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 11 2011",
+  "components": {
+    "11": 7392,
+    "2": 14680,
+    "53": 154
+  },
+  "description": "Double-click to open!",
+  "displayName": "Duck Rocket Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15979,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Duck Rocket Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

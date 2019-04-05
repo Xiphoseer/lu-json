@@ -1,0 +1,48 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "heals caster for 3 Life. 6 AP 6 IP. Deals 4/18 dmg piercing",
+  "components": {
+    "11": 7353,
+    "2": 14639,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Kiro Swordsman's Hood",
+  "gate_version": "njhub",
+  "id": 15947,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kiro Swordsman's Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 365
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 374
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1461
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1549
+    }
+  ],
+  "type": "Loot"
+}

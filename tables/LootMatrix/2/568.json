@@ -1,0 +1,95 @@
+{
+  "LootMatrixIndex": 568,
+  "elements": [
+    {
+      "LootTableIndex": 102,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1846,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.05000000074505806
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1847,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 0.44999998807907104
+    },
+    {
+      "LootTableIndex": 243,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1848,
+      "maxToDrop": 5,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 105,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1849,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.15000000596046448
+    },
+    {
+      "LootTableIndex": 104,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1850,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.05000000074505806
+    },
+    {
+      "LootTableIndex": 103,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1851,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.75
+    },
+    {
+      "LootTableIndex": 191,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1852,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.029999999329447746
+    },
+    {
+      "LootTableIndex": 192,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1853,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.029999999329447746
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 1854,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.75
+    }
+  ]
+}

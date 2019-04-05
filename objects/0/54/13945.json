@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13660,
+    "3": 6926,
+    "5": 1499,
+    "7": 1887
+  },
+  "description": "For testing grid based skill casting",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13945,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Char Grid 02",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "39": 62,
+    "5": 1414
+  },
+  "description": "Test Zone Control Object for Waves",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12909,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Waves Zone Control Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Zone Control Object"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 394,
+    "2": 10748,
+    "3": 1777,
+    "35": 493,
+    "7": 307
+  },
+  "description": "LUP Jailed Piratron NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10995,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Jailed Piratron",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

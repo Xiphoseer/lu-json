@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13266,
+    "3": 6633
+  },
+  "description": "rocket_flyby object for the tower exterior",
+  "displayName": "nt_FX_rocket_flyby",
+  "gate_version": "auramar",
+  "id": 13530,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nt_FX_rocket_flyby",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

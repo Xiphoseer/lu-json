@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 5152,
+    "2": 10279,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Improved Scythe of Whirlwind",
+  "gate_version": null,
+  "id": 10436,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Scythe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1336
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1337
+    }
+  ],
+  "type": "Loot"
+}

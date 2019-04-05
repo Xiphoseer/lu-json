@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4780,
+    "2": 9701
+  },
+  "description": null,
+  "displayName": "Test Cape",
+  "gate_version": null,
+  "id": 9869,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Red Vamp Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

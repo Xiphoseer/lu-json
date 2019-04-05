@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 121,
+    "17": 526,
+    "2": 13540,
+    "3": 1777,
+    "35": 617,
+    "7": 306,
+    "73": 169
+  },
+  "description": "NJ Bubu Mumu Models Vendor",
+  "displayName": "Bubu Mumu - Ninjago Models Vendor",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 13801,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ Mon - Bubu Mumu Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

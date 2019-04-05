@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP 1AP",
+  "components": {
+    "11": 6336,
+    "2": 12578,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Comfy Jeans",
+  "gate_version": "nexustower",
+  "id": 12788,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Comfy Jeans",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

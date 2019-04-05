@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3817,
+    "2": 8082,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Troll Shield",
+  "gate_version": null,
+  "id": 8528,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kite Shield 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

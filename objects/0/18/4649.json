@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4069,
+    "3": 2004
+  },
+  "description": "Red block that doesn't camera fade",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4649,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - NoFadeBlock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6183,
+    "2": 12358,
+    "7": 1746,
+    "9": 0
+  },
+  "description": "Projectile used in Stink Bomb Skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12568,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Stink Bomb Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1000
+    }
+  ],
+  "type": "Shooting Gallery"
+}

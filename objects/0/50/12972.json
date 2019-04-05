@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12757,
+    "40": 6301,
+    "5": 1420
+  },
+  "description": "Volume that fits the Start  area in Crux Prime",
+  "displayName": "Start Area Trigger Volume",
+  "gate_version": "auramar",
+  "id": 12972,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CP - Start Area Trigger Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

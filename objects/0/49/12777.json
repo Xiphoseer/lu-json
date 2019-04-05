@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Slashing",
+  "components": {
+    "11": 6325,
+    "2": 12567,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Battle Bread",
+  "gate_version": "auramar",
+  "id": 12777,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Battle Bread",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 279
+    }
+  ],
+  "type": "Loot"
+}

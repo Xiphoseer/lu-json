@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7222,
+    "3": 3385
+  },
+  "description": "Object to Duplicate, basic shader and Physics Components",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7662,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Design - Environment Basic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

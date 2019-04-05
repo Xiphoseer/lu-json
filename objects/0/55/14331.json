@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14020,
+    "3": 7152,
+    "67": 29,
+    "78": 34
+  },
+  "description": "Launch pad to Gnarled Forest in the LEGO Club",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14331,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LEGO Club - GF Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

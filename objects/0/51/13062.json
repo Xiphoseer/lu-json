@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6487,
+    "2": 12846,
+    "28": 283,
+    "3": 6352,
+    "42": 0,
+    "63": 6,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Fright Speed Front Bumper",
+  "gate_version": "auramar",
+  "id": 13062,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAM_FrontBumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

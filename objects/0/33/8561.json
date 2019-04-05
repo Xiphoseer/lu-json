@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6028,
+    "3": 2711,
+    "39": 5,
+    "49": 0,
+    "5": 886
+  },
+  "description": "Allows you to drag and drop a car to race it in a new instance",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8561,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Car Race Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

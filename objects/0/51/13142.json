@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12922,
+    "3": 6394,
+    "5": 1483
+  },
+  "description": "",
+  "displayName": "Paradox Power Panels Effect",
+  "gate_version": "auramar",
+  "icons": [
+    {
+      "iconID": 73,
+      "iconState": 69
+    }
+  ],
+  "id": 13142,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Paradox Power Panels Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

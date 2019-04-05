@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 2836,
+    "2": 6332,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White First Mate's Shirt",
+  "gate_version": null,
+  "id": 6798,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "First Mate's Shirt 1 - Ren Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

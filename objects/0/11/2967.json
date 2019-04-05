@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2479,
+    "3": 1360,
+    "5": 323
+  },
+  "description": "Turns the player's sledding state to OFF",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2967,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SleddingActivator_OFF",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

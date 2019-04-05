@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9694,
+    "20": 4335,
+    "79": 0
+  },
+  "description": "Triggers music, 2D ambience, and/or mixer changes for player character vehicles within a box-shaped area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9862,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sound Trigger (for Racing) -- Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

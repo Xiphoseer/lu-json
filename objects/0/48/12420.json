@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12173,
+    "23": 47,
+    "40": 6100,
+    "7": 1713
+  },
+  "description": "Collectible Spawner for Parrot Collectable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12420,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Parrot Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

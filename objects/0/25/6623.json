@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2881,
+    "2": 6184,
+    "40": 2880,
+    "5": 922,
+    "7": 607,
+    "9": 0
+  },
+  "description": "Front hitbox",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6623,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CT - Bull Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 218
+    }
+  ],
+  "type": "Enemies"
+}

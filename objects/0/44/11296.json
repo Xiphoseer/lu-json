@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 1275,
+    "71": 54
+  },
+  "description": "Zone control object for racing on FV track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11296,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Racing zone control object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

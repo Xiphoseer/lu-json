@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 370,
+    "2": 9978,
+    "3": 1777,
+    "35": 462,
+    "5": 1208,
+    "7": 307
+  },
+  "description": "Ambient Jetpack NPC for Club Station",
+  "displayName": "Nails Henrik - LEGO Club Technician",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 10138,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Club Station Jetpack Ambient",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

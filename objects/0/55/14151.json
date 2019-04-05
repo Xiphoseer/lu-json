@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13861,
+    "3": 7035
+  },
+  "description": "lantern for the player to jump on",
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14151,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lantern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

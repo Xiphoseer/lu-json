@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5847,
+    "3": 2676
+  },
+  "description": "Pirate Tree mission giver placholder asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6402,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTOTYPE - NPC Tree Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

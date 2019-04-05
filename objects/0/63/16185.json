@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 7514,
+    "2": 14903,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Valiant Daredevil's Cape",
+  "gate_version": "levelprogression",
+  "id": 16185,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Daredevil Cape Back/Neck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 599
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 7049,
+    "2": 13924
+  },
+  "description": "Return this to Meyer Muckrake in Nexus Tower.",
+  "displayName": "Meyer's Thinking Hat",
+  "gate_version": "nexustower",
+  "id": 14223,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

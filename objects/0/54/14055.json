@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13769,
+    "3": 6999
+  },
+  "description": "Placeable NT Pet Tube",
+  "displayName": "NT Pet Tube",
+  "gate_version": "nexustower",
+  "id": 14055,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Pet Tube",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

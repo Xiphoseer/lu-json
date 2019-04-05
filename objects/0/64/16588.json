@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Red Wand",
+  "components": {
+    "11": 7763,
+    "2": 15367,
+    "9": 0
+  },
+  "description": "NPC Red Wand",
+  "displayName": "NPC Red Wand",
+  "gate_version": "njhub",
+  "id": 16588,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Red Wand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

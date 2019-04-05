@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6417,
+    "2": 12701,
+    "28": 276,
+    "3": 6279,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Terror Comet Rocket Engine",
+  "gate_version": "auramar",
+  "id": 12853,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Skeleton Engine 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

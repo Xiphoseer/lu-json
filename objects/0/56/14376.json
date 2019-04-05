@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14067,
+    "25": 0,
+    "27": 0,
+    "3": 7185
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 14376,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NG - Gate Chamber Puzzle Lantern Moving Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

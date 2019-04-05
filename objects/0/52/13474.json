@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6649,
+    "2": 13209,
+    "3": 6580,
+    "42": 0
+  },
+  "description": "A model with Behaviors for your property.",
+  "displayName": "Reward Turtle",
+  "gate_version": null,
+  "id": 13474,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Turtle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

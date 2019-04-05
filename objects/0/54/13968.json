@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "for testing object spawning",
+  "components": {
+    "11": 6938,
+    "2": 13680,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "TEST Tower Grid Hat B",
+  "gate_version": null,
+  "id": 13968,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Tower Grid Hat B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1293
+    }
+  ],
+  "type": "Loot"
+}

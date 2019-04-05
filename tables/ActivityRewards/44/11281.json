@@ -1,0 +1,70 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 167,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 104,
+      "LootMatrixIndex": 582,
+      "activityRating": -1,
+      "description": "AG Wishing Well 1"
+    },
+    {
+      "ActivityRewardIndex": 168,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 105,
+      "LootMatrixIndex": 583,
+      "activityRating": 500,
+      "description": "AG Wishing Well 2"
+    },
+    {
+      "ActivityRewardIndex": 169,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 106,
+      "LootMatrixIndex": 584,
+      "activityRating": 750,
+      "description": "AG Wishing Well 3"
+    },
+    {
+      "ActivityRewardIndex": 170,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 107,
+      "LootMatrixIndex": 585,
+      "activityRating": 900,
+      "description": "AG Wishing Well 4"
+    },
+    {
+      "ActivityRewardIndex": 171,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 108,
+      "LootMatrixIndex": 586,
+      "activityRating": 950,
+      "description": "AG Wishing Well 5"
+    },
+    {
+      "ActivityRewardIndex": 172,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 109,
+      "LootMatrixIndex": 587,
+      "activityRating": 975,
+      "description": "AG Wishing Well 6"
+    },
+    {
+      "ActivityRewardIndex": 173,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 110,
+      "LootMatrixIndex": 588,
+      "activityRating": 998,
+      "description": "AG Wishing Well 7"
+    },
+    {
+      "ActivityRewardIndex": 174,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 111,
+      "LootMatrixIndex": 589,
+      "activityRating": 999,
+      "description": "AG Wishing Well 8"
+    },
+    null
+  ],
+  "objectTemplate": 11281
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4097,
+    "2": 9351,
+    "7": 1554,
+    "9": 0
+  },
+  "description": "Clod of dirt that spawns a flower hat effect on target",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9498,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dirt Clod Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 799
+    }
+  ],
+  "type": "Shooting Gallery"
+}

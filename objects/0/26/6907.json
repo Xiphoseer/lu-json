@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2914,
+    "2": 6468,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Faction Grunt Helmet Regular",
+  "gate_version": null,
+  "id": 6907,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Faction Grunt Helmet Regular",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 151
+    }
+  ],
+  "type": "Loot"
+}

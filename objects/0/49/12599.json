@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 4 AP",
+  "components": {
+    "11": 6182,
+    "2": 12389,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Crux Planet Shield",
+  "gate_version": "nimbusinstance",
+  "id": 12599,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Crux Planet Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

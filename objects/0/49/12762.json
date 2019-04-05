@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 PBOAE damage + stun",
+  "components": {
+    "11": 6310,
+    "2": 12552,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Battle Croissant",
+  "gate_version": "auramar",
+  "id": 12762,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Battle Croissant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1126
+    }
+  ],
+  "type": "Loot"
+}

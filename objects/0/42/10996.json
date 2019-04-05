@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TIER 2 Behavior",
+  "components": {
+    "11": 5350,
+    "2": 10749
+  },
+  "description": "Allows a player to slide and rotate a model around.  Interacting pushes the model forward and attacking causes it to spin.",
+  "displayName": "Manipulate Model Behavior",
+  "gate_version": null,
+  "id": 10996,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Manipulate Model Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

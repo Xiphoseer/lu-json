@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11244,
+    "20": 5342,
+    "5": 1298
+  },
+  "description": "NSWinterTrack_IceVol_Secondary",
+  "displayName": "NSWinterTrack_IceVol_Secondary",
+  "gate_version": null,
+  "id": 11496,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSWinterTrack_IceVol_Secondary",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

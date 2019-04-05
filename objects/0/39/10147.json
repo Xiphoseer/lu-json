@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 372,
+    "2": 9986,
+    "3": 1777,
+    "35": 464,
+    "7": 307
+  },
+  "description": "Test and delete",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10147,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Shader Change",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4617,
+    "2": 9438,
+    "3": 4166,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Mini Train Model",
+  "gate_version": null,
+  "id": 9587,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mini Train",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

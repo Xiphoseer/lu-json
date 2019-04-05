@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7275,
+    "3": 3421,
+    "5": 950
+  },
+  "description": "car modular build rear bumper volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7719,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume rear bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

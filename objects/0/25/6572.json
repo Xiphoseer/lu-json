@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5398,
+    "3": 873,
+    "48": 92,
+    "5": 908,
+    "57": 0,
+    "7": 502,
+    "9": 0
+  },
+  "description": "Siege QB Land Mine",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6572,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Defender Land Mine QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 163
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7901,
+    "3": 3895,
+    "48": 130,
+    "5": 1071,
+    "7": 877
+  },
+  "description": "QB spawned by Maelstrom Dragon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8340,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Dragon Smashing Golem QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5620,
+    "2": 11321,
+    "3": 5413,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Monitors Model",
+  "gate_version": null,
+  "id": 11569,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Monitors",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

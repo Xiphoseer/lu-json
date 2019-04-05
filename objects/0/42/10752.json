@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5212,
+    "2": 10599,
+    "3": 4875,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Big Bonsai Model",
+  "gate_version": null,
+  "id": 10752,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Big Bonsai",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2746,
+    "3": 1568
+  },
+  "description": "Stage object w/ script attached",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4628,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Stage Script Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

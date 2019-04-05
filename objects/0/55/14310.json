@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7053,
+    "2": 13999,
+    "28": 350,
+    "3": 7143,
+    "42": 0
+  },
+  "description": "Designed by Gotheria!",
+  "displayName": "Musclenaut GT Rocket Nose Cone",
+  "gate_version": "ftcommunityitems",
+  "id": 14310,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Muscle Car Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

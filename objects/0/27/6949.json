@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6520,
+    "3": 3102
+  },
+  "description": "Wrench icon that appears over modular builds",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6949,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build Overhead Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

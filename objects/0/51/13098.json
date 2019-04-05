@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12874,
+    "40": 6371,
+    "5": 1436,
+    "7": 289
+  },
+  "description": "Pet dig that digs up a skeleton pet",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13098,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CF - Pet Dig Node Skeleton pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

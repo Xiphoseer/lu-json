@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 222,
+    "2": 6668,
+    "3": 1777,
+    "35": 275,
+    "5": 1151,
+    "7": 305,
+    "73": 44
+  },
+  "description": "__MG__AG PROPERTY_BATTLE_02",
+  "displayName": "DNL - Dirk Manleigh - Sentinel Faction Rep",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7094,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Sentinel Rep",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

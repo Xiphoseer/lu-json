@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13926,
+    "3": 7061,
+    "43": 6,
+    "67": 11,
+    "78": 16
+  },
+  "description": "Launch pad to Avant Gardens from the AG Medium Property",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14225,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG PROP Medium - AG",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

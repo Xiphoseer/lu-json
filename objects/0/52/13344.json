@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6619,
+    "2": 13072,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Jiu Jitsu Master Hair Vendor",
+  "gate_version": "nexustower",
+  "id": 13344,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Jiu Jitsu Master Hair Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

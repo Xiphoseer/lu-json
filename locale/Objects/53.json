@@ -1,0 +1,558 @@
+{
+  "13568": {
+    "description": "Rebuildable enemy for the earth dungeon",
+    "name": "Skeleton Engineer"
+  },
+  "13569": {
+    "name": "Mr. Ree - Shady Vendor"
+  },
+  "13574": {
+    "description": "Double-click to use!",
+    "name": "Sentinel Super Soda 2"
+  },
+  "13575": {
+    "description": "Double-click to use!",
+    "name": "Assembly Awesome-Ade 2"
+  },
+  "13576": {
+    "description": "Double-click to use!",
+    "name": "Paradox Power Potion 2"
+  },
+  "13577": {
+    "description": "Double-click to use!",
+    "name": "Venture Vitality Vial 2"
+  },
+  "13578": {
+    "description": "Return this to Achilles Plutarch in Nexus Tower.",
+    "name": "Achilles' Shield"
+  },
+  "13579": {
+    "name": "Oil Can"
+  },
+  "13580": {
+    "name": "Foreman Radio"
+  },
+  "13581": {
+    "name": "Skeleton Key"
+  },
+  "13582": {
+    "description": "Two-Handed Weapon",
+    "name": "Mole Whacker"
+  },
+  "13583": {
+    "name": "Gem Hammer"
+  },
+  "13584": {
+    "name": "Overcharged Blaster"
+  },
+  "13585": {
+    "name": "Gat Gun Sprayer"
+  },
+  "13586": {
+    "name": "Launcher"
+  },
+  "13587": {
+    "name": "Bottled Water"
+  },
+  "13588": {
+    "description": "Rebuildable enemy for the earth dungeon",
+    "name": "Skeleton Pit Boss"
+  },
+  "13590": {
+    "description": "Modular Build Rocket Nose Cone",
+    "name": "Nexus Dropship Rocket Nose Cone"
+  },
+  "13591": {
+    "description": "Modular Build Rocket Cockpit",
+    "name": "Nexus Dropship Rocket Cockpit"
+  },
+  "13592": {
+    "description": "Modular Build Rocket Engine",
+    "name": "Nexus Dropship Rocket Engine"
+  },
+  "13593": {
+    "description": "Modular Build Rocket Nose Cone",
+    "name": "Nexus Tower Rocket Nose Cone"
+  },
+  "13594": {
+    "description": "Modular Build Rocket Cockpit",
+    "name": "Nexus Tower Rocket Cockpit"
+  },
+  "13595": {
+    "description": "Modular Build Rocket Engine",
+    "name": "Nexus Tower Rocket Engine"
+  },
+  "13596": {
+    "description": "Modular Build Rocket Nose Cone",
+    "name": "Venture Koi Rocket Nose Cone"
+  },
+  "13597": {
+    "description": "Modular Build Rocket Cockpit",
+    "name": "Venture Koi Rocket Cockpit"
+  },
+  "13598": {
+    "description": "Modular Build Rocket Engine",
+    "name": "Venture Koi Rocket Engine"
+  },
+  "13604": {
+    "description": "Double-click to use!",
+    "name": "Surprise Model Pack"
+  },
+  "13617": {
+    "name": "Shard Armor"
+  },
+  "13623": {
+    "description": "Double-click to use!",
+    "name": "Micro City Model Pack 1"
+  },
+  "13624": {
+    "description": "Double-click to use!",
+    "name": "Micro City Model Pack 2"
+  },
+  "13625": {
+    "description": "Double-click to use!",
+    "name": "Micro City Model Pack 3"
+  },
+  "13639": {
+    "description": "A model for your property!",
+    "name": "Zoo Wall Straight Pillar Model"
+  },
+  "13640": {
+    "description": "A model for your property!",
+    "name": "Zoo Wall Pillar Gate Support Model "
+  },
+  "13641": {
+    "description": "A model for your property!",
+    "name": "Zoo Wall Corner Pillar Model"
+  },
+  "13642": {
+    "description": "A model for your property!",
+    "name": "Zoo Wall Panel Model "
+  },
+  "13643": {
+    "description": "A model for your property!",
+    "name": "Zoo Wall Gate Model "
+  },
+  "13644": {
+    "description": "A model for your property!",
+    "name": "Zoo Sign Model 2"
+  },
+  "13645": {
+    "description": "A model for your property!",
+    "name": "Zoo Sign Model 1"
+  },
+  "13646": {
+    "description": "A model for your property!",
+    "name": "Zoo Ramped Path Model"
+  },
+  "13647": {
+    "description": "A model for your property!",
+    "name": "Zoo Raised Pathway with Railing Model"
+  },
+  "13648": {
+    "description": "A model for your property!",
+    "name": "Zoo Raised Pathway Model"
+  },
+  "13649": {
+    "description": "A model for your property!",
+    "name": "Zoo Pathway Corner Model 2"
+  },
+  "13650": {
+    "description": "A model for your property!",
+    "name": "Zoo Pathway Corner Model 1"
+  },
+  "13651": {
+    "description": "A model for your property!",
+    "name": "Zoo Angled Bridge Pathway Model 2"
+  },
+  "13652": {
+    "description": "A model for your property!",
+    "name": "Zoo Angled Bridge Pathway Model 1"
+  },
+  "13653": {
+    "description": "A model for your property!",
+    "name": "Zoo Long Pathway Model"
+  },
+  "13654": {
+    "description": "A model for your property!",
+    "name": "Zoo Short Pathway Model"
+  },
+  "13655": {
+    "description": "A model for your property!",
+    "name": "Zoo Hot Dog Cart Model"
+  },
+  "13656": {
+    "description": "A model for your property!",
+    "name": "Zoo Gift Stand Model"
+  },
+  "13657": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Wooden Fence Model"
+  },
+  "13658": {
+    "description": "A model for your property!",
+    "name": "Zoo Wooden Fence Gate Model"
+  },
+  "13659": {
+    "description": "A model for your property!",
+    "name": "Zoo Wooden Fence Corner with Gate Model"
+  },
+  "13660": {
+    "description": "A model for your property!",
+    "name": "Zoo Wooden Fence Corner Model"
+  },
+  "13661": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Sloped Fence Model"
+  },
+  "13662": {
+    "description": "A model for your property!",
+    "name": "Zoo Sloped Fence with Open Gate Model"
+  },
+  "13663": {
+    "description": "A model for your property!",
+    "name": "Zoo Sloped Fence with Closed Gate Model"
+  },
+  "13664": {
+    "description": "A model for your property!",
+    "name": "Zoo Sloped Outside Corner Fence Model"
+  },
+  "13665": {
+    "description": "A model for your property!",
+    "name": "Zoo Sloped Inside Fence Corner Model"
+  },
+  "13666": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Rock Fence Model 2"
+  },
+  "13667": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Rock Fence Model 1"
+  },
+  "13668": {
+    "description": "A model for your property!",
+    "name": "Zoo Rock Fence Pillar with Torches Model"
+  },
+  "13669": {
+    "description": "A model for your property!",
+    "name": "Zoo Rock Fence Corner Model"
+  },
+  "13670": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Petting Zoo Fence Model 2"
+  },
+  "13671": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Petting Zoo Fence Model 1"
+  },
+  "13672": {
+    "description": "A model for your property!",
+    "name": "Zoo Petting Zoo Fence with Open Gate Model"
+  },
+  "13673": {
+    "description": "A model for your property!",
+    "name": "Zoo Petting Zoo Fence with Closed Gate Model"
+  },
+  "13674": {
+    "description": "A model for your property!",
+    "name": "Zoo Petting Zoo Fence Corner Model"
+  },
+  "13675": {
+    "description": "A model for your property!",
+    "name": "Zoo Electrified Straight Fence Model"
+  },
+  "13676": {
+    "description": "A model for your property!",
+    "name": "Zoo Electrified Gatehouse Model"
+  },
+  "13677": {
+    "description": "A model for your property!",
+    "name": "Zoo Electrified Gate Model"
+  },
+  "13678": {
+    "description": "A model for your property!",
+    "name": "Zoo Electrified Outside Fence Corner Model"
+  },
+  "13679": {
+    "description": "A model for your property!",
+    "name": "Zoo Electrified Inside Fence Corner Model"
+  },
+  "13680": {
+    "description": "A model for your property!",
+    "name": "Zoo Barred Straight Fence Model"
+  },
+  "13681": {
+    "description": "A model for your property!",
+    "name": "Zoo Barred Fence with Open Gate Model"
+  },
+  "13682": {
+    "description": "A model for your property!",
+    "name": "Zoo Barred Fence with Closed Gate Model"
+  },
+  "13683": {
+    "description": "A model for your property!",
+    "name": "Zoo Barred Outside Fence Corner Model"
+  },
+  "13684": {
+    "description": "A model for your property!",
+    "name": "Zoo Barred Inside Fence Corner Model"
+  },
+  "13685": {
+    "description": "A model for your property!",
+    "name": "Zoo Critter House Middle Model 2"
+  },
+  "13686": {
+    "description": "A model for your property!",
+    "name": "Zoo Critter House Middle Model 1"
+  },
+  "13687": {
+    "description": "A model for your property!",
+    "name": "Zoo Critter House End Model 2"
+  },
+  "13688": {
+    "description": "A model for your property!",
+    "name": "Zoo Critter House End Model 1"
+  },
+  "13689": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Courtyard Edge Model Long"
+  },
+  "13690": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Courtyard Edge Model Short"
+  },
+  "13691": {
+    "description": "A model for your property!",
+    "name": "Zoo Courtyard Edge Corner Model "
+  },
+  "13692": {
+    "description": "A model for your property!",
+    "name": "Zoo Courtyard Model Long"
+  },
+  "13693": {
+    "description": "A model for your property!",
+    "name": "Zoo Courtyard Model Short"
+  },
+  "13694": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Building Wall Model"
+  },
+  "13695": {
+    "description": "A model for your property!",
+    "name": "Zoo Building Wall with Open Doors Model"
+  },
+  "13696": {
+    "description": "A model for your property!",
+    "name": "Zoo Building Wall with Closed Doors Model"
+  },
+  "13697": {
+    "description": "A model for your property!",
+    "name": "Zoo Building Wall Corner Model "
+  },
+  "13698": {
+    "description": "A model for your property!",
+    "name": "Zoo Building Roof with Tower Model"
+  },
+  "13699": {
+    "description": "A model for your property!",
+    "name": "Zoo Building Roof Model "
+  },
+  "13700": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Aviary Wall Model"
+  },
+  "13701": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Wall End Cap Model "
+  },
+  "13702": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Wall Corner Model "
+  },
+  "13703": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Aviary Floor Model 4"
+  },
+  "13704": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Aviary Floor Model 3"
+  },
+  "13705": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Aviary Floor Model 2"
+  },
+  "13706": {
+    "description": "A model for your property!",
+    "name": "Zoo Straight Aviary Floor Model 1"
+  },
+  "13707": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Floor Corner Model 4"
+  },
+  "13708": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Floor Corner Model 3"
+  },
+  "13709": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Floor Corner Model 2"
+  },
+  "13710": {
+    "description": "A model for your property!",
+    "name": "Zoo Aviary Floor Corner Model 1"
+  },
+  "13711": {
+    "description": "A model for your property!",
+    "name": "Vintage Sentry Hut Model "
+  },
+  "13712": {
+    "description": "A model for your property!",
+    "name": "Vintage Guard House Model "
+  },
+  "13713": {
+    "description": "A model for your property!",
+    "name": "Vintage Fortress Model "
+  },
+  "13714": {
+    "description": "A model for your property!",
+    "name": "Vintage Ballista Model "
+  },
+  "13715": {
+    "description": "A model for your property!",
+    "name": "Toaster Model 2"
+  },
+  "13716": {
+    "description": "A model for your property!",
+    "name": "Toaster Model 1"
+  },
+  "13717": {
+    "description": "A model for your property!",
+    "name": "Safari Waterhole Model "
+  },
+  "13718": {
+    "description": "A model for your property!",
+    "name": "Safari Umbrella Model "
+  },
+  "13719": {
+    "description": "A model for your property!",
+    "name": "Safari Termite Mound Model "
+  },
+  "13720": {
+    "description": "A model for your property!",
+    "name": "Safari Tent Model 2"
+  },
+  "13721": {
+    "description": "A model for your property!",
+    "name": "Safari Tent Model 1"
+  },
+  "13722": {
+    "description": "A model for your property!",
+    "name": "Safari Rover Model "
+  },
+  "13723": {
+    "description": "A model for your property!",
+    "name": "Safari Plane Model "
+  },
+  "13724": {
+    "description": "A model for your property!",
+    "name": "Safari Lion Rock Model"
+  },
+  "13725": {
+    "description": "A model for your property!",
+    "name": "Safari Gate Model "
+  },
+  "13726": {
+    "description": "A model for your property!",
+    "name": "Safari Cooking Place Model "
+  },
+  "13727": {
+    "description": "A model for your property!",
+    "name": "Safari Bench Model "
+  },
+  "13728": {
+    "description": "A model for your property!",
+    "name": "Safari Baobab Tree Model"
+  },
+  "13737": {
+    "description": "Double-click to open!",
+    "name": "Pirate's Picnic Basket"
+  },
+  "13741": {
+    "description": "[TEMP]Dress up like a dragon",
+    "name": "Dragon Disguise"
+  },
+  "13773": {
+    "description": "Allows interactions with brick donation UI",
+    "name": "Nexus Jawbox"
+  },
+  "13777": {
+    "description": "Interact with the blue X-marks on Crux Prime to call down Imagination Blasts.",
+    "name": "Duke Exeter's Sword"
+  },
+  "13783": {
+    "description": "GF ambient",
+    "name": "Yawny Goodknight - Sentinel Guard"
+  },
+  "13786": {
+    "description": "Double-click to use!",
+    "name": "Ben's Butter Spreaders"
+  },
+  "13789": {
+    "description": "__MG__Monastery Mission Giver",
+    "name": "Sensei Wu - Spinjitzu Master"
+  },
+  "13790": {
+    "description": "__MG__Cole Earth Ninja",
+    "name": "Cole - Ninja of Earth"
+  },
+  "13791": {
+    "description": "__MG__Zane Ice Ninja",
+    "name": "Zane - Ninja of Ice"
+  },
+  "13792": {
+    "description": "__MG__Jay Lightning Ninja",
+    "name": "Jay - Ninja of Lightning"
+  },
+  "13793": {
+    "description": "__MG__Kai Fire Ninja",
+    "name": "Kai - Ninja of Fire"
+  },
+  "13794": {
+    "description": "__MG__Ninjago Guard 1",
+    "name": "Toshiro Gojira - Ninjago Monastery Guard"
+  },
+  "13795": {
+    "description": "__MG__Cringe Lo in Lighting attic",
+    "name": "Cringe Lo - Good-for-Nothing"
+  },
+  "13796": {
+    "description": "__MG__Wan Wan",
+    "name": "Furious Urufu - Dog Boy"
+  },
+  "13797": {
+    "description": "__MG__Old Man",
+    "name": "Bozu Roku - Ninjago Villager"
+  },
+  "13798": {
+    "description": "__MG__Ninjago Guard 2",
+    "name": "Hari Howzen - Ninjago Monastery Guard"
+  },
+  "13799": {
+    "description": "NT Mon Nya Vendor",
+    "name": "Nya - Ninjago Gear Vendor"
+  },
+  "13800": {
+    "description": "NJ Johnny Umami Consumables Vendor",
+    "name": "Johnny Umami - Ninjago Supplies Vendor"
+  },
+  "13801": {
+    "description": "NJ Bubu Mumu Models Vendor",
+    "name": "Bubu Mumu - Ninjago Models Vendor"
+  },
+  "13806": {
+    "name": "Honor Accolade - Commendation Vendor"
+  },
+  "13814": {
+    "name": "Golden Telescope"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "IP Recovery",
+  "components": {
+    "11": 3861,
+    "2": 8162,
+    "5": 1336,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Red Soccer Shirt",
+  "gate_version": null,
+  "id": 8605,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Soccer Uniform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 659
+    }
+  ],
+  "type": "Loot"
+}

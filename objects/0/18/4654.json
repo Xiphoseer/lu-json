@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4073,
+    "47": 2010
+  },
+  "description": "CafeCorner model with an overall convex hull",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4654,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - CafeCorner Convex Hull",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

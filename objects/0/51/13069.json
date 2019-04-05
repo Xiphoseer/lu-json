@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12014,
+    "3": 5991,
+    "7": 1811
+  },
+  "description": "Sentinel Crate for Nexus Tower",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13069,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Crate Sentinel Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

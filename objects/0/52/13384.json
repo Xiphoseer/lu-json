@@ -1,0 +1,34 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 108,
+    "17": 494,
+    "2": 13112,
+    "3": 1777,
+    "35": 581,
+    "7": 306
+  },
+  "description": "Venture Faction Kit Vendor",
+  "displayName": "Billy Ganges - Venture League Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 13384,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Venture Faction Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

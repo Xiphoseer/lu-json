@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3407,
+    "2": 3397,
+    "5": 374
+  },
+  "description": null,
+  "displayName": "Skunk",
+  "gate_version": null,
+  "id": 3279,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "ZP - Skunk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 772
+    }
+  ],
+  "type": "Enemies"
+}

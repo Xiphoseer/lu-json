@@ -1,0 +1,807 @@
+[
+  {
+    "comp_val": 1,
+    "id": 5710,
+    "name": "Test Package"
+  },
+  {
+    "comp_val": 4,
+    "id": 5834,
+    "name": "Brick Booster Pack"
+  },
+  {
+    "comp_val": 5,
+    "id": 5835,
+    "name": "Super Brick Booster Pack"
+  },
+  {
+    "comp_val": 2,
+    "id": 5836,
+    "name": "Picnic Basket"
+  },
+  {
+    "comp_val": 3,
+    "id": 5837,
+    "name": "Super Picnic Basket"
+  },
+  {
+    "comp_val": 6,
+    "id": 7586,
+    "name": "Rank 1 Buccaneer Kit Package"
+  },
+  {
+    "comp_val": 7,
+    "id": 7589,
+    "name": "Rank 1 Sorcerer Kit Package"
+  },
+  {
+    "comp_val": 8,
+    "id": 7590,
+    "name": "Rank 1 Knight Kit Package"
+  },
+  {
+    "comp_val": 9,
+    "id": 7591,
+    "name": "Rank 1 Engineer Kit Package"
+  },
+  {
+    "comp_val": 11,
+    "id": 8027,
+    "name": "Rank 1 Space Ranger Kit Package"
+  },
+  {
+    "comp_val": 12,
+    "id": 8028,
+    "name": "Rank 1 Samurai Kit Package"
+  },
+  {
+    "comp_val": 13,
+    "id": 8029,
+    "name": "Rank 1 Space Marauder Kit Package"
+  },
+  {
+    "comp_val": 14,
+    "id": 8030,
+    "name": "Rank 1 Shinobi Kit Package"
+  },
+  {
+    "comp_val": 15,
+    "id": 8031,
+    "name": "Rank 1 Inventor Kit Package"
+  },
+  {
+    "comp_val": 17,
+    "id": 8032,
+    "name": "Rank 1 Daredevil Kit Package"
+  },
+  {
+    "comp_val": 18,
+    "id": 8033,
+    "name": "Rank 1 Summoner Kit Package"
+  },
+  {
+    "comp_val": 16,
+    "id": 8034,
+    "name": "Rank 1 Adventurer Kit Package"
+  },
+  {
+    "comp_val": 19,
+    "id": 9466,
+    "name": "Tyro Car 1 Package Red"
+  },
+  {
+    "comp_val": 20,
+    "id": 9467,
+    "name": "Tyro Car 1 Package Yellow"
+  },
+  {
+    "comp_val": 21,
+    "id": 9468,
+    "name": "Tyro Car 1 Package Blue"
+  },
+  {
+    "comp_val": 22,
+    "id": 9469,
+    "name": "Outburst Car 1 Package Yellow"
+  },
+  {
+    "comp_val": 23,
+    "id": 9470,
+    "name": "Gallant Car 2 Package Black"
+  },
+  {
+    "comp_val": 24,
+    "id": 9471,
+    "name": "Paragon Car 3 Package Green"
+  },
+  {
+    "comp_val": 25,
+    "id": 9472,
+    "name": "Outburst Car 3 Package Black"
+  },
+  {
+    "comp_val": 63,
+    "id": 9603,
+    "name": "Shipwreck Hideout Pack"
+  },
+  {
+    "comp_val": 26,
+    "id": 9721,
+    "name": "Castle Model Pack 1"
+  },
+  {
+    "comp_val": 27,
+    "id": 9722,
+    "name": "Castle Model Pack 2"
+  },
+  {
+    "comp_val": 28,
+    "id": 9723,
+    "name": "Castle Model Pack 3"
+  },
+  {
+    "comp_val": 29,
+    "id": 9724,
+    "name": "Castle Model Pack 4"
+  },
+  {
+    "comp_val": 30,
+    "id": 9725,
+    "name": "Castle Model Pack 5"
+  },
+  {
+    "comp_val": 31,
+    "id": 9726,
+    "name": "Castle Model Pack 6"
+  },
+  {
+    "comp_val": 32,
+    "id": 9773,
+    "name": "Medieval Model Pack 1"
+  },
+  {
+    "comp_val": 33,
+    "id": 9774,
+    "name": "Medieval Village Pack 2"
+  },
+  {
+    "comp_val": 34,
+    "id": 9775,
+    "name": "Basic Tree Model Pack"
+  },
+  {
+    "comp_val": 35,
+    "id": 9776,
+    "name": "Space Model Pack"
+  },
+  {
+    "comp_val": 36,
+    "id": 9953,
+    "name": "Hyperstarter Red Pack for Beta"
+  },
+  {
+    "comp_val": 37,
+    "id": 9954,
+    "name": "Hyperstarter Yellow Pack for Beta"
+  },
+  {
+    "comp_val": 38,
+    "id": 9955,
+    "name": "Hyperstarter Blue Pack for Beta"
+  },
+  {
+    "comp_val": 39,
+    "id": 10012,
+    "name": "Faction Token Bag - 2 tokens"
+  },
+  {
+    "comp_val": 40,
+    "id": 10095,
+    "name": "Faction Token Bag - 5 tokens"
+  },
+  {
+    "comp_val": 41,
+    "id": 10096,
+    "name": "Faction Token Bag - 10 tokens"
+  },
+  {
+    "comp_val": 42,
+    "id": 10165,
+    "name": "Mega Brick Booster Pack"
+  },
+  {
+    "comp_val": 43,
+    "id": 10312,
+    "name": "Pre-Order Astronaut Pack"
+  },
+  {
+    "comp_val": 44,
+    "id": 10316,
+    "name": "DVD Order Model Pack"
+  },
+  {
+    "comp_val": 46,
+    "id": 10396,
+    "name": "House Model Pack 1"
+  },
+  {
+    "comp_val": 47,
+    "id": 10397,
+    "name": "House Model Pack 2"
+  },
+  {
+    "comp_val": 48,
+    "id": 10398,
+    "name": "House Model Pack 3"
+  },
+  {
+    "comp_val": 49,
+    "id": 10399,
+    "name": "House Model Pack 4"
+  },
+  {
+    "comp_val": 50,
+    "id": 10400,
+    "name": "House Model Pack 5"
+  },
+  {
+    "comp_val": 51,
+    "id": 10401,
+    "name": "House Model Pack 6"
+  },
+  {
+    "comp_val": 52,
+    "id": 10417,
+    "name": "Fancy Tree Model Pack"
+  },
+  {
+    "comp_val": 53,
+    "id": 10458,
+    "name": "Build Event Rocket Pack"
+  },
+  {
+    "comp_val": 54,
+    "id": 10513,
+    "name": "Pirate Fort Model Pack 1"
+  },
+  {
+    "comp_val": 55,
+    "id": 10514,
+    "name": "Pirate Fort Model Pack 2"
+  },
+  {
+    "comp_val": 56,
+    "id": 10515,
+    "name": "Pirate Fort Model Pack 3"
+  },
+  {
+    "comp_val": 57,
+    "id": 10516,
+    "name": "Pirate Fort Model Pack 4"
+  },
+  {
+    "comp_val": 58,
+    "id": 10700,
+    "name": "Brickmaster Model Pack"
+  },
+  {
+    "comp_val": 59,
+    "id": 11160,
+    "name": "Ninja Fortress Model Pack 1"
+  },
+  {
+    "comp_val": 60,
+    "id": 11161,
+    "name": "Ninja Fortress Model Pack 2"
+  },
+  {
+    "comp_val": 61,
+    "id": 11162,
+    "name": "Ninja Garden Model Pack 1"
+  },
+  {
+    "comp_val": 62,
+    "id": 11181,
+    "name": "Beta Testing Gear Pack"
+  },
+  {
+    "comp_val": 64,
+    "id": 11256,
+    "name": "Daily Token Pack"
+  },
+  {
+    "comp_val": 65,
+    "id": 11309,
+    "name": "BestBuy Reward Pack"
+  },
+  {
+    "comp_val": 66,
+    "id": 11310,
+    "name": "Sears Reward Pack"
+  },
+  {
+    "comp_val": 67,
+    "id": 11311,
+    "name": "Best Buy Reward Pack"
+  },
+  {
+    "comp_val": 68,
+    "id": 11312,
+    "name": "Amazon Reward Pack"
+  },
+  {
+    "comp_val": 69,
+    "id": 11313,
+    "name": "GameStop Reward Pack"
+  },
+  {
+    "comp_val": 70,
+    "id": 11314,
+    "name": "Target Reward Pack"
+  },
+  {
+    "comp_val": 71,
+    "id": 11315,
+    "name": "Founder's Reward Pack"
+  },
+  {
+    "comp_val": 73,
+    "id": 11316,
+    "name": "12 Month Subscriber Reward Pack"
+  },
+  {
+    "comp_val": 73,
+    "id": 11317,
+    "name": "LEGO Universe Experience Reward Pack"
+  },
+  {
+    "comp_val": 106,
+    "id": 12114,
+    "name": "S.N.A.C.K."
+  },
+  {
+    "comp_val": 107,
+    "id": 12115,
+    "name": "Nexus Force Supply Crate"
+  },
+  {
+    "comp_val": 74,
+    "id": 12220,
+    "name": "Pod Captain 1 Pack"
+  },
+  {
+    "comp_val": 75,
+    "id": 12221,
+    "name": "Pod Captain 2 Pack"
+  },
+  {
+    "comp_val": 76,
+    "id": 12222,
+    "name": "Pod Captain 3 Pack"
+  },
+  {
+    "comp_val": 77,
+    "id": 12223,
+    "name": "Pod Captain 4 Pack"
+  },
+  {
+    "comp_val": 78,
+    "id": 12224,
+    "name": "Pod Captain 5 Pack"
+  },
+  {
+    "comp_val": 79,
+    "id": 12225,
+    "name": "Pod Captain 6 Pack"
+  },
+  {
+    "comp_val": 80,
+    "id": 12226,
+    "name": "Pod Captain 7 Pack"
+  },
+  {
+    "comp_val": 81,
+    "id": 12231,
+    "name": "Winter Model Surprise Giftbox"
+  },
+  {
+    "comp_val": 82,
+    "id": 12282,
+    "name": "Winter Model Giftbox"
+  },
+  {
+    "comp_val": 83,
+    "id": 12338,
+    "name": "Winter Candycane Giftbox 5"
+  },
+  {
+    "comp_val": 84,
+    "id": 12339,
+    "name": "Winter Candycane Giftbox 10"
+  },
+  {
+    "comp_val": 85,
+    "id": 12424,
+    "name": "Faction Token Bag - 15 tokens"
+  },
+  {
+    "comp_val": 86,
+    "id": 12425,
+    "name": "Faction Token Bag - 20 tokens"
+  },
+  {
+    "comp_val": 89,
+    "id": 12462,
+    "name": "FV Mach Lava Car Pack"
+  },
+  {
+    "comp_val": 90,
+    "id": 12521,
+    "name": "Farm Model Pack 1"
+  },
+  {
+    "comp_val": 91,
+    "id": 12522,
+    "name": "Farm Model Pack 2"
+  },
+  {
+    "comp_val": 92,
+    "id": 12523,
+    "name": "Farm Model Pack 3"
+  },
+  {
+    "comp_val": 93,
+    "id": 12524,
+    "name": "Behavior Model Pack 1"
+  },
+  {
+    "comp_val": 94,
+    "id": 12525,
+    "name": "Behavior Model Pack 2"
+  },
+  {
+    "comp_val": 95,
+    "id": 12526,
+    "name": "Behavior Model Pack 3"
+  },
+  {
+    "comp_val": 96,
+    "id": 12527,
+    "name": "Doom Star Model Pack 1"
+  },
+  {
+    "comp_val": 97,
+    "id": 12528,
+    "name": "Doom Star Model Pack 2"
+  },
+  {
+    "comp_val": 98,
+    "id": 12529,
+    "name": "Doom Star Model Pack 3"
+  },
+  {
+    "comp_val": 99,
+    "id": 12557,
+    "name": "Skeleton Fort Model Pack 1"
+  },
+  {
+    "comp_val": 100,
+    "id": 12558,
+    "name": "Skeleton Fort Model Pack 2"
+  },
+  {
+    "comp_val": 101,
+    "id": 12559,
+    "name": "Skeleton Fort Model Pack 3"
+  },
+  {
+    "comp_val": 102,
+    "id": 12560,
+    "name": "Skeleton Fort Model Pack 4"
+  },
+  {
+    "comp_val": 103,
+    "id": 12889,
+    "name": "Skeleton Rocket Nosecone Package"
+  },
+  {
+    "comp_val": 104,
+    "id": 12890,
+    "name": "Skeleton Rocket Cockpit Package"
+  },
+  {
+    "comp_val": 105,
+    "id": 12891,
+    "name": "Skeleton Rocket Engine Package"
+  },
+  {
+    "comp_val": 108,
+    "id": 13073,
+    "name": "Bone Car Part Pack"
+  },
+  {
+    "comp_val": 109,
+    "id": 13097,
+    "name": "CP Loot Surprise Pack"
+  },
+  {
+    "comp_val": 110,
+    "id": 13099,
+    "name": "AG_NS Loot Surprise Pack"
+  },
+  {
+    "comp_val": 111,
+    "id": 13102,
+    "name": "GF Loot Surprise Pack"
+  },
+  {
+    "comp_val": 112,
+    "id": 13103,
+    "name": "FV Loot Surprise Pack"
+  },
+  {
+    "comp_val": 113,
+    "id": 13109,
+    "name": "CP Gem Surprise Pack"
+  },
+  {
+    "comp_val": 114,
+    "id": 13110,
+    "name": "AG_NS Gem Surprise Pack"
+  },
+  {
+    "comp_val": 115,
+    "id": 13112,
+    "name": "GF Gem Surprise Pack"
+  },
+  {
+    "comp_val": 116,
+    "id": 13113,
+    "name": "FV Gem Surprise Pack"
+  },
+  {
+    "comp_val": 117,
+    "id": 13117,
+    "name": "CP Model Surprise Pack"
+  },
+  {
+    "comp_val": 118,
+    "id": 13134,
+    "name": "Large Green Imaginite Bag - Assembly"
+  },
+  {
+    "comp_val": 118,
+    "id": 13135,
+    "name": "Large Green Imaginite Bag - Venture"
+  },
+  {
+    "comp_val": 118,
+    "id": 13136,
+    "name": "Large Green Imaginite Bag - Sentinel"
+  },
+  {
+    "comp_val": 118,
+    "id": 13137,
+    "name": "Large Green Imaginite Bag - Paradox"
+  },
+  {
+    "comp_val": 119,
+    "id": 13138,
+    "name": "Medium Red Imaginite Bag - Paradox"
+  },
+  {
+    "comp_val": 119,
+    "id": 13139,
+    "name": "Medium Red Imaginite Bag - Assembly"
+  },
+  {
+    "comp_val": 119,
+    "id": 13140,
+    "name": "Medium Red Imaginite Bag - Venture"
+  },
+  {
+    "comp_val": 119,
+    "id": 13141,
+    "name": "Medium Red Imaginite Bag - Sentinel"
+  },
+  {
+    "comp_val": 120,
+    "id": 13143,
+    "name": "Small Blue Imaginite Bag - Sentinel"
+  },
+  {
+    "comp_val": 120,
+    "id": 13144,
+    "name": "Small Blue Imaginite Bag - Assembly"
+  },
+  {
+    "comp_val": 120,
+    "id": 13145,
+    "name": "Small Blue Imaginite Bag - Venture"
+  },
+  {
+    "comp_val": 120,
+    "id": 13146,
+    "name": "Small Blue Imaginite Bag - Paradox"
+  },
+  {
+    "comp_val": 121,
+    "id": 13529,
+    "name": "Nexus Tower Gift Bag"
+  },
+  {
+    "comp_val": 122,
+    "id": 13604,
+    "name": "AG-NS Model Surprise Pack"
+  },
+  {
+    "comp_val": 123,
+    "id": 13623,
+    "name": "Micro City Model Pack 1"
+  },
+  {
+    "comp_val": 124,
+    "id": 13624,
+    "name": "Micro City Model Pack 2"
+  },
+  {
+    "comp_val": 125,
+    "id": 13625,
+    "name": "Micro City Model Pack 3"
+  },
+  {
+    "comp_val": 126,
+    "id": 13737,
+    "name": "Pirate Picnic Basket"
+  },
+  {
+    "comp_val": 127,
+    "id": 14125,
+    "name": "Faction Token Bag - 50 tokens"
+  },
+  {
+    "comp_val": 128,
+    "id": 14126,
+    "name": "Faction Token Bag - 100 tokens"
+  },
+  {
+    "comp_val": 129,
+    "id": 14127,
+    "name": "Faction Token Bag - 200 tokens"
+  },
+  {
+    "comp_val": 130,
+    "id": 14147,
+    "name": "12 Month Membership Reward"
+  },
+  {
+    "comp_val": 131,
+    "id": 14148,
+    "name": "6 Month Membership Reward"
+  },
+  {
+    "comp_val": 135,
+    "id": 14195,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 136,
+    "id": 14196,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 137,
+    "id": 14197,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 138,
+    "id": 14198,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 133,
+    "id": 14679,
+    "name": "Med Pack"
+  },
+  {
+    "comp_val": 134,
+    "id": 14680,
+    "name": "Armor Repair Kit"
+  },
+  {
+    "comp_val": 139,
+    "id": 14767,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 140,
+    "id": 14768,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 141,
+    "id": 14769,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 142,
+    "id": 14770,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 143,
+    "id": 14771,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 144,
+    "id": 14772,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 145,
+    "id": 14773,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 146,
+    "id": 14774,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 147,
+    "id": 14775,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 148,
+    "id": 14776,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 149,
+    "id": 14777,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 150,
+    "id": 14778,
+    "name": "Game Card Reward Pack"
+  },
+  {
+    "comp_val": 151,
+    "id": 15976,
+    "name": "Duck Car Reward Pack"
+  },
+  {
+    "comp_val": 152,
+    "id": 15977,
+    "name": "Shark Rocket Reward Pack"
+  },
+  {
+    "comp_val": 153,
+    "id": 15978,
+    "name": "Pencil Rocket Reward Pack"
+  },
+  {
+    "comp_val": 154,
+    "id": 15979,
+    "name": "Duck Rocket Reward Pack"
+  },
+  {
+    "comp_val": 155,
+    "id": 15980,
+    "name": "Dune Buggy Reward Pack"
+  },
+  {
+    "comp_val": 156,
+    "id": 15982,
+    "name": "Subscription Reward Pack"
+  },
+  {
+    "comp_val": 157,
+    "id": 15983,
+    "name": "Subscription Reward Pack"
+  }
+]

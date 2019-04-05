@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6081,
+    "2": 12141
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "ventureinstance",
+  "id": 12389,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentry Translator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

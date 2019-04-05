@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth  element low-blade spinner trap",
+  "components": {
+    "2": 14924,
+    "25": 9,
+    "3": 7636,
+    "39": 115,
+    "5": 1645,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Earth - Low-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16203,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Low-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

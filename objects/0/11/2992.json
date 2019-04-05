@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7089,
+    "2": 2498,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Brown Dog Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 2992,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brown Dog Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

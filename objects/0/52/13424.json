@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Gm Only 10 damage 100 charge damage",
+  "components": {
+    "11": 6640,
+    "2": 13153,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "GM Smack Downer",
+  "gate_version": "auramar",
+  "id": 13424,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GM Only 10 Damage Weapon 100 Damage charge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1218
+    }
+  ],
+  "type": "Loot"
+}

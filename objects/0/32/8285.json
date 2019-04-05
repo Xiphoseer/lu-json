@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Rusty Steele Helmet",
+  "components": {
+    "11": 3643,
+    "2": 7845
+  },
+  "description": "NPC Rusty Steele Helmet",
+  "displayName": "NPC Rusty Steele Helmet",
+  "gate_version": null,
+  "id": 8285,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Rusty Steele Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

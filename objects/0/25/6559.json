@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2828,
+    "17": 199,
+    "2": 6118,
+    "35": 245,
+    "5": 900,
+    "7": 307
+  },
+  "description": "Pantomime Bunny Back",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6559,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bunny Back",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5223,
+    "2": 10610,
+    "3": 4886,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Big Lizard Shrine Model",
+  "gate_version": null,
+  "id": 10763,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Big Lizard Shrine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

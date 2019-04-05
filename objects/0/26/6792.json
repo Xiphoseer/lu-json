@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 2831,
+    "2": 6326,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blue Shoulder Parrot",
+  "gate_version": null,
+  "id": 6792,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shoulder Parrot Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

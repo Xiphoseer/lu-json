@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 3742,
+    "2": 8003,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Hatchet",
+  "gate_version": null,
+  "id": 8448,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Hatchet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 280
+    }
+  ],
+  "type": "Loot"
+}

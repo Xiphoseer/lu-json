@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6700,
+    "2": 13304,
+    "3": 6658,
+    "42": 0
+  },
+  "description": "A model with Behaviors for your property.",
+  "displayName": "Reward Thropper Enemy",
+  "gate_version": null,
+  "id": 13567,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Thropper Enemy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

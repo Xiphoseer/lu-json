@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test",
+  "components": {
+    "11": 5143,
+    "2": 10266,
+    "3": 4637,
+    "42": 0
+  },
+  "description": "Punk Cleaner",
+  "displayName": "Broombot",
+  "gate_version": null,
+  "id": 10423,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Broombot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

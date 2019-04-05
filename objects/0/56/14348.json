@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14039,
+    "3": 7171,
+    "67": 35,
+    "78": 40
+  },
+  "description": "Launch pad in LUP Portabello",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14348,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LUP - Portabello Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

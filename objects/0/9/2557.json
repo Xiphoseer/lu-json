@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2605,
+    "3": 962,
+    "7": 192
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 15,
+      "iconState": 65
+    }
+  ],
+  "id": 2557,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Hammer Smashable Square Brick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

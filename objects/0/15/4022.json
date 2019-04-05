@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3462,
+    "3": 1978,
+    "48": 39,
+    "5": 632
+  },
+  "description": "Avant Gardens collection build required to fix portal to Zorillo",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4022,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Zorillo Mosaic Collection Build",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

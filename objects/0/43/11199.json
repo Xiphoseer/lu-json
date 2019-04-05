@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5486,
+    "2": 10968,
+    "3": 5131,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Shipwreck Hideout Model 3",
+  "gate_version": null,
+  "id": 11199,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Shipwreck Hideout 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

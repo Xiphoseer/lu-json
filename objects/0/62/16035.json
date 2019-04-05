@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "removes debuff 60 (maelstrom poisoning caused by enemies)",
+  "components": {
+    "11": 7422,
+    "2": 14756,
+    "9": 0
+  },
+  "description": "Use this to Remove Maelstrom Poisoning",
+  "displayName": "Imaginite herbs",
+  "gate_version": "njhub",
+  "id": 16035,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imaginite herbs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1515
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "114": 0,
+    "12": 6,
+    "2": 9808,
+    "3": 4407,
+    "40": 4408,
+    "5": 981
+  },
+  "description": "Build Border for Nimbus Station Rocket Build",
+  "displayName": "Build Border Nimbus",
+  "gate_version": null,
+  "id": 9980,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build Border for Nimbus Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

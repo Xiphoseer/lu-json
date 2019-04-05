@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2591,
+    "3": 2810,
+    "5": 338
+  },
+  "description": "GF Cannon Only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3126,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cannonballs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

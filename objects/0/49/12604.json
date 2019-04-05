@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6196,
+    "2": 11733,
+    "31": 46,
+    "5": 1387,
+    "60": 110,
+    "7": 1758,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Mech Invader",
+  "gate_version": "nimbusinstance",
+  "id": 12604,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Mech Corrupted Sentry",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 214
+    },
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 215
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "2/2/3 piercing weapon with pull",
+  "components": {
+    "11": 3023,
+    "2": 6744,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7164,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Fishing Pole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 291
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 316
+    }
+  ],
+  "type": "Loot"
+}

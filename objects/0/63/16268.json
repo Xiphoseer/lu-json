@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit",
+  "components": {
+    "11": 7559,
+    "2": 15014,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Fire and rocket directly to the Ninjago Caves!",
+  "displayName": "Gi of Flames",
+  "gate_version": "njhub",
+  "id": 16268,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Gi Gi of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

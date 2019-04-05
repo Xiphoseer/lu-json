@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant - 4 IP",
+  "components": {
+    "11": 6919,
+    "2": 13636,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hat of Magecraft",
+  "gate_version": "communitymissions1.0",
+  "id": 13912,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hat of Magecraft",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

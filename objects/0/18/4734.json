@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "40": 1034
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4734,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trigger Wall (Humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

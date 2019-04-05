@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 4 IP",
+  "components": {
+    "11": 3298,
+    "2": 7346,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Jester Hat",
+  "gate_version": null,
+  "id": 7790,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Jester Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

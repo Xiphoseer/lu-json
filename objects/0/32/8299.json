@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5494,
+    "2": 7857,
+    "28": 264,
+    "3": 3867,
+    "42": 0
+  },
+  "description": "Moonbase Modular Build Rocket Nose Cone",
+  "displayName": "Moonbase Rocket Nose Cone",
+  "gate_version": null,
+  "id": 8299,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP A-Team Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

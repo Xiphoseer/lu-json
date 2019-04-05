@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4627,
+    "2": 9448,
+    "3": 4176,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Swamp Tree Model",
+  "gate_version": null,
+  "id": 9597,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Swamp Tree",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 950,
+    "2": 2201,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Chef Hat",
+  "gate_version": null,
+  "id": 2588,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Chef Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

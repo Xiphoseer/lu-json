@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6722,
+    "2": 13334,
+    "28": 348,
+    "3": 6673,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Venture Koi Rocket Cockpit",
+  "gate_version": "nexustower",
+  "id": 13597,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Koi Rocket Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

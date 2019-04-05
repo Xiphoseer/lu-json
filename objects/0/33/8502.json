@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Slashing",
+  "components": {
+    "11": 3801,
+    "2": 8057,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Scimitar",
+  "gate_version": null,
+  "id": 8502,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Scimitar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 524
+    }
+  ],
+  "type": "Loot"
+}

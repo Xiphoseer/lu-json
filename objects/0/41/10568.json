@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10422,
+    "3": 4710
+  },
+  "description": "Converted LUP object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10568,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Env_ElevatorDoor_withMachinery",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

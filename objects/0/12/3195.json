@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6908,
+    "11": 6880,
+    "2": 2532,
+    "26": 3,
+    "42": 0,
+    "7": 388,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 33,
+      "iconState": 109
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 3195,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Triceratops Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

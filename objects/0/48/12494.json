@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12259,
+    "23": 48,
+    "40": 6131,
+    "7": 1735
+  },
+  "description": "Collectible Spawner for Nexus Tower Imagination brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12494,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Imagination Brick Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

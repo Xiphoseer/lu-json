@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 996,
+    "2": 2463,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Throwing Star Shirt",
+  "gate_version": null,
+  "id": 2959,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Throwing Star Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

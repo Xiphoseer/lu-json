@@ -1,0 +1,3102 @@
+{
+  "_embedded": {
+    "ModuleComponent": [
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/1.json"
+          }
+        },
+        "id": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/2.json"
+          }
+        },
+        "id": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/3.json"
+          }
+        },
+        "id": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/4.json"
+          }
+        },
+        "id": 4
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/5.json"
+          }
+        },
+        "id": 5
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/6.json"
+          }
+        },
+        "id": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/7.json"
+          }
+        },
+        "id": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/8.json"
+          }
+        },
+        "id": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/9.json"
+          }
+        },
+        "id": 9
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/52.json"
+          }
+        },
+        "id": 52
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/53.json"
+          }
+        },
+        "id": 53
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/54.json"
+          }
+        },
+        "id": 54
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/55.json"
+          }
+        },
+        "id": 55
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/56.json"
+          }
+        },
+        "id": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/57.json"
+          }
+        },
+        "id": 57
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/58.json"
+          }
+        },
+        "id": 58
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/59.json"
+          }
+        },
+        "id": 59
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/60.json"
+          }
+        },
+        "id": 60
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/61.json"
+          }
+        },
+        "id": 61
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/62.json"
+          }
+        },
+        "id": 62
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/63.json"
+          }
+        },
+        "id": 63
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/64.json"
+          }
+        },
+        "id": 64
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/65.json"
+          }
+        },
+        "id": 65
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/66.json"
+          }
+        },
+        "id": 66
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/67.json"
+          }
+        },
+        "id": 67
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/68.json"
+          }
+        },
+        "id": 68
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/69.json"
+          }
+        },
+        "id": 69
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/70.json"
+          }
+        },
+        "id": 70
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/71.json"
+          }
+        },
+        "id": 71
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/72.json"
+          }
+        },
+        "id": 72
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/73.json"
+          }
+        },
+        "id": 73
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/74.json"
+          }
+        },
+        "id": 74
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/75.json"
+          }
+        },
+        "id": 75
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/76.json"
+          }
+        },
+        "id": 76
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/77.json"
+          }
+        },
+        "id": 77
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/78.json"
+          }
+        },
+        "id": 78
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/79.json"
+          }
+        },
+        "id": 79
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/80.json"
+          }
+        },
+        "id": 80
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/81.json"
+          }
+        },
+        "id": 81
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/82.json"
+          }
+        },
+        "id": 82
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/83.json"
+          }
+        },
+        "id": 83
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/84.json"
+          }
+        },
+        "id": 84
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/85.json"
+          }
+        },
+        "id": 85
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/86.json"
+          }
+        },
+        "id": 86
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/87.json"
+          }
+        },
+        "id": 87
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/88.json"
+          }
+        },
+        "id": 88
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/89.json"
+          }
+        },
+        "id": 89
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/90.json"
+          }
+        },
+        "id": 90
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/91.json"
+          }
+        },
+        "id": 91
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/92.json"
+          }
+        },
+        "id": 92
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/93.json"
+          }
+        },
+        "id": 93
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/94.json"
+          }
+        },
+        "id": 94
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/95.json"
+          }
+        },
+        "id": 95
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/96.json"
+          }
+        },
+        "id": 96
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/97.json"
+          }
+        },
+        "id": 97
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/98.json"
+          }
+        },
+        "id": 98
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/99.json"
+          }
+        },
+        "id": 99
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/100.json"
+          }
+        },
+        "id": 100
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/101.json"
+          }
+        },
+        "id": 101
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/102.json"
+          }
+        },
+        "id": 102
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/103.json"
+          }
+        },
+        "id": 103
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/104.json"
+          }
+        },
+        "id": 104
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/105.json"
+          }
+        },
+        "id": 105
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/106.json"
+          }
+        },
+        "id": 106
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/107.json"
+          }
+        },
+        "id": 107
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/108.json"
+          }
+        },
+        "id": 108
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/109.json"
+          }
+        },
+        "id": 109
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/110.json"
+          }
+        },
+        "id": 110
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/111.json"
+          }
+        },
+        "id": 111
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/112.json"
+          }
+        },
+        "id": 112
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/113.json"
+          }
+        },
+        "id": 113
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/114.json"
+          }
+        },
+        "id": 114
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/115.json"
+          }
+        },
+        "id": 115
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/116.json"
+          }
+        },
+        "id": 116
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/117.json"
+          }
+        },
+        "id": 117
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/118.json"
+          }
+        },
+        "id": 118
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/119.json"
+          }
+        },
+        "id": 119
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/120.json"
+          }
+        },
+        "id": 120
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/121.json"
+          }
+        },
+        "id": 121
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/122.json"
+          }
+        },
+        "id": 122
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/123.json"
+          }
+        },
+        "id": 123
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/124.json"
+          }
+        },
+        "id": 124
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/125.json"
+          }
+        },
+        "id": 125
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/126.json"
+          }
+        },
+        "id": 126
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/127.json"
+          }
+        },
+        "id": 127
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/128.json"
+          }
+        },
+        "id": 128
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/129.json"
+          }
+        },
+        "id": 129
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/130.json"
+          }
+        },
+        "id": 130
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/131.json"
+          }
+        },
+        "id": 131
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/132.json"
+          }
+        },
+        "id": 132
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/133.json"
+          }
+        },
+        "id": 133
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/134.json"
+          }
+        },
+        "id": 134
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/135.json"
+          }
+        },
+        "id": 135
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/136.json"
+          }
+        },
+        "id": 136
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/137.json"
+          }
+        },
+        "id": 137
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/138.json"
+          }
+        },
+        "id": 138
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/139.json"
+          }
+        },
+        "id": 139
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/140.json"
+          }
+        },
+        "id": 140
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/141.json"
+          }
+        },
+        "id": 141
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/142.json"
+          }
+        },
+        "id": 142
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/143.json"
+          }
+        },
+        "id": 143
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/144.json"
+          }
+        },
+        "id": 144
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/145.json"
+          }
+        },
+        "id": 145
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/146.json"
+          }
+        },
+        "id": 146
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/147.json"
+          }
+        },
+        "id": 147
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/148.json"
+          }
+        },
+        "id": 148
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/149.json"
+          }
+        },
+        "id": 149
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/150.json"
+          }
+        },
+        "id": 150
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/151.json"
+          }
+        },
+        "id": 151
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/152.json"
+          }
+        },
+        "id": 152
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/153.json"
+          }
+        },
+        "id": 153
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/154.json"
+          }
+        },
+        "id": 154
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/155.json"
+          }
+        },
+        "id": 155
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/156.json"
+          }
+        },
+        "id": 156
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/157.json"
+          }
+        },
+        "id": 157
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/158.json"
+          }
+        },
+        "id": 158
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/159.json"
+          }
+        },
+        "id": 159
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/160.json"
+          }
+        },
+        "id": 160
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/161.json"
+          }
+        },
+        "id": 161
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/162.json"
+          }
+        },
+        "id": 162
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/163.json"
+          }
+        },
+        "id": 163
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/164.json"
+          }
+        },
+        "id": 164
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/165.json"
+          }
+        },
+        "id": 165
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/166.json"
+          }
+        },
+        "id": 166
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/167.json"
+          }
+        },
+        "id": 167
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/168.json"
+          }
+        },
+        "id": 168
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/169.json"
+          }
+        },
+        "id": 169
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/170.json"
+          }
+        },
+        "id": 170
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/171.json"
+          }
+        },
+        "id": 171
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/172.json"
+          }
+        },
+        "id": 172
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/173.json"
+          }
+        },
+        "id": 173
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/174.json"
+          }
+        },
+        "id": 174
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/175.json"
+          }
+        },
+        "id": 175
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/176.json"
+          }
+        },
+        "id": 176
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/177.json"
+          }
+        },
+        "id": 177
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/178.json"
+          }
+        },
+        "id": 178
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/179.json"
+          }
+        },
+        "id": 179
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/180.json"
+          }
+        },
+        "id": 180
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/181.json"
+          }
+        },
+        "id": 181
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/182.json"
+          }
+        },
+        "id": 182
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/183.json"
+          }
+        },
+        "id": 183
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/184.json"
+          }
+        },
+        "id": 184
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/185.json"
+          }
+        },
+        "id": 185
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/186.json"
+          }
+        },
+        "id": 186
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/187.json"
+          }
+        },
+        "id": 187
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/188.json"
+          }
+        },
+        "id": 188
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/189.json"
+          }
+        },
+        "id": 189
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/190.json"
+          }
+        },
+        "id": 190
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/191.json"
+          }
+        },
+        "id": 191
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/192.json"
+          }
+        },
+        "id": 192
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/193.json"
+          }
+        },
+        "id": 193
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/194.json"
+          }
+        },
+        "id": 194
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/195.json"
+          }
+        },
+        "id": 195
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/196.json"
+          }
+        },
+        "id": 196
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/197.json"
+          }
+        },
+        "id": 197
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/198.json"
+          }
+        },
+        "id": 198
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/199.json"
+          }
+        },
+        "id": 199
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/203.json"
+          }
+        },
+        "id": 203
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/204.json"
+          }
+        },
+        "id": 204
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/205.json"
+          }
+        },
+        "id": 205
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/206.json"
+          }
+        },
+        "id": 206
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/207.json"
+          }
+        },
+        "id": 207
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/208.json"
+          }
+        },
+        "id": 208
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/218.json"
+          }
+        },
+        "id": 218
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/219.json"
+          }
+        },
+        "id": 219
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/220.json"
+          }
+        },
+        "id": 220
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/221.json"
+          }
+        },
+        "id": 221
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/222.json"
+          }
+        },
+        "id": 222
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/223.json"
+          }
+        },
+        "id": 223
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/224.json"
+          }
+        },
+        "id": 224
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/225.json"
+          }
+        },
+        "id": 225
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/226.json"
+          }
+        },
+        "id": 226
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/227.json"
+          }
+        },
+        "id": 227
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/228.json"
+          }
+        },
+        "id": 228
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/229.json"
+          }
+        },
+        "id": 229
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/230.json"
+          }
+        },
+        "id": 230
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/231.json"
+          }
+        },
+        "id": 231
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/232.json"
+          }
+        },
+        "id": 232
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/233.json"
+          }
+        },
+        "id": 233
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/234.json"
+          }
+        },
+        "id": 234
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/235.json"
+          }
+        },
+        "id": 235
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/236.json"
+          }
+        },
+        "id": 236
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/237.json"
+          }
+        },
+        "id": 237
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/238.json"
+          }
+        },
+        "id": 238
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/239.json"
+          }
+        },
+        "id": 239
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/240.json"
+          }
+        },
+        "id": 240
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/241.json"
+          }
+        },
+        "id": 241
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/242.json"
+          }
+        },
+        "id": 242
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/243.json"
+          }
+        },
+        "id": 243
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/244.json"
+          }
+        },
+        "id": 244
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/245.json"
+          }
+        },
+        "id": 245
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/246.json"
+          }
+        },
+        "id": 246
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/247.json"
+          }
+        },
+        "id": 247
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/248.json"
+          }
+        },
+        "id": 248
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/249.json"
+          }
+        },
+        "id": 249
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/250.json"
+          }
+        },
+        "id": 250
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/251.json"
+          }
+        },
+        "id": 251
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/252.json"
+          }
+        },
+        "id": 252
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/253.json"
+          }
+        },
+        "id": 253
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/254.json"
+          }
+        },
+        "id": 254
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/0/255.json"
+          }
+        },
+        "id": 255
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/256.json"
+          }
+        },
+        "id": 256
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/257.json"
+          }
+        },
+        "id": 257
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/258.json"
+          }
+        },
+        "id": 258
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/259.json"
+          }
+        },
+        "id": 259
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/260.json"
+          }
+        },
+        "id": 260
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/261.json"
+          }
+        },
+        "id": 261
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/262.json"
+          }
+        },
+        "id": 262
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/263.json"
+          }
+        },
+        "id": 263
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/264.json"
+          }
+        },
+        "id": 264
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/265.json"
+          }
+        },
+        "id": 265
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/266.json"
+          }
+        },
+        "id": 266
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/267.json"
+          }
+        },
+        "id": 267
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/268.json"
+          }
+        },
+        "id": 268
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/269.json"
+          }
+        },
+        "id": 269
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/270.json"
+          }
+        },
+        "id": 270
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/271.json"
+          }
+        },
+        "id": 271
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/274.json"
+          }
+        },
+        "id": 274
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/275.json"
+          }
+        },
+        "id": 275
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/276.json"
+          }
+        },
+        "id": 276
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/277.json"
+          }
+        },
+        "id": 277
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/278.json"
+          }
+        },
+        "id": 278
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/279.json"
+          }
+        },
+        "id": 279
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/280.json"
+          }
+        },
+        "id": 280
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/281.json"
+          }
+        },
+        "id": 281
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/283.json"
+          }
+        },
+        "id": 283
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/284.json"
+          }
+        },
+        "id": 284
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/285.json"
+          }
+        },
+        "id": 285
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/286.json"
+          }
+        },
+        "id": 286
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/287.json"
+          }
+        },
+        "id": 287
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/288.json"
+          }
+        },
+        "id": 288
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/289.json"
+          }
+        },
+        "id": 289
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/290.json"
+          }
+        },
+        "id": 290
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/291.json"
+          }
+        },
+        "id": 291
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/292.json"
+          }
+        },
+        "id": 292
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/293.json"
+          }
+        },
+        "id": 293
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/294.json"
+          }
+        },
+        "id": 294
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/295.json"
+          }
+        },
+        "id": 295
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/296.json"
+          }
+        },
+        "id": 296
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/297.json"
+          }
+        },
+        "id": 297
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/298.json"
+          }
+        },
+        "id": 298
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/299.json"
+          }
+        },
+        "id": 299
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/300.json"
+          }
+        },
+        "id": 300
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/301.json"
+          }
+        },
+        "id": 301
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/302.json"
+          }
+        },
+        "id": 302
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/303.json"
+          }
+        },
+        "id": 303
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/304.json"
+          }
+        },
+        "id": 304
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/305.json"
+          }
+        },
+        "id": 305
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/306.json"
+          }
+        },
+        "id": 306
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/307.json"
+          }
+        },
+        "id": 307
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/308.json"
+          }
+        },
+        "id": 308
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/309.json"
+          }
+        },
+        "id": 309
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/310.json"
+          }
+        },
+        "id": 310
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/311.json"
+          }
+        },
+        "id": 311
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/312.json"
+          }
+        },
+        "id": 312
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/313.json"
+          }
+        },
+        "id": 313
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/314.json"
+          }
+        },
+        "id": 314
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/315.json"
+          }
+        },
+        "id": 315
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/316.json"
+          }
+        },
+        "id": 316
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/317.json"
+          }
+        },
+        "id": 317
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/318.json"
+          }
+        },
+        "id": 318
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/319.json"
+          }
+        },
+        "id": 319
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/320.json"
+          }
+        },
+        "id": 320
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/321.json"
+          }
+        },
+        "id": 321
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/322.json"
+          }
+        },
+        "id": 322
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/323.json"
+          }
+        },
+        "id": 323
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/324.json"
+          }
+        },
+        "id": 324
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/325.json"
+          }
+        },
+        "id": 325
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/326.json"
+          }
+        },
+        "id": 326
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/327.json"
+          }
+        },
+        "id": 327
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/328.json"
+          }
+        },
+        "id": 328
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/329.json"
+          }
+        },
+        "id": 329
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/330.json"
+          }
+        },
+        "id": 330
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/331.json"
+          }
+        },
+        "id": 331
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/332.json"
+          }
+        },
+        "id": 332
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/333.json"
+          }
+        },
+        "id": 333
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/334.json"
+          }
+        },
+        "id": 334
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/335.json"
+          }
+        },
+        "id": 335
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/336.json"
+          }
+        },
+        "id": 336
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/337.json"
+          }
+        },
+        "id": 337
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/338.json"
+          }
+        },
+        "id": 338
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/339.json"
+          }
+        },
+        "id": 339
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/340.json"
+          }
+        },
+        "id": 340
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/341.json"
+          }
+        },
+        "id": 341
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/342.json"
+          }
+        },
+        "id": 342
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/343.json"
+          }
+        },
+        "id": 343
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/344.json"
+          }
+        },
+        "id": 344
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/345.json"
+          }
+        },
+        "id": 345
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/346.json"
+          }
+        },
+        "id": 346
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/347.json"
+          }
+        },
+        "id": 347
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/348.json"
+          }
+        },
+        "id": 348
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/349.json"
+          }
+        },
+        "id": 349
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/350.json"
+          }
+        },
+        "id": 350
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/351.json"
+          }
+        },
+        "id": 351
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/352.json"
+          }
+        },
+        "id": 352
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/353.json"
+          }
+        },
+        "id": 353
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/354.json"
+          }
+        },
+        "id": 354
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/355.json"
+          }
+        },
+        "id": 355
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/356.json"
+          }
+        },
+        "id": 356
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/357.json"
+          }
+        },
+        "id": 357
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/358.json"
+          }
+        },
+        "id": 358
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/359.json"
+          }
+        },
+        "id": 359
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/360.json"
+          }
+        },
+        "id": 360
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/361.json"
+          }
+        },
+        "id": 361
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/365.json"
+          }
+        },
+        "id": 365
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/366.json"
+          }
+        },
+        "id": 366
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/367.json"
+          }
+        },
+        "id": 367
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/368.json"
+          }
+        },
+        "id": 368
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/369.json"
+          }
+        },
+        "id": 369
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/370.json"
+          }
+        },
+        "id": 370
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/371.json"
+          }
+        },
+        "id": 371
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/372.json"
+          }
+        },
+        "id": 372
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/373.json"
+          }
+        },
+        "id": 373
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/374.json"
+          }
+        },
+        "id": 374
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/375.json"
+          }
+        },
+        "id": 375
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/376.json"
+          }
+        },
+        "id": 376
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/377.json"
+          }
+        },
+        "id": 377
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/378.json"
+          }
+        },
+        "id": 378
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/379.json"
+          }
+        },
+        "id": 379
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/380.json"
+          }
+        },
+        "id": 380
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/381.json"
+          }
+        },
+        "id": 381
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/382.json"
+          }
+        },
+        "id": 382
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/383.json"
+          }
+        },
+        "id": 383
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/384.json"
+          }
+        },
+        "id": 384
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/385.json"
+          }
+        },
+        "id": 385
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/386.json"
+          }
+        },
+        "id": 386
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/387.json"
+          }
+        },
+        "id": 387
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/388.json"
+          }
+        },
+        "id": 388
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/389.json"
+          }
+        },
+        "id": 389
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/390.json"
+          }
+        },
+        "id": 390
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/391.json"
+          }
+        },
+        "id": 391
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/392.json"
+          }
+        },
+        "id": 392
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/393.json"
+          }
+        },
+        "id": 393
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/394.json"
+          }
+        },
+        "id": 394
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/395.json"
+          }
+        },
+        "id": 395
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/396.json"
+          }
+        },
+        "id": 396
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/397.json"
+          }
+        },
+        "id": 397
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/398.json"
+          }
+        },
+        "id": 398
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/399.json"
+          }
+        },
+        "id": 399
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/400.json"
+          }
+        },
+        "id": 400
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/401.json"
+          }
+        },
+        "id": 401
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/402.json"
+          }
+        },
+        "id": 402
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/403.json"
+          }
+        },
+        "id": 403
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/404.json"
+          }
+        },
+        "id": 404
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/405.json"
+          }
+        },
+        "id": 405
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/406.json"
+          }
+        },
+        "id": 406
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/407.json"
+          }
+        },
+        "id": 407
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/408.json"
+          }
+        },
+        "id": 408
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/409.json"
+          }
+        },
+        "id": 409
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/410.json"
+          }
+        },
+        "id": 410
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/411.json"
+          }
+        },
+        "id": 411
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/412.json"
+          }
+        },
+        "id": 412
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/413.json"
+          }
+        },
+        "id": 413
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/414.json"
+          }
+        },
+        "id": 414
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/415.json"
+          }
+        },
+        "id": 415
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/416.json"
+          }
+        },
+        "id": 416
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/417.json"
+          }
+        },
+        "id": 417
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/418.json"
+          }
+        },
+        "id": 418
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/419.json"
+          }
+        },
+        "id": 419
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/420.json"
+          }
+        },
+        "id": 420
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/421.json"
+          }
+        },
+        "id": 421
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/422.json"
+          }
+        },
+        "id": 422
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/423.json"
+          }
+        },
+        "id": 423
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/424.json"
+          }
+        },
+        "id": 424
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/425.json"
+          }
+        },
+        "id": 425
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/426.json"
+          }
+        },
+        "id": 426
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/427.json"
+          }
+        },
+        "id": 427
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/428.json"
+          }
+        },
+        "id": 428
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/429.json"
+          }
+        },
+        "id": 429
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/430.json"
+          }
+        },
+        "id": 430
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/431.json"
+          }
+        },
+        "id": 431
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/432.json"
+          }
+        },
+        "id": 432
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/433.json"
+          }
+        },
+        "id": 433
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/434.json"
+          }
+        },
+        "id": 434
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/435.json"
+          }
+        },
+        "id": 435
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/436.json"
+          }
+        },
+        "id": 436
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/437.json"
+          }
+        },
+        "id": 437
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/438.json"
+          }
+        },
+        "id": 438
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/439.json"
+          }
+        },
+        "id": 439
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/440.json"
+          }
+        },
+        "id": 440
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/441.json"
+          }
+        },
+        "id": 441
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/442.json"
+          }
+        },
+        "id": 442
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/443.json"
+          }
+        },
+        "id": 443
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/444.json"
+          }
+        },
+        "id": 444
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/445.json"
+          }
+        },
+        "id": 445
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/446.json"
+          }
+        },
+        "id": 446
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/tables/ModuleComponent/1/447.json"
+          }
+        },
+        "id": 447
+      }
+    ]
+  }
+}

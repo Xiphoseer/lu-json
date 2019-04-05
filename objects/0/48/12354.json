@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6075,
+    "2": 12105,
+    "3": 6043,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Toy Shop Jack-in-the-Box Model",
+  "gate_version": "dec2010content",
+  "id": 12354,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Toy Shop Jack-in-the-Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

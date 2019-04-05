@@ -1,0 +1,16 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Behavior for Platform",
+  "description": "Behavior for Platform",
+  "displayName": "Basic Platform Behavior",
+  "gate_version": null,
+  "id": 10388,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior for AG Property Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

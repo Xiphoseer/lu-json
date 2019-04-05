@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8723,
+    "3": 3992
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9270,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test invisible wall block 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2998,
+    "2": 6555,
+    "5": 957,
+    "60": 14,
+    "7": 659,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Ape",
+  "gate_version": null,
+  "id": 6976,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Ape Survival",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

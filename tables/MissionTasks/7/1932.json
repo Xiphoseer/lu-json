@@ -1,0 +1,33 @@
+{
+  "id": 1932,
+  "tasks": [
+    {
+      "IconID": 4657,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4657,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_ICESHRINE",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 12,
+      "uid": 2735
+    },
+    {
+      "IconID": 4655,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4655,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12659,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "1",
+      "taskType": 11,
+      "uid": 2833
+    }
+  ]
+}

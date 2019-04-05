@@ -1,0 +1,37 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 17,
+      "ChallengeRating": 7,
+      "CurrencyIndex": 1,
+      "LootMatrixIndex": null,
+      "activityRating": -1,
+      "description": "AG Obstacle Course Activity"
+    },
+    {
+      "ActivityRewardIndex": 18,
+      "ChallengeRating": 5,
+      "CurrencyIndex": 1,
+      "LootMatrixIndex": null,
+      "activityRating": 3000,
+      "description": "AG Obstacle Course Activity"
+    },
+    {
+      "ActivityRewardIndex": 19,
+      "ChallengeRating": 3,
+      "CurrencyIndex": 1,
+      "LootMatrixIndex": null,
+      "activityRating": 5000,
+      "description": "AG Obstacle Course Activity"
+    },
+    {
+      "ActivityRewardIndex": 20,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 1,
+      "LootMatrixIndex": null,
+      "activityRating": 8000,
+      "description": "AG Obstacle Course Activity"
+    }
+  ],
+  "objectTemplate": 1
+}

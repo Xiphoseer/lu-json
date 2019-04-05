@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5817,
+    "2": 11518,
+    "3": 5610,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Fire Truck 4 Model",
+  "gate_version": "nexustower",
+  "id": 11766,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Firetruck 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

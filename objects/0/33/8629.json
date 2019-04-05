@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "race",
+  "components": {
+    "11": 3884,
+    "2": 8186,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cool Car Shirt",
+  "gate_version": null,
+  "id": 8629,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cool Car Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

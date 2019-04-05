@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14562,
+    "3": 7495,
+    "7": 2063
+  },
+  "description": "",
+  "displayName": "NJ WeaponRack 2",
+  "gate_version": "njhub",
+  "id": 15869,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ earth - WeaponRack 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

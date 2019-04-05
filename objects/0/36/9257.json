@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3986,
+    "2": 9664,
+    "7": 902,
+    "9": 0
+  },
+  "description": "grenade for the cluster strike skill, AOE damage",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9257,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Marauder cluster grenade - 3 splash damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 880
+    }
+  ],
+  "type": "Shooting Gallery"
+}

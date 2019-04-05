@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7777,
+    "2": 15356,
+    "3": 7966,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Outpost Short Wall 1 Model",
+  "gate_version": "njhub",
+  "id": 16577,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Outpost Short Wall 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

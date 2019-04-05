@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12036,
+    "3": 6008,
+    "48": 170,
+    "5": 1365,
+    "7": 1684,
+    "9": 0
+  },
+  "description": "Shield generator placed around aura mar",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12287,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Shield Generator QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1200
+    }
+  ],
+  "type": "Rebuildables"
+}

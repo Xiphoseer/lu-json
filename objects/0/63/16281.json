@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15027,
+    "3": 7691,
+    "5": 1691,
+    "7": 2135,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Siefefield Skullkin Coffin Smashable",
+  "gate_version": "njhub",
+  "id": 16281,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Siegefield Skullkin Coffin Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

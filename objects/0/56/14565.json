@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward 1 AP 1 IP",
+  "components": {
+    "11": 7157,
+    "2": 14248,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "White Mouse's Cheese",
+  "gate_version": "ftcommunityitems",
+  "id": 14565,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hatchling Mouse's Cheese - White",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1404
+    }
+  ],
+  "type": "Loot"
+}

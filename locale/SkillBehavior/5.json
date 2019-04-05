@@ -1,0 +1,464 @@
+{
+  "1310": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 7+8+8 %(ChargeUp)Turns you into a whirlwind that shields you from damage; release to do 2 damage to normal enemies or 5 damage to Skeletons and knock them down",
+    "name": "Earth Spinjitzu Attack"
+  },
+  "1313": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 16 %(Description)Drops a boulder on an enemy",
+    "name": "Earth Gravity Drop"
+  },
+  "1317": {
+    "descriptionUI": "Deploys a Property Scanner Device",
+    "name": "Deploy Property Scanner"
+  },
+  "1322": {
+    "descriptionUI": "Gives a slight speed boost while equipped",
+    "name": "Speed Boost MK I"
+  },
+  "1327": {
+    "descriptionUI": "Shields you from up to 10 damage for 30 seconds",
+    "name": "[DNL] UI Shielding 2"
+  },
+  "1328": {
+    "descriptionUI": "Attracts coins and other rewards towards you",
+    "name": "[DNL] UI Money Magnet"
+  },
+  "1329": {
+    "descriptionUI": "Sends out a pulse of energy that restores 10 Life to nearby characters",
+    "name": "[DNL] UI Healing Pulse"
+  },
+  "1330": {
+    "descriptionUI": "Knocks back enemies",
+    "name": "[DNL] UI Flash Bang"
+  },
+  "1331": {
+    "descriptionUI": "When used near the Nexus Tower Imagination Beam, gathers massive amounts of Imagination",
+    "name": "[DNL] UI Imagination Backpack Fill"
+  },
+  "1332": {
+    "descriptionUI": "Restores 100 Imagination to nearby characters, and heals certain kinds of Maelstrom sickness",
+    "name": "[DNL] UI Imagination Backpack Release"
+  },
+  "1333": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your crate",
+    "name": "[DNL] UI Crate Fighting Attack"
+  },
+  "1335": {
+    "descriptionUI": "Restores 3 Armor after you have been damaged 5 times",
+    "name": "[DNL] UI Shard Armor"
+  },
+  "1336": {
+    "descriptionUI": "%(DamageCombo) 1+1+2 %(Description)Smashes enemies",
+    "name": "Improved Attack"
+  },
+  "1337": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Turns you into a whirlwind that does 5 damage to enemies",
+    "name": "Whirlwind 1"
+  },
+  "1340": {
+    "descriptionUI": "Read this book to unlock your Nexus Tower bonus!",
+    "name": "Secrets of the Builders"
+  },
+  "1342": {
+    "descriptionUI": "%(DamageCombo) 4 %(Description) Blasts enemies in front of you",
+    "name": "Wand Attack"
+  },
+  "1343": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Knocks enemies away",
+    "name": "Elite Attack with Knockback"
+  },
+  "1344": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(ChargeUp)Fire a 5 damage projectile",
+    "name": "Elite Ranged Attack"
+  },
+  "1345": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Fire a 5 damage projectile",
+    "name": "Super Ranged Attack"
+  },
+  "1346": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Fire a projectile",
+    "name": "Elite Ranged Attack"
+  },
+  "1347": {
+    "descriptionUI": "Collectibles appear on your minimap for a long time",
+    "name": "Treasure Finding"
+  },
+  "1349": {
+    "descriptionUI": "Run faster for a short period of time",
+    "name": "Speed Boost"
+  },
+  "1352": {
+    "descriptionUI": "Creates a dog that will follow you",
+    "name": "Summon Brown Dog"
+  },
+  "1353": {
+    "descriptionUI": "Run slightly faster when this item is equipped",
+    "name": "Speed Boost MK II"
+  },
+  "1354": {
+    "descriptionUI": "Run slightly faster when this item is equipped",
+    "name": "Speed Boost MK III"
+  },
+  "1355": {
+    "descriptionUI": "Creates a frog that will follow you",
+    "name": "Summon Green Frog"
+  },
+  "1356": {
+    "descriptionUI": "Creates a cat that will follow you",
+    "name": "Summon White Cat"
+  },
+  "1357": {
+    "descriptionUI": "Creates a mouse that will follow you",
+    "name": "Summon Light Gray Mouse"
+  },
+  "1363": {
+    "descriptionUI": "Attacks anger enemies",
+    "name": "[DNL] Angers Enemies UI"
+  },
+  "1364": {
+    "descriptionUI": "%(DamageCombo) 6  %(Description)Launches a mass of bees at your enemies that deal damage over time",
+    "name": "[DNL]Beehive Surprise 1 UI"
+  },
+  "1365": {
+    "descriptionUI": "%(DamageCombo) 12 %(Description)Launches a mass of bees at your enemies that deal damage over time",
+    "name": "[DNL]Beehive Surprise 2 UI"
+  },
+  "1366": {
+    "descriptionUI": "Shoots a plunger",
+    "name": "Plunger Shoot"
+  },
+  "1371": {
+    "descriptionUI": "Restores 1 Imgagination per 3 seconds for 60 seconds",
+    "name": "Earth Endurance"
+  },
+  "1373": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Throw a fan of shuriken at enemies",
+    "name": "Shuriken Throw"
+  },
+  "1376": {
+    "name": "Spider Sky Rain"
+  },
+  "1396": {
+    "descriptionUI": "Creates a frog that will follow you",
+    "name": "Summon Dark Gray Frog"
+  },
+  "1397": {
+    "descriptionUI": "Creates a frog that will follow you",
+    "name": "Summon Red Frog"
+  },
+  "1398": {
+    "descriptionUI": "Creates a frog that will follow you",
+    "name": "Summon Yellow Frog"
+  },
+  "1399": {
+    "descriptionUI": "Creates a cat that will follow you",
+    "name": "Summon Black Cat"
+  },
+  "1400": {
+    "descriptionUI": "Creates a cat that will follow you",
+    "name": "Summon Tan Cat"
+  },
+  "1401": {
+    "descriptionUI": "Creates a cat that will follow you",
+    "name": "Summon Orange Cat"
+  },
+  "1402": {
+    "descriptionUI": "Creates a mouse that will follow you",
+    "name": "Summon Dark Gray Mouse"
+  },
+  "1403": {
+    "descriptionUI": "Creates a mouse that will follow you",
+    "name": "Summon Brown Mouse"
+  },
+  "1404": {
+    "descriptionUI": "Creates a mouse that will follow you",
+    "name": "Summon White Mouse"
+  },
+  "1405": {
+    "descriptionUI": "Creates a dog that will follow you",
+    "name": "Summon Dark Gray Dog"
+  },
+  "1406": {
+    "descriptionUI": "Creates a dog that will follow you",
+    "name": "Summon Red Dog"
+  },
+  "1407": {
+    "descriptionUI": "Creates a dog that will follow you",
+    "name": "Summon Rust Dog"
+  },
+  "1408": {
+    "descriptionUI": "Creates a scorpion that will follow you",
+    "name": "Summon Scorpion Hatchling"
+  },
+  "1411": {
+    "descriptionUI": "Digs for buried treasure",
+    "name": "Dig for booty"
+  },
+  "1412": {
+    "descriptionUI": "Deploy this device to absorb Maelstrom energy",
+    "name": "Deploy Maelstrom Vacuum"
+  },
+  "1417": {
+    "descriptionUI": "Gives a speed boost for 15 seconds",
+    "name": "[DNL] speed boost"
+  },
+  "1420": {
+    "descriptionUI": "%(DamageCombo) 1+1+3 %(AltCombo) 6+6+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1421": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+6+10 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1422": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1423": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo) 7+7+8 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1424": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1425": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo) 7+7+8 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1426": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+7+9 %(Description)Pokes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1427": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+6+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1428": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1429": {
+    "descriptionUI": "Throws a stinky fish. Sharks like the taste",
+    "name": "Throw Stinky Fish"
+  },
+  "1430": {
+    "name": "Stinky Fish Projectile Impact Effect"
+  },
+  "1431": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1432": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(AltCombo) 7+7+7 %(Description)Pokes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1433": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo) 7+7+8 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1436": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1437": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1439": {
+    "descriptionUI": "%(DamageCombo) 9 %(Description)Launches a rocket that does 9 damage",
+    "name": "Maelstrom Rocket 2.0"
+  },
+  "1441": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1442": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 6+7+10 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1445": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 22 %(Description)Makes you rush forward, doing damage to enemies that you strike",
+    "name": "Ninja Step"
+  },
+  "1448": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Brushes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1449": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1450": {
+    "descriptionUI": "%(DamageCombo) 5 %(AltCombo) 11 %(Description)Throws shuriken that do damage to enemies",
+    "name": "Ninjago Shuriken Throw"
+  },
+  "1452": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo) 7+7+8 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1454": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
+    "name": "Ninjago Roundhouse"
+  },
+  "1455": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1456": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+6+10 %(Description)Pokes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1459": {
+    "descriptionUI": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
+    "name": "Ninjago Spear Throw"
+  },
+  "1460": {
+    "descriptionUI": "Shields you from up to 10 damage for 30 seconds",
+    "name": "Ninjago Defense"
+  },
+  "1461": {
+    "descriptionUI": "Restores 3 Life",
+    "name": "Ninja Healing"
+  },
+  "1462": {
+    "descriptionUI": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
+    "name": "Ninjago Spear Throw"
+  },
+  "1463": {
+    "descriptionUI": "Restores 3 Armor",
+    "name": "Mend Armor"
+  },
+  "1464": {
+    "descriptionUI": "Restores 9 Imagination",
+    "name": "Meditate"
+  },
+  "1473": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(AltCombo) 7+7+7 %(Description)Fires a Seeking Fish",
+    "name": "Ninjago Sashimi Attack"
+  },
+  "1474": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo)7+7+8 %(Description)Fires a projectile",
+    "name": "Ninjago Ranged Attack"
+  },
+  "1475": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 25 %(Description)Pulls an enemy to you and performs a massive uppercut",
+    "name": "Ninjago Scorpion Sting"
+  },
+  "1477": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 24 %(Description)Fires a powerful crossbow bolt",
+    "name": "Ninjago Stinger"
+  },
+  "1479": {
+    "descriptionUI": "%(DamageCombo) 3 %(AltCombo) 12 %(Description) Throws 3 Kunai",
+    "name": "Ninjago Kunai Throw"
+  },
+  "1481": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
+    "name": "Ninjago Katana Strike"
+  },
+  "1487": {
+    "descriptionUI": "%(DamageCombo) 10 %(AltCombo) 30 %(Description)Turtle-up and slide",
+    "name": "Ninjago Turtle Slide"
+  },
+  "1489": {
+    "descriptionUI": "Summons a Ninja Owl to assist you in battle",
+    "name": "Summon Ninjago Owl"
+  },
+  "1497": {
+    "descriptionUI": "Holding this item hurts you!",
+    "name": "Equipped Maelstrom Poisoning"
+  },
+  "1498": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1499": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1500": {
+    "descriptionUI": "Boosts your maximum Armor and Life for 300 seconds",
+    "name": "Eat Dirt Sandwich"
+  },
+  "1501": {
+    "descriptionUI": "Gives a speed boost for 120 seconds",
+    "name": "Eat Electric Hoagie"
+  },
+  "1502": {
+    "descriptionUI": "Restores 5 Life and 10 Armor",
+    "name": "Eat Yucki-Yaki"
+  },
+  "1503": {
+    "descriptionUI": "Boosts your maximum Imagination and Life for 300 seconds",
+    "name": "Eat Chilly Freezesteak"
+  },
+  "1504": {
+    "descriptionUI": "Boosts your maximum Armor and Imagination for 300 seconds",
+    "name": "Eat Flame-Roasted Popsicle"
+  },
+  "1506": {
+    "descriptionUI": "Summons a Ninja dog that assists you in battle",
+    "name": "Summon Ninjago Hound"
+  },
+  "1509": {
+    "descriptionUI": "Restores up to 10 Life, 30 Imagination and 20 Armor over time",
+    "name": "Eat Bento Blocks"
+  },
+  "1510": {
+    "descriptionUI": "Boosts your Life by 1 for 60 seconds",
+    "name": "Eat Rock Fruit"
+  },
+  "1511": {
+    "descriptionUI": "Gives a speed boost for 60 seconds",
+    "name": "Eat Shock fruit"
+  },
+  "1512": {
+    "descriptionUI": "Boosts your maximum Imagination by 1 for 60 seconds",
+    "name": "Eat Frost Fruit"
+  },
+  "1513": {
+    "descriptionUI": "Boosts your maximum Armor by 1 for 60 seconds",
+    "name": "Eat Flame Fruit"
+  },
+  "1514": {
+    "descriptionUI": "Restores 1 Life",
+    "name": "Eat Bamboo Bite"
+  },
+  "1515": {
+    "descriptionUI": "Removes Maelstrom Poisoning caused by Enemies and Restores 4 Life",
+    "name": "Cure Maelstrom Poisoning"
+  },
+  "1516": {
+    "descriptionUI": "Restores 8 Life",
+    "name": "Eat Fresh Sushi"
+  },
+  "1518": {
+    "descriptionUI": "Restores 3 Life",
+    "name": "Eat Old Sushi"
+  },
+  "1519": {
+    "descriptionUI": "Restores 10 Imagination",
+    "name": "Drink Bancha Tea"
+  },
+  "1520": {
+    "descriptionUI": "Restores 20 Imagination",
+    "name": "Drink Matcha Tea"
+  },
+  "1521": {
+    "descriptionUI": "Restores 6 Armor",
+    "name": "Use Cotton Repair Kit"
+  },
+  "1522": {
+    "descriptionUI": "Restores 12 Armor",
+    "name": "Use Silk Repair Kit"
+  },
+  "1533": {
+    "descriptionUI": "Restores up to 10 Life, 30 Imagination and 20 Armor over time to you and nearby characters",
+    "name": "Fold Oragami"
+  },
+  "1535": {
+    "descriptionUI": "%(DamageCombo) 8 %(AltCombo) 25 %(Description)Throws an exploding Kunai",
+    "name": "Ninjago Exploding Kunai Throw"
+  }
+}

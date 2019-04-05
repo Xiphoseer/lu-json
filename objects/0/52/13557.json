@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13294,
+    "3": 6650
+  },
+  "description": "venture logos on stairs in bema room",
+  "displayName": "fx_nt_venture_stairs",
+  "gate_version": "auramar",
+  "id": 13557,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_nt_venture_stairs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

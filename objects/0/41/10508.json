@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Hidden",
+  "components": {
+    "11": 5190,
+    "2": 10361
+  },
+  "description": "Snowshoe",
+  "displayName": "Snowshoe",
+  "gate_version": null,
+  "id": 10508,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Quest - Snowshoe",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

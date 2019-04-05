@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 412,
+    "2": 11011,
+    "3": 1777,
+    "35": 507,
+    "7": 307
+  },
+  "description": "none",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11240,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Muldone",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

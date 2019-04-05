@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing the Spinjutzu tornado skill",
+  "components": {
+    "11": 3031,
+    "2": 6904,
+    "9": 0
+  },
+  "description": "Testing the SJ tornado skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7339,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Katana of Bees",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 287
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 333
+    }
+  ],
+  "type": "Loot"
+}

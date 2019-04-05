@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4701,
+    "2": 9502,
+    "3": 4213,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Crossing Model",
+  "gate_version": null,
+  "id": 9659,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Crossing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

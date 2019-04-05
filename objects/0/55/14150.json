@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 7012,
+    "2": 13860
+  },
+  "description": null,
+  "displayName": "Imagimeter Base Chunk",
+  "gate_version": "nexustower",
+  "id": 14150,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imagimeter Plinth Chunk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

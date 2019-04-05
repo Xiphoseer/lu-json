@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5086,
+    "23": 11,
+    "40": 2207,
+    "7": 343
+  },
+  "description": "NS - Johnny Thunder Collectable Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4016,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "OLD Collectable clipperbot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,16 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "description": "Volume to place physics and precondition on",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9282,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Trigger Wall Hood Only",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

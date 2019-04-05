@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/3/3701.json"
+    }
+  },
+  "behaviorID": 3701,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "angle": 20.0,
+    "caster": 0.0,
+    "relative": 0.0,
+    "strength": -200.0
+  },
+  "templateID": 17
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2923,
+    "25": 0,
+    "3": 1718,
+    "5": 454,
+    "7": 283
+  },
+  "description": "Flying Brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3514,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brick 1 Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11939,
+    "3": 5947,
+    "48": 160,
+    "7": 1670
+  },
+  "description": "Quickbuild to a Ronin stunning emmiter",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12190,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Ronin Stunning QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

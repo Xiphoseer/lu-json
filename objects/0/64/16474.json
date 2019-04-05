@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7876,
+    "2": 15220,
+    "31": 98,
+    "5": 1705,
+    "60": 180,
+    "7": 2147,
+    "9": 0
+  },
+  "description": "Named Ronin",
+  "displayName": "NAMED Dark Ronin",
+  "gate_version": "1.10_content",
+  "id": 16474,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "NAMED Dark Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For skeleton enemies",
+  "components": {
+    "11": 7014,
+    "2": 13868
+  },
+  "description": "",
+  "displayName": "NPC Maelstrom Double Bladed Bone Dagger",
+  "gate_version": "njhub",
+  "id": 14159,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Maelstrom Double Bladed Bone Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

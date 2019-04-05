@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP + Stun",
+  "components": {
+    "11": 2933,
+    "2": 6497,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Knit Cap of Stunning",
+  "gate_version": null,
+  "id": 6935,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Knit Cap of Stunning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 298
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

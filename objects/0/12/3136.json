@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2603,
+    "3": 1080
+  },
+  "description": "Icon that goes over Shooting Gallery NPCs",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3136,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shooting Gallery NPC Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Icon"
+}

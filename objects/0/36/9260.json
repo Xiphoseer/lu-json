@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8713,
+    "3": 3988,
+    "5": 1237,
+    "7": 1581,
+    "9": 0
+  },
+  "description": "Locators for the Geisers to spawn",
+  "displayName": "FV - Geiser Temple Locators",
+  "gate_version": null,
+  "id": 9260,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Geiser Temple Locators Geyser",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 831
+    }
+  ],
+  "type": "Environmental"
+}

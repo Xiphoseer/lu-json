@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Smashing",
+  "components": {
+    "11": 9,
+    "2": 1542,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Halberd",
+  "gate_version": null,
+  "id": 1720,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Halberd",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 291
+    }
+  ],
+  "type": "Loot"
+}

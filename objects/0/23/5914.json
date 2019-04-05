@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5319,
+    "3": 2446,
+    "5": 780
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5914,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Climbing Ceiling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

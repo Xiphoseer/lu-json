@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 1340
+  },
+  "description": "Winter Holiday Zone control object",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12369,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Winter Holiday zone control object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

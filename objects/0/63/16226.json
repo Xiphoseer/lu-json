@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire element blade spinner trap",
+  "components": {
+    "2": 14942,
+    "25": 23,
+    "3": 7653,
+    "39": 115,
+    "5": 1661,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Fire - Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16226,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

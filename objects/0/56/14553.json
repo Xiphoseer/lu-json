@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Avant Gardens Mission Item",
+  "components": {
+    "11": 7145,
+    "2": 14236
+  },
+  "description": "Use for Paradox missions in Avant Gardens.",
+  "displayName": "Maelstrom Cube",
+  "gate_version": "freetrial",
+  "id": 14553,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Cube - Experiment Version",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

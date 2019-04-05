@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5161,
+    "2": 10295
+  },
+  "description": "This Behavior will cause the model to smash when the chat word \"detonate\" is sent.  Use with the Remote Detonator Behavior.",
+  "displayName": "Dynamite Behavior",
+  "gate_version": null,
+  "id": 10452,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Dynamite",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

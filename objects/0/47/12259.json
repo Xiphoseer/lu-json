@@ -1,0 +1,53 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13722,
+    "3": 1777,
+    "5": 1476,
+    "7": 305,
+    "73": 116
+  },
+  "description": "Dr Overbuild Mission Giver",
+  "displayName": "Dr. Overbuild - Assembly Faction Leader",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 129,
+      "iconState": 9
+    },
+    {
+      "iconID": 130,
+      "iconState": 10
+    },
+    {
+      "iconID": 167,
+      "iconState": 12
+    },
+    {
+      "iconID": 124,
+      "iconState": 69
+    }
+  ],
+  "id": 12259,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Dr_Overbuild",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

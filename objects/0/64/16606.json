@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Earth Kit 2",
+  "components": {
+    "11": 7799,
+    "2": 15386,
+    "9": 0
+  },
+  "description": "Wear this to look like Cole!",
+  "displayName": "Cole's Gi of Quakes",
+  "gate_version": "njhub",
+  "id": 16606,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Spinjitzu Gi Cole's Gi of Quakes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Weapon Skills Item",
+  "components": {
+    "11": 2962,
+    "2": 6592,
+    "9": 0
+  },
+  "description": "Test Weapon Skills Item",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7013,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Weapon Skills Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 293
+    }
+  ],
+  "type": "Loot"
+}

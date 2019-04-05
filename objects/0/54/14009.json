@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6961,
+    "17": 531,
+    "2": 13720,
+    "31": 73,
+    "5": 1518,
+    "60": 151,
+    "7": 1909,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Commando",
+  "gate_version": "njhub",
+  "id": 14009,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJD - Skeleton Commando - Frakjaw instance",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1387
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1388
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1651
+    }
+  ],
+  "type": "Enemies"
+}

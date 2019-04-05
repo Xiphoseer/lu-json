@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2219,
+    "3": 1256,
+    "48": 13
+  },
+  "description": "Burno's hotdog stand rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2602,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Burnos Hotdog Stand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

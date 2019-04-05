@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13884,
+    "40": 7042,
+    "48": 198,
+    "6": 0,
+    "7": 1929
+  },
+  "description": "NT - Bouncer Sentinel Quickbuild",
+  "displayName": "NT - Bouncer Sentinel Quickbuild",
+  "gate_version": null,
+  "id": 14175,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Bouncer Sentinel Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

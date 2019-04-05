@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3349,
+    "2": 7161,
+    "7": 699,
+    "9": 0
+  },
+  "description": "Magical artifact used by force of nature skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7598,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Maelstrom vortex projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 354
+    }
+  ],
+  "type": "Shooting Gallery"
+}

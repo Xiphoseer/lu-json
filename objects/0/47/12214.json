@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 98,
+    "2": 11963,
+    "3": 1777,
+    "35": 538,
+    "7": 306
+  },
+  "description": null,
+  "displayName": "Sakura Moonstone - Monastery Ruins Vendor",
+  "gate_version": "auramar",
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 12214,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Temp AM Temple Ruins Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

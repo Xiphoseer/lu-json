@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned from the Crocodile Egg",
+  "components": {
+    "1": 8173,
+    "2": 15714,
+    "5": 1775,
+    "60": 195,
+    "7": 2229,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Summoned Crocodile Ally",
+  "gate_version": "njhub",
+  "id": 16921,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Summoned Crocodile Ally",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1742
+    }
+  ],
+  "type": "NPC"
+}

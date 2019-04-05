@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7089,
+    "2": 14043,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Light Gray Mouse Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14352,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Light Gray Mouse Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

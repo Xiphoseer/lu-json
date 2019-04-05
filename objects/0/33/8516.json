@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8070,
+    "3": 3931
+  },
+  "description": "Mountain card used to block off scene from view and add depth to level.",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8516,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV-Mountain Card",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5942,
+    "2": 11643,
+    "3": 5735,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Train Tender Model",
+  "gate_version": "dec2010content",
+  "id": 11891,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Train Tender",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

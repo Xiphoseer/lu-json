@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "+Random consumables",
+  "components": {
+    "11": 2474,
+    "2": 5266,
+    "53": 2
+  },
+  "description": "Double-click to open!",
+  "displayName": "Picnic Basket",
+  "gate_version": null,
+  "id": 5836,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Picnic Basket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

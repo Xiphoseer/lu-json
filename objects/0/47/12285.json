@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6006,
+    "2": 12034,
+    "7": 1683,
+    "9": 0
+  },
+  "description": "Friendly Targetting bullet. Heals 5 imagination",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12285,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Snowball Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 941
+    }
+  ],
+  "type": "Shooting Gallery"
+}

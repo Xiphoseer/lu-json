@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5831,
+    "3": 1677,
+    "5": 856
+  },
+  "description": "Cancel Mission sign for instance",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6382,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GEN - Sign - Cancel Mission",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6137,
+    "2": 12275,
+    "3": 6142,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Wall Pillars Model",
+  "gate_version": "auramar",
+  "id": 12504,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Wall Pillars",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

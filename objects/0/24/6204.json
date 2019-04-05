@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing + root chargeup",
+  "components": {
+    "11": 2565,
+    "2": 10863,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Scimitar of Rooting",
+  "gate_version": null,
+  "id": 6204,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Scimitar of Rooting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 874
+    }
+  ],
+  "type": "Loot"
+}

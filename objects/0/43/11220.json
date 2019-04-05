@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "FV Miniboss",
+  "components": {
+    "1": 5151,
+    "2": 10990,
+    "39": 11220,
+    "5": 1263,
+    "60": 77,
+    "7": 1602,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Maelstrom Dragon Invader",
+  "gate_version": "auramar",
+  "id": 11220,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Maelstrom Dragon",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 832
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 936
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 1211
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 1212
+    }
+  ],
+  "type": "Enemies"
+}

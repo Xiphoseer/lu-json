@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Stromling",
+  "components": {
+    "1": 5796,
+    "2": 11732,
+    "31": 10,
+    "5": 1309,
+    "60": 79,
+    "7": 1637,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Talli Reeko - Stromling Invader",
+  "gate_version": "auramar",
+  "id": 11982,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 484
+    }
+  ],
+  "type": "Enemies"
+}

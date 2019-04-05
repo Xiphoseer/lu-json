@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6536,
+    "2": 12971,
+    "28": 292,
+    "3": 6432,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "Test Rocket Jan 14 Cockpit",
+  "gate_version": null,
+  "id": 13189,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "MOD Test Rocket Jan 14 Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

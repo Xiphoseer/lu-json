@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4352,
+    "3": 2234,
+    "7": 830
+  },
+  "description": "Scene 3 open cooler",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4919,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Open Cooler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

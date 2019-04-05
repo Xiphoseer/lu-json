@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3 IP",
+  "components": {
+    "11": 6979,
+    "2": 13813,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Photojournalist Shirt",
+  "gate_version": "nexustower",
+  "id": 14102,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Photojournalist Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

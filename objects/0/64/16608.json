@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Lightning Kit 2",
+  "components": {
+    "11": 7801,
+    "2": 15388,
+    "9": 0
+  },
+  "description": "Wear this to look like Jay!",
+  "displayName": "Jay's Hood of Storms",
+  "gate_version": "njhub",
+  "id": 16608,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Spinjitzu Hood Jay's Hood of Storms",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1570
+    }
+  ],
+  "type": "Loot"
+}

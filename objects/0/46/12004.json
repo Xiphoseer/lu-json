@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 5809,
+    "17": 450,
+    "2": 11754,
+    "31": 19,
+    "5": 1322,
+    "60": 92,
+    "7": 1650,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Pit Boss",
+  "gate_version": "auramar",
+  "id": 12004,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Skeleton Patroller",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 945
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1122
+    }
+  ],
+  "type": "Enemies"
+}

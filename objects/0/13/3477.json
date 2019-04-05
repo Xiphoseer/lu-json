@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4213,
+    "3": 29
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3477,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "HF - Treasure Node Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

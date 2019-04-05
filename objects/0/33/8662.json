@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item - Mission ID 735 - Hidden",
+  "components": {
+    "11": 3908,
+    "2": 8217
+  },
+  "description": "A treasure looted by Captain Jack long ago!",
+  "displayName": "Numb Chuck's Treasure",
+  "gate_version": null,
+  "id": 8662,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Numb Chuck's Treasure",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

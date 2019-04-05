@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5323,
+    "2": 10714,
+    "3": 4988,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Newspaper Stand Model",
+  "gate_version": null,
+  "id": 10867,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Newspaper Stand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

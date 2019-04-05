@@ -1,0 +1,23 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/23/24501.json"
+    }
+  },
+  "behaviorID": 24501,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "goto_target": 0.0,
+    "gravity_scale": 0.0,
+    "ground_action": 0.0,
+    "hit_action": 0.0,
+    "hit_action_enemy": 0.0,
+    "timeout_action": 0.0,
+    "timeout_ms": 400.0,
+    "x_velocity": 0.0,
+    "y_velocity": 0.0,
+    "z_velocity": 0.0
+  },
+  "templateID": 56
+}

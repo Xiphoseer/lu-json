@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13568,
+    "3": 6837
+  },
+  "description": "Lightning - Electricity dungeon Room 3",
+  "displayName": "NJ - Lightning - Electricity - Room3",
+  "gate_version": "njhub",
+  "id": 13829,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Electricity - Room3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

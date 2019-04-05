@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3073,
+    "3": 1780,
+    "5": 549
+  },
+  "description": "the 3 triggers that solve the matching puzzle in the Youreeka maze",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3661,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - maze matching puzzle trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

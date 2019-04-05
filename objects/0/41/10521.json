@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Promo item to distribute rewards",
+  "components": {
+    "11": 5198,
+    "2": 10374,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10521,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Club Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 822
+    }
+  ],
+  "type": "Loot"
+}

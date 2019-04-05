@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12023,
+    "25": 0,
+    "27": 0,
+    "3": 6000,
+    "48": 166,
+    "7": 1679
+  },
+  "description": "Moving Platform for AM AuraMar Venture quickbuild",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12275,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Venture QB moving platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

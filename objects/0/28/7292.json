@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Jet Pack that hovers Use for Property Editing",
+  "components": {
+    "11": 11,
+    "2": 1549,
+    "9": 0
+  },
+  "description": "Jet Pack that hovers Use for Property Editing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7292,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Jet Pack Hover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 324
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3445,
+    "2": 7574,
+    "53": 12
+  },
+  "description": "Double-click to get the Rank 1 Samurai Specialty Gear!",
+  "displayName": "Rank 1 Samurai Kit Package",
+  "gate_version": null,
+  "id": 8028,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Samurai Kit Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

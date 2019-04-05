@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15051,
+    "3": 7711,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - Avant Gardens",
+  "gate_version": "freetrial",
+  "id": 16305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - Avant Gardens",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

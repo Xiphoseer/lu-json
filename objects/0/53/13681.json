@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6791,
+    "2": 13419,
+    "3": 6739,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Barred Fence with Open Gate Model",
+  "gate_version": "april2011content",
+  "id": 13681,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Barred Gate Open ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

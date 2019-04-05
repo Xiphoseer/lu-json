@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7461,
+    "2": 14479,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Orange Cat Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14789,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Orange Cat Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

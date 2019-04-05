@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 1 Daredevil!",
+  "components": {
+    "11": 5508,
+    "2": 11055,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 21,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Daredevil Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 882
+    }
+  ],
+  "type": "Loot"
+}

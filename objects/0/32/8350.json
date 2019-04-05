@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 4 IP",
+  "components": {
+    "11": 3671,
+    "2": 7908,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Kung Fu Master Shirt",
+  "gate_version": null,
+  "id": 8350,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kung Fu Master Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

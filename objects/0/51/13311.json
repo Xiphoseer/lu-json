@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 3 Specialty Kit Item -variant - Proxy",
+  "components": {
+    "11": 6588,
+    "2": 13039,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item. -variant- Tied to Daredevil weapon 3",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13311,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Daredevil Offhand 3 Variant - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 701
+    }
+  ],
+  "type": "Loot"
+}

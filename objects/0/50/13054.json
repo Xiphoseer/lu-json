@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Interactable Plaque",
+  "components": {
+    "2": 12838,
+    "3": 6349,
+    "5": 1468
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 98,
+      "iconState": 65
+    }
+  ],
+  "id": 13054,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Build the Nexus Tower Plaque",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3268,
+    "2": 7315,
+    "3": 3429,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Double Trash Can Model",
+  "gate_version": null,
+  "id": 7759,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Double Trash Can",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

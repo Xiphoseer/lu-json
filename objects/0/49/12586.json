@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6188,
+    "2": 12376,
+    "31": 25,
+    "5": 1379,
+    "60": 102,
+    "7": 1750,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling",
+  "gate_version": "nimbusinstance",
+  "id": 12586,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Lvl 1",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

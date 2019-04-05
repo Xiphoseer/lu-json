@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5940,
+    "2": 11641,
+    "3": 5733,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Train Car Model",
+  "gate_version": "dec2010content",
+  "id": 11889,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Train Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

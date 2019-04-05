@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "promo",
+  "components": {
+    "11": 4941,
+    "2": 9966,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Beta Tester Shirt",
+  "gate_version": null,
+  "id": 10129,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Beta Tester Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

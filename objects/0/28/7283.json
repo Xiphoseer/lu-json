@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Smashing + Sleep chargeup",
+  "components": {
+    "11": 3025,
+    "2": 6857,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Saw of Drowsiness",
+  "gate_version": null,
+  "id": 7283,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Saw of Drowsiness",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 806
+    }
+  ],
+  "type": "Loot"
+}

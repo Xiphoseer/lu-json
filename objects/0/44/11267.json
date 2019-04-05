@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11037,
+    "3": 5199
+  },
+  "description": "Scale test for Nexus Tower",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11267,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Nexus Tower Assembly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

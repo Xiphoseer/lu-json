@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11924,
+    "3": 5932,
+    "5": 1350
+  },
+  "description": "teapot next to sensei Wu on the NJ chunk in AM",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12175,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Sensei Wu's Teapot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

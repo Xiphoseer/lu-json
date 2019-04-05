@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7649,
+    "3": 5163,
+    "5": 1050
+  },
+  "description": "LUP Robot Robot City",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8105,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Gonk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

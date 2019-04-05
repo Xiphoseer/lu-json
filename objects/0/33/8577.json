@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8134,
+    "3": 3960,
+    "5": 1496
+  },
+  "description": "Lionhead  for tamming Lion in game mission",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8577,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LionHead spawn lion statue Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1041,
+    "2": 2803,
+    "36": 0
+  },
+  "description": "A deed and description of a property, found in player or vendor inventory",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3188,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property Deed in inventory",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Property"
+}

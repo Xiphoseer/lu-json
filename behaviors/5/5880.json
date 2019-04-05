@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/5/5880.json"
+    }
+  },
+  "behaviorID": 5880,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "block_damage": 1.0,
+    "block_knockback": 1.0,
+    "block_stuns": 1.0,
+    "break_action": 6048.0,
+    "num_attacks_can_block": 4.0
+  },
+  "templateID": 53
+}

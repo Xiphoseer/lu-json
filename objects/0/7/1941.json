@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 1759,
+    "5": 561
+  },
+  "description": "FV ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1941,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninja Ambient White",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "39": 13951,
+    "5": 1553
+  },
+  "description": "test kingdoms zone control",
+  "displayName": "TEST Kingdoms Zone Control",
+  "gate_version": null,
+  "id": 14231,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Kingdoms Zone Control",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Zone Control Object"
+}

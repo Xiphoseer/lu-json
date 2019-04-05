@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/19/19791.json"
+    }
+  },
+  "behaviorID": 19791,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "behavior 1": 19789.0,
+    "max range": 37.0,
+    "min range": 0.0,
+    "npc skill time": 3.1500000953674316
+  },
+  "templateID": 52
+}

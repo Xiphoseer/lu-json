@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Uber gorilla",
+  "components": {
+    "1": 5148,
+    "2": 10987,
+    "5": 1260,
+    "60": 74,
+    "7": 1599,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Ape Invader",
+  "gate_version": "auramar",
+  "id": 11217,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Ape",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

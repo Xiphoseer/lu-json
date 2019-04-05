@@ -1,0 +1,26 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/24/24640.json"
+    }
+  },
+  "behaviorID": 24640,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "add_immunity": 0.0,
+    "apply_on_teammates": 0.0,
+    "buff_id": 4.0,
+    "cancel_on_damaged": 0.0,
+    "cancel_on_death": 0.0,
+    "cancel_on_logout": 1.0,
+    "cancel_on_remove_buff": 1.0,
+    "cancel_on_ui": 0.0,
+    "cancel_on_unequip": 1.0,
+    "cancel_on_zone": 0.0,
+    "duration_secs": 0.0,
+    "target_caster": 0.0,
+    "use_ref_count": 1.0
+  },
+  "templateID": 37
+}

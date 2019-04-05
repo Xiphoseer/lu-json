@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 2 Behavior",
+  "components": {
+    "11": 5368,
+    "2": 10781
+  },
+  "description": "Model will build when a player gets close, smash when a player moves away.",
+  "displayName": "Proximity Build Behavior",
+  "gate_version": null,
+  "id": 11030,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Proximity Build Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

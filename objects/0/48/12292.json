@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12041,
+    "3": 6009,
+    "5": 1333,
+    "7": 1685
+  },
+  "description": "smashable rock based on PR fire hydrant",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12292,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FB - Rock Smahable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

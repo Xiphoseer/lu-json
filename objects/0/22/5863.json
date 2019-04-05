@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "3": 2217,
+    "48": 94,
+    "57": 0,
+    "7": 501
+  },
+  "description": "Quick Build wall for CTF",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5863,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Quick Build Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

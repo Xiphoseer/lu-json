@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 431,
+    "2": 11802,
+    "3": 1777,
+    "35": 531,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__aaaa",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12053,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "abc",
+  "nametag": false,
+  "npcTemplateID": 20,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10338,
+    "3": 4653
+  },
+  "description": "used to play an effect off of.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10493,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dragon Tooth Prop",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

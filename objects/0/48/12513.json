@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Die that is sold by the vendor",
+  "components": {
+    "11": 6143,
+    "2": 12283,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "LEGO Dice",
+  "gate_version": null,
+  "id": 12513,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Dice Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 627
+    }
+  ],
+  "type": "Loot"
+}

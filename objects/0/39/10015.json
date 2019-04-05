@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 9841,
+    "60": 57,
+    "7": 1893,
+    "9": 0
+  },
+  "description": "Tough GF Enemy",
+  "displayName": "Stromling Admiral",
+  "gate_version": null,
+  "id": 10015,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Admiral SIDESCROLLER",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 760
+    }
+  ],
+  "type": "Enemies"
+}

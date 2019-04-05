@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7212,
+    "3": 5215,
+    "40": 4028,
+    "49": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7643,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Partner Switch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Switch"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11142,
+    "3": 5271
+  },
+  "description": "RACE-FVTrack03_TRACK_FVHatchery",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11372,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack03_TRACK_FVHatchery",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

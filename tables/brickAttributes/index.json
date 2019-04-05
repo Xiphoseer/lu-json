@@ -1,0 +1,161 @@
+{
+  "_embedded": {
+    "brickAttributes": [
+      {
+        "ID": 0,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Basic.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 1,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Architecture.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 2,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Transportation.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 3,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Space.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 4,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Technic.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 5,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Brick.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 6,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Plate.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 7,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Slopes.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 8,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Wedge.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 9,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Curves.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 10,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Plants.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 11,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Creatures.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 12,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Poles.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 13,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Hinge.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 14,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Lattices_Grills_Vents.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 15,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Hand_Accessories.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 16,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Head_Gear.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 17,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Misc_Minifig_Accessories.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 19,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Clip.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 20,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Knobs.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 21,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Hollow_Knobs.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 22,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Axle_Connection.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 23,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Pin_Connection.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 24,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Direction_Changers.dds",
+        "locStatus": 2
+      },
+      {
+        "ID": 25,
+        "display_order": 0,
+        "icon_asset": "textures/ui/bricks/Categories/Gears.dds",
+        "locStatus": 2
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/brickAttributes/index.json"
+    }
+  }
+}

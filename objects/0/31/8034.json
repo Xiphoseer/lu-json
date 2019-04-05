@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3421,
+    "2": 7580,
+    "53": 16
+  },
+  "description": "Double-click to get the Rank 1 Adventurer Specialty Gear!",
+  "displayName": "Rank 1 Adventurer Kit Package",
+  "gate_version": "factionkit2",
+  "id": 8034,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Adventurer Kit Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

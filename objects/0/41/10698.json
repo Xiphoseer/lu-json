@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Promo item to distribute rewards",
+  "components": {
+    "11": 5199,
+    "2": 10549,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10698,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bradford Rant Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 823
+    }
+  ],
+  "type": "Loot"
+}

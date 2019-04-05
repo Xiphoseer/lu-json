@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "3": 2217,
+    "7": 529
+  },
+  "description": "smashable for the monument in AG scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4893,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Wall Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

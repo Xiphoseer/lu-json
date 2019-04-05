@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13606,
+    "3": 6872
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13883,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Multishader Billboard Test object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

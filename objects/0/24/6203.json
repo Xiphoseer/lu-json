@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Piercing + Stun chargeup",
+  "components": {
+    "11": 2564,
+    "2": 5652,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Basic Spear of Stunning",
+  "gate_version": null,
+  "id": 6203,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Spear of Stunning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 186
+    }
+  ],
+  "type": "Loot"
+}

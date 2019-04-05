@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6378,
+    "2": 12651
+  },
+  "description": "Modular Creature Type 2 Left Shoulder",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12868,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test - Do Not Delete - Type 2 - Left Shoulder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

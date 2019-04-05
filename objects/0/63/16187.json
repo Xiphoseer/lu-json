@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 7516,
+    "2": 14905,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Valiant Adventurer's Cape",
+  "gate_version": "levelprogression",
+  "id": 16187,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Adventurer Cape Back/Neck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1073
+    }
+  ],
+  "type": "Loot"
+}

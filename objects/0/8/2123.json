@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 867,
+    "2": 1838,
+    "3": 962
+  },
+  "description": "Vendor Only This item can be placed on private property after purchase",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2123,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Contemplation Rock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

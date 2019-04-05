@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10282,
+    "3": 4644
+  },
+  "description": "VFX Property FV Ash",
+  "displayName": "VFX Property FV Ash",
+  "gate_version": null,
+  "id": 10439,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Property FV Ash",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

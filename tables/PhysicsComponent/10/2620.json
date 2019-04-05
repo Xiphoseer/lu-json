@@ -1,0 +1,18 @@
+{
+  "airSpeed": 10.0,
+  "boundaryAsset": null,
+  "collisionGroup": 5,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 2620,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "act\\small_projectile.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6128,
+    "2": 12266,
+    "3": 6133,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Ziggurat Model",
+  "gate_version": "auramar",
+  "id": 12495,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Ziggurat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

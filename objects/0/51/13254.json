@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12987,
+    "40": 6449
+  },
+  "description": "ground arrows in the right sentinal hallways",
+  "displayName": "NT_FX_sentinal_ground_arrows",
+  "gate_version": "nexustower",
+  "id": 13254,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT_FX_sentinal_ground_arrows",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

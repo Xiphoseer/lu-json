@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/20/20795.json"
+    }
+  },
+  "behaviorID": 20795,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "action_false": 20729.0,
+    "action_true": 20796.0,
+    "distance": -1.0,
+    "imagination": 2.0,
+    "isEnemyFaction": 0.0,
+    "target_has_buff": -1.0
+  },
+  "templateID": 29
+}

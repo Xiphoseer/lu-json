@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item",
+  "components": {
+    "11": 7108,
+    "2": 14164
+  },
+  "description": "You'll need this to unlock the Skeleton Cages in the Ninjago Caves!",
+  "displayName": "Skull-a-Ton Building Instructions",
+  "gate_version": "njhub",
+  "id": 14475,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skull-a-Ton Building Instructions",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 5 IP",
+  "components": {
+    "11": 6250,
+    "2": 12491,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Wedding Dress",
+  "gate_version": "nexustower",
+  "id": 12702,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wedding Dress",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    }
+  ],
+  "type": "Loot"
+}

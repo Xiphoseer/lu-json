@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2828,
+    "17": 197,
+    "2": 6117,
+    "35": 244,
+    "5": 899,
+    "7": 307
+  },
+  "description": "Pantomime Bunny Front",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6558,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bunny Front",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

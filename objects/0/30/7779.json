@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE Emote, AoE IP restore, everlasting",
+  "components": {
+    "11": 3287,
+    "2": 7335,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Clod Chucking Shovel",
+  "gate_version": null,
+  "id": 7779,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Clod Chucking Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 798
+    }
+  ],
+  "type": "Loot"
+}

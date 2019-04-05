@@ -1,0 +1,41 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7188,
+    "2": 14072,
+    "5": 1564,
+    "60": 159,
+    "7": 1941,
+    "9": 0
+  },
+  "description": "Free Trial Spider Boss enemy",
+  "displayName": "Maelstrom Spider Queen",
+  "gate_version": "freetrial",
+  "id": 14381,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Spider Queen",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1000,
+      "castOnType": 0,
+      "skillID": 303
+    },
+    {
+      "AICombatWeight": 99,
+      "castOnType": 0,
+      "skillID": 322
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 1573
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "DO NOT USE",
+  "components": {
+    "11": 5123,
+    "2": 10222,
+    "3": 4614,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Farm Fence Short Model",
+  "gate_version": "march2011content",
+  "id": 10374,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD Model Reward Farm Fence Short",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

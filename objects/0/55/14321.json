@@ -1,0 +1,40 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Base item for the Paradox Rental Gear",
+  "components": {
+    "11": 7063,
+    "2": 14010,
+    "5": 1687,
+    "72": 0,
+    "9": 0
+  },
+  "description": "The Space Marauder blasts enemies with a Blaster Master and Maelstrom Rockets!",
+  "displayName": "Trial Paradox Gear",
+  "gate_version": "freetrial",
+  "id": 14321,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Paradox Gear - Space Maurader",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 381
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1590
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1602
+    }
+  ],
+  "type": "Loot"
+}

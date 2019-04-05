@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2818,
+    "2": 6109,
+    "5": 915,
+    "60": 4,
+    "7": 583,
+    "9": 0
+  },
+  "description": "Testing the new AI on this strombie",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6549,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test New AI Stromling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 205
+    }
+  ],
+  "type": "Enemies"
+}

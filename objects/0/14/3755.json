@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 9,
+    "2": 3156,
+    "3": 1777,
+    "35": 39,
+    "7": 306
+  },
+  "description": "second test on real DB",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3755,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RAF - NPCtest2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "11": 3628,
+    "2": 6125,
+    "30": 13,
+    "5": 948,
+    "61": 5,
+    "7": 725,
+    "74": 0,
+    "9": 0
+  },
+  "description": "Test Modular Car",
+  "displayName": "Test Modular Car 6",
+  "gate_version": null,
+  "id": 9827,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "UGG TEST - modular Car 6",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Vehicle"
+}

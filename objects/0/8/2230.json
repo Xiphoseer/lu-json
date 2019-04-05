@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "2": 1759,
+    "5": 185,
+    "7": 141,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 2230,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Passive Target Dummy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12912,
+    "3": 6392
+  },
+  "description": null,
+  "displayName": "NJ - Ice Slide",
+  "gate_version": "njhub",
+  "id": 13132,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Slide test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

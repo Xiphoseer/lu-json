@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ice element Switch spinner trap",
+  "components": {
+    "2": 14946,
+    "25": 27,
+    "27": 0,
+    "3": 7657,
+    "39": 115,
+    "5": 1665
+  },
+  "description": "",
+  "displayName": "NJ - Ice - Switch Spinner  Trap",
+  "gate_version": "njhub",
+  "id": 16230,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice - Switch Spinner  Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

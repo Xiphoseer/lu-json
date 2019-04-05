@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12255,
+    "40": 6128,
+    "5": 1362,
+    "9": 0
+  },
+  "description": "-Large Maelstrom geyser",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12487,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM -Large Maelstrom geyser",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

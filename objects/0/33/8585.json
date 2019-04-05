@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3841,
+    "2": 8142,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Pet Crocodile Shirt",
+  "gate_version": null,
+  "id": 8585,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pet Crocodile Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

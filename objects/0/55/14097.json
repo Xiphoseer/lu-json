@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3% speed boost + AoE Emote (group cheer)",
+  "components": {
+    "11": 6974,
+    "2": 13808,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Master Driver Shirt",
+  "gate_version": "nexustower",
+  "id": 14097,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Master Driver Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1322
+    }
+  ],
+  "type": "Loot"
+}

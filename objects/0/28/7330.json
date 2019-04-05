@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6896,
+    "3": 3308
+  },
+  "description": "test scale asset for property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7330,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - PROPERTY ASSET",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5943,
+    "2": 11644,
+    "3": 5736,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Tree Model 1",
+  "gate_version": "dec2010content",
+  "id": 11892,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Tree 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

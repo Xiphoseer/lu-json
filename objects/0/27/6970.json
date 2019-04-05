@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For Nic to test the skill",
+  "components": {
+    "11": 2951,
+    "2": 6549,
+    "9": 0
+  },
+  "description": "For Nic to test the skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6970,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hat of Damage Absorption for Nic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 272
+    }
+  ],
+  "type": "Loot"
+}

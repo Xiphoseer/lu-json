@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6866,
+    "2": 13569,
+    "5": 1474,
+    "7": 1922,
+    "9": 0
+  },
+  "description": "NT- Armory Challenge Target 11 (bomb)",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13830,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT- Armory Challenge Target 11 (bomb)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1338
+    }
+  ],
+  "type": "Smashables"
+}

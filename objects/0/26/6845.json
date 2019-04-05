@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Smashing",
+  "components": {
+    "11": 2865,
+    "2": 6396,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Long Axe",
+  "gate_version": null,
+  "id": 6845,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Long Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 556
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 871,
+    "2": 1732,
+    "5": 205,
+    "7": 164,
+    "9": 0
+  },
+  "description": "For activity team only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2357,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ACTIVITY ONLY - Cannonball",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 47
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Throw 5 seeking daggers",
+  "components": {
+    "11": 6875,
+    "2": 13525,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Ben's Butter Spreaders",
+  "gate_version": "earthgauntlet",
+  "id": 13786,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Ben's Butter Spreaders",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1260
+    }
+  ],
+  "type": "Loot"
+}

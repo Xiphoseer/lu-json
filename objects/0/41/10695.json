@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4837,
+    "2": 5669,
+    "5": 815,
+    "60": 7,
+    "7": 1567,
+    "9": 0
+  },
+  "description": "Spawned from Behavior, no loot",
+  "displayName": "Stromling Mech",
+  "gate_version": null,
+  "id": 10695,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior Spawn - Stromling Mech",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Enemies"
+}

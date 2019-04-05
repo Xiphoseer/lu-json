@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "105": 13951,
+    "2": 2307,
+    "25": 0,
+    "27": 0,
+    "3": 1318
+  },
+  "description": "Challenge - Team 4",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2714,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Contest - Roller Cylinder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

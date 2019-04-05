@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14119,
+    "3": 7233,
+    "48": 213,
+    "5": 1589,
+    "7": 1972
+  },
+  "description": "",
+  "displayName": "NJ QB Archery Target",
+  "gate_version": "njhub",
+  "id": 14427,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ QB Archery Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

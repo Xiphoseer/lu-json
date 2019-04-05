@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12600,
+    "3": 6229
+  },
+  "description": "animated locator for bird effect in teeth area",
+  "displayName": "fx_am_teeth_birds",
+  "gate_version": null,
+  "id": 12810,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_am_teeth_birds",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

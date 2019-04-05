@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "weapon for item set test",
+  "components": {
+    "11": 3456,
+    "2": 1756,
+    "9": 0
+  },
+  "description": "weapon for item set test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5949,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Set ninja1 - Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

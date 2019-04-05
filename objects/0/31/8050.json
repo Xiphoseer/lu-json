@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3652,
+    "2": 7595,
+    "3": 3688,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Small Shrine Model",
+  "gate_version": null,
+  "id": 8050,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Shrine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

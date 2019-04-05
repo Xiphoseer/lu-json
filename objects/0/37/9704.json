@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4188,
+    "2": 9546,
+    "9": 0
+  },
+  "description": "Animated UV Test Object 1",
+  "displayName": "Shark Bullet",
+  "gate_version": null,
+  "id": 9704,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Buccaneer Shark Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 841
+    }
+  ],
+  "type": "Shooting Gallery"
+}

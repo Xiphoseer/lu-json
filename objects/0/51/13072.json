@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12894
+  },
+  "description": "Mesh effect for Repair Bot",
+  "displayName": "Repair Bot Mesh Effect",
+  "gate_version": "auramar",
+  "id": 13072,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Repair Bot Mesh Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

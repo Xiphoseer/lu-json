@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 4 AP",
+  "components": {
+    "11": 6184,
+    "2": 12393,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cuirass Armor",
+  "gate_version": "nimbusinstance",
+  "id": 12603,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cuirass Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

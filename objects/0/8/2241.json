@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 896,
+    "2": 1933,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 2241,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Elite Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 55
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 290
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 377
+    }
+  ],
+  "type": "Loot"
+}

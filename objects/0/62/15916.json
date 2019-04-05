@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3AP 2 IP Absorbs 10 dmg",
+  "components": {
+    "11": 7327,
+    "2": 14608,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Tarnished Kabuto",
+  "gate_version": "njhub",
+  "id": 15916,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tarnished Kabuto",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1460
+    }
+  ],
+  "type": "Loot"
+}

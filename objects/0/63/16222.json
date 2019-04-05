@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire element Switch spinner trap",
+  "components": {
+    "2": 14938,
+    "25": 19,
+    "3": 7649,
+    "39": 115,
+    "5": 1657
+  },
+  "description": "",
+  "displayName": "NJ - Fire - Switch Spinner  Trap",
+  "gate_version": "njhub",
+  "id": 16222,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Switch Spinner  Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

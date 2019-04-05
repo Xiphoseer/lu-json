@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10070,
+    "3": 1777,
+    "35": 469,
+    "5": 458
+  },
+  "description": "Pet Rock NPC",
+  "displayName": "Wally Radish",
+  "gate_version": null,
+  "id": 3385,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "PR - Wally Radish",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

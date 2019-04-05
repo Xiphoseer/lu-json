@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "The Magical Mystery Horse",
+  "components": {
+    "11": 2978,
+    "2": 6663
+  },
+  "description": "The Magical Mystery Horse",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7089,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Horse Mount",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

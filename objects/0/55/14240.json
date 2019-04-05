@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "testing",
+  "components": {
+    "11": 7051,
+    "2": 13940,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test offhand of Testing",
+  "gate_version": "njhub",
+  "id": 14240,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Offhand of Testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1435
+    }
+  ],
+  "type": "Loot"
+}

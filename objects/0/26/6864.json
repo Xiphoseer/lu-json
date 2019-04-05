@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 5000 coins",
+  "components": {
+    "11": 2886,
+    "2": 6419
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Green Gem",
+  "gate_version": null,
+  "id": 6864,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

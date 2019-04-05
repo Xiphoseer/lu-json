@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from engineer Valiant weapon",
+  "components": {
+    "1": 6206,
+    "2": 13574,
+    "48": 182,
+    "5": 1392,
+    "60": 116,
+    "7": 1768,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Cleaner",
+  "gate_version": "valiantweapons",
+  "id": 12618,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Cleaner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1018
+    }
+  ],
+  "type": "NPC"
+}

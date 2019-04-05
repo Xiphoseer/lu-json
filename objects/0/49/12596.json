@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/4/4 Two handed smashing",
+  "components": {
+    "11": 6179,
+    "2": 12386,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Savage Club",
+  "gate_version": "nimbusinstance",
+  "id": 12596,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Savage Club",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1004
+    }
+  ],
+  "type": "Loot"
+}

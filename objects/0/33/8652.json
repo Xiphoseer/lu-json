@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 745 - Hidden",
+  "components": {
+    "11": 3904,
+    "2": 8207
+  },
+  "description": null,
+  "displayName": "Map Piece 1",
+  "gate_version": null,
+  "id": 8652,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Treasure Map Piece 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6891,
+    "11": 6353,
+    "2": 12044,
+    "26": 29,
+    "42": 0,
+    "7": 242,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": "Reindeer",
+  "gate_version": "dec2010content",
+  "id": 12294,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Reindeer Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

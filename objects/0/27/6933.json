@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE Heal",
+  "components": {
+    "11": 2931,
+    "2": 6495,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hood of Healing",
+  "gate_version": null,
+  "id": 6933,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hood of Healing 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 315
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

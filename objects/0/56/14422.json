@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14114,
+    "3": 7229,
+    "7": 1968
+  },
+  "description": "",
+  "displayName": "NJ - Monastery Screen Smashable",
+  "gate_version": "njhub",
+  "id": 14422,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Monastery Screen Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6807,
+    "35": 287,
+    "7": 307
+  },
+  "description": "Scared Idler",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7229,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AmbTemp1",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

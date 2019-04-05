@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 1 IP",
+  "components": {
+    "11": 3823,
+    "2": 8088,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Utility Harness",
+  "gate_version": null,
+  "id": 8534,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Utility Harness",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

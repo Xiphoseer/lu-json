@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13841,
+    "40": 7024,
+    "5": 1541
+  },
+  "description": "Nexus Tower -- Venture Speed Pad Floor Booster",
+  "displayName": "NT -- Venture Speed Pad Booster",
+  "gate_version": "nexustower",
+  "id": 14130,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Nexus Tower -- Venture Speed Pad Booster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

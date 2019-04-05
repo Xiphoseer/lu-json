@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6676,
+    "2": 13337,
+    "9": 0
+  },
+  "description": "4 damage projectile",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13600,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "4 Dmg Projectile Double Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 487
+    }
+  ],
+  "type": "Shooting Gallery"
+}

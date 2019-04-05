@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2488,
+    "2": 4135,
+    "28": 5,
+    "3": 2558,
+    "42": 0
+  },
+  "description": "Modular Build rocket cockpit",
+  "displayName": "Steampunk Rocket Cockpit",
+  "gate_version": null,
+  "id": 4717,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Steampunk Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

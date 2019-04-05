@@ -1,0 +1,21 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/0/451.json"
+    }
+  },
+  "behaviorID": 451,
+  "effectHandle": null,
+  "effectID": 424,
+  "parameters": {
+    "LOT_ID": 4802.0,
+    "max_distance": 300.0,
+    "offset_y": 3.0,
+    "projectile_speed": 45.0,
+    "projectile_type": 2.0,
+    "track_radius": 6.0,
+    "track_target": 1.0,
+    "use_mouseposit": 1.0
+  },
+  "templateID": 4
+}

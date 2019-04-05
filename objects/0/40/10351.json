@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5100,
+    "2": 10199,
+    "3": 4591,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Wall Art Model 1",
+  "gate_version": null,
+  "id": 10351,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Wall Art 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

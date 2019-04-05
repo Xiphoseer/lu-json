@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 258,
+    "2": 8218,
+    "3": 3972,
+    "35": 329,
+    "39": 46,
+    "5": 1102,
+    "7": 305
+  },
+  "description": "__MG__Foot Race Starter",
+  "displayName": "Natso Fast - Foot Race Host",
+  "gate_version": null,
+  "id": 8663,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Ninja Foot Race Starter",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

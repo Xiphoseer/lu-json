@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Hidden",
+  "components": {
+    "11": 3925,
+    "2": 8240
+  },
+  "description": "Return this to Numb Chuck!",
+  "displayName": "Dragon's Tooth",
+  "gate_version": null,
+  "id": 8686,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Tooth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

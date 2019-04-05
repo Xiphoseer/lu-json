@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3144,
+    "40": 1838,
+    "5": 724
+  },
+  "description": "Test scripted springpad for design challenge",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5672,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Astro Jump",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Spring-Pads"
+}

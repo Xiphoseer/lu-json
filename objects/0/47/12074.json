@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11823,
+    "3": 5868
+  },
+  "description": "Test of the Finger Section C of Aura Mar",
+  "displayName": "AM Finger Section C",
+  "gate_version": null,
+  "id": 12074,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Fingers Section C",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

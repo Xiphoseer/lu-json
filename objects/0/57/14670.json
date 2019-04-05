@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14349,
+    "3": 7392,
+    "48": 224
+  },
+  "description": "AG refactor - built using spare parts from infected mechs",
+  "displayName": "AG Mech Rebuild",
+  "gate_version": "freetrial",
+  "id": 14670,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Mech Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

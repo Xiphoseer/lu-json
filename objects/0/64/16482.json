@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 15228,
+    "23": 77,
+    "40": 7883
+  },
+  "description": "",
+  "displayName": "Dragon Relic of Earth",
+  "gate_version": "njhub",
+  "id": 16482,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Earth Dragon Relic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

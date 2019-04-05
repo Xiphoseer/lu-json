@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9319,
+    "3": 4082
+  },
+  "description": "Nimbus Station Property 01",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9465,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS_PP_01_AvantProperty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

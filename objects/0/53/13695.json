@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6805,
+    "2": 13433,
+    "3": 6753,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Building Wall with Open Doors Model",
+  "gate_version": "april2011content",
+  "id": 13695,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Building Wall Doors Open ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4215,
+    "3": 2166,
+    "5": 791,
+    "7": 523
+  },
+  "description": "This is only to be used on the spaceship in AG, it has special properties and should not be used anywhere else",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6377,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship - smashable long crate - All Engines",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

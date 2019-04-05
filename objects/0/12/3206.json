@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sprays water and cleans things",
+  "components": {
+    "11": 1051,
+    "2": 2730,
+    "9": 0
+  },
+  "description": "Use this to clean things and spray water on them.",
+  "displayName": "Water Sprayer",
+  "gate_version": null,
+  "id": 3206,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Water Sprayer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 105
+    }
+  ],
+  "type": "Loot"
+}

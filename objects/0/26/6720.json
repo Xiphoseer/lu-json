@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6909,
+    "11": 6893,
+    "2": 6533,
+    "26": 23,
+    "42": 0,
+    "7": 624,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 24,
+      "iconState": 100
+    },
+    {
+      "iconID": 29,
+      "iconState": 105
+    },
+    {
+      "iconID": 33,
+      "iconState": 109
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    },
+    {
+      "iconID": 69,
+      "iconState": 111
+    }
+  ],
+  "id": 6720,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Warthog Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6584,
+    "3": 3099,
+    "48": 104,
+    "5": 972,
+    "7": 664
+  },
+  "description": "GF CB Pillar 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7005,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Choicebuild Pillar 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

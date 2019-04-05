@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6815,
+    "35": 294,
+    "5": 999,
+    "7": 307
+  },
+  "description": "Crowd NPC 4 Sit",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7238,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp8",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

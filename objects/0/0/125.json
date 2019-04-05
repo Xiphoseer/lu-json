@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 1 Space Marauder!",
+  "components": {
+    "11": 5512,
+    "2": 11059,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 125,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Space Marauder Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 886
+    }
+  ],
+  "type": "Loot"
+}

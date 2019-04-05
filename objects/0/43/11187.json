@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10940,
+    "3": 5126
+  },
+  "description": "Stage 03 Launch Asset - closed gate, no spaceship, crates, etc",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11187,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Nimbus Race Place Launch 03",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

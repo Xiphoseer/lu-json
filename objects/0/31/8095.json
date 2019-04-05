@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 277,
+    "2": 7640,
+    "35": 351,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__DO NOT PLACE IN GAME DO NOT EDIT TEMPLATE mg Minifigure template mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 8095,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Raf Test For Brett",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

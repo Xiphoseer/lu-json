@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6109,
+    "2": 12229
+  },
+  "description": "Return this to Dr. Overbuild.",
+  "displayName": "Safe Functionator",
+  "gate_version": "nexustower",
+  "id": 12466,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bank - Safe Functionator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

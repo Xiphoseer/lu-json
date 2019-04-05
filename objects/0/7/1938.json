@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1777,
+    "3": 1777,
+    "35": 395,
+    "5": 81,
+    "7": 305,
+    "73": 15
+  },
+  "description": "__MG__GF missiongiver",
+  "displayName": "Captain Jack Knife - Pirate Captain",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 1938,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Captain Jack Knife",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

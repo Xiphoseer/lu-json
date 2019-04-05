@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7528,
+    "2": 14963,
+    "3": 7671,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Inner Corner Model",
+  "gate_version": "freetrial",
+  "id": 16247,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Inner Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

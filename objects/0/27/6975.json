@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 6554,
+    "5": 956,
+    "60": 13,
+    "7": 658,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Admiral",
+  "gate_version": null,
+  "id": 6975,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Admiral Survival",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

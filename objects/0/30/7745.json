@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3259,
+    "2": 7301,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Chef Jacket",
+  "gate_version": null,
+  "id": 7745,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Baker Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14087,
+    "3": 7203,
+    "48": 202,
+    "5": 1613,
+    "7": 1954
+  },
+  "description": null,
+  "displayName": "Altar of Imagination",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 148,
+      "iconState": 69
+    }
+  ],
+  "id": 14396,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - QuickBuild Shrine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

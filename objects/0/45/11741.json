@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5792,
+    "2": 11493,
+    "3": 5585,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Gas Station 2 Model",
+  "gate_version": "nexustower",
+  "id": 11741,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Gas Station 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

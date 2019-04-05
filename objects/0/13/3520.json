@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6902,
+    "11": 6883,
+    "2": 2916,
+    "26": 25,
+    "42": 0,
+    "5": 1084,
+    "7": 392,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 3520,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lion Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

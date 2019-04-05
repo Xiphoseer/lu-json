@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6771,
+    "2": 13399,
+    "3": 6719,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Straight Sloped Fence Model",
+  "gate_version": "april2011content",
+  "id": 13661,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Sloped Straight ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

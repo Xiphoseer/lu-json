@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Speed Boost",
+  "components": {
+    "11": 957,
+    "2": 2233,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Quicksicle",
+  "gate_version": null,
+  "id": 2620,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quicksicle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 126
+    }
+  ],
+  "type": "Loot"
+}

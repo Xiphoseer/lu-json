@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7306,
+    "3": 3425,
+    "67": 1,
+    "78": 6
+  },
+  "description": "Test object for adding shift",
+  "displayName": "RocketLauncher",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    }
+  ],
+  "id": 13778,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "UGG-Test RocketLauncher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 3 IP + Secret Passage",
+  "components": {
+    "11": 968,
+    "2": 2247,
+    "9": 0
+  },
+  "description": "Wear this in Nimbus Station to launch your rocket to the Pirate Camp",
+  "displayName": "Pirate Captain Hat",
+  "gate_version": null,
+  "id": 2635,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Captain Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 247
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8225,
+    "3": 3976
+  },
+  "description": "Helmet placed on floor by beck in AG",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8671,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG_Beck Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

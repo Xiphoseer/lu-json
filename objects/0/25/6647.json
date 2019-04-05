@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Buffs life point pool",
+  "components": {
+    "11": 3437,
+    "2": 2176,
+    "9": 0
+  },
+  "description": "Increases life point pool",
+  "displayName": "Test 4 pts life pants",
+  "gate_version": null,
+  "id": 6647,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Pants of Uber Life - 4 pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 224
+    }
+  ],
+  "type": "Loot"
+}

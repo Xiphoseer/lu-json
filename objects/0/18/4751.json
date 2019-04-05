@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2033,
+    "23": 18,
+    "40": 1103,
+    "7": 425
+  },
+  "description": "Collectible Spawner for AG imagination brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4751,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Imagination Brick Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

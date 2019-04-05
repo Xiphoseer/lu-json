@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10971,
+    "3": 5134,
+    "5": 1062
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 155,
+      "iconState": 69
+    }
+  ],
+  "id": 11202,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Space Ship - Interactive Rocket Launch Pad Piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

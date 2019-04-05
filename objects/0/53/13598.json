@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6723,
+    "2": 13335,
+    "28": 349,
+    "3": 6674,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Venture Koi Rocket Engine",
+  "gate_version": "nexustower",
+  "id": 13598,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Koi Rocket Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

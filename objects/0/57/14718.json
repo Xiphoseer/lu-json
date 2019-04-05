@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "1": 7420,
+    "2": 14406,
+    "5": 1597,
+    "7": 2043,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "AG - Maelstrom Sample",
+  "gate_version": "freetrial",
+  "id": 14718,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AG - Maelstrom Sample",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

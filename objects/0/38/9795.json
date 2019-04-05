@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 323,
+    "2": 9630,
+    "35": 411,
+    "7": 307
+  },
+  "description": "Bucaneer 1",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9795,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Bucaneer Rank 1",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

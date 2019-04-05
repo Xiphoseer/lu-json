@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6834,
+    "2": 13462,
+    "3": 6782,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Safari Lion Rock Model",
+  "gate_version": "april2011content",
+  "id": 13724,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Safari LionRock ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

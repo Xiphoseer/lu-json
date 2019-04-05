@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5828,
+    "3": 2666
+  },
+  "description": "Spider Cave area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6379,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Spider Mountain Cave",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

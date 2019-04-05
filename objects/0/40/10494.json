@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10339,
+    "3": 4654
+  },
+  "description": "env Nimbus Station Track Mesh FX layer",
+  "displayName": "env Nimbus Station Track Mesh FX",
+  "gate_version": null,
+  "id": 10494,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "env Nimbus Station Track Mesh FX layer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 43,
+    "3": 43,
+    "5": 320,
+    "7": 197,
+    "9": 0
+  },
+  "description": "Map object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1643,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trampoline",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

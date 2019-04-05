@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing multiple skills on one item",
+  "components": {
+    "11": 2623,
+    "2": 5840,
+    "9": 0
+  },
+  "description": "Testing multiple skills on one item",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6393,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Experimental Pipe Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 150
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 194
+    }
+  ],
+  "type": "Loot"
+}

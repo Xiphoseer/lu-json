@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7152,
+    "3": 3344
+  },
+  "description": "locator for twigs",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7588,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "blowing twigs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

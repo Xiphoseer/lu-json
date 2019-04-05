@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AOE DOT (12 dmg) + slow. 10 units for 24 seconds",
+  "components": {
+    "11": 6173,
+    "2": 12359,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Stink Bomb",
+  "gate_version": "nexustower",
+  "id": 12569,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Stink Bomb Throw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 998
+    }
+  ],
+  "type": "Loot"
+}

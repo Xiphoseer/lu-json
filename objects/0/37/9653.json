@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4695,
+    "2": 9496,
+    "3": 4207,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Barrel Gun Model",
+  "gate_version": null,
+  "id": 9653,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle BarrelGun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

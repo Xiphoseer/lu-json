@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Imagination Fountain model",
+  "components": {
+    "11": 6644,
+    "2": 13168
+  },
+  "description": "A behavior that releases imagination when the model is interacted with.",
+  "displayName": "Imagination Fountain Behavior",
+  "gate_version": null,
+  "id": 13439,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Imagination Fountain Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2208,
+    "25": 0,
+    "3": 1263
+  },
+  "description": "Team 5",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2738,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Contest Tree Branch 3 Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5524,
+    "2": 11079
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Login Red Car Equippable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

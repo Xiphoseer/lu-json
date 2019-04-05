@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 287,
+    "2": 8213,
+    "3": 1777,
+    "35": 366,
+    "5": 1273,
+    "7": 305,
+    "73": 68
+  },
+  "description": "__MG__FV Pirate Mission Giver",
+  "displayName": "Gary Grogowitz - Pirate Spy",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 8658,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Map Pirate 2",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

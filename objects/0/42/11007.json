@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND Use only",
+  "components": {
+    "11": 5359,
+    "2": 10759,
+    "3": 5022,
+    "42": 0
+  },
+  "description": "NS Property Pushback Model - Cage",
+  "displayName": "NS Property Pushback Model - Cage",
+  "gate_version": null,
+  "id": 11007,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS Property Pushback Model - Cage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

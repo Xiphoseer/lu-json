@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP + Repair Armor 2",
+  "components": {
+    "11": 6292,
+    "2": 12534,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Construction Shield",
+  "gate_version": "nexustower",
+  "id": 12744,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Construction Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1237
+    }
+  ],
+  "type": "Loot"
+}

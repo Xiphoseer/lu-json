@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13955,
+    "3": 7100,
+    "7": 1991
+  },
+  "description": null,
+  "displayName": "NJ Generic Smashable 3",
+  "gate_version": "njhub",
+  "id": 14266,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Pole Lantern Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

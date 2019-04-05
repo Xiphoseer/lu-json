@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7061,
+    "2": 14008,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sentinel Gear - Knight - shield proxy",
+  "gate_version": "freetrial",
+  "id": 14319,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Sentinel Gear - Knight - shield proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 342
+    }
+  ],
+  "type": "Loot"
+}

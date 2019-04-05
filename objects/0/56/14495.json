@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Skeletons on Siege Field, only on mission",
+  "components": {
+    "11": 7118,
+    "2": 14184
+  },
+  "description": "Return this to Jay in the Ninjago Dojo of Lightning.",
+  "displayName": "Hammer Toe",
+  "gate_version": "njhub",
+  "id": 14495,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hammer Toe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

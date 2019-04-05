@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11687,
+    "3": 5759
+  },
+  "description": "NT Faux Assembly Hallway 1",
+  "displayName": "NT_Faux_A_Hallway1",
+  "gate_version": null,
+  "id": 11937,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_Faux_A_Hallway1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

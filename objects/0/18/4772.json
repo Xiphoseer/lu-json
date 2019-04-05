@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2145,
+    "2": 2804,
+    "5": 661,
+    "7": 433
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4772,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GOL Chicken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

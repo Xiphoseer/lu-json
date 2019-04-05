@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3523,
+    "2": 7413,
+    "5": 1039,
+    "7": 757,
+    "9": 0
+  },
+  "description": "Monkey is spawned where thrown monkey hits. Runs a script that casts the entrancement skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7855,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawned Funky Monkey rank 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 408
+    }
+  ],
+  "type": "Smashables"
+}

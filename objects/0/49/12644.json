@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6216,
+    "2": 12435,
+    "9": 0
+  },
+  "description": "3 dmg projectile banana",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12644,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "3 Dmg Projectile Banana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1034
+    }
+  ],
+  "type": "Shooting Gallery"
+}

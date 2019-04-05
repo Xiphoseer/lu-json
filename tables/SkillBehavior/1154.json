@@ -1,0 +1,21 @@
+{
+  "armorBonusUI": null,
+  "behaviorID": 27083,
+  "cancelType": null,
+  "castTypeDesc": null,
+  "cooldown": 7.0,
+  "cooldowngroup": 2,
+  "damageUI": null,
+  "gate_version": "auramar",
+  "hideIcon": false,
+  "imBonusUI": null,
+  "imaginationcost": 4,
+  "inNpcEditor": false,
+  "lifeBonusUI": null,
+  "locStatus": 2,
+  "localize": true,
+  "oomBehaviorEffectID": 1102,
+  "oomSkillID": "",
+  "skillID": 1154,
+  "skillIcon": 4113
+}

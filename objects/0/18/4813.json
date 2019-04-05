@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2852,
+    "40": 1609,
+    "5": 670
+  },
+  "description": "CTF Blue Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4813,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CTF - Blue Bounce Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

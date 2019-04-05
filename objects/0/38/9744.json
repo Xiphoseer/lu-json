@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4257,
+    "2": 9581,
+    "5": 1165,
+    "60": 23,
+    "7": 960,
+    "9": 0
+  },
+  "description": "Enemy for property unlock maps",
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 9744,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property - Stromling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5088,
+    "3": 1977
+  },
+  "description": "Test for Shader",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5665,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Star Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

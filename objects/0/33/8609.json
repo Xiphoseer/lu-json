@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 3865,
+    "2": 8166,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cavalry Shirt",
+  "gate_version": null,
+  "id": 8609,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cavalry Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

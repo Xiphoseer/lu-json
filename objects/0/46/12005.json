@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 5810,
+    "17": 451,
+    "2": 11755,
+    "31": 20,
+    "5": 1323,
+    "60": 93,
+    "7": 1651,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Nuckal - Skeleton Lightning General",
+  "gate_version": "auramar",
+  "id": 12005,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Skeleton Patroller NAMED Nuckal",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 946
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1123
+    }
+  ],
+  "type": "Enemies"
+}

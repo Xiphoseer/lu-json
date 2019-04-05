@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3651,
+    "2": 7594,
+    "3": 3687,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Lantern Model",
+  "gate_version": null,
+  "id": 8049,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Lantern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

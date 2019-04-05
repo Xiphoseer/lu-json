@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago consumable sold by Johnny Umami; Medwards to determine buffs",
+  "components": {
+    "11": 7131,
+    "2": 14197,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Flame-Roasted Popsicle",
+  "gate_version": "njhub",
+  "id": 14509,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flame-Roasted Popsicle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1504
+    }
+  ],
+  "type": "Loot"
+}

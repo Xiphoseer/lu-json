@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6171,
+    "2": 12355,
+    "9": 0
+  },
+  "description": "Assembly Scout Armor",
+  "displayName": "NPC Assembly Scout Armor",
+  "gate_version": null,
+  "id": 12565,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Assembly Scout Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 342
+    }
+  ],
+  "type": "Loot"
+}

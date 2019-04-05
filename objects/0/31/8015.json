@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7562,
+    "3": 3654,
+    "73": 149
+  },
+  "description": "test object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8015,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test NIF Mission Giver for Nic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

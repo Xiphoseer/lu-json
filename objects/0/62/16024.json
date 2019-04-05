@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14742,
+    "3": 7561,
+    "39": 14,
+    "5": 1600
+  },
+  "description": "AG Spider Queen Zone Control Object",
+  "displayName": "",
+  "gate_version": "freetrial",
+  "id": 16024,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AG Spider Queen Zone Control Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

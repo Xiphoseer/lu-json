@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6674,
+    "2": 13254,
+    "28": 339,
+    "3": 6626,
+    "42": 0,
+    "63": 36
+  },
+  "description": null,
+  "displayName": "Venture League Hinterlander Rear Panel",
+  "gate_version": "factionvehicles",
+  "id": 13520,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarVE_RearPanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Block Yard",
+  "PlayerLoseCoinsOnDeath": false,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1150.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 15.0,
+  "gate_version": null,
+  "ghostdistance": 200.0,
+  "ghostdistance_min": 150.0,
+  "heightInChunks": 3,
+  "locStatus": 2,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": "AG_Property-Small",
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 12,
+  "population_soft_cap": 10,
+  "scriptID": 1136,
+  "serverPhysicsFramerate": "medium",
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": 3,
+  "zoneControlTemplate": null,
+  "zoneID": 1150,
+  "zoneName": "01_Live_Maps/Avant_Gardens/Property/Small/nd_ag_property_small.luz"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15057,
+    "3": 7717,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - Concert",
+  "gate_version": "freetrial",
+  "id": 16311,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - Concert",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

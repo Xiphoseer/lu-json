@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5500,
+    "2": 9586,
+    "28": 208,
+    "3": 4263,
+    "42": 0
+  },
+  "description": "Modular Build rocket engine",
+  "displayName": "Ninja Dragon Rocket Engine",
+  "gate_version": null,
+  "id": 9748,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Ninja Dragon Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

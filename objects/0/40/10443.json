@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10286,
+    "3": 4648
+  },
+  "description": "VFX Property FV FX",
+  "displayName": "VFX Property FV FX",
+  "gate_version": null,
+  "id": 10443,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Property FV FX",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

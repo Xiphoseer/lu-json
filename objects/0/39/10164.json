@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "IP Restore - Promo Item",
+  "components": {
+    "11": 4951,
+    "2": 10003,
+    "5": 1294,
+    "72": 0,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Splendid Pants",
+  "gate_version": null,
+  "id": 10164,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Splendid Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 659
+    }
+  ],
+  "type": "Loot"
+}

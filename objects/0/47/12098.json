@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 5990,
+    "2": 11847,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Nexus Airtanks",
+  "gate_version": "auramar",
+  "id": 12098,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Airtanks",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

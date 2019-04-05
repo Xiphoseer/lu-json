@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2184,
+    "2": 4273,
+    "5": 672,
+    "7": 444
+  },
+  "description": "for testing missions",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4837,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mission Test NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

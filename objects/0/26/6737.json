@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "25": 0,
+    "3": 2217,
+    "48": 94,
+    "5": 937,
+    "57": 0,
+    "7": 501
+  },
+  "description": "buildable gate for the defenders",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6737,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Siege-Gate QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

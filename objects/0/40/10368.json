@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "DO NOT USE",
+  "components": {
+    "11": 5117,
+    "2": 10216,
+    "3": 4608,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Farm Barn Middle Model",
+  "gate_version": "march2011content",
+  "id": 10368,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD Model Reward Farm Barn Middle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

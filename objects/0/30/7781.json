@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3289,
+    "2": 7337,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Aviator Hat with Goggles",
+  "gate_version": null,
+  "id": 7781,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Aviator Hat with Goggles",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

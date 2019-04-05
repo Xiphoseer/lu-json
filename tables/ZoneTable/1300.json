@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Gnarled Forest",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1300.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 6.429999828338623,
+  "gate_version": null,
+  "ghostdistance": 250.0,
+  "ghostdistance_min": 150.0,
+  "heightInChunks": 6,
+  "locStatus": 2,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": "Gnarled_Forest",
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 40,
+  "population_soft_cap": 31,
+  "scriptID": 852,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": 6,
+  "zoneControlTemplate": null,
+  "zoneID": 1300,
+  "zoneName": "01_Live_Maps/Gnarled_Forest/nd_gnarled_forest.luz"
+}

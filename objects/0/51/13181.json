@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12963,
+    "3": 6422
+  },
+  "description": "Lightning - Main Hub Monastary Room",
+  "displayName": "NJ - Lightning Hub",
+  "gate_version": "njhub",
+  "id": 13181,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning Hub",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

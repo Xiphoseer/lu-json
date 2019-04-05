@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Ranged",
+  "components": {
+    "11": 2935,
+    "2": 6499,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Basic Flintlock Pistol",
+  "gate_version": null,
+  "id": 6937,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Flintlock Pistol",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 246
+    }
+  ],
+  "type": "Loot"
+}

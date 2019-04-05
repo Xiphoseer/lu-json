@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13956,
+    "3": 7101,
+    "7": 1992
+  },
+  "description": null,
+  "displayName": "NJ Generic Smashable 4",
+  "gate_version": "njhub",
+  "id": 14267,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Armored Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

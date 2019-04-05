@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Bone Wolves in Caves or Earth Gauntlet, only on mission",
+  "components": {
+    "11": 7136,
+    "2": 14202
+  },
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "displayName": "Tail Bone",
+  "gate_version": "njhub",
+  "id": 14517,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tail Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

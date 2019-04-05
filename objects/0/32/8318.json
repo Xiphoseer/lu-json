@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Faction token",
+  "components": {
+    "11": 3654,
+    "2": 7877
+  },
+  "description": "Spend this at an Assembly vendor!",
+  "displayName": "Assembly Token",
+  "gate_version": null,
+  "id": 8318,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Assembly Token",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

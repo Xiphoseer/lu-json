@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5700,
+    "2": 11401,
+    "3": 5493,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Shovel Model",
+  "gate_version": "nexustower",
+  "id": 11649,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,2407 @@
+[
+  {
+    "comp_val": 3150,
+    "id": 4,
+    "name": "UGG - New Rocket Bay"
+  },
+  {
+    "comp_val": 3195,
+    "id": 6,
+    "name": "UGG - Rocket Launch spawned object"
+  },
+  {
+    "comp_val": 7883,
+    "id": 16482,
+    "name": "NJ - Earth Dragon Relic"
+  },
+  {
+    "comp_val": 7884,
+    "id": 16483,
+    "name": "NJ - Fire Dragon Relic"
+  },
+  {
+    "comp_val": 7885,
+    "id": 16484,
+    "name": "NJ - Lightning Dragon Relic"
+  },
+  {
+    "comp_val": 7886,
+    "id": 16485,
+    "name": "NJ - Ice Dragon Relic"
+  },
+  {
+    "comp_val": 7899,
+    "id": 16506,
+    "name": "PrimitiveModel phantom w/skill component (humans only)"
+  },
+  {
+    "comp_val": 7937,
+    "id": 16547,
+    "name": "NJ -  minidragon earth fx"
+  },
+  {
+    "comp_val": 7938,
+    "id": 16548,
+    "name": "NJ -  minidragon ice fx"
+  },
+  {
+    "comp_val": 7939,
+    "id": 16549,
+    "name": "NJ -  minidragon lightning fx"
+  },
+  {
+    "comp_val": 7940,
+    "id": 16550,
+    "name": "NJ -  minidragon fire fx"
+  },
+  {
+    "comp_val": 7941,
+    "id": 16552,
+    "name": "NJ -  Dragon Emblem Daily Chest"
+  },
+  {
+    "comp_val": 8036,
+    "id": 16711,
+    "name": "Rectangle Box"
+  },
+  {
+    "comp_val": 1041,
+    "id": 1625,
+    "name": "Spawner - Life Powerup 1 point"
+  },
+  {
+    "comp_val": 1041,
+    "id": 1656,
+    "name": "Spawner - Imagination Powerup 1 point"
+  },
+  {
+    "comp_val": 1223,
+    "id": 2192,
+    "name": "TEST - BouncerTest"
+  },
+  {
+    "comp_val": 1025,
+    "id": 2196,
+    "name": "Accessory Treasure Chest"
+  },
+  {
+    "comp_val": 2203,
+    "id": 2210,
+    "name": "GF - Pirate Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 2204,
+    "id": 2211,
+    "name": "FV - Ninja Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 1041,
+    "id": 2216,
+    "name": "Spawner - Bronze 1 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 2217,
+    "name": "Spawner - Silver 1 Coin"
+  },
+  {
+    "comp_val": 1103,
+    "id": 2362,
+    "name": "NS - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 1223,
+    "id": 2438,
+    "name": "Spring-Pad Test - Fern"
+  },
+  {
+    "comp_val": 1360,
+    "id": 2713,
+    "name": "SleddingActivator_ON"
+  },
+  {
+    "comp_val": 1352,
+    "id": 2780,
+    "name": "Round Bouncer"
+  },
+  {
+    "comp_val": 1358,
+    "id": 2790,
+    "name": "GC - Team 10 Bouncer"
+  },
+  {
+    "comp_val": 845,
+    "id": 2792,
+    "name": "Contest Mushroom Bouncer"
+  },
+  {
+    "comp_val": 1367,
+    "id": 2806,
+    "name": "Challenge Bouncer Asset Team 1"
+  },
+  {
+    "comp_val": 1368,
+    "id": 2807,
+    "name": "Challenge Spring Asset Team 1"
+  },
+  {
+    "comp_val": 1401,
+    "id": 2870,
+    "name": "Pinball Rebuild - Piece 1"
+  },
+  {
+    "comp_val": 2082,
+    "id": 2889,
+    "name": "Big Door Piece"
+  },
+  {
+    "comp_val": 1034,
+    "id": 2929,
+    "name": "Contest - DeathPlane"
+  },
+  {
+    "comp_val": 1034,
+    "id": 2931,
+    "name": "Contest - Team4 FinishLine"
+  },
+  {
+    "comp_val": 1034,
+    "id": 3297,
+    "name": "AG - Course Cancel Trigger"
+  },
+  {
+    "comp_val": 1034,
+    "id": 3298,
+    "name": "AG - Course Goal Trigger"
+  },
+  {
+    "comp_val": 1573,
+    "id": 3379,
+    "name": "ZP - Fountain Bouncer"
+  },
+  {
+    "comp_val": 1683,
+    "id": 3460,
+    "name": "AG - Race collectable test"
+  },
+  {
+    "comp_val": 1680,
+    "id": 3464,
+    "name": "HF - Treasure Node Vol"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3465,
+    "name": "Spawner - 10 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3466,
+    "name": "Spawner - 25 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3467,
+    "name": "Spawner - 100 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3468,
+    "name": "Spawner - 250 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3469,
+    "name": "Spawner - 1000 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3470,
+    "name": "Spawner - 10000 Coin"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3471,
+    "name": "Spawner - 25000 Coin"
+  },
+  {
+    "comp_val": 1700,
+    "id": 3494,
+    "name": "AG - Scene 4 Bouncer"
+  },
+  {
+    "comp_val": 1704,
+    "id": 3495,
+    "name": "HF - Pet Dig Treasure Node Cylinder"
+  },
+  {
+    "comp_val": 1352,
+    "id": 3510,
+    "name": "ZP - Hazmat Bouncer"
+  },
+  {
+    "comp_val": 1704,
+    "id": 3554,
+    "name": "Trigger Cylinder"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3556,
+    "name": "Trampoline 1"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3557,
+    "name": "Trampoline 2"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3558,
+    "name": "Trampoline 3"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3559,
+    "name": "Trampoline 4"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3560,
+    "name": "Trampoline 5"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3561,
+    "name": "Trampoline 6"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3562,
+    "name": "Trampoline 7"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3563,
+    "name": "Trampoline 8"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3564,
+    "name": "Trampoline 9"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3565,
+    "name": "Trampoline 10"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3566,
+    "name": "Trampoline 11"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3567,
+    "name": "Trampoline 12"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3568,
+    "name": "Trampoline 13"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3569,
+    "name": "Trampoline 14"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3570,
+    "name": "Trampoline 15"
+  },
+  {
+    "comp_val": 1732,
+    "id": 3571,
+    "name": "Trampoline 16"
+  },
+  {
+    "comp_val": 1735,
+    "id": 3609,
+    "name": "AG - Time Powerup 1"
+  },
+  {
+    "comp_val": 1736,
+    "id": 3610,
+    "name": "AG - Time Powerup 2"
+  },
+  {
+    "comp_val": 1103,
+    "id": 3655,
+    "name": "Pet Brick"
+  },
+  {
+    "comp_val": 2205,
+    "id": 3734,
+    "name": "ZP - Skunk Collectible Spawner"
+  },
+  {
+    "comp_val": 1536,
+    "id": 3736,
+    "name": "ZP - hydrant bouncer"
+  },
+  {
+    "comp_val": 1838,
+    "id": 3742,
+    "name": "AG - Playground Astro Jump"
+  },
+  {
+    "comp_val": 1840,
+    "id": 3745,
+    "name": "AG - Playground Launchpad Yellow"
+  },
+  {
+    "comp_val": 1041,
+    "id": 3904,
+    "name": "TEST AUDIO coin spawner"
+  },
+  {
+    "comp_val": 1912,
+    "id": 3912,
+    "name": "ZP - skunk bouncer"
+  },
+  {
+    "comp_val": 1954,
+    "id": 3965,
+    "name": "FV - Gas Trigger"
+  },
+  {
+    "comp_val": 2206,
+    "id": 3967,
+    "name": "PR - Dogtag Collectible Spawner"
+  },
+  {
+    "comp_val": 1809,
+    "id": 4013,
+    "name": "AG - Bob's Broken Imagination Coil"
+  },
+  {
+    "comp_val": 2207,
+    "id": 4016,
+    "name": "OLD Collectable clipperbot"
+  },
+  {
+    "comp_val": 1041,
+    "id": 4036,
+    "name": "Spawner - Imagination Powerup 2 points"
+  },
+  {
+    "comp_val": 1034,
+    "id": 4734,
+    "name": "Trigger Wall (Humans only)"
+  },
+  {
+    "comp_val": 1567,
+    "id": 4742,
+    "name": "AG - Teleport Hack To Ship"
+  },
+  {
+    "comp_val": 1103,
+    "id": 4751,
+    "name": "AG - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 1103,
+    "id": 4752,
+    "name": "FV - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 1103,
+    "id": 4753,
+    "name": "GF - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 1103,
+    "id": 4754,
+    "name": "PR - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 1041,
+    "id": 4768,
+    "name": "AG - Imagination Orb Collectible Spawner"
+  },
+  {
+    "comp_val": 1609,
+    "id": 4812,
+    "name": "CTF - Red Bounce Pad"
+  },
+  {
+    "comp_val": 1609,
+    "id": 4813,
+    "name": "CTF - Blue Bounce Pad"
+  },
+  {
+    "comp_val": 2438,
+    "id": 4815,
+    "name": "Test Bouncer"
+  },
+  {
+    "comp_val": 2356,
+    "id": 4816,
+    "name": "Test Springpad"
+  },
+  {
+    "comp_val": 1762,
+    "id": 4817,
+    "name": "Test PetSwitch"
+  },
+  {
+    "comp_val": 2248,
+    "id": 4820,
+    "name": "CTF Blue Flag"
+  },
+  {
+    "comp_val": 1610,
+    "id": 4823,
+    "name": "Test Switch"
+  },
+  {
+    "comp_val": 1223,
+    "id": 4838,
+    "name": "Test - Quickbuild Bouncer"
+  },
+  {
+    "comp_val": 2187,
+    "id": 4843,
+    "name": "MG - Obj M Blue"
+  },
+  {
+    "comp_val": 5142,
+    "id": 4844,
+    "name": "MG - Obj M Red"
+  },
+  {
+    "comp_val": 2187,
+    "id": 4845,
+    "name": "MG - Obj P Blue"
+  },
+  {
+    "comp_val": 1034,
+    "id": 4846,
+    "name": "MG - Obj P Red"
+  },
+  {
+    "comp_val": 2410,
+    "id": 4847,
+    "name": "MG - Obj Spawn Red"
+  },
+  {
+    "comp_val": 2410,
+    "id": 4848,
+    "name": "MG - Obj Spawn Blue"
+  },
+  {
+    "comp_val": 1034,
+    "id": 4850,
+    "name": "MG - Obj Flag Blue"
+  },
+  {
+    "comp_val": 1034,
+    "id": 4851,
+    "name": "MG - Obj Flag Red"
+  },
+  {
+    "comp_val": 1610,
+    "id": 4854,
+    "name": "Test Switch Blue"
+  },
+  {
+    "comp_val": 1610,
+    "id": 4855,
+    "name": "Test Switch Yellow"
+  },
+  {
+    "comp_val": 2438,
+    "id": 4868,
+    "name": "FV - Ninja Bouncer"
+  },
+  {
+    "comp_val": 2438,
+    "id": 4910,
+    "name": "Test - Moving obstacle bouncer"
+  },
+  {
+    "comp_val": 1610,
+    "id": 4913,
+    "name": "Test - Quickbuild Switch"
+  },
+  {
+    "comp_val": 2231,
+    "id": 4915,
+    "name": "Test exhibit/bouncer - DO NOT USE"
+  },
+  {
+    "comp_val": 2440,
+    "id": 4929,
+    "name": "AG - Air Bouncer QuickBuild"
+  },
+  {
+    "comp_val": 2441,
+    "id": 4930,
+    "name": "AG - Air Bouncer"
+  },
+  {
+    "comp_val": 2246,
+    "id": 4933,
+    "name": "MG - Obj Vol Blue"
+  },
+  {
+    "comp_val": 2246,
+    "id": 4934,
+    "name": "MG - Obj Vol Red"
+  },
+  {
+    "comp_val": 2246,
+    "id": 4935,
+    "name": "MG - Obj Vol Yellow"
+  },
+  {
+    "comp_val": 2248,
+    "id": 4936,
+    "name": "CTF Red Flag"
+  },
+  {
+    "comp_val": 25,
+    "id": 4940,
+    "name": "test_RigidBodyPhantom"
+  },
+  {
+    "comp_val": 2250,
+    "id": 4945,
+    "name": "HF - RespawnPoints"
+  },
+  {
+    "comp_val": 2237,
+    "id": 4947,
+    "name": "test - PhantomCallbackShape2"
+  },
+  {
+    "comp_val": 2259,
+    "id": 4956,
+    "name": "AG - Monument Equipment Activator"
+  },
+  {
+    "comp_val": 2414,
+    "id": 4974,
+    "name": "AG - Monument Piston Pusher 2"
+  },
+  {
+    "comp_val": 2272,
+    "id": 4976,
+    "name": "Mission Minigame Vol"
+  },
+  {
+    "comp_val": 2319,
+    "id": 5633,
+    "name": "AG - Death Plane 640x640"
+  },
+  {
+    "comp_val": 2348,
+    "id": 5650,
+    "name": "AG - Monument Equipment Activator ReBuild"
+  },
+  {
+    "comp_val": 2352,
+    "id": 5651,
+    "name": "Trigger Rectangle Box (Humans only)"
+  },
+  {
+    "comp_val": 2351,
+    "id": 5652,
+    "name": "Trigger Cube (Humans only)"
+  },
+  {
+    "comp_val": 2356,
+    "id": 5657,
+    "name": "test springpad with phantom"
+  },
+  {
+    "comp_val": 2376,
+    "id": 5669,
+    "name": "Trigger Sphere"
+  },
+  {
+    "comp_val": 1838,
+    "id": 5672,
+    "name": "Test Astro Jump"
+  },
+  {
+    "comp_val": 2410,
+    "id": 5849,
+    "name": "NPC - SPAWN"
+  },
+  {
+    "comp_val": 2421,
+    "id": 5852,
+    "name": "Test GP - Bounce Pad"
+  },
+  {
+    "comp_val": 2418,
+    "id": 5853,
+    "name": "Test GP - Place Piece 01"
+  },
+  {
+    "comp_val": 2424,
+    "id": 5861,
+    "name": "Test GP - Fan"
+  },
+  {
+    "comp_val": 2432,
+    "id": 5875,
+    "name": "Test GP - Chain"
+  },
+  {
+    "comp_val": 2421,
+    "id": 5881,
+    "name": "Sean's Bouncepad"
+  },
+  {
+    "comp_val": 2435,
+    "id": 5882,
+    "name": "Water Plane Moving Platform"
+  },
+  {
+    "comp_val": 2442,
+    "id": 5884,
+    "name": "Test GP - Moveable Crate"
+  },
+  {
+    "comp_val": 2443,
+    "id": 5895,
+    "name": "Test GP - Teleport Blue"
+  },
+  {
+    "comp_val": 2443,
+    "id": 5896,
+    "name": "Test GP - Teleport Orange"
+  },
+  {
+    "comp_val": 2441,
+    "id": 5897,
+    "name": "AG - Air Bouncer Green"
+  },
+  {
+    "comp_val": 2441,
+    "id": 5898,
+    "name": "AG - Air Bouncer Blue"
+  },
+  {
+    "comp_val": 2440,
+    "id": 5904,
+    "name": "AG - Air Bouncer QuickBuild Blue"
+  },
+  {
+    "comp_val": 2458,
+    "id": 5917,
+    "name": "Test GP - Fire Trap"
+  },
+  {
+    "comp_val": 2459,
+    "id": 5918,
+    "name": "Test GP - Spike Trap"
+  },
+  {
+    "comp_val": 2449,
+    "id": 5921,
+    "name": "Test GP - Deathplane Left"
+  },
+  {
+    "comp_val": 2450,
+    "id": 5922,
+    "name": "Test GP - Deathplane Right"
+  },
+  {
+    "comp_val": 2461,
+    "id": 5937,
+    "name": "Sound Repeater -- Box"
+  },
+  {
+    "comp_val": 2462,
+    "id": 5938,
+    "name": "Sound Repeater -- Sphere"
+  },
+  {
+    "comp_val": 2421,
+    "id": 5943,
+    "name": "Test GP - Full Bounce Pad"
+  },
+  {
+    "comp_val": 2424,
+    "id": 5944,
+    "name": "Test GP - Fan"
+  },
+  {
+    "comp_val": 2432,
+    "id": 5945,
+    "name": "Test GP - Chain"
+  },
+  {
+    "comp_val": 1645,
+    "id": 5947,
+    "name": "Test GP - Physicsless Fence"
+  },
+  {
+    "comp_val": 1034,
+    "id": 5958,
+    "name": "Trigger Wall - Directional (doesn't point forward)  (Humans only)"
+  },
+  {
+    "comp_val": 2246,
+    "id": 5959,
+    "name": "SG Cannon Timer"
+  },
+  {
+    "comp_val": 1041,
+    "id": 5965,
+    "name": "Spawner - Speed Boost Powerup"
+  },
+  {
+    "comp_val": 2483,
+    "id": 6000,
+    "name": "Pool"
+  },
+  {
+    "comp_val": 2571,
+    "id": 6098,
+    "name": "Test MR - 3 Way Piece"
+  },
+  {
+    "comp_val": 2573,
+    "id": 6099,
+    "name": "Test MR - 4 Way Piece"
+  },
+  {
+    "comp_val": 2579,
+    "id": 6100,
+    "name": "Test MR - Straightaway Piece"
+  },
+  {
+    "comp_val": 2575,
+    "id": 6101,
+    "name": "Test MR - Turn Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6102,
+    "name": "Test MR - 3 Way Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6103,
+    "name": "Test MR - 4 Way Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6104,
+    "name": "Test MR - Straightaway Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6105,
+    "name": "Test MR - Turn Clicker"
+  },
+  {
+    "comp_val": 2440,
+    "id": 6206,
+    "name": "AG - Air Bouncer QuickBuild Green"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6210,
+    "name": "Test MR - Rotate North"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6211,
+    "name": "Test MR - Rotate South"
+  },
+  {
+    "comp_val": 2612,
+    "id": 6212,
+    "name": "Test MR - Rotate East"
+  },
+  {
+    "comp_val": 2612,
+    "id": 6213,
+    "name": "Test MR - Rotate West"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6220,
+    "name": "Test MR - Straight Trap Placers"
+  },
+  {
+    "comp_val": 2614,
+    "id": 6234,
+    "name": "Test MR - Up Arrow"
+  },
+  {
+    "comp_val": 2577,
+    "id": 6235,
+    "name": "Test MR - Incline Piece"
+  },
+  {
+    "comp_val": 2593,
+    "id": 6238,
+    "name": "Test MR - Oil Slick Piece"
+  },
+  {
+    "comp_val": 2594,
+    "id": 6239,
+    "name": "Test MR - Tunnel Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6240,
+    "name": "Test MR - Incline Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6241,
+    "name": "Test MR - Oil Slick Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6242,
+    "name": "Test MR - Tunnel Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6244,
+    "name": "Test MR - Grass Clicker"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6249,
+    "name": "Test MR - Turn Trap Placers"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6250,
+    "name": "Test MR - Grass Trap Placers"
+  },
+  {
+    "comp_val": 2207,
+    "id": 6251,
+    "name": "OLD  - Monument Collectable Spawner"
+  },
+  {
+    "comp_val": 2207,
+    "id": 6252,
+    "name": "OLD - Sentinel Guy Collectable Spawner"
+  },
+  {
+    "comp_val": 2605,
+    "id": 6269,
+    "name": "Test MR - Ramp Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6270,
+    "name": "Test MR - Ramp Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6274,
+    "name": "Test MR - Building 1 Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6275,
+    "name": "Test MR - Building 2 Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6276,
+    "name": "Test MR - Building 3 Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6278,
+    "name": "Test MR - Tree Clicker"
+  },
+  {
+    "comp_val": 2596,
+    "id": 6279,
+    "name": "Test MR - Speed Boost Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6280,
+    "name": "Test MR - Speed Boost Clicker"
+  },
+  {
+    "comp_val": 2598,
+    "id": 6281,
+    "name": "Test MR - Check Point Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6282,
+    "name": "Test MR - Check Point Clicker"
+  },
+  {
+    "comp_val": 2598,
+    "id": 6283,
+    "name": "Test MR - Finish Line Piece"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6284,
+    "name": "Test MR - Finish Line Clicker"
+  },
+  {
+    "comp_val": 2603,
+    "id": 6286,
+    "name": "Test MR - Bridge Clicker"
+  },
+  {
+    "comp_val": 2203,
+    "id": 6296,
+    "name": "AG - Monument Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6309,
+    "name": "Test MR - 3 Way Trap Placers"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6310,
+    "name": "Test MR - 4 Way Trap Placers"
+  },
+  {
+    "comp_val": 2563,
+    "id": 6311,
+    "name": "Test MR - Camera Button - Angle 1"
+  },
+  {
+    "comp_val": 2618,
+    "id": 6316,
+    "name": "AG - Space Ship QuickBuild Bouncer"
+  },
+  {
+    "comp_val": 2356,
+    "id": 6341,
+    "name": "Test - Moving Platform Springpad"
+  },
+  {
+    "comp_val": 2618,
+    "id": 6353,
+    "name": "Space Ship Bouncer"
+  },
+  {
+    "comp_val": 2660,
+    "id": 6368,
+    "name": "3D Ambient Sound"
+  },
+  {
+    "comp_val": 2679,
+    "id": 6405,
+    "name": "PROTOTYPE -GF Fog Trigger  (Humans only)"
+  },
+  {
+    "comp_val": 2682,
+    "id": 6406,
+    "name": "Showcase Display Pedestal - Test"
+  },
+  {
+    "comp_val": 1041,
+    "id": 6432,
+    "name": "Spawner - Armor Powerup 1 point"
+  },
+  {
+    "comp_val": 2711,
+    "id": 6442,
+    "name": "AG - Maelstrom Collector Instancer"
+  },
+  {
+    "comp_val": 2814,
+    "id": 6540,
+    "name": "Spider Den Switch 1"
+  },
+  {
+    "comp_val": 2259,
+    "id": 6541,
+    "name": "Spider Den Switch 2"
+  },
+  {
+    "comp_val": 2829,
+    "id": 6547,
+    "name": "Camera Volume - Directional"
+  },
+  {
+    "comp_val": 2817,
+    "id": 6548,
+    "name": "Trigger Sphere (Humans Only)"
+  },
+  {
+    "comp_val": 2618,
+    "id": 6569,
+    "name": "Defender Bouncer QB"
+  },
+  {
+    "comp_val": 2992,
+    "id": 6574,
+    "name": "Siege-Bouncer QB"
+  },
+  {
+    "comp_val": 1041,
+    "id": 6601,
+    "name": "PvP Goal Powerup"
+  },
+  {
+    "comp_val": 2414,
+    "id": 6603,
+    "name": "Mining Drill"
+  },
+  {
+    "comp_val": 2863,
+    "id": 6604,
+    "name": "Build Activator"
+  },
+  {
+    "comp_val": 2876,
+    "id": 6620,
+    "name": "PvP Capture Barrel"
+  },
+  {
+    "comp_val": 2880,
+    "id": 6623,
+    "name": "CT - Bull Test"
+  },
+  {
+    "comp_val": 2886,
+    "id": 6629,
+    "name": "CT - Motion Tracker Test"
+  },
+  {
+    "comp_val": 2924,
+    "id": 6697,
+    "name": "Invisible Phantom Volume 001"
+  },
+  {
+    "comp_val": 2934,
+    "id": 6708,
+    "name": "GF - Skull on Battle Trench"
+  },
+  {
+    "comp_val": 2944,
+    "id": 6726,
+    "name": "NS -  Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 2946,
+    "id": 6728,
+    "name": "NPC BLOCKER"
+  },
+  {
+    "comp_val": 2348,
+    "id": 6729,
+    "name": "Pirate Siege QB Switch"
+  },
+  {
+    "comp_val": 2682,
+    "id": 6815,
+    "name": "Randall's Exhibit Animation Test"
+  },
+  {
+    "comp_val": 2352,
+    "id": 7042,
+    "name": "Lightning Flash Trigger  (Humans only)"
+  },
+  {
+    "comp_val": 5212,
+    "id": 7109,
+    "name": "Gnarled Forest Bouncer"
+  },
+  {
+    "comp_val": 3198,
+    "id": 7157,
+    "name": "Gnarled Forest Bouncer Quickbuild"
+  },
+  {
+    "comp_val": 3265,
+    "id": 7242,
+    "name": "UGG_MB_HidePlayerSphere"
+  },
+  {
+    "comp_val": 2946,
+    "id": 7321,
+    "name": "Race Vol"
+  },
+  {
+    "comp_val": 3303,
+    "id": 7323,
+    "name": "Race Vol 200x100"
+  },
+  {
+    "comp_val": 3304,
+    "id": 7324,
+    "name": "Race Vol 200x200"
+  },
+  {
+    "comp_val": 3305,
+    "id": 7325,
+    "name": "Race Vol 200x400"
+  },
+  {
+    "comp_val": 1047,
+    "id": 7326,
+    "name": "Cough Activator"
+  },
+  {
+    "comp_val": 1704,
+    "id": 7410,
+    "name": "GF - Pet Dig Treasure Node Flag"
+  },
+  {
+    "comp_val": 1704,
+    "id": 7559,
+    "name": "AG - Pet Dig Treasure Node Bouncer"
+  },
+  {
+    "comp_val": 3333,
+    "id": 7576,
+    "name": "Test New Pet Bouncer"
+  },
+  {
+    "comp_val": 3334,
+    "id": 7577,
+    "name": "Race PowerBoost + 20"
+  },
+  {
+    "comp_val": 3338,
+    "id": 7581,
+    "name": "Test Pet Bouncer pet button"
+  },
+  {
+    "comp_val": 1704,
+    "id": 7612,
+    "name": "PR - Pet Dig Treasure Node Cylinder"
+  },
+  {
+    "comp_val": 5141,
+    "id": 7619,
+    "name": "PR - Pet Bouncer Button"
+  },
+  {
+    "comp_val": 3377,
+    "id": 7625,
+    "name": "PR - Pet Bouncer"
+  },
+  {
+    "comp_val": 4028,
+    "id": 7643,
+    "name": "PR - Partner Switch"
+  },
+  {
+    "comp_val": 7902,
+    "id": 7669,
+    "name": "Seagull"
+  },
+  {
+    "comp_val": 2492,
+    "id": 7670,
+    "name": "Flying disc Cinematic Placeholder"
+  },
+  {
+    "comp_val": 3472,
+    "id": 7804,
+    "name": "FV QB Bouncer from Smashable"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7903,
+    "name": "Organ-G"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7904,
+    "name": "Organ-GS"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7905,
+    "name": "Organ-A"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7906,
+    "name": "Organ-AS"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7907,
+    "name": "Organ-B"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7908,
+    "name": "Organ-C"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7909,
+    "name": "Organ-CS"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7910,
+    "name": "Organ-D"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7911,
+    "name": "Organ-DS"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7912,
+    "name": "Organ-E"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7913,
+    "name": "Organ-F"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7914,
+    "name": "Organ-FS"
+  },
+  {
+    "comp_val": 3978,
+    "id": 7915,
+    "name": "Organ-G2"
+  },
+  {
+    "comp_val": 4334,
+    "id": 8044,
+    "name": "UGG - Modular Car Garage 6 (current newest)"
+  },
+  {
+    "comp_val": 3744,
+    "id": 8119,
+    "name": "AG - Console Block"
+  },
+  {
+    "comp_val": 3755,
+    "id": 8140,
+    "name": "Paradox Faction Sign for Nimbus Station"
+  },
+  {
+    "comp_val": 3758,
+    "id": 8147,
+    "name": "Paradox Faction Hologoraphic Sign"
+  },
+  {
+    "comp_val": 3763,
+    "id": 8153,
+    "name": "Nimbus Station Large Paradox Sign"
+  },
+  {
+    "comp_val": 3781,
+    "id": 8172,
+    "name": "Test Falling Volume"
+  },
+  {
+    "comp_val": 3784,
+    "id": 8175,
+    "name": "Foot Race Goal Trigger Volume"
+  },
+  {
+    "comp_val": 3787,
+    "id": 8178,
+    "name": "Sentinel Faction Sign for Nimbus Station"
+  },
+  {
+    "comp_val": 3788,
+    "id": 8179,
+    "name": "Venture Faction Sign for Nimbus Station"
+  },
+  {
+    "comp_val": 3789,
+    "id": 8180,
+    "name": "Assembly Faction Sign for Nimbus Station"
+  },
+  {
+    "comp_val": 3790,
+    "id": 8181,
+    "name": "Pet Rock Rocket Signage"
+  },
+  {
+    "comp_val": 3758,
+    "id": 8196,
+    "name": "Sentinel Faction Hologoraphic Sign"
+  },
+  {
+    "comp_val": 3758,
+    "id": 8197,
+    "name": "Assembly Faction Hologoraphic Sign"
+  },
+  {
+    "comp_val": 3758,
+    "id": 8198,
+    "name": "Venture Faction Hologoraphic Sign"
+  },
+  {
+    "comp_val": 3857,
+    "id": 8290,
+    "name": "AG -Pet Dig  Pet Bouncer"
+  },
+  {
+    "comp_val": 3873,
+    "id": 8310,
+    "name": "test - maelstrom terrain fx"
+  },
+  {
+    "comp_val": 3901,
+    "id": 8419,
+    "name": "Trigger Wall"
+  },
+  {
+    "comp_val": 2187,
+    "id": 8435,
+    "name": "mg Spider Boss Activity Object"
+  },
+  {
+    "comp_val": 3958,
+    "id": 8575,
+    "name": "Trigger Wall 2 (Humans only)"
+  },
+  {
+    "comp_val": 3333,
+    "id": 8632,
+    "name": "Spider Boss QB pad"
+  },
+  {
+    "comp_val": 1704,
+    "id": 8635,
+    "name": "FV - Pet Dig Treasure Pet Dig"
+  },
+  {
+    "comp_val": 3171,
+    "id": 8661,
+    "name": "Spider Boss Pickup"
+  },
+  {
+    "comp_val": 3974,
+    "id": 8668,
+    "name": "FV - tree trigger box top"
+  },
+  {
+    "comp_val": 3975,
+    "id": 8669,
+    "name": "FV - tree trigger box bottom"
+  },
+  {
+    "comp_val": 1034,
+    "id": 9254,
+    "name": "MG - Spider Egg Spawn"
+  },
+  {
+    "comp_val": 1704,
+    "id": 9307,
+    "name": "AG - Pet Dig Node mission specific"
+  },
+  {
+    "comp_val": 1704,
+    "id": 9308,
+    "name": "GF - Pet Dig Node Crab"
+  },
+  {
+    "comp_val": 1103,
+    "id": 9462,
+    "name": "FV - Moving Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 2259,
+    "id": 9480,
+    "name": "Spider Boss Button"
+  },
+  {
+    "comp_val": 318,
+    "id": 9482,
+    "name": "NULL FX SPAWNER"
+  },
+  {
+    "comp_val": 4242,
+    "id": 9717,
+    "name": "NS - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 3744,
+    "id": 9732,
+    "name": "FV - Panda Block"
+  },
+  {
+    "comp_val": 4254,
+    "id": 9741,
+    "name": "Sound Trigger -- Box"
+  },
+  {
+    "comp_val": 4255,
+    "id": 9742,
+    "name": "Sound Trigger -- Sphere"
+  },
+  {
+    "comp_val": 4258,
+    "id": 9745,
+    "name": "AGP - maelstrom cloud fx"
+  },
+  {
+    "comp_val": 4307,
+    "id": 9824,
+    "name": "fx_fv_dragon_pillars"
+  },
+  {
+    "comp_val": 2441,
+    "id": 9830,
+    "name": "Proximity Icon Test Object"
+  },
+  {
+    "comp_val": 2441,
+    "id": 9833,
+    "name": "Proximity Icon Test Object2"
+  },
+  {
+    "comp_val": 4334,
+    "id": 9861,
+    "name": "Build Border Gnarled Forest Car"
+  },
+  {
+    "comp_val": 3744,
+    "id": 9889,
+    "name": "Blank Block"
+  },
+  {
+    "comp_val": 4391,
+    "id": 9928,
+    "name": "PR - Dogtag Collectible Spawner Test"
+  },
+  {
+    "comp_val": 4395,
+    "id": 9938,
+    "name": "VFX Tornado Sky BG"
+  },
+  {
+    "comp_val": 3873,
+    "id": 9939,
+    "name": "Effect - Test multiEffects Object"
+  },
+  {
+    "comp_val": 4408,
+    "id": 9980,
+    "name": "Build Border for Nimbus Station"
+  },
+  {
+    "comp_val": 4242,
+    "id": 9985,
+    "name": "AG - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 4242,
+    "id": 9989,
+    "name": "GF - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 4242,
+    "id": 9991,
+    "name": "PC - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 4242,
+    "id": 9992,
+    "name": "FV - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 4417,
+    "id": 10006,
+    "name": "VFX Property Imagination Transition"
+  },
+  {
+    "comp_val": 4421,
+    "id": 10010,
+    "name": "Gnarled Forest Cliff Bouncer Quickbuild"
+  },
+  {
+    "comp_val": 4422,
+    "id": 10011,
+    "name": "VFX: Property Img Transition Beam"
+  },
+  {
+    "comp_val": 4423,
+    "id": 10013,
+    "name": "VFX Tornado Debris & Vortex"
+  },
+  {
+    "comp_val": 4431,
+    "id": 10030,
+    "name": "AG - Lego Wall Ruins Phantom"
+  },
+  {
+    "comp_val": 4441,
+    "id": 10047,
+    "name": "Build border for LUPs station Rocket"
+  },
+  {
+    "comp_val": 4469,
+    "id": 10097,
+    "name": "FV Flying Dragon Fireball target"
+  },
+  {
+    "comp_val": 4517,
+    "id": 10222,
+    "name": "Scene Pivot Point"
+  },
+  {
+    "comp_val": 4521,
+    "id": 10226,
+    "name": "Property Orb"
+  },
+  {
+    "comp_val": 4535,
+    "id": 10285,
+    "name": "Ring"
+  },
+  {
+    "comp_val": 4535,
+    "id": 10286,
+    "name": "Ring_Trigger"
+  },
+  {
+    "comp_val": 4539,
+    "id": 10297,
+    "name": "VFX Bill's FX Tester"
+  },
+  {
+    "comp_val": 4623,
+    "id": 10389,
+    "name": "VFX Imagination Orb Homesteading"
+  },
+  {
+    "comp_val": 4624,
+    "id": 10393,
+    "name": "VFX Maelstrom Generator"
+  },
+  {
+    "comp_val": 4635,
+    "id": 10419,
+    "name": "VFX Avant Light Beams"
+  },
+  {
+    "comp_val": 4636,
+    "id": 10420,
+    "name": "VFX Property AG Birds"
+  },
+  {
+    "comp_val": 4642,
+    "id": 10437,
+    "name": "VFX Property Nimbus Rockets"
+  },
+  {
+    "comp_val": 5012,
+    "id": 10891,
+    "name": "LUP Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 5013,
+    "id": 10982,
+    "name": "Club LEGO Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 5015,
+    "id": 10985,
+    "name": "Starbase 3001 - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 2351,
+    "id": 11123,
+    "name": "Trigger Cube (GF Parrot Crash Only)"
+  },
+  {
+    "comp_val": 5764,
+    "id": 11343,
+    "name": "WBL - Quest - Key firefly metallic"
+  },
+  {
+    "comp_val": 5311,
+    "id": 11464,
+    "name": "FV RACE Dragon Fireball target"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11898,
+    "name": "FV Racetrack Mama Dragon"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11943,
+    "name": "FV Racetrack Troll"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11944,
+    "name": "FV Racetrack Lanterns"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11945,
+    "name": "FV Racetrack Start Flag"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11946,
+    "name": "FV Racetrack Pillar A"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11947,
+    "name": "FV Racetrack Pillar B"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11948,
+    "name": "FV Racetrack Pillar C"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11949,
+    "name": "FV Racetrack Pillar D"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11990,
+    "name": "FV Racetrack Animated Rocks and Branches"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11993,
+    "name": "FV Racetrack Drill 1"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11994,
+    "name": "FV Racetrack Drill 2"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11995,
+    "name": "FV Racetrack Drill 3"
+  },
+  {
+    "comp_val": 3398,
+    "id": 11996,
+    "name": "FV Racetrack Drill 4"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12006,
+    "name": "FV Racetrack Crowd - Spider Mama"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12007,
+    "name": "FV Racetrack Crowd - Darkling"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12008,
+    "name": "FV Racetrack Crowd - Darkling Pirate"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12009,
+    "name": "FV Racetrack Crowd - Gorilla"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12010,
+    "name": "FV Racetrack Crowd - Pirate Captain"
+  },
+  {
+    "comp_val": 3398,
+    "id": 12011,
+    "name": "FV Racetrack Crowd - Spiderling"
+  },
+  {
+    "comp_val": 5839,
+    "id": 12041,
+    "name": "NT - Sentinel Speed Pads"
+  },
+  {
+    "comp_val": 6097,
+    "id": 12045,
+    "name": "NT Armory Challenge Activator"
+  },
+  {
+    "comp_val": 5844,
+    "id": 12049,
+    "name": "AM - Collectable Flag Spawner - Heart"
+  },
+  {
+    "comp_val": 5845,
+    "id": 12050,
+    "name": "AM - Collectable Flag Spawner - Backpack"
+  },
+  {
+    "comp_val": 5846,
+    "id": 12051,
+    "name": "AM - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 5847,
+    "id": 12052,
+    "name": "AM - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 5949,
+    "id": 12192,
+    "name": "AM - Bone Pet Dig"
+  },
+  {
+    "comp_val": 5979,
+    "id": 12244,
+    "name": "Winter Present Collectable Spawner"
+  },
+  {
+    "comp_val": 5986,
+    "id": 12253,
+    "name": "AM - Bouncer Sentinel"
+  },
+  {
+    "comp_val": 5989,
+    "id": 12254,
+    "name": "AM - Bouncer Venture"
+  },
+  {
+    "comp_val": 5992,
+    "id": 12267,
+    "name": "Winter 2010 Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 5996,
+    "id": 12271,
+    "name": "AM - Bouncer Sentinel Quickbuild"
+  },
+  {
+    "comp_val": 5997,
+    "id": 12272,
+    "name": "AM - Bouncer Venture Quickbuild"
+  },
+  {
+    "comp_val": 3307,
+    "id": 12293,
+    "name": "FB - Rock Broken"
+  },
+  {
+    "comp_val": 6066,
+    "id": 12382,
+    "name": "(do not use) POI Trigger Wall"
+  },
+  {
+    "comp_val": 6067,
+    "id": 12383,
+    "name": "(do not use) POI Trigger Wall"
+  },
+  {
+    "comp_val": 6068,
+    "id": 12384,
+    "name": "POI Trigger"
+  },
+  {
+    "comp_val": 6084,
+    "id": 12404,
+    "name": "Compass Collectable Spawner"
+  },
+  {
+    "comp_val": 6085,
+    "id": 12405,
+    "name": "NT Treasure Chest Collectable Spawner"
+  },
+  {
+    "comp_val": 6086,
+    "id": 12406,
+    "name": "Scavenger Hunt Item Collectable Spawner"
+  },
+  {
+    "comp_val": 6087,
+    "id": 12407,
+    "name": "NT - Collectable Flag Spawner - Backpack"
+  },
+  {
+    "comp_val": 6100,
+    "id": 12420,
+    "name": "Parrot Collectable Spawner"
+  },
+  {
+    "comp_val": 6128,
+    "id": 12487,
+    "name": "AM -Large Maelstrom geyser"
+  },
+  {
+    "comp_val": 6131,
+    "id": 12494,
+    "name": "NT - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 6163,
+    "id": 12515,
+    "name": "NT Venture Compass Collectable Spawner 2"
+  },
+  {
+    "comp_val": 6174,
+    "id": 12543,
+    "name": "VE Instance - Collectable"
+  },
+  {
+    "comp_val": 6178,
+    "id": 12551,
+    "name": "Venture Explore Invisible Console"
+  },
+  {
+    "comp_val": 6212,
+    "id": 12631,
+    "name": "Skullkin Area Trigger Volume"
+  },
+  {
+    "comp_val": 6301,
+    "id": 12972,
+    "name": "CP - Start Area Trigger Volume"
+  },
+  {
+    "comp_val": 6302,
+    "id": 12973,
+    "name": "CP - zipper Area Trigger Volume"
+  },
+  {
+    "comp_val": 6303,
+    "id": 12974,
+    "name": "CP - Pit Area Trigger Volume"
+  },
+  {
+    "comp_val": 6304,
+    "id": 12975,
+    "name": "CP - Fingers Area Trigger Volume"
+  },
+  {
+    "comp_val": 6314,
+    "id": 13018,
+    "name": "NT - Parrot Collectable Spawner"
+  },
+  {
+    "comp_val": 6316,
+    "id": 13022,
+    "name": "AM - Skullkin Bouncer"
+  },
+  {
+    "comp_val": 6347,
+    "id": 13052,
+    "name": "AM - Scroll Collectable Spawner"
+  },
+  {
+    "comp_val": 6316,
+    "id": 13053,
+    "name": "AM - QB Skullkin Bouncer"
+  },
+  {
+    "comp_val": 6351,
+    "id": 13056,
+    "name": "CP - Collectable Scroll Spawner"
+  },
+  {
+    "comp_val": 6370,
+    "id": 13095,
+    "name": "Med Prop - VFX Tornado Sky BG"
+  },
+  {
+    "comp_val": 6371,
+    "id": 13098,
+    "name": "CF - Pet Dig Node Skeleton pet"
+  },
+  {
+    "comp_val": 6373,
+    "id": 13105,
+    "name": "AM - Skill Check Cylinder for Sensei Wu"
+  },
+  {
+    "comp_val": 6375,
+    "id": 13107,
+    "name": "TEST NJ Trigger Cube (Humans only)"
+  },
+  {
+    "comp_val": 6376,
+    "id": 13108,
+    "name": "NSW - maelstrom cloud fx"
+  },
+  {
+    "comp_val": 6380,
+    "id": 13116,
+    "name": "AM - Dropship Turbine"
+  },
+  {
+    "comp_val": 6448,
+    "id": 13244,
+    "name": "Shock Panel"
+  },
+  {
+    "comp_val": 6449,
+    "id": 13254,
+    "name": "NT_FX_sentinal_ground_arrows"
+  },
+  {
+    "comp_val": 6511,
+    "id": 13387,
+    "name": "NT - Venture Logo Breadcrumb"
+  },
+  {
+    "comp_val": 6511,
+    "id": 13406,
+    "name": "NT - Sentinel Logo Breadcrumb"
+  },
+  {
+    "comp_val": 6511,
+    "id": 13422,
+    "name": "NT - Assembly Logo Breadcrumb"
+  },
+  {
+    "comp_val": 6511,
+    "id": 13425,
+    "name": "NT - Paradox Logo Breadcrumb"
+  },
+  {
+    "comp_val": 6606,
+    "id": 13499,
+    "name": "Imagination Beam Trigger"
+  },
+  {
+    "comp_val": 6654,
+    "id": 13563,
+    "name": "NT - Assembly Logo Breadcrumb 2"
+  },
+  {
+    "comp_val": 6655,
+    "id": 13564,
+    "name": "NT - Venture Logo Breadcrumb 2"
+  },
+  {
+    "comp_val": 6656,
+    "id": 13565,
+    "name": "NT - Sentinel Logo Breadcrumb 2"
+  },
+  {
+    "comp_val": 6657,
+    "id": 13566,
+    "name": "NT - Paradox Logo Breadcrumb 2"
+  },
+  {
+    "comp_val": 6691,
+    "id": 13632,
+    "name": "Clear threat list  Trigger Wall"
+  },
+  {
+    "comp_val": 6792,
+    "id": 13736,
+    "name": "VFX Tornado Sky BG MED"
+  },
+  {
+    "comp_val": 6817,
+    "id": 13808,
+    "name": "NT - Blue X FX object"
+  },
+  {
+    "comp_val": 6957,
+    "id": 14004,
+    "name": "NT - Venture Cannon Bouncer"
+  },
+  {
+    "comp_val": 6958,
+    "id": 14005,
+    "name": "Test Waypoint Arrow"
+  },
+  {
+    "comp_val": 6958,
+    "id": 14006,
+    "name": "Test Waypoint Arrow Outline"
+  },
+  {
+    "comp_val": 7019,
+    "id": 14082,
+    "name": "Test phantom mopp shape"
+  },
+  {
+    "comp_val": 7138,
+    "id": 14129,
+    "name": "NT - Dukes Blast Door"
+  },
+  {
+    "comp_val": 7024,
+    "id": 14130,
+    "name": "Nexus Tower -- Venture Speed Pad Booster"
+  },
+  {
+    "comp_val": 3758,
+    "id": 14137,
+    "name": "Assembly Advertisement to Nexus Tower"
+  },
+  {
+    "comp_val": 3789,
+    "id": 14138,
+    "name": "Assembly Advertisement Banner"
+  },
+  {
+    "comp_val": 7032,
+    "id": 14144,
+    "name": "Armory Air Pusher Trigger"
+  },
+  {
+    "comp_val": 7976,
+    "id": 14154,
+    "name": "Proto - Chase Lightning Moving Platform"
+  },
+  {
+    "comp_val": 7040,
+    "id": 14155,
+    "name": "NT - Sentinel Air Bouncer"
+  },
+  {
+    "comp_val": 7042,
+    "id": 14175,
+    "name": "NT - Bouncer Sentinel Quickbuild"
+  },
+  {
+    "comp_val": 7046,
+    "id": 14179,
+    "name": "NT - Assembly Hall Bouncer Quickbuild"
+  },
+  {
+    "comp_val": 7052,
+    "id": 14201,
+    "name": "Prototype NJ - gem/orb"
+  },
+  {
+    "comp_val": 7127,
+    "id": 14293,
+    "name": "NT - Hidden darkitect interactable"
+  },
+  {
+    "comp_val": 7546,
+    "id": 14335,
+    "name": "NJ - Gate Chamber Puzzle Ceiling Tile Falling"
+  },
+  {
+    "comp_val": 7548,
+    "id": 14336,
+    "name": "NJ - Gate Chamber Puzzle Ceiling Tile Fire"
+  },
+  {
+    "comp_val": 7174,
+    "id": 14365,
+    "name": "NJ - Ninjago Bouncer"
+  },
+  {
+    "comp_val": 7175,
+    "id": 14366,
+    "name": "NJ - Skulken Bouncer"
+  },
+  {
+    "comp_val": 7230,
+    "id": 14423,
+    "name": "NJ - Skulken Bouncer QB"
+  },
+  {
+    "comp_val": 7231,
+    "id": 14424,
+    "name": "NJ - Ninjago Bouncer QB"
+  },
+  {
+    "comp_val": 5986,
+    "id": 14430,
+    "name": "TEST JETPACK LAUNCHER"
+  },
+  {
+    "comp_val": 7264,
+    "id": 14466,
+    "name": "FT - Spider Boss ROF Target"
+  },
+  {
+    "comp_val": 7273,
+    "id": 14505,
+    "name": "PrimitiveModel phantom"
+  },
+  {
+    "comp_val": 7274,
+    "id": 14510,
+    "name": "PrimitiveModel phantom (humans only)"
+  },
+  {
+    "comp_val": 7275,
+    "id": 14513,
+    "name": "PrimitiveModel phantom (NPC only)"
+  },
+  {
+    "comp_val": 7276,
+    "id": 14514,
+    "name": "PrimitiveModel Bouncer"
+  },
+  {
+    "comp_val": 7292,
+    "id": 14540,
+    "name": "1 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7293,
+    "id": 14541,
+    "name": "2 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7294,
+    "id": 14542,
+    "name": "3 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7295,
+    "id": 14543,
+    "name": "4 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7296,
+    "id": 14544,
+    "name": "5 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7297,
+    "id": 14545,
+    "name": "6 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7298,
+    "id": 14546,
+    "name": "7 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 7299,
+    "id": 14547,
+    "name": "8 - Spider Target Zone Sense Volume"
+  },
+  {
+    "comp_val": 5986,
+    "id": 14593,
+    "name": "TEST JETPACK PAD DISTANCE"
+  },
+  {
+    "comp_val": 5986,
+    "id": 14595,
+    "name": "TEST JETPACK DISTANCE SHORT"
+  },
+  {
+    "comp_val": 7471,
+    "id": 15842,
+    "name": "Invisible Jetpack Physics Phantom"
+  },
+  {
+    "comp_val": 7472,
+    "id": 15846,
+    "name": "NJ - earth elemental key"
+  },
+  {
+    "comp_val": 7473,
+    "id": 15847,
+    "name": "NJ - lightning elemental key"
+  },
+  {
+    "comp_val": 7474,
+    "id": 15848,
+    "name": "NJ - ice elemental key"
+  },
+  {
+    "comp_val": 7475,
+    "id": 15849,
+    "name": "NJ - fire elemental key"
+  },
+  {
+    "comp_val": 7492,
+    "id": 15850,
+    "name": "Rain of arrows mesh for vfx"
+  },
+  {
+    "comp_val": 7528,
+    "id": 15912,
+    "name": "fx_boom locator for the gorrila"
+  },
+  {
+    "comp_val": 7529,
+    "id": 15913,
+    "name": "fx_pirate_ship_boom_locator"
+  },
+  {
+    "comp_val": 7551,
+    "id": 16013,
+    "name": "NJMON - Collectable Flag Spawner - Backpack"
+  },
+  {
+    "comp_val": 7552,
+    "id": 16014,
+    "name": "NJMON - Collectable Flag Spawner - Heart"
+  },
+  {
+    "comp_val": 7553,
+    "id": 16015,
+    "name": "NJMON - Cole's Climbing Flag Collectible Spawner"
+  },
+  {
+    "comp_val": 7554,
+    "id": 16016,
+    "name": "NJMON - Imagination Brick Collectible Spawner"
+  },
+  {
+    "comp_val": 7555,
+    "id": 16017,
+    "name": "NJMON - Johnny Thunder Collectable Spawner"
+  },
+  {
+    "comp_val": 7572,
+    "id": 16044,
+    "name": "Outer Jetpack Collision Volume"
+  },
+  {
+    "comp_val": 5986,
+    "id": 16045,
+    "name": "TEST jetpack launcher cutoff"
+  },
+  {
+    "comp_val": 7630,
+    "id": 16062,
+    "name": "NJ - flamejet brick"
+  },
+  {
+    "comp_val": 7682,
+    "id": 16107,
+    "name": "nj mon - qb catapult pad"
+  },
+  {
+    "comp_val": 7591,
+    "id": 16135,
+    "name": "NJ - Treasure Pet Dig"
+  },
+  {
+    "comp_val": 7592,
+    "id": 16136,
+    "name": "FT - Spider Boss Landing Target"
+  },
+  {
+    "comp_val": 7600,
+    "id": 16143,
+    "name": "NJ - button player activated"
+  },
+  {
+    "comp_val": 7607,
+    "id": 16156,
+    "name": "NJ earth - Golden Earth Scythe asset"
+  },
+  {
+    "comp_val": 7611,
+    "id": 16161,
+    "name": "NJ - mission Pet Dig 1 M1918"
+  },
+  {
+    "comp_val": 7613,
+    "id": 16162,
+    "name": "NJ - mission Pet Dig 2 M1919"
+  },
+  {
+    "comp_val": 7614,
+    "id": 16163,
+    "name": "NJ - mission Pet Dig x"
+  },
+  {
+    "comp_val": 7615,
+    "id": 16164,
+    "name": "NJ - mission Pet Dig 4 M1921"
+  },
+  {
+    "comp_val": 7616,
+    "id": 16165,
+    "name": "NJ - mission Pet Dig 5 M1922"
+  },
+  {
+    "comp_val": 7617,
+    "id": 16166,
+    "name": "NJ - mission Pet Dig 3 M1920"
+  },
+  {
+    "comp_val": 7552,
+    "id": 16178,
+    "name": "NJMON - Collectable Flag Spawner - Cole"
+  },
+  {
+    "comp_val": 7630,
+    "id": 16194,
+    "name": "nj mon - flame jet trigger humans only"
+  },
+  {
+    "comp_val": 7698,
+    "id": 16288,
+    "name": "NJ - Monastery Multiplayer Icon"
+  },
+  {
+    "comp_val": 7706,
+    "id": 16300,
+    "name": "NJ earth - Golden Ice Shuriken asset"
+  },
+  {
+    "comp_val": 7707,
+    "id": 16301,
+    "name": "NJ earth - Golden Lightning Nunchuck asset"
+  },
+  {
+    "comp_val": 7708,
+    "id": 16302,
+    "name": "NJ earth - Golden Fire Sword asset"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16305,
+    "name": "NS - Signage - Avant Gardens"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16307,
+    "name": "NS - Signage - Brick Annex"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16310,
+    "name": "NS - Signage - Gnarled Forest"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16311,
+    "name": "NS - Signage - Concert"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16313,
+    "name": "NS - Signage - Forbidden Valley"
+  },
+  {
+    "comp_val": 3758,
+    "id": 16314,
+    "name": "NS - Signage - Race Place"
+  },
+  {
+    "comp_val": 7722,
+    "id": 16316,
+    "name": "NJ - MonasteryTower Camera Volume"
+  }
+]

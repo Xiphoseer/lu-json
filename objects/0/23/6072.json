@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2547,
+    "2": 5479,
+    "3": 2537,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Wood Pile Model",
+  "gate_version": null,
+  "id": 6072,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Wood Pile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

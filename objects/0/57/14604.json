@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NJ Master lightning Kit",
+  "components": {
+    "11": 7167,
+    "2": 14283,
+    "9": 0
+  },
+  "description": "NJ Master Lightning Kit",
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14604,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Master Lightning Spinjitzu Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1418
+    }
+  ],
+  "type": "Loot"
+}

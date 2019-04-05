@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6080,
+    "3": 2801,
+    "7": 578
+  },
+  "description": "copy of AG - Block 3 with a destructible added to it",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6510,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

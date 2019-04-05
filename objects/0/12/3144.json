@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 1831,
+    "5": 345,
+    "9": 0
+  },
+  "description": "Nimbus Park NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3144,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Cam Bot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 119
+    }
+  ],
+  "type": "NPC"
+}

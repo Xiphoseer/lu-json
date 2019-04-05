@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5327,
+    "2": 10718,
+    "3": 4992,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Pirate Steering Wheel Toy Model",
+  "gate_version": null,
+  "id": 10871,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward PirateSteeringWheelToy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

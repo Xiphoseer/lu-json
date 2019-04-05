@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6080,
+    "2": 12131
+  },
+  "description": "Mission Item",
+  "displayName": "Frostburgh Delivery Package",
+  "gate_version": "dec2010content",
+  "id": 12380,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Frostburgh Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

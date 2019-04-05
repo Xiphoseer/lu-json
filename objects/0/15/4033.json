@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3464,
+    "3": 1979,
+    "5": 631,
+    "7": 346
+  },
+  "description": "smashable in AG maelstrom spike scene that allows you to get the collection build bricks without fighting the robotonists",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4033,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Smashable fence for mosaic bricks",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

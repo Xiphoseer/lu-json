@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 1000 coins",
+  "components": {
+    "11": 2887,
+    "2": 6420
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Light Blue Gem",
+  "gate_version": null,
+  "id": 6865,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Light Blue Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6194,
+    "17": 471,
+    "2": 12390,
+    "31": 44,
+    "5": 1385,
+    "60": 108,
+    "7": 1756,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Murgle Blotch - Stromling Champion",
+  "gate_version": "nimbusinstance",
+  "id": 12600,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Super Stromling Boss",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 485
+    }
+  ],
+  "type": "Enemies"
+}

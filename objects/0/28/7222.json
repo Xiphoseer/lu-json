@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 103,
+    "2": 6802,
+    "3": 2318,
+    "35": 134,
+    "5": 993
+  },
+  "description": "Using the old rocket flyby",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7222,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocketeer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

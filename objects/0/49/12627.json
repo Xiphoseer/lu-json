@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 2 AP + PBAOE damage, like Knights roundhouse",
+  "components": {
+    "11": 6194,
+    "2": 12417,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Ripsaw",
+  "gate_version": "auramar",
+  "id": 12627,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ripsaw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1011
+    }
+  ],
+  "type": "Loot"
+}

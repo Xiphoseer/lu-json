@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5811,
+    "2": 11512,
+    "3": 5604,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Defense Force 1 Model",
+  "gate_version": "nexustower",
+  "id": 11760,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Defense Force 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,44 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 122,
+    "17": 546,
+    "2": 13538,
+    "3": 1777,
+    "35": 615,
+    "5": 1642,
+    "7": 306,
+    "73": 168
+  },
+  "description": "NT Mon Nya Vendor",
+  "displayName": "Nya - Ninjago Gear Vendor",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 13799,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ Mon - Nya vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

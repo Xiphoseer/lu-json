@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3084,
+    "3": 1786,
+    "5": 618
+  },
+  "description": "new Youreeka fountain base, with pop-up alert status indicator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3674,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Fountain with Alert Indicator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

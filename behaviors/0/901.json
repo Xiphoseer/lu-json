@@ -1,0 +1,20 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/0/901.json"
+    }
+  },
+  "behaviorID": 901,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action": 905.0,
+    "angle": 90.0,
+    "max range": 7.0,
+    "max targets": 1.0,
+    "min range": 0.0,
+    "miss action": 902.0,
+    "target_enemy": 1.0
+  },
+  "templateID": 2
+}

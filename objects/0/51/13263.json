@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6558,
+    "2": 12996,
+    "28": 314,
+    "3": 6458,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Sentinel Startalon Rocket Engine",
+  "gate_version": "factionvehicles",
+  "id": 13263,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Sentinel Rockets Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

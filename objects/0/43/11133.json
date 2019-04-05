@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10883,
+    "3": 2994,
+    "67": 0,
+    "97": 0
+  },
+  "description": "Place on a LUP Station Rocket Launchpad (11131)",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11133,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Rocket Launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

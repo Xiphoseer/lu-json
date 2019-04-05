@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Imagination element Switch spinner trap",
+  "components": {
+    "2": 14871,
+    "25": 7,
+    "3": 7604,
+    "39": 115,
+    "5": 1628
+  },
+  "description": "",
+  "displayName": "NJ - Imag - Switch Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16153,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Imag - Switch Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

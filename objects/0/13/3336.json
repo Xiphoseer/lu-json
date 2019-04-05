@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2787,
+    "3": 1589,
+    "37": 1,
+    "5": 383
+  },
+  "description": "Temporary Nest asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3336,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Nest Temp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5400,
+    "46": 0,
+    "5": 325
+  },
+  "description": "Racecar placeholder",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6005,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Racecar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Mount"
+}

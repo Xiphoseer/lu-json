@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4522,
+    "2": 9293,
+    "28": 178,
+    "3": 4061,
+    "42": 0,
+    "63": 7
+  },
+  "description": null,
+  "displayName": "Paragon Warp Rear Bumper 3",
+  "gate_version": null,
+  "id": 9434,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car3_RearBumper3_g",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

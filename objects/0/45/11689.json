@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5740,
+    "2": 11441,
+    "3": 5533,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Doom Star Trench Model 7",
+  "gate_version": "jan2011content",
+  "id": 11689,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Doom Star Trench 7",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

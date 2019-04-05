@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 14542,
+    "23": 65,
+    "40": 7475,
+    "7": 2054
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Fire.",
+  "displayName": "Fire Key",
+  "gate_version": "njhub",
+  "id": 15849,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - fire elemental key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

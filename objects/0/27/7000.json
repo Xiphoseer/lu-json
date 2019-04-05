@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6580,
+    "3": 3067,
+    "5": 974
+  },
+  "description": "Ambient Crab",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7000,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Crab 0",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 2 IP",
+  "components": {
+    "11": 3902,
+    "2": 8205,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Tights",
+  "gate_version": null,
+  "id": 8650,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tights",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

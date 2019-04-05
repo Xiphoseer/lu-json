@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 295,
+    "2": 8746,
+    "35": 377,
+    "7": 307
+  },
+  "description": "Epsilon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Epsilon",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

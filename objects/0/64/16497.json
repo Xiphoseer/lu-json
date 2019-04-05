@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Monestary Mission Item",
+  "components": {
+    "11": 7724,
+    "2": 15243
+  },
+  "description": "Return this to Kai in the Monastery.",
+  "displayName": "Fire Ninja Kit",
+  "gate_version": "njhub",
+  "id": 16497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Acolyte Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

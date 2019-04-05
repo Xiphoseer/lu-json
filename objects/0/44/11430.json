@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11182,
+    "25": 0,
+    "27": 0,
+    "3": 5306
+  },
+  "description": "NJ Drag racer moving platform",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11430,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ- Dragracer moving platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

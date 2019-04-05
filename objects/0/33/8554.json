@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8108,
+    "3": 3944
+  },
+  "description": "Prototype object for racing",
+  "displayName": "JITestTrackObj2",
+  "gate_version": null,
+  "id": 8554,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "JITestTrackObj2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

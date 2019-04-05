@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3 IP",
+  "components": {
+    "11": 6982,
+    "2": 13816,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Spiderling Shirt",
+  "gate_version": "nexustower",
+  "id": 14105,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spiderling Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3461,
+    "3": 1977,
+    "5": 628
+  },
+  "description": "AG Test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4025,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Rockets",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

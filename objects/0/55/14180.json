@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13889,
+    "3": 7047
+  },
+  "description": null,
+  "displayName": "Imagimeter Base",
+  "gate_version": null,
+  "id": 14180,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Nexus Tower Imagimeter Base Static Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

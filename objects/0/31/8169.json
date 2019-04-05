@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test Venture Grunt Helm",
+  "components": {
+    "11": 3576,
+    "2": 7713
+  },
+  "description": "test Venture Grunt Helm",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8169,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Venture Grunt Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

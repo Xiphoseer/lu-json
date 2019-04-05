@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4365,
+    "40": 2246,
+    "5": 692
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4935,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - Obj Vol Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

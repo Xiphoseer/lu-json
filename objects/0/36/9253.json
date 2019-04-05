@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5052,
+    "20": 3984,
+    "5": 1106
+  },
+  "description": "test death volume w script 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9253,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST GF-race death volume 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

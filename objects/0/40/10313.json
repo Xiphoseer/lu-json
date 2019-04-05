@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Community Reward - 2 IP 2 AP",
+  "components": {
+    "11": 5065,
+    "2": 10159,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Brown Owl Backpack",
+  "gate_version": null,
+  "id": 10313,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Brown Owl on a Perch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

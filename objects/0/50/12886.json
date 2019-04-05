@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP + FX",
+  "components": {
+    "11": 6396,
+    "2": 12672,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cyborg Helmet",
+  "gate_version": "nexustower",
+  "id": 12886,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cyborg Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

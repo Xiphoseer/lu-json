@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 193,
+    "2": 6104,
+    "35": 239,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__Test Giver for Ian H",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6536,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "IansMissionGiver",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,598 @@
+[
+  {
+    "id": 7,
+    "name": "? - Pirate Ship"
+  },
+  {
+    "id": 153,
+    "name": "wall2x2x2"
+  },
+  {
+    "id": 154,
+    "name": "wall2x16x2"
+  },
+  {
+    "id": 155,
+    "name": "wall2x16x10"
+  },
+  {
+    "id": 156,
+    "name": "wall2x16x20"
+  },
+  {
+    "id": 157,
+    "name": "wall4x4x4"
+  },
+  {
+    "id": 158,
+    "name": "wall4x4x12"
+  },
+  {
+    "id": 159,
+    "name": "wall8x8x10"
+  },
+  {
+    "id": 160,
+    "name": "wall16x16x1"
+  },
+  {
+    "id": 161,
+    "name": "wall16x16x10"
+  },
+  {
+    "id": 162,
+    "name": "wall32x32x1"
+  },
+  {
+    "id": 176,
+    "name": "Spawner"
+  },
+  {
+    "id": 936,
+    "name": "LUP_tb14"
+  },
+  {
+    "id": 1558,
+    "name": "? - pillars_v_dl1_sub_pillar_shaft"
+  },
+  {
+    "id": 1721,
+    "name": "Cylinder 10x10x1"
+  },
+  {
+    "id": 1814,
+    "name": "scale test object - 16x16 short door"
+  },
+  {
+    "id": 1815,
+    "name": "scale test object - 16x16 tall doorway 2"
+  },
+  {
+    "id": 1816,
+    "name": "scale test object - 16x16 tall dooorway"
+  },
+  {
+    "id": 1817,
+    "name": "scale test object - 16x22 short doorway"
+  },
+  {
+    "id": 1818,
+    "name": "scale test object - 16x32 short doorway"
+  },
+  {
+    "id": 1819,
+    "name": "scale test object - 16x64 short doorway"
+  },
+  {
+    "id": 1820,
+    "name": "scale test object - 32x32 tall doorway"
+  },
+  {
+    "id": 1821,
+    "name": "scale test object - upper story"
+  },
+  {
+    "id": 1829,
+    "name": "scale test object - Modular Corner Base"
+  },
+  {
+    "id": 1830,
+    "name": "scale test object - Large Opening Base"
+  },
+  {
+    "id": 1831,
+    "name": "scale test object - Medium Opening Base"
+  },
+  {
+    "id": 1832,
+    "name": "scale test object - Partial Roof Cap 1"
+  },
+  {
+    "id": 1833,
+    "name": "scale test object - Partial Roof Cap 2"
+  },
+  {
+    "id": 1834,
+    "name": "scale test object - Roof Cap"
+  },
+  {
+    "id": 1835,
+    "name": "scale test object - Small Door Base"
+  },
+  {
+    "id": 1836,
+    "name": "scale test object - Upper Story Blank"
+  },
+  {
+    "id": 1837,
+    "name": "scale test object - Upper Story Corner"
+  },
+  {
+    "id": 1838,
+    "name": "scale test object - Upper Story Windows"
+  },
+  {
+    "id": 1860,
+    "name": "Tarrano Forest - Tarbucks"
+  },
+  {
+    "id": 1896,
+    "name": "scale test object - 6x6x6"
+  },
+  {
+    "id": 1897,
+    "name": "scale test object - 2x2x10"
+  },
+  {
+    "id": 1898,
+    "name": "scale test object - 20x20x1"
+  },
+  {
+    "id": 1899,
+    "name": "scale test object - 16x16x10 - hollow"
+  },
+  {
+    "id": 1900,
+    "name": "scale test object - 16x16x10"
+  },
+  {
+    "id": 1901,
+    "name": "scale test object - 8x8x12"
+  },
+  {
+    "id": 1902,
+    "name": "scale test object - 8x8x5"
+  },
+  {
+    "id": 1903,
+    "name": "scale test object - 4x4x4"
+  },
+  {
+    "id": 1925,
+    "name": "Scale Test Asset - Misc"
+  },
+  {
+    "id": 2452,
+    "name": ""
+  },
+  {
+    "id": 2453,
+    "name": "GF - Curved Stone Stairs"
+  },
+  {
+    "id": 3074,
+    "name": "GF - SG - Ship Deck"
+  },
+  {
+    "id": 3473,
+    "name": "Scale Test Object - cyl 20 x 2"
+  },
+  {
+    "id": 3532,
+    "name": "test - light sphere"
+  },
+  {
+    "id": 6073,
+    "name": "test - cs 1"
+  },
+  {
+    "id": 6074,
+    "name": "test - cs 2"
+  },
+  {
+    "id": 6075,
+    "name": "test - cs 3"
+  },
+  {
+    "id": 6076,
+    "name": "test - cs 4"
+  },
+  {
+    "id": 6077,
+    "name": "test - cs 5"
+  },
+  {
+    "id": 6078,
+    "name": "test - cs 6"
+  },
+  {
+    "id": 6079,
+    "name": "test - cs 7"
+  },
+  {
+    "id": 6080,
+    "name": "test - cs 8"
+  },
+  {
+    "id": 6081,
+    "name": "test - cs 9"
+  },
+  {
+    "id": 6082,
+    "name": "test - cs 10"
+  },
+  {
+    "id": 6083,
+    "name": "test - cs 11"
+  },
+  {
+    "id": 6084,
+    "name": "test - cs 12"
+  },
+  {
+    "id": 6106,
+    "name": "test - cs 13"
+  },
+  {
+    "id": 6107,
+    "name": "test - cs 14"
+  },
+  {
+    "id": 6108,
+    "name": "test - cs 15"
+  },
+  {
+    "id": 6109,
+    "name": "test - cs 16"
+  },
+  {
+    "id": 6110,
+    "name": "test - cs 17"
+  },
+  {
+    "id": 6111,
+    "name": "test - cs 18"
+  },
+  {
+    "id": 6112,
+    "name": "test - cs 19"
+  },
+  {
+    "id": 6113,
+    "name": "test - cs 20"
+  },
+  {
+    "id": 6114,
+    "name": "test - cs 21"
+  },
+  {
+    "id": 6115,
+    "name": "test - cs 22"
+  },
+  {
+    "id": 6116,
+    "name": "test - cs 23"
+  },
+  {
+    "id": 6117,
+    "name": "test - cs 24"
+  },
+  {
+    "id": 6118,
+    "name": "test - cs 25"
+  },
+  {
+    "id": 6119,
+    "name": "test - cs 26"
+  },
+  {
+    "id": 6120,
+    "name": "test - cs 27"
+  },
+  {
+    "id": 6121,
+    "name": "test - cs 28"
+  },
+  {
+    "id": 6122,
+    "name": "test - cs 29"
+  },
+  {
+    "id": 6123,
+    "name": "test - cs 30"
+  },
+  {
+    "id": 6124,
+    "name": "test - cs 31"
+  },
+  {
+    "id": 6125,
+    "name": "test - cs 32"
+  },
+  {
+    "id": 6126,
+    "name": "test - cs 33"
+  },
+  {
+    "id": 6127,
+    "name": "test - cs 34"
+  },
+  {
+    "id": 6128,
+    "name": "test - cs 35"
+  },
+  {
+    "id": 6129,
+    "name": "test - cs 36"
+  },
+  {
+    "id": 6130,
+    "name": "test - cs 37"
+  },
+  {
+    "id": 6131,
+    "name": "test - cs 38"
+  },
+  {
+    "id": 6132,
+    "name": "test - cs 39"
+  },
+  {
+    "id": 6133,
+    "name": "test - cs 40"
+  },
+  {
+    "id": 6134,
+    "name": "test - cs 41"
+  },
+  {
+    "id": 6135,
+    "name": "test - cs 42"
+  },
+  {
+    "id": 6136,
+    "name": "test - cs 43"
+  },
+  {
+    "id": 6137,
+    "name": "test - cs 44"
+  },
+  {
+    "id": 6138,
+    "name": "test - cs 45"
+  },
+  {
+    "id": 6139,
+    "name": "test - cs 46"
+  },
+  {
+    "id": 6140,
+    "name": "test - cs 47"
+  },
+  {
+    "id": 6141,
+    "name": "test - cs 48"
+  },
+  {
+    "id": 6142,
+    "name": "test - cs 49"
+  },
+  {
+    "id": 6143,
+    "name": "test - cs 50"
+  },
+  {
+    "id": 6144,
+    "name": "test - cs 51"
+  },
+  {
+    "id": 6145,
+    "name": "test - cs 52"
+  },
+  {
+    "id": 6146,
+    "name": "test - cs 53"
+  },
+  {
+    "id": 6147,
+    "name": "test - cs 54"
+  },
+  {
+    "id": 6148,
+    "name": "test - cs 55"
+  },
+  {
+    "id": 6149,
+    "name": "test - cs 56"
+  },
+  {
+    "id": 6150,
+    "name": "test - cs 57"
+  },
+  {
+    "id": 6151,
+    "name": "test - cs 58"
+  },
+  {
+    "id": 6152,
+    "name": "test - cs 59"
+  },
+  {
+    "id": 6153,
+    "name": "test - cs 60"
+  },
+  {
+    "id": 6154,
+    "name": "test - cs 61"
+  },
+  {
+    "id": 6155,
+    "name": "test - cs 62"
+  },
+  {
+    "id": 6156,
+    "name": "test - cs 63"
+  },
+  {
+    "id": 6157,
+    "name": "test - cs 64"
+  },
+  {
+    "id": 6158,
+    "name": "test - cs 65"
+  },
+  {
+    "id": 6159,
+    "name": "test - cs 66"
+  },
+  {
+    "id": 6160,
+    "name": "test - cs 67"
+  },
+  {
+    "id": 6161,
+    "name": "test - cs 68"
+  },
+  {
+    "id": 6162,
+    "name": "test - cs 69"
+  },
+  {
+    "id": 6163,
+    "name": "test - cs 70"
+  },
+  {
+    "id": 6164,
+    "name": "test - cs 71"
+  },
+  {
+    "id": 6165,
+    "name": "test - cs 72"
+  },
+  {
+    "id": 6166,
+    "name": "test - cs 73"
+  },
+  {
+    "id": 6167,
+    "name": "test - cs 74"
+  },
+  {
+    "id": 6168,
+    "name": "test - cs 75"
+  },
+  {
+    "id": 6169,
+    "name": "test - cs 76"
+  },
+  {
+    "id": 6170,
+    "name": "test - cs 77"
+  },
+  {
+    "id": 6171,
+    "name": "test - cs 78"
+  },
+  {
+    "id": 6172,
+    "name": "test - cs 79"
+  },
+  {
+    "id": 6173,
+    "name": "test - cs 80"
+  },
+  {
+    "id": 6174,
+    "name": "test - cs 81"
+  },
+  {
+    "id": 6175,
+    "name": "test - cs 82"
+  },
+  {
+    "id": 6176,
+    "name": "test - cs 83"
+  },
+  {
+    "id": 6177,
+    "name": "test - cs 84"
+  },
+  {
+    "id": 6178,
+    "name": "test - cs 85"
+  },
+  {
+    "id": 6179,
+    "name": "test - cs 86"
+  },
+  {
+    "id": 6180,
+    "name": "test - cs 87"
+  },
+  {
+    "id": 6181,
+    "name": "test - cs 88"
+  },
+  {
+    "id": 6182,
+    "name": "test - cs 89"
+  },
+  {
+    "id": 6183,
+    "name": "test - cs 90"
+  },
+  {
+    "id": 6184,
+    "name": "test - cs 91"
+  },
+  {
+    "id": 6185,
+    "name": "test - cs 92"
+  },
+  {
+    "id": 6186,
+    "name": "test - cs 93"
+  },
+  {
+    "id": 6187,
+    "name": "test - cs 94"
+  },
+  {
+    "id": 6188,
+    "name": "test - cs 95"
+  },
+  {
+    "id": 6189,
+    "name": "test - cs 96"
+  },
+  {
+    "id": 6190,
+    "name": "test - cs 97"
+  },
+  {
+    "id": 6191,
+    "name": "test - cs 98"
+  },
+  {
+    "id": 6192,
+    "name": "test - cs 99"
+  },
+  {
+    "id": 6193,
+    "name": "test - cs 100"
+  },
+  {
+    "id": 12842,
+    "name": "Dirt Cloud Core"
+  }
+]

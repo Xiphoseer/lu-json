@@ -1,0 +1,60 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 106,
+    "17": 486,
+    "2": 13105,
+    "3": 1777,
+    "35": 574,
+    "5": 1473,
+    "7": 1867,
+    "73": 140
+  },
+  "description": "NT Clothing Vendor",
+  "displayName": "Rutger Hemoglobin - Clothing Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 13377,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Clothing Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "hidden object in the beam that spawns imagination balls",
+  "components": {
+    "2": 12907,
+    "3": 6924,
+    "5": 1498,
+    "7": 1885
+  },
+  "description": null,
+  "displayName": "NT - imagination ball spawner",
+  "gate_version": "nexustower",
+  "id": 13943,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - imagination ball spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

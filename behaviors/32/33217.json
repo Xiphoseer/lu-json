@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/32/33217.json"
+    }
+  },
+  "behaviorID": 33217,
+  "effectHandle": "33217",
+  "effectID": 7292,
+  "parameters": {
+    "cant_attack": 1.0,
+    "cant_equip": 1.0,
+    "cant_interact": 1.0,
+    "cant_move": 1.0,
+    "cant_turn": 1.0,
+    "stun_caster": 1.0
+  },
+  "templateID": 15
+}

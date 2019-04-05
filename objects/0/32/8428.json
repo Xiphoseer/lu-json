@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7986,
+    "3": 3907
+  },
+  "description": "Mockup for the new LUP station.  NOT Final",
+  "displayName": "LUP Station Mock",
+  "gate_version": null,
+  "id": 8428,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Mock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

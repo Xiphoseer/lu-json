@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/12/13027.json"
+    }
+  },
+  "behaviorID": 13027,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action_false": 13028.0,
+    "action_true": 13050.0,
+    "distance": -1.0,
+    "imagination": 1.0,
+    "isEnemyFaction": 0.0
+  },
+  "templateID": 29
+}

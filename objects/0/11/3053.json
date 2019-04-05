@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Item to test buff stats with",
+  "components": {
+    "11": 1703,
+    "2": 1933,
+    "9": 0
+  },
+  "description": "Item to test buff stats with",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3053,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hammer All Stat Buff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 95
+    }
+  ],
+  "type": "Loot"
+}

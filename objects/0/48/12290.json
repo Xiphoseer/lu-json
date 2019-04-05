@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6037,
+    "2": 12039
+  },
+  "description": null,
+  "displayName": "Snow Parka Back/Neck Proxy",
+  "gate_version": "dec2010content",
+  "id": 12290,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Winter Parka Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

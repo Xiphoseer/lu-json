@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "throws???",
+  "components": {
+    "11": 3692,
+    "2": 7929,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8371,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shuriken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1373
+    }
+  ],
+  "type": "Loot"
+}

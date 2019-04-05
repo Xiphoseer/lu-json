@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9535,
+    "3": 1777,
+    "35": 398,
+    "5": 735,
+    "7": 307,
+    "73": 75
+  },
+  "description": "Female ambient concert npc",
+  "displayName": "Green Brockley",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 9693,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Concert Fan D",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

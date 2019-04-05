@@ -1,0 +1,19 @@
+{
+  "id": 312,
+  "tasks": [
+    {
+      "IconID": 2908,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Battle_Maelstrom_Task.dds",
+      "largeTaskIconID": 2908,
+      "locStatus": 2,
+      "localize": true,
+      "target": 4712,
+      "targetGroup": "6351,8088,8089,9744",
+      "targetValue": 15,
+      "taskParam1": null,
+      "taskType": 0,
+      "uid": 473
+    }
+  ]
+}

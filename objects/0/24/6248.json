@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "for testing the action bar",
+  "components": {
+    "11": 2592,
+    "2": 5666,
+    "9": 0
+  },
+  "description": "for testing the action bar - bad offset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6248,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hat of Attacking",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 186
+    }
+  ],
+  "type": "Loot"
+}

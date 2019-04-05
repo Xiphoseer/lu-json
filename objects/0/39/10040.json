@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9876,
+    "3": 4436
+  },
+  "description": "test proto",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 62,
+      "iconState": 66
+    }
+  ],
+  "id": 10040,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - SideScroller pirate area",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

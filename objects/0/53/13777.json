@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6871,
+    "2": 13517,
+    "9": 0
+  },
+  "description": "Interact with the blue X-marks on Crux Prime to call down Imagination Blasts.",
+  "displayName": "Duke Exeter's Sword",
+  "gate_version": "nexustower",
+  "id": 13777,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Activatable Duke Exetor Sword for mission",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

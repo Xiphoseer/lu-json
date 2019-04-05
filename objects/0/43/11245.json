@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 420,
+    "2": 11015,
+    "3": 1777,
+    "35": 511,
+    "7": 307
+  },
+  "description": "For Credits",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11245,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "ND - puccio matt",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

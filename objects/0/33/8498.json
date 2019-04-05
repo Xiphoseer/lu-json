@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 3797,
+    "2": 8053,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Hatchet",
+  "gate_version": null,
+  "id": 8498,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Hatchet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 523
+    }
+  ],
+  "type": "Loot"
+}

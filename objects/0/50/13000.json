@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 LP 3 IP 1 AP",
+  "components": {
+    "11": 6477,
+    "2": 12786,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bat Lord Pants",
+  "gate_version": "auramar",
+  "id": 13000,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bat Lord Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15064,
+    "3": 7724,
+    "39": 14,
+    "5": 1700
+  },
+  "description": "Treasure Chest for Spider Boss  Instance",
+  "displayName": "",
+  "gate_version": "freetrial",
+  "id": 16318,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AG - Spider Boss Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

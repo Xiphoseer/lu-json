@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14707,
+    "3": 7550
+  },
+  "description": "Distant fake track section",
+  "displayName": "NS - Race Place distant track",
+  "gate_version": "freetrial",
+  "id": 16006,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Race Place distant track",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

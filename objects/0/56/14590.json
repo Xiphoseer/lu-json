@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7316,
+    "2": 14271,
+    "5": 1577,
+    "7": 2038
+  },
+  "description": "Dig this up on a Property!",
+  "displayName": "Booty Chest",
+  "gate_version": "freetrial",
+  "id": 14590,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Booty Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Smashables"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4532,
+    "2": 9303,
+    "28": 188,
+    "3": 4072,
+    "42": 0,
+    "63": 4
+  },
+  "description": null,
+  "displayName": "Burst Tamale Rear Panel",
+  "gate_version": null,
+  "id": 9444,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car4_RearPanel1_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

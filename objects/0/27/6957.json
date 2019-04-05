@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6532,
+    "3": 3066,
+    "7": 656
+  },
+  "description": "Ninja Jail Door in Jail scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6957,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Ninja Jail door",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

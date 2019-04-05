@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2942,
+    "25": 0,
+    "3": 2644
+  },
+  "description": "Moving Tour Bus for door to Base",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6267,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Moving Tour Bus",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

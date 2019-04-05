@@ -1,0 +1,126 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 9,
+      "value_2": 64,
+      "value_3": 432,
+      "value_4": 0,
+      "version": 48
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.549019992351532,
+        0.6274510025978088,
+        0.800000011920929,
+        0.0,
+        0.0,
+        0.0,
+        0.21176500618457794,
+        0.7137259840965271,
+        1.0,
+        0.0,
+        -270.0,
+        0.0,
+        100.0,
+        900.0,
+        3500.0,
+        4000.0,
+        8000.0,
+        8000.0,
+        100.0,
+        900.0,
+        3500.0,
+        4000.0,
+        8000.0,
+        8000.0
+      ],
+      "ids": [
+        {
+          "id": 1,
+          "value_1": 100.0,
+          "value_2": 150.0
+        },
+        {
+          "id": 2,
+          "value_1": 150.0,
+          "value_2": 200.0
+        },
+        {
+          "id": 3,
+          "value_1": 200.0,
+          "value_2": 250.0
+        },
+        {
+          "id": 4,
+          "value_1": 250.0,
+          "value_2": 300.0
+        },
+        {
+          "id": 10,
+          "value_1": 300.0,
+          "value_2": 400.0
+        }
+      ],
+      "sky": [
+        "mesh\\env\\NG_NinjaGo\\env_nj_mon_sky_core.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 14843406975028,
+          "lot": 13460,
+          "pos": {
+            "pos": {
+              "x": -30.68000030517578,
+              "y": 200.0,
+              "z": 211.49000549316406
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 10.0,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 54,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

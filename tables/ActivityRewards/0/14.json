@@ -1,0 +1,21 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 231,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 120,
+      "LootMatrixIndex": 860,
+      "activityRating": 100,
+      "description": "AG Spider Queen 1 Player"
+    },
+    {
+      "ActivityRewardIndex": 232,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 121,
+      "LootMatrixIndex": 861,
+      "activityRating": 200,
+      "description": "AG Spider Queen 2 Player"
+    }
+  ],
+  "objectTemplate": 14
+}

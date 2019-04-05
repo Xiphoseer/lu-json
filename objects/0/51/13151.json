@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6521,
+    "2": 12932,
+    "3": 6398,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Chair Model",
+  "gate_version": "march2011content",
+  "id": 13151,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Chair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6383,
+    "2": 12897,
+    "7": 1819,
+    "9": 0
+  },
+  "description": "thrown banana that does AoE knockdown",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13120,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Banana Gun Knockedown Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1203
+    }
+  ],
+  "type": "Shooting Gallery"
+}

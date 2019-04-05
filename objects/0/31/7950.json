@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7496,
+    "3": 3606
+  },
+  "description": "Pet Taming Item -  Chewing Bone",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7950,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Chewing Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

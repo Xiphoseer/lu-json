@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12200,
+    "3": 6112,
+    "7": 1724
+  },
+  "description": "This is only to be used on the spaceship in AG, it has special properties and should not be used anywhere else",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12446,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VE Instance - Ship - smashable square crate - All Cockpits",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

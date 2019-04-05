@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6668,
+    "2": 13248,
+    "28": 333,
+    "3": 6620,
+    "42": 0,
+    "63": 30
+  },
+  "description": null,
+  "displayName": "Assembly Blockader Side Panels",
+  "gate_version": "factionvehicles",
+  "id": 13514,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAS_SidePanels_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

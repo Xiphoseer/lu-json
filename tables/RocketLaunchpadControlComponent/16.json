@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": "98",
+  "altLandingSpawnPointName": "GFLaunch",
+  "defaultZoneID": 0,
+  "gmLevel": 0,
+  "id": 16,
+  "launchMusic": null,
+  "launchPrecondition": "47",
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-AG",
+  "targetScene": "GFLanding",
+  "targetZone": 1300,
+  "useAltLandingPrecondition": true,
+  "useLaunchPrecondition": true
+}

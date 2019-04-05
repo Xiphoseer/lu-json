@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 6/7/9 NJ Smashing",
+  "components": {
+    "11": 7309,
+    "2": 14531,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Double-Axe",
+  "gate_version": "njhub",
+  "id": 14837,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Double-Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1638
+    }
+  ],
+  "type": "Loot"
+}

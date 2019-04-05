@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Ranged",
+  "components": {
+    "11": 2867,
+    "2": 6398,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Exceptional Flintlock Rifle",
+  "gate_version": null,
+  "id": 6847,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Flintlock Rifle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 899
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6412,
+    "2": 12953,
+    "48": 190,
+    "5": 1445,
+    "60": 128,
+    "7": 1822,
+    "9": 0
+  },
+  "description": "Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13171,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Sentinel Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1213
+    }
+  ],
+  "type": "Rebuildables"
+}

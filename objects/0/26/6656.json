@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5400,
+    "3": 920
+  },
+  "description": "Test item",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6656,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Static Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

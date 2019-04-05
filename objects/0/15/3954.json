@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3396,
+    "3": 1884,
+    "5": 617
+  },
+  "description": "Ambient Hazmat",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3954,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Hazmat Firepole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

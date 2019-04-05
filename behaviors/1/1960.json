@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/1/1960.json"
+    }
+  },
+  "behaviorID": 1960,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "angle": 15.0,
+    "caster": 0.0,
+    "relative": 0.0,
+    "strength": 15.0
+  },
+  "templateID": 17
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP 5 AP",
+  "components": {
+    "11": 6195,
+    "2": 12420,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "T-Rex Shirt",
+  "gate_version": "nimbusinstance",
+  "id": 12630,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "T-Rex Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

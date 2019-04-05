@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing.",
+  "components": {
+    "1": 5144,
+    "2": 10983,
+    "31": 4,
+    "5": 1256,
+    "60": 70,
+    "7": 1595,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Mech Invader",
+  "gate_version": "auramar",
+  "id": 11213,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Mech",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 488
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 929
+    }
+  ],
+  "type": "Enemies"
+}

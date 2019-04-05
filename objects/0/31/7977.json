@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7523,
+    "3": 3628
+  },
+  "description": "Low poly representation of Plaza and Annex scenes visible from Launch scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7977,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Launch Scene - Plaza",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

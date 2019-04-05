@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Recipe ingredient for Johnny Umami in Ninjago",
+  "components": {
+    "11": 7101,
+    "2": 14157,
+    "9": 0
+  },
+  "description": "Use this in a recipe for Johnny Umami!",
+  "displayName": "Shock Fruit",
+  "gate_version": "njhub",
+  "id": 14468,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shock Fruit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1511
+    }
+  ],
+  "type": "Loot"
+}

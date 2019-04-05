@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Lightning element Spawner spinner trap",
+  "components": {
+    "2": 14953,
+    "25": 36,
+    "27": 0,
+    "3": 7664,
+    "39": 115,
+    "5": 1672
+  },
+  "description": "",
+  "displayName": "NJ - Lightning - Spawner Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16237,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Spawner Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6055,
+    "3": 2646,
+    "48": 75,
+    "5": 880,
+    "7": 494
+  },
+  "description": "Medium Tiki Choicebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6492,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Choicebuild Medium Tiki",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

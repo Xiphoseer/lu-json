@@ -1,0 +1,31 @@
+{
+  "title": "LU JSON-HAL",
+  "_links": {
+    "self": { "href": "/lu-json/index.json" }
+  },
+  "_embedded": {
+    "index": [
+      {
+        "_links": {
+          "self": { "href": "/lu-json/behaviors/index.json" }
+        },
+        "title": "Behaviors",
+        "description": "The actions that some item can launch."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/objects/index.json" }
+        },
+        "title": "Objects",
+        "description": "The Objects used within the game."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/tables.json" }
+        },
+        "title": "Tables",
+        "description": "The CDClient database tables"
+      }
+    ]
+  }
+}

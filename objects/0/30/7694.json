@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6898,
+    "11": 6895,
+    "2": 7867,
+    "26": 24,
+    "42": 0,
+    "5": 1122,
+    "7": 716,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 7694,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Crab Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

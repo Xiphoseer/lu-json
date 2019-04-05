@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7249,
+    "2": 14446,
+    "28": 402,
+    "3": 7445,
+    "42": 0,
+    "63": 33
+  },
+  "description": null,
+  "displayName": "LEGO Club Front Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14759,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car LEGO Club Car Front Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7401,
+    "3": 3514,
+    "5": 688,
+    "7": 751,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Explosive Crate",
+  "gate_version": null,
+  "id": 7844,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Explosive Crate 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 147
+    }
+  ],
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11228,
+    "3": 5326
+  },
+  "description": "Assembly ShowCase  No Detail",
+  "displayName": "NT Glom_A_ShowCase (No Detail)",
+  "gate_version": null,
+  "id": 11480,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Glom_A_ShowCase",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

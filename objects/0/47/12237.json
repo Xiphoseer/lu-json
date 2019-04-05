@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Winter currency token",
+  "components": {
+    "11": 6024,
+    "2": 11984
+  },
+  "description": "Spend this at a Winter vendor!",
+  "displayName": "Candy Cane",
+  "gate_version": "dec2010content",
+  "id": 12237,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Candy Cane",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

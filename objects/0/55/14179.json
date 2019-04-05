@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13888,
+    "40": 7046,
+    "48": 200,
+    "6": 0
+  },
+  "description": "NT - Assembly Hall Bouncer Quickbuild",
+  "displayName": "NT - Assembly Hall Bouncer Quickbuild",
+  "gate_version": "nexustower",
+  "id": 14179,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Assembly Hall Bouncer Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

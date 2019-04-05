@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2806,
+    "17": 160,
+    "2": 5485,
+    "31": 1,
+    "35": 191,
+    "60": 3,
+    "7": 141,
+    "9": 0
+  },
+  "description": "Ben Tarr's test npc2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6529,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ben Aarrr",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 205
+    },
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 206
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 IP 5 AP",
+  "components": {
+    "11": 6334,
+    "2": 12576,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Dragon Helm MK III",
+  "gate_version": "auramar",
+  "id": 12786,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Helm MK III",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    }
+  ],
+  "type": "Loot"
+}

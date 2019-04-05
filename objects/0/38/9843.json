@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9675,
+    "3": 4318
+  },
+  "description": "RACE-NSTrack08_TRACK_Dropoff2",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9843,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-NSTrack08_TRACK_Dropoff2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

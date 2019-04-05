@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7244,
+    "2": 14441,
+    "28": 397,
+    "3": 7440,
+    "42": 0,
+    "63": 33
+  },
+  "description": null,
+  "displayName": "Master Driver Front Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14754,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Grey Indy Car Front Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

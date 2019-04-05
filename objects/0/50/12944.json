@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12729,
+    "3": 6298
+  },
+  "description": "Used in the Battle Croissant skill",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 12944,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Mesh Effect Croissant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

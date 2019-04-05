@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5901,
+    "3": 2725
+  },
+  "description": "Research mountain with maelstrom effect",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6453,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Research Mountain Cage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

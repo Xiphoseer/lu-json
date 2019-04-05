@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4104,
+    "3": 2058,
+    "48": 46,
+    "5": 655
+  },
+  "description": "temporary test for rocket - Quick-build only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4736,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Classic Rocket Rebuild TEST",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3 IP 3 AP",
+  "components": {
+    "11": 6976,
+    "2": 13810,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Racemaster Helmet",
+  "gate_version": "nexustower",
+  "id": 14099,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Racemaster Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

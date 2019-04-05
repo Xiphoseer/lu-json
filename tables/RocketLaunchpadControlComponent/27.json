@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": null,
+  "altLandingSpawnPointName": null,
+  "defaultZoneID": 1400,
+  "gmLevel": 0,
+  "id": 27,
+  "launchMusic": null,
+  "launchPrecondition": null,
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-property",
+  "targetScene": "FV_GATE",
+  "targetZone": 1450,
+  "useAltLandingPrecondition": false,
+  "useLaunchPrecondition": false
+}

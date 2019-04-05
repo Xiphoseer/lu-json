@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7171,
+    "2": 14354,
+    "9": 0
+  },
+  "description": "White Ninja Hood Ninjago NPC Zane",
+  "displayName": "White Ninja Hood",
+  "gate_version": "njhub",
+  "id": 14675,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Zane Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

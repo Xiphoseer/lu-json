@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Smashing",
+  "components": {
+    "11": 3781,
+    "2": 8037,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Pipe Wrench",
+  "gate_version": null,
+  "id": 8482,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Pipe Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 556
+    }
+  ],
+  "type": "Loot"
+}

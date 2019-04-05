@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14269,
+    "3": 7315,
+    "5": 1584,
+    "7": 2050
+  },
+  "description": "Bird that has to be scared off the monument",
+  "displayName": null,
+  "gate_version": "freetrial",
+  "id": 14586,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Monument Bird",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10000,
+    "3": 4502,
+    "7": 991
+  },
+  "description": "smashable that needs to be a bouncer QB when smashed only smashable by the hammer",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10161,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Hammer Smashable to QB Dog Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

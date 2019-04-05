@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 2073,
+    "5": 351
+  },
+  "description": "test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2400,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - BenTarrCat Scripted Mission Giver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

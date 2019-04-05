@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing",
+  "components": {
+    "11": 2872,
+    "2": 6403,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Composite Axe",
+  "gate_version": null,
+  "id": 6852,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Composite Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 288
+    }
+  ],
+  "type": "Loot"
+}

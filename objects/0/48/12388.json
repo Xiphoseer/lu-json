@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12140,
+    "3": 6072
+  },
+  "description": "test space for NJ monastery",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 12388,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Monastery",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

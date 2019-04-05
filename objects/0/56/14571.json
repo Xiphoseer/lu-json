@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward 1 AP 1 IP",
+  "components": {
+    "11": 7163,
+    "2": 14254,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Red Scorpion's Stinger",
+  "gate_version": "ftcommunityitems",
+  "id": 14571,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hatchling Scorpion's Stinger - Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1408
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 274,
+    "2": 7308,
+    "3": 1777,
+    "35": 348,
+    "5": 1033,
+    "7": 307,
+    "73": 83
+  },
+  "description": "Nexus Force Grunt for Nimbus Station",
+  "displayName": "Kurt Tussle - Nexus Force Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7752,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Nexus Force Grunt",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

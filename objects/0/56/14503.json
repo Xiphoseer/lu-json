@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Consumable on Johnny Umami's vendor table; Medwards to determine buff",
+  "components": {
+    "11": 7126,
+    "2": 14192,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Electric Hoagie",
+  "gate_version": "njhub",
+  "id": 14503,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Electric Hoagie",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1501
+    }
+  ],
+  "type": "Loot"
+}

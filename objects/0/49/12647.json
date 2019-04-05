@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Valiant Weapon",
+  "components": {
+    "11": 6204,
+    "2": 12437,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "The Rutcarver",
+  "gate_version": "valiantweapons",
+  "id": 12647,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Daredevil Valiant Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1022
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1268
+    }
+  ],
+  "type": "Loot"
+}

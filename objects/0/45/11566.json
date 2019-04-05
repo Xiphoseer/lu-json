@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5617,
+    "2": 11318,
+    "3": 5410,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Clear Lights Model",
+  "gate_version": null,
+  "id": 11566,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Lights Clear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

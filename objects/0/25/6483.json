@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4331,
+    "3": 2217,
+    "48": 82,
+    "5": 890,
+    "7": 542
+  },
+  "description": "QB wall only smashable by the spider",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6483,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "QB Spider Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

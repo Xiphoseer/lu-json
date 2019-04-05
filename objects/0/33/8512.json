@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2656,
+    "2": 5903,
+    "5": 1085,
+    "7": 537,
+    "9": 0
+  },
+  "description": "Spider Boss",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8512,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Minions",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

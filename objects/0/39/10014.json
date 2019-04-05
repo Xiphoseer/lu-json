@@ -1,0 +1,35 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 9840,
+    "60": 56,
+    "7": 1892,
+    "9": 0
+  },
+  "description": "GF Easy Stromling type",
+  "displayName": "Stromling Pirate",
+  "gate_version": null,
+  "id": 10014,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Pirate SIDESCROLLER",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 240
+    }
+  ],
+  "type": "Enemies"
+}

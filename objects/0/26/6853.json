@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 2873,
+    "2": 6404,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Morion Helmet",
+  "gate_version": null,
+  "id": 6853,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Morion Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

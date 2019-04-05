@@ -1,0 +1,40 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Base item of the Sentinel Rental Gear",
+  "components": {
+    "11": 7076,
+    "2": 14050,
+    "5": 1689,
+    "72": 0,
+    "9": 0
+  },
+  "description": "The Daredevil blasts enemies with Flare Guns and sets them ablaze with Fig on Fire!",
+  "displayName": "Trial Venture League Gear",
+  "gate_version": "freetrial",
+  "id": 14359,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Venture Gear - Daredevil",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 381
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1590
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1603
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6869,
+    "3": 3295
+  },
+  "description": "Light tower mesh for pet rock area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7294,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTO-PR-End",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

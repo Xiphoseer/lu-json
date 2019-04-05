@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3277,
+    "2": 7324,
+    "3": 3438,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Fire Extinguisher Model",
+  "gate_version": null,
+  "id": 7768,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Racer Fire Extinguisher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

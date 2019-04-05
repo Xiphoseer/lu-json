@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11838,
+    "3": 5883
+  },
+  "description": "Rocket Launcher Tube for Starbase 3001",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12089,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Starbase 3001 Rocket Launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

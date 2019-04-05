@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2399,
+    "3": 2077,
+    "5": 319,
+    "7": 353
+  },
+  "description": "Team Producers",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2935,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Pacman Teleporter Right",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 1014,
+    "2": 2606,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "LEGO Universe Shirt",
+  "gate_version": null,
+  "id": 3010,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Universe Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

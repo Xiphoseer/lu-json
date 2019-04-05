@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11875,
+    "3": 5817,
+    "5": 1326
+  },
+  "description": "Mesh effect that plays in forbidden valley to reveal the darkitect",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12126,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Darkitect Reveal 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

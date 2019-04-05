@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Wear this to enter building mode",
+  "components": {
+    "11": 2961,
+    "13": 3,
+    "2": 6590,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Thinking Hat Level 3",
+  "gate_version": null,
+  "id": 7010,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test UGG - Thinking Hat Level 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 187
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13527,
+    "25": 0,
+    "27": 0,
+    "3": 6814
+  },
+  "description": "Moving Platform for NJ Monastery-Earth",
+  "displayName": "NJ - Falling Rock Mover",
+  "gate_version": "njhub",
+  "id": 13788,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Falling Rock Mover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

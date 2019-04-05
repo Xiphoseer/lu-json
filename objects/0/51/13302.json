@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6584,
+    "2": 13029
+  },
+  "description": "NPC Overbuild Helm",
+  "displayName": "NPC Doc Overbuild Helm",
+  "gate_version": "nexustower",
+  "id": 13302,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Doc Overbuild Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4329,
+    "3": 2215,
+    "5": 629,
+    "7": 416
+  },
+  "description": "Stage Spot Light for AG scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4891,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Stage Spot Light",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3221,
+    "3": 1879,
+    "5": 586
+  },
+  "description": "Nimbus Park Asset",
+  "displayName": "Vegan Steven - Raptor-at-Large",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 99,
+      "iconState": 69
+    }
+  ],
+  "id": 3820,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Raptor",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

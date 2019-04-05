@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Avant Gardens Mission Item",
+  "components": {
+    "11": 7143,
+    "2": 14232
+  },
+  "description": "Return this to Melodie Foxtrot in Avant Gardens.",
+  "displayName": "Spider Queen's Postcard",
+  "gate_version": "freetrial",
+  "id": 14549,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spiderling Postcard",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

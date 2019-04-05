@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1394,
+    "2": 2403,
+    "5": 67
+  },
+  "description": "Team 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2858,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Red Brick Walker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

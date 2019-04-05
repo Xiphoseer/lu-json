@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tacarc test",
+  "components": {
+    "11": 3469,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "Tacarc test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6544,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Tacarc",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 212
+    }
+  ],
+  "type": "Loot"
+}

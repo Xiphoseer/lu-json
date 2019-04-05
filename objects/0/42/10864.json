@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5320,
+    "2": 10711,
+    "3": 4985,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Ice Cabinet Model",
+  "gate_version": null,
+  "id": 10864,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward IceCabinet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

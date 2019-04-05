@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3409,
+    "3": 1951,
+    "5": 1088
+  },
+  "description": null,
+  "displayName": "LU Mailbox",
+  "gate_version": null,
+  "id": 3964,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "LU Mailbox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

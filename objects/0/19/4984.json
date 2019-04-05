@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4407,
+    "3": 2278,
+    "48": 59,
+    "5": 643
+  },
+  "description": "Object that receives the cloned render object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4984,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC - Portal Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

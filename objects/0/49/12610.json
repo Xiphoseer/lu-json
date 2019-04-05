@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6199,
+    "2": 12400,
+    "31": 49,
+    "5": 1394,
+    "60": 113,
+    "7": 1761,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Ronin",
+  "gate_version": "nimbusinstance",
+  "id": 12610,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Dark Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 6,
+  "id": 125,
+  "partCode": 2,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"9381\" name=\"front panel\"><PlacementRotation x=\"0.0\" y=\"0.707\" z=\"0\" w=\"0.707\" /><BuildingPosition x=\"0\" y=\"0\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" /><connection name=\"CHASSIS_ENGINE\"><translation x=\"0.0\" y=\"2.7146\" z=\"2.8\" /></connection></ModuleInfo>"
+}

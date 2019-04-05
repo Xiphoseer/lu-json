@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5398,
+    "3": 873,
+    "48": 36,
+    "5": 843,
+    "7": 502
+  },
+  "description": "Temporary Land Mine QB",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6002,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Land Mine QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

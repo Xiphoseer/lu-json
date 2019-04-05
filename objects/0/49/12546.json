@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Emote Restore 20 IP",
+  "components": {
+    "11": 6159,
+    "2": 12337,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Howdy Cowboy Hat",
+  "gate_version": "nimbusinstance",
+  "id": 12546,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Howdy Cowboy Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 996
+    }
+  ],
+  "type": "Loot"
+}

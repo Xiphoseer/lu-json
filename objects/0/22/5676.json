@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Venture style backpack",
+  "components": {
+    "11": 2355,
+    "2": 5099
+  },
+  "description": "Venture style backpack",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5676,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

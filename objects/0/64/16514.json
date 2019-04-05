@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Mardolf Staff",
+  "components": {
+    "11": 7729,
+    "2": 15263
+  },
+  "description": "NPC Sensei Wu Staff",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16514,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Sensei Wu Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

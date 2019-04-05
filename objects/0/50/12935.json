@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6429,
+    "2": 12720,
+    "28": 279,
+    "3": 6289,
+    "42": 0,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Mint Condition Rear Bumper",
+  "gate_version": "dec2010content",
+  "id": 12935,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarH3_RearBumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

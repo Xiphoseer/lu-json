@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14352,
+    "3": 7396,
+    "5": 1602,
+    "7": 2041
+  },
+  "description": "Target used to determine if the sharks have been fed or not",
+  "displayName": "Shark Target",
+  "gate_version": "freetrial",
+  "id": 14673,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shark Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

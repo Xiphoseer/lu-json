@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "item for testing our messed up minifig rig",
+  "components": {
+    "11": 6917,
+    "2": 13634,
+    "9": 0
+  },
+  "description": "Test Gimble Test",
+  "displayName": "Test Gimble Test",
+  "gate_version": "auramar",
+  "id": 13910,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Gimble Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 291
+    }
+  ],
+  "type": "Loot"
+}

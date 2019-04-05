@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5187,
+    "2": 10356,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": null,
+  "id": 10503,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Knight Vignette Weapon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 478
+    }
+  ],
+  "type": "Loot"
+}

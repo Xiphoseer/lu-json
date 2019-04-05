@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND use only",
+  "components": {
+    "11": 5366,
+    "2": 10779
+  },
+  "description": "NS Property Pushback - Platform",
+  "displayName": "BEHAVIOR - NS Property Pushback - Platform",
+  "gate_version": null,
+  "id": 11028,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BEHAVIOR - NS Property Pushback - Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

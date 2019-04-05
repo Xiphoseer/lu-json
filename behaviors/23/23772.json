@@ -1,0 +1,22 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/23/23772.json"
+    }
+  },
+  "behaviorID": 23772,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "duration": 1.0,
+    "forward": 20.0,
+    "hit_action_enemy": 23780.0,
+    "ignore_projectile_collision": 1.0,
+    "left": 0.0,
+    "move_target": 0.0,
+    "timeout_action": 23781.0,
+    "yaw": 0.0,
+    "yaw_abs": 0.0
+  },
+  "templateID": 40
+}

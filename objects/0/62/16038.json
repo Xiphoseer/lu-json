@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 10 IP",
+  "components": {
+    "11": 7425,
+    "2": 14759,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Bancha Tea",
+  "gate_version": "njhub",
+  "id": 16038,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bancha Tea",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1519
+    }
+  ],
+  "type": "Loot"
+}

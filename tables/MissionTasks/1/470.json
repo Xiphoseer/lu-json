@@ -1,0 +1,19 @@
+{
+  "id": 470,
+  "tasks": [
+    {
+      "IconID": 2925,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_icons\\CollectMission_470.dds",
+      "largeTaskIconID": 2925,
+      "locStatus": 2,
+      "localize": true,
+      "target": 365,
+      "targetGroup": "",
+      "targetValue": 6,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 698
+    }
+  ]
+}

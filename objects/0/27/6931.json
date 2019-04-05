@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Bubble Shield",
+  "components": {
+    "11": 2929,
+    "2": 6493,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Shield of Shielding",
+  "gate_version": null,
+  "id": 6931,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shield of Shielding",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 325
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

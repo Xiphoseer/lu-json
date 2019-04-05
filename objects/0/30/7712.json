@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3112,
+    "3": 1816,
+    "5": 1029
+  },
+  "description": "Helper Object to Test PR Cutscene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7712,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Minifigure Button for PR",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

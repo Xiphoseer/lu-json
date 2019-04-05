@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "40": 7572,
+    "5": 1605
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 16044,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Outer Jetpack Collision Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

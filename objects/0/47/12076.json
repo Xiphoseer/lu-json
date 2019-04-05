@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11825,
+    "3": 5870
+  },
+  "description": "Test of the Finger Section E of Aura Mar",
+  "displayName": "AM Finger Section E",
+  "gate_version": null,
+  "id": 12076,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Fingers Section E",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1634,
+    "2": 2526,
+    "5": 407,
+    "7": 254
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3387,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Sign Nest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

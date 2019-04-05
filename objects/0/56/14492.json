@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7272,
+    "2": 14181,
+    "9": 0
+  },
+  "description": "NJ Skeleton Arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14492,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Skeleton Arrow Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1379
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15222,
+    "3": 7878,
+    "39": 58,
+    "5": 1708
+  },
+  "description": "NJ - Frakjaw Boss Instance Enter",
+  "displayName": "",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 127,
+      "iconState": 69
+    },
+    {
+      "iconID": 180,
+      "iconState": 70
+    }
+  ],
+  "id": 16476,
+  "interactionDistance": 8.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Frakjaw Boss Instance Enter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

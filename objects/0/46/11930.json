@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11676,
+    "3": 5756
+  },
+  "description": "NT Faux Beam",
+  "displayName": "NT_FauxBeam",
+  "gate_version": null,
+  "id": 11930,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_FauxBeam",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

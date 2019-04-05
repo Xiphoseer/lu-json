@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12986,
+    "3": 6447,
+    "40": 6448,
+    "5": 1447,
+    "7": 1825,
+    "9": 0
+  },
+  "description": "Player shock ground panel.",
+  "displayName": "Shock Panel",
+  "gate_version": null,
+  "id": 13244,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shock Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1215
+    }
+  ],
+  "type": "Environmental"
+}

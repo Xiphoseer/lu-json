@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire element axe spinner trap",
+  "components": {
+    "2": 14937,
+    "25": 18,
+    "3": 7648,
+    "39": 115,
+    "5": 1656,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Fire - Axe Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16221,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Axe Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 29,
+    "23": 6,
+    "40": 1103,
+    "7": 376
+  },
+  "description": "Placeholder Object for Pet Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3655,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Brick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

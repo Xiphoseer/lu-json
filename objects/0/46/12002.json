@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 5807,
+    "17": 452,
+    "2": 11752,
+    "31": 17,
+    "5": 1320,
+    "60": 97,
+    "7": 1648,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Engineer",
+  "gate_version": "auramar",
+  "id": 12002,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Skeleton Engineer",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 947
+    },
+    {
+      "AICombatWeight": 5,
+      "castOnType": 0,
+      "skillID": 949
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1122
+    }
+  ],
+  "type": "Enemies"
+}

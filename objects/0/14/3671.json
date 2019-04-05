@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1781,
+    "2": 3075,
+    "5": 995
+  },
+  "description": "Troll",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3671,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Troll",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

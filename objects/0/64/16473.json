@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7875,
+    "2": 15219,
+    "5": 1704,
+    "60": 179,
+    "7": 2146,
+    "9": 0
+  },
+  "description": "Named Gorilla",
+  "displayName": "NAMED Stromling Ape",
+  "gate_version": "1.10_content",
+  "id": 16473,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "NAMED Stromling Ape",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

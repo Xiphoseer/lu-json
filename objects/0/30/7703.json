@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "2": 6457,
+    "30": 13,
+    "5": 948,
+    "7": 725,
+    "9": 0
+  },
+  "description": "test vehicle for design iteration",
+  "displayName": "Balanced Car Min",
+  "gate_version": null,
+  "id": 7703,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Racing Vehicle Min Balanced",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 583
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 594
+    }
+  ],
+  "type": "Vehicle"
+}

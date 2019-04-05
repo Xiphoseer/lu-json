@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6122,
+    "3": 2831
+  },
+  "description": "GF Battle area trench test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6562,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTOTYPE GwF Trench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

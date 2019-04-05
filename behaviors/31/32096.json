@@ -1,0 +1,24 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/31/32096.json"
+    }
+  },
+  "behaviorID": 32096,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "immune_basic_attack": 0.0,
+    "immune_damage_over_time": 0.0,
+    "immune_interrupt": 1.0,
+    "immune_knockback": 1.0,
+    "immune_quickbuild_interrupts": 0.0,
+    "immune_speed": 1.0,
+    "immune_stun_attack": 1.0,
+    "immune_stun_equip": 0.0,
+    "immune_stun_interact": 0.0,
+    "immune_stun_move": 1.0,
+    "immune_stun_rotate": 1.0
+  },
+  "templateID": 9
+}

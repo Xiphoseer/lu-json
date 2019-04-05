@@ -1,0 +1,85 @@
+{
+  "LootMatrixIndex": 722,
+  "elements": [
+    {
+      "LootTableIndex": 72,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3900,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.10999999940395355
+    },
+    {
+      "LootTableIndex": 88,
+      "RarityTableIndex": 9,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3901,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 0.7549999952316284
+    },
+    {
+      "LootTableIndex": 111,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3902,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 112,
+      "RarityTableIndex": 19,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3903,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 184,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3904,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.2549999952316284
+    },
+    {
+      "LootTableIndex": 185,
+      "RarityTableIndex": 29,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3905,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.10999999940395355
+    },
+    {
+      "LootTableIndex": 186,
+      "RarityTableIndex": 4,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3906,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3907,
+      "maxToDrop": 2,
+      "minToDrop": 1,
+      "percent": 0.5199999809265137
+    }
+  ]
+}

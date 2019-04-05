@@ -1,0 +1,165 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 51,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 58,
+      "LootMatrixIndex": 629,
+      "activityRating": 61,
+      "description": "NS Racetrack 1st Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 52,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 59,
+      "LootMatrixIndex": 630,
+      "activityRating": 62,
+      "description": "NS Racetrack 2nd Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 53,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 60,
+      "LootMatrixIndex": 631,
+      "activityRating": 63,
+      "description": "NS Racetrack 3rd Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 54,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 61,
+      "LootMatrixIndex": 633,
+      "activityRating": 64,
+      "description": "NS Racetrack 4th Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 55,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 62,
+      "LootMatrixIndex": 634,
+      "activityRating": 65,
+      "description": "NS Racetrack 5th Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 56,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 63,
+      "LootMatrixIndex": 635,
+      "activityRating": 66,
+      "description": "NS Racetrack 6th Place - 6 players"
+    },
+    {
+      "ActivityRewardIndex": 116,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 58,
+      "LootMatrixIndex": 629,
+      "activityRating": 51,
+      "description": "NS Racetrack 1st Place - 5 players"
+    },
+    {
+      "ActivityRewardIndex": 117,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 59,
+      "LootMatrixIndex": 630,
+      "activityRating": 52,
+      "description": "NS Racetrack 2nd Place - 5 players"
+    },
+    {
+      "ActivityRewardIndex": 118,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 60,
+      "LootMatrixIndex": 631,
+      "activityRating": 53,
+      "description": "NS Racetrack 3rd Place - 5 players"
+    },
+    {
+      "ActivityRewardIndex": 119,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 61,
+      "LootMatrixIndex": 633,
+      "activityRating": 54,
+      "description": "NS Racetrack 4th Place - 5 players"
+    },
+    {
+      "ActivityRewardIndex": 120,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 62,
+      "LootMatrixIndex": 634,
+      "activityRating": 55,
+      "description": "NS Racetrack 5th Place - 5 players"
+    },
+    {
+      "ActivityRewardIndex": 121,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 58,
+      "LootMatrixIndex": 629,
+      "activityRating": 41,
+      "description": "NS Racetrack 1st Place - 4 players"
+    },
+    {
+      "ActivityRewardIndex": 122,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 59,
+      "LootMatrixIndex": 630,
+      "activityRating": 42,
+      "description": "NS Racetrack 2nd Place - 4 players"
+    },
+    {
+      "ActivityRewardIndex": 123,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 60,
+      "LootMatrixIndex": 631,
+      "activityRating": 43,
+      "description": "NS Racetrack 3rd Place - 4 players"
+    },
+    {
+      "ActivityRewardIndex": 124,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 61,
+      "LootMatrixIndex": 633,
+      "activityRating": 44,
+      "description": "NS Racetrack 4th Place - 4 players"
+    },
+    {
+      "ActivityRewardIndex": 125,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 64,
+      "LootMatrixIndex": 637,
+      "activityRating": 31,
+      "description": "NS Racetrack 1st Place - 3 players"
+    },
+    {
+      "ActivityRewardIndex": 126,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 65,
+      "LootMatrixIndex": 638,
+      "activityRating": 32,
+      "description": "NS Racetrack 2nd Place - 3 players"
+    },
+    {
+      "ActivityRewardIndex": 127,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 66,
+      "LootMatrixIndex": 639,
+      "activityRating": 33,
+      "description": "NS Racetrack 3rd Place - 3 players"
+    },
+    {
+      "ActivityRewardIndex": 128,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 67,
+      "LootMatrixIndex": 640,
+      "activityRating": 21,
+      "description": "NS Racetrack 1st Place - 2 players"
+    },
+    {
+      "ActivityRewardIndex": 129,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 68,
+      "LootMatrixIndex": 641,
+      "activityRating": 22,
+      "description": "NS Racetrack 2nd Place - 2 players"
+    }
+  ],
+  "objectTemplate": 42
+}

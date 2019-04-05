@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11798,
+    "23": 36,
+    "40": 5844,
+    "7": 1655
+  },
+  "description": "Collectible Spawner for Aura Mar",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12049,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Collectable Flag Spawner - Heart",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5855,
+    "2": 11556,
+    "3": 5648,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Shed Door Model 3",
+  "gate_version": "march2011content",
+  "id": 11804,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Shed Door 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2474,
+    "25": 0,
+    "3": 998,
+    "5": 179,
+    "7": 119
+  },
+  "description": "Shooting Gallery Target",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2983,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Sub Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

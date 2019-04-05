@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11937,
+    "3": 5945,
+    "48": 159,
+    "7": 1668
+  },
+  "description": "remote detonator to explode unexploded bombs",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12188,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Remote Detonator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2807,
+    "3": 1611,
+    "48": 27
+  },
+  "description": "Train track bridge rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3356,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Train Bridge Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

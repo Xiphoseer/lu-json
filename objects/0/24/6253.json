@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2581,
+    "2": 5669,
+    "31": 27,
+    "5": 815,
+    "60": 7,
+    "7": 505,
+    "9": 0
+  },
+  "description": "Stromling Sgt. that turns to a rebuild upon smashing.",
+  "displayName": "Stromling Mech",
+  "gate_version": null,
+  "id": 6253,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Stromling Mech",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 214
+    },
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 215
+    }
+  ],
+  "type": "Enemies"
+}

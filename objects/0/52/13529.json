@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6679,
+    "2": 13265,
+    "53": 121
+  },
+  "description": "Double-click to open this bag of supplies!",
+  "displayName": "Nexus Tower Gift Bag",
+  "gate_version": "march2011content",
+  "id": 13529,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Nexus Tower Gift Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

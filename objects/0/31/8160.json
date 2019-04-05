@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7704,
+    "3": 3772
+  },
+  "description": "Launch pad for Lup city",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8160,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Robot city launchpad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

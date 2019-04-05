@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6893,
+    "3": 3306,
+    "5": 1010,
+    "7": 688
+  },
+  "description": "smashable fire hydrant for Pet Rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7327,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PC - Hydrant Smahable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

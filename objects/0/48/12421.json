@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12174,
+    "3": 6101
+  },
+  "description": "",
+  "displayName": "Blade Spinner Prototype",
+  "gate_version": null,
+  "id": 12421,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Melee Spinner Prototype",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

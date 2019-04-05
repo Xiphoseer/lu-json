@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5070,
+    "2": 10169,
+    "3": 4561,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Classical Wall Model",
+  "gate_version": null,
+  "id": 10321,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Classical Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

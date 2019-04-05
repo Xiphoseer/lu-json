@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5280,
+    "3": 2429,
+    "40": 2421,
+    "5": 759
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5852,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Bounce Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

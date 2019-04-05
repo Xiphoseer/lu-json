@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "For Ian to test kit bonuses",
+  "components": {
+    "11": 6954,
+    "2": 13700,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Rank 3 Shirt",
+  "gate_version": "auramar",
+  "id": 13991,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Rank 3 Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

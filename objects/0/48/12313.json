@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 + Lucky",
+  "components": {
+    "11": 6053,
+    "2": 12063,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Lucky Woodsman's Axe",
+  "gate_version": "ventureinstance",
+  "id": 12313,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lucky Woodsman's Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 402
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 3 Inventor!",
+  "components": {
+    "11": 5957,
+    "2": 11682,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": "factionkit2",
+  "id": 11934,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 3 Inventor Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 918
+    }
+  ],
+  "type": "Loot"
+}

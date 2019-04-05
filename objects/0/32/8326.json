@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 1066,
+    "71": 50
+  },
+  "description": "Do Not Delete - Used by Racing scripts",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8326,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Zone Control Object - Racing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": ""
+}

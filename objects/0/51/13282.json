@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Knight Valiant Weapon Proxy",
+  "components": {
+    "11": 6573,
+    "2": 13012,
+    "5": 1078,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Knight Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13282,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Knight Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1016
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5325,
+    "2": 10716,
+    "3": 4990,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Phone Booth Model",
+  "gate_version": null,
+  "id": 10869,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward PhoneBooth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

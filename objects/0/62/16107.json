@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14826,
+    "3": 7588,
+    "40": 7682,
+    "48": 233,
+    "5": 1679,
+    "6": 0,
+    "7": 2112
+  },
+  "description": "nj mon - qb catapult pad",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16107,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nj mon - qb catapult pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

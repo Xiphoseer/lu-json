@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 32,
+    "25": 0,
+    "3": 1506,
+    "5": 347
+  },
+  "description": "Cinematic Fly By Camera ",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3146,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cinematic Camera",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "MovingPlatforms"
+}

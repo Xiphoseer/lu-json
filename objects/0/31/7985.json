@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for brett",
+  "components": {
+    "11": 3405,
+    "2": 7532
+  },
+  "description": "Test object for brett",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7985,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test_Acc_Armor1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

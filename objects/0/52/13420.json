@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6638,
+    "2": 13149,
+    "3": 6522,
+    "42": 0
+  },
+  "description": "This model contains behaviors!",
+  "displayName": "Reward Hot Air Balloon",
+  "gate_version": null,
+  "id": 13420,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Hot Air Balloon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

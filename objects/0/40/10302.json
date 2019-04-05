@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10148,
+    "3": 4541
+  },
+  "description": "Statue of the Panda separated form the Glom",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10302,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Panda_Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

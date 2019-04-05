@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "19": 0,
+    "2": 1746,
+    "3": 1353,
+    "48": 19,
+    "5": 290,
+    "7": 201
+  },
+  "description": "Challenge - Team 9",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2781,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Team Nine Times Rebuildable Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

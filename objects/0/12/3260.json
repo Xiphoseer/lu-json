@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2318,
+    "17": 27,
+    "2": 2579,
+    "5": 370,
+    "7": 252
+  },
+  "description": "NP scene 6 ant enemy",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3260,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Picnic Ant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

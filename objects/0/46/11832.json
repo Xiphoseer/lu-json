@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5883,
+    "2": 11584,
+    "3": 5676,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Table Model 1",
+  "gate_version": null,
+  "id": 11832,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Accessory Table 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

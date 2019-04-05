@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4912,
+    "2": 9926,
+    "3": 4464,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Ship Model 5",
+  "gate_version": null,
+  "id": 10090,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Ship 5",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

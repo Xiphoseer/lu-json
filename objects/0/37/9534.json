@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "20": 1989,
+    "5": 1135
+  },
+  "description": "Racing collision volume to detect vehicles",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9534,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Racing - GF Lap 01 Good Collider",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

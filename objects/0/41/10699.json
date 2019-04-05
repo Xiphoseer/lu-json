@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Not currently used",
+  "components": {
+    "11": 5200,
+    "2": 10550,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10699,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Subscription Renewal Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 822
+    }
+  ],
+  "type": "Loot"
+}

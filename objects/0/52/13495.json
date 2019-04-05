@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Micro Spider model",
+  "components": {
+    "11": 6650,
+    "2": 13210
+  },
+  "description": "A behavior that causes a model to leap down upon passing players.",
+  "displayName": "Micro Spider Behavior",
+  "gate_version": null,
+  "id": 13495,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Micro Spider Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

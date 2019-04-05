@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3453,
+    "3": 1969
+  },
+  "description": "25 particle object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4010,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PERF - particle25tester",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

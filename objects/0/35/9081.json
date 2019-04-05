@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "sub assembly - do not drop",
+  "components": {
+    "11": 4220,
+    "2": 8535,
+    "3": 1757
+  },
+  "description": "Sub-Assembly",
+  "displayName": "Train Wheel for Metal Axle Ø16.6x23",
+  "gate_version": null,
+  "id": 9081,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "m57878",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "LEGO brick"
+}

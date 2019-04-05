@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10582,
+    "25": 0,
+    "27": 0,
+    "3": 4854,
+    "7": 1886
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10733,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Firefly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1750,
+    "3": 881
+  },
+  "description": "A test object that is testing our ability to save nif and hkx and lxfml files in BBB",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1868,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BBB Test Usermade Model",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "vehicles"
+}

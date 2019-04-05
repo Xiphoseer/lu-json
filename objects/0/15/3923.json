@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1919,
+    "2": 3364,
+    "5": 563
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3923,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Switch Pusher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

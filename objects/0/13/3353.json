@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2805,
+    "3": 1609,
+    "5": 396
+  },
+  "description": "Team activated bouncer for use in NP",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3353,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Team Bouncer Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

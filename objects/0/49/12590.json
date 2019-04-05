@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6192,
+    "2": 12380,
+    "31": 43,
+    "5": 1383,
+    "60": 106,
+    "7": 1754,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Admiral",
+  "gate_version": "nimbusinstance",
+  "id": 12590,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Admiral",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

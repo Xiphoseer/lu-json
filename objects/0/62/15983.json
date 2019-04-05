@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward - Week 41-43 conversion",
+  "components": {
+    "11": 7393,
+    "2": 14684,
+    "53": 157
+  },
+  "description": "Double-click to open!",
+  "displayName": "Subscription Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15983,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Subscription Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2828,
+    "2": 6123,
+    "5": 904,
+    "7": 598
+  },
+  "description": "Snake Test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6566,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Snake Part 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10941,
+    "3": 5127
+  },
+  "description": "Stage 04 Launch Asset - open gate, no spaceship, New platform launcher to Nexus",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11188,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Nimbus Race Place Launch 04",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

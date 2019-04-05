@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 3 IP",
+  "components": {
+    "11": 2924,
+    "2": 6488,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Shirt of Armor",
+  "gate_version": null,
+  "id": 6926,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shirt of Armor 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

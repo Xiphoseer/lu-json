@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12955,
+    "3": 6414
+  },
+  "description": "Temple in Ice dungeon that holds weapon",
+  "displayName": "NJ - Ice Temple Weapon",
+  "gate_version": "njhub",
+  "id": 13173,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Temple test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

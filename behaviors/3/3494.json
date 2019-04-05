@@ -1,0 +1,22 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/3/3494.json"
+    }
+  },
+  "behaviorID": 3494,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "action": 3493.0,
+    "max targets": 3.0,
+    "radius": 10.0,
+    "target_enemy": 1.0,
+    "target_friend": 0.0,
+    "target_self": 0.0,
+    "target_team": 0.0,
+    "use_target_as_caster": 0.0,
+    "use_target_position": 1.0
+  },
+  "templateID": 7
+}

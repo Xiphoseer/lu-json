@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2745,
+    "40": 1567,
+    "5": 652
+  },
+  "description": "Temp to cover bad tech",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4742,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Teleport Hack To Ship",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11991,
+    "23": 41,
+    "40": 5979,
+    "7": 1671
+  },
+  "description": "Collectable spawner for Winter 2010 map",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12244,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Winter Present Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

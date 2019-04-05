@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 3557,
+    "2": 7675,
+    "28": 52,
+    "3": 3765,
+    "42": 0,
+    "63": 1
+  },
+  "description": null,
+  "displayName": "Car Chassis",
+  "gate_version": null,
+  "id": 8129,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car Module - Chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 848
+    }
+  ],
+  "type": "Rebuildables"
+}

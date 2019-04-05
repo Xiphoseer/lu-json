@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE 3 dmg",
+  "components": {
+    "11": 3286,
+    "2": 7334,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Firecracker",
+  "gate_version": null,
+  "id": 7778,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Firecracker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 471
+    }
+  ],
+  "type": "Loot"
+}

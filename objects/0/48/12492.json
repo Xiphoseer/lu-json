@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6126,
+    "2": 12257
+  },
+  "description": "Return this to Rutger Hemoglobin.",
+  "displayName": "Maelstrom Sample",
+  "gate_version": "nexustower",
+  "id": 12492,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Maelstrom Sample",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

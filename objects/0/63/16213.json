@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth element axe spinner trap",
+  "components": {
+    "2": 14929,
+    "25": 10,
+    "3": 7640,
+    "39": 115,
+    "5": 1648,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Earth - Axe Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16213,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Axe Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

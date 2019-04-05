@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14422,
+    "3": 7422
+  },
+  "description": null,
+  "displayName": "NJ-Mon_Core_Right",
+  "gate_version": "njhub",
+  "id": 14733,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Core_Right",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 991,
+    "2": 2497,
+    "5": 81
+  },
+  "description": "Vendor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2991,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Forger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

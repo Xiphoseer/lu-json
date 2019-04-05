@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8732,
+    "3": 4003
+  },
+  "description": "Small property asset to be placed on small property",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9278,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG_PP_01_MediumProperty asset 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

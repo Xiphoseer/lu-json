@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13605,
+    "3": 6871,
+    "5": 1485
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 120,
+      "iconState": 69
+    }
+  ],
+  "id": 13882,
+  "interactionDistance": 8.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - LEGO Club Gateway",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

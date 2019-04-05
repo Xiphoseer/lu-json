@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "17": 1,
+    "2": 2063,
+    "5": 325,
+    "7": 363,
+    "9": 0
+  },
+  "description": "Test AI, Ian use only.  Do not place",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3018,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST AI NINJA for Ian H",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

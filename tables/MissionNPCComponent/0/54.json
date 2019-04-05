@@ -1,0 +1,23 @@
+{
+  "id": 54,
+  "missions": [
+    {
+      "acceptsMission": false,
+      "gate_version": null,
+      "missionID": 493,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 737,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "march2011content",
+      "missionID": 1198,
+      "offersMission": true
+    }
+  ]
+}

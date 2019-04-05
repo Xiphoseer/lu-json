@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10149,
+    "3": 4542,
+    "7": 1541
+  },
+  "description": "Blue lit Lantern",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Blue_Lantern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

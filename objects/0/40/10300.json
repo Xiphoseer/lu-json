@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 375,
+    "2": 10146,
+    "3": 1777,
+    "35": 471,
+    "5": 1253,
+    "7": 1539,
+    "73": 87
+  },
+  "description": "__MG__Property Mission Giver 2",
+  "displayName": "Sunny Rayhawk - Property Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 10300,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property Guard 2",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

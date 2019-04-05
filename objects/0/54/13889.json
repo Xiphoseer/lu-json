@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "hidden object under the seagull nest so it looks like the player is interacting with the nest",
+  "components": {
+    "2": 13613,
+    "3": 6873,
+    "5": 1490
+  },
+  "description": "",
+  "displayName": "NT - PR hidden nest interact",
+  "gate_version": "nexustower",
+  "id": 13889,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - PR hidden nest interact",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

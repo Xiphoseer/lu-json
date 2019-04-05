@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Great Sashimi Launcher 2/2/3 7/7/7 NJ Weapon",
+  "components": {
+    "11": 7317,
+    "2": 14585,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Sushi Delivery System",
+  "gate_version": "njhub",
+  "id": 15892,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sushi Delivery System",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1473
+    }
+  ],
+  "type": "Loot"
+}

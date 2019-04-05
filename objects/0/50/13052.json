@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible Scroll Spawner for CP",
+  "components": {
+    "2": 12836,
+    "23": 52,
+    "40": 6347,
+    "7": 1802
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13052,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - Scroll Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "object hidden under the darkitect orb in NT",
+  "components": {
+    "2": 13983,
+    "40": 7127,
+    "5": 1556
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 14293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Hidden darkitect interactable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

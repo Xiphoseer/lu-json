@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2934,
+    "3": 1821,
+    "48": 29,
+    "5": 476,
+    "7": 340
+  },
+  "description": "temp mesh asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3717,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Hazmat Van Rebuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "4 hideout pieces",
+  "components": {
+    "11": 4633,
+    "2": 9454,
+    "53": 63
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Shipwreck Hideout Pack",
+  "gate_version": null,
+  "id": 9603,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shipwreck Hideout Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2838,
+    "2": 6334,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Brown First Mate's Shirt",
+  "gate_version": null,
+  "id": 6800,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "First Mate's Shirt 3 - Striped Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

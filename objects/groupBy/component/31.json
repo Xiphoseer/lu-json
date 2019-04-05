@@ -1,0 +1,482 @@
+[
+  {
+    "comp_val": 96,
+    "id": 16470,
+    "name": "NAMED Stromling Pirate"
+  },
+  {
+    "comp_val": 97,
+    "id": 16471,
+    "name": "NAMED Stromling Admiral"
+  },
+  {
+    "comp_val": 98,
+    "id": 16474,
+    "name": "NAMED Dark Ronin"
+  },
+  {
+    "comp_val": 99,
+    "id": 16475,
+    "name": "NAMED Horseman"
+  },
+  {
+    "comp_val": 100,
+    "id": 16511,
+    "name": "NJD - Skeleton Mad Scientist - Frakjaw instance"
+  },
+  {
+    "comp_val": 23,
+    "id": 644,
+    "name": "m41750"
+  },
+  {
+    "comp_val": 26,
+    "id": 4712,
+    "name": "AG - Stromling"
+  },
+  {
+    "comp_val": 27,
+    "id": 6253,
+    "name": "AG - Stromling Mech"
+  },
+  {
+    "comp_val": 36,
+    "id": 6351,
+    "name": "AG - Survival Stromling Lvl 1"
+  },
+  {
+    "comp_val": 23,
+    "id": 6359,
+    "name": "AG - Dark Spiderling"
+  },
+  {
+    "comp_val": 38,
+    "id": 6454,
+    "name": "AG - Dark Spiderling Survival"
+  },
+  {
+    "comp_val": 1,
+    "id": 6529,
+    "name": "Ben Aarrr"
+  },
+  {
+    "comp_val": 31,
+    "id": 6550,
+    "name": "GF - Stromling Pirate"
+  },
+  {
+    "comp_val": 37,
+    "id": 6668,
+    "name": "AG - Stromling Mech Survival"
+  },
+  {
+    "comp_val": 32,
+    "id": 6789,
+    "name": "GF - Stromling Admiral"
+  },
+  {
+    "comp_val": 33,
+    "id": 7815,
+    "name": "FV Dark Ronin"
+  },
+  {
+    "comp_val": 34,
+    "id": 7816,
+    "name": "FV Maelstrom Cavalry"
+  },
+  {
+    "comp_val": 36,
+    "id": 8088,
+    "name": "AG - Survival Stromling Lvl 2"
+  },
+  {
+    "comp_val": 36,
+    "id": 8089,
+    "name": "AG - Survival Stromling Lvl 3"
+  },
+  {
+    "comp_val": 37,
+    "id": 8090,
+    "name": "AG - Stromling Mech Survival Lvl 2"
+  },
+  {
+    "comp_val": 37,
+    "id": 8091,
+    "name": "AG - Stromling Mech Survival Lvl 3"
+  },
+  {
+    "comp_val": 38,
+    "id": 8096,
+    "name": "AG - Dark Spiderling Survival Lvl 2"
+  },
+  {
+    "comp_val": 38,
+    "id": 8097,
+    "name": "AG - Dark Spiderling Survival Lvl 3"
+  },
+  {
+    "comp_val": 59,
+    "id": 8238,
+    "name": "VE Instance - Stromling Hammerling Ranged"
+  },
+  {
+    "comp_val": 60,
+    "id": 8433,
+    "name": "VE Instance - Stromling Mech 2"
+  },
+  {
+    "comp_val": 35,
+    "id": 10512,
+    "name": "FV - Dragon Spawned Ronin"
+  },
+  {
+    "comp_val": 23,
+    "id": 10697,
+    "name": "Behavior Spawn - Dark Spiderling"
+  },
+  {
+    "comp_val": 3,
+    "id": 11212,
+    "name": "AM - Stromling"
+  },
+  {
+    "comp_val": 4,
+    "id": 11213,
+    "name": "AM - Stromling Mech"
+  },
+  {
+    "comp_val": 5,
+    "id": 11214,
+    "name": "AM - Dark Spiderling"
+  },
+  {
+    "comp_val": 6,
+    "id": 11215,
+    "name": "AM - Stromling Pirate"
+  },
+  {
+    "comp_val": 7,
+    "id": 11216,
+    "name": "AM - Stromling Admiral"
+  },
+  {
+    "comp_val": 8,
+    "id": 11218,
+    "name": "AM - Dark Ronin"
+  },
+  {
+    "comp_val": 9,
+    "id": 11219,
+    "name": "AM - Maelstrom Horseman"
+  },
+  {
+    "comp_val": 10,
+    "id": 11982,
+    "name": "AM - Stromling NAMED"
+  },
+  {
+    "comp_val": 11,
+    "id": 11983,
+    "name": "AM - Stromling Mech NAMED"
+  },
+  {
+    "comp_val": 12,
+    "id": 11984,
+    "name": "AM - Dark Spiderling NAMED"
+  },
+  {
+    "comp_val": 13,
+    "id": 11985,
+    "name": "AM - Stromling Pirate NAMED"
+  },
+  {
+    "comp_val": 14,
+    "id": 11986,
+    "name": "AM - Stromling Admiral NAMED"
+  },
+  {
+    "comp_val": 15,
+    "id": 11988,
+    "name": "AM - Dark Ronin NAMED"
+  },
+  {
+    "comp_val": 52,
+    "id": 11999,
+    "name": "NSI - Maelstrom Horseman NAMED Boss"
+  },
+  {
+    "comp_val": 2,
+    "id": 12000,
+    "name": "AM - Skeleton Miner"
+  },
+  {
+    "comp_val": 16,
+    "id": 12001,
+    "name": "AM - Skeleton Miner NAMED"
+  },
+  {
+    "comp_val": 17,
+    "id": 12002,
+    "name": "AM - Skeleton Engineer"
+  },
+  {
+    "comp_val": 18,
+    "id": 12003,
+    "name": "AM - Skeleton Engineer NAMED"
+  },
+  {
+    "comp_val": 19,
+    "id": 12004,
+    "name": "AM - Skeleton Patroller"
+  },
+  {
+    "comp_val": 20,
+    "id": 12005,
+    "name": "AM - Skeleton Patroller NAMED Nuckal"
+  },
+  {
+    "comp_val": 61,
+    "id": 12387,
+    "name": "VE Instance - Elite Dark Spiderling"
+  },
+  {
+    "comp_val": 53,
+    "id": 12467,
+    "name": "NSI - Maelstrom Horseman NAMED Boss"
+  },
+  {
+    "comp_val": 54,
+    "id": 12468,
+    "name": "NSI - Maelstrom Horseman NAMED Boss"
+  },
+  {
+    "comp_val": 55,
+    "id": 12469,
+    "name": "NSI - Maelstrom Horseman NAMED Boss"
+  },
+  {
+    "comp_val": 58,
+    "id": 12542,
+    "name": "VE Instance - Stromling Hammerling Melee"
+  },
+  {
+    "comp_val": 23,
+    "id": 12575,
+    "name": "Property - Dark Spiderling"
+  },
+  {
+    "comp_val": 25,
+    "id": 12586,
+    "name": "NSI - Stromling Lvl 1"
+  },
+  {
+    "comp_val": 40,
+    "id": 12587,
+    "name": "NSI - Stromling Mech Survival"
+  },
+  {
+    "comp_val": 41,
+    "id": 12588,
+    "name": "NSI - Dark Spiderling"
+  },
+  {
+    "comp_val": 42,
+    "id": 12589,
+    "name": "NSI - Stromling Pirate"
+  },
+  {
+    "comp_val": 43,
+    "id": 12590,
+    "name": "NSI - Stromling Admiral"
+  },
+  {
+    "comp_val": 44,
+    "id": 12600,
+    "name": "NSI - Super Stromling Boss"
+  },
+  {
+    "comp_val": 45,
+    "id": 12602,
+    "name": "NSI - Stromling Hammerling Ranged"
+  },
+  {
+    "comp_val": 46,
+    "id": 12604,
+    "name": "NSI - Stromling Mech Corrupted Sentry"
+  },
+  {
+    "comp_val": 47,
+    "id": 12605,
+    "name": "NSI - Elite Dark Spiderling"
+  },
+  {
+    "comp_val": 48,
+    "id": 12609,
+    "name": "NSI - Dark Spiderling Boss"
+  },
+  {
+    "comp_val": 49,
+    "id": 12610,
+    "name": "NSI - Dark Ronin"
+  },
+  {
+    "comp_val": 50,
+    "id": 12611,
+    "name": "NSI - Maelstrom Horseman"
+  },
+  {
+    "comp_val": 51,
+    "id": 12653,
+    "name": "NSI - Stromling Hammerling Melee"
+  },
+  {
+    "comp_val": 21,
+    "id": 12654,
+    "name": "AM - Maelstrom Horseman NAMED"
+  },
+  {
+    "comp_val": 95,
+    "id": 12807,
+    "name": "[DNL] Valiant Owl"
+  },
+  {
+    "comp_val": 24,
+    "id": 13523,
+    "name": "NSI - Stromling Admiral 2"
+  },
+  {
+    "comp_val": 28,
+    "id": 13558,
+    "name": "NJ - Skeleton Miner QB"
+  },
+  {
+    "comp_val": 29,
+    "id": 13568,
+    "name": "NJ - Skeleton Engineer QB"
+  },
+  {
+    "comp_val": 30,
+    "id": 13588,
+    "name": "NJ - Skeleton Patroller QB"
+  },
+  {
+    "comp_val": 57,
+    "id": 13952,
+    "name": "TEST Grid Tower Enemy 2B"
+  },
+  {
+    "comp_val": 62,
+    "id": 13971,
+    "name": "TEST Grid Tower Enemy 2A"
+  },
+  {
+    "comp_val": 63,
+    "id": 13995,
+    "name": "NJ - Bone Wolf"
+  },
+  {
+    "comp_val": 71,
+    "id": 14007,
+    "name": "NJD - Skeleton Blacksmith - Frakjaw instance"
+  },
+  {
+    "comp_val": 72,
+    "id": 14008,
+    "name": "NJD - Skeleton Marksman - Frakjaw instance"
+  },
+  {
+    "comp_val": 73,
+    "id": 14009,
+    "name": "NJD - Skeleton Commando - Frakjaw instance"
+  },
+  {
+    "comp_val": 74,
+    "id": 14024,
+    "name": "NJ - Skeleton Blacksmith"
+  },
+  {
+    "comp_val": 75,
+    "id": 14025,
+    "name": "NJ - Skeleton Raider"
+  },
+  {
+    "comp_val": 76,
+    "id": 14026,
+    "name": "NJ - Skeleton Commando"
+  },
+  {
+    "comp_val": 77,
+    "id": 14027,
+    "name": "NJ - Skeleton Overseer"
+  },
+  {
+    "comp_val": 78,
+    "id": 14028,
+    "name": "NJ - Skeleton Marksman"
+  },
+  {
+    "comp_val": 79,
+    "id": 14029,
+    "name": "NJ - Skeleton Mad Scientist"
+  },
+  {
+    "comp_val": 77,
+    "id": 14182,
+    "name": "Proto - Chase Lightning follower"
+  },
+  {
+    "comp_val": 80,
+    "id": 14491,
+    "name": "NJ - Skeleton Trooper"
+  },
+  {
+    "comp_val": 81,
+    "id": 14572,
+    "name": "AG - Dark Spiderling - Spider Cave only"
+  },
+  {
+    "comp_val": 83,
+    "id": 16047,
+    "name": "NJ - Chopov Skeleton Lieutenant"
+  },
+  {
+    "comp_val": 84,
+    "id": 16048,
+    "name": "NJ - Frakjaw Skeleton Lieutenant"
+  },
+  {
+    "comp_val": 85,
+    "id": 16049,
+    "name": "NJ - Krazi Skeleton Lieutenant"
+  },
+  {
+    "comp_val": 86,
+    "id": 16050,
+    "name": "NJ - Bonezai Skeleton Lieutenant"
+  },
+  {
+    "comp_val": 90,
+    "id": 16191,
+    "name": "NJD - Bone Wolf - Frakjaw instance"
+  },
+  {
+    "comp_val": 91,
+    "id": 16197,
+    "name": "AG - Dark Spiderling (Spider Boss Version)"
+  },
+  {
+    "comp_val": 92,
+    "id": 16280,
+    "name": "AG - Stromling Mech NAMED"
+  },
+  {
+    "comp_val": 93,
+    "id": 16282,
+    "name": "AG - Stromling NAMED"
+  },
+  {
+    "comp_val": 94,
+    "id": 16283,
+    "name": "AG - Spiderling NAMED"
+  }
+]

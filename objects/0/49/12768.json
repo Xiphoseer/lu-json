@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 6316,
+    "2": 12558,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bassinet Helm",
+  "gate_version": "auramar",
+  "id": 12768,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bassinet Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

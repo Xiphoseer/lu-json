@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/3 Slashing",
+  "components": {
+    "11": 2969,
+    "2": 6641,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Worthy Force Blade",
+  "gate_version": null,
+  "id": 7068,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Worthy Force Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 542
+    }
+  ],
+  "type": "Loot"
+}

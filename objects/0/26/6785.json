@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2826,
+    "2": 6321,
+    "28": 50,
+    "3": 2988,
+    "42": 0,
+    "63": 40
+  },
+  "description": "Modular Car Body",
+  "displayName": "Modular Car Body #1",
+  "gate_version": null,
+  "id": 6785,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Body 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 848
+    }
+  ],
+  "type": "Rebuildables"
+}

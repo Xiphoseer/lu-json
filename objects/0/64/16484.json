@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 15230,
+    "23": 79,
+    "40": 7885
+  },
+  "description": "",
+  "displayName": "Dragon Relic of Lightning",
+  "gate_version": "njhub",
+  "id": 16484,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Lightning Dragon Relic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

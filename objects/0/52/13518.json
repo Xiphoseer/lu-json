@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6672,
+    "2": 13252,
+    "28": 337,
+    "3": 6624,
+    "42": 0,
+    "63": 34
+  },
+  "description": null,
+  "displayName": "Venture League Hinterlander Engine Panel",
+  "gate_version": "factionvehicles",
+  "id": 13518,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarVE_EnginePanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

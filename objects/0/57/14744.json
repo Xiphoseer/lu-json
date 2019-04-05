@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7234,
+    "2": 14431,
+    "28": 387,
+    "3": 7430,
+    "42": 0,
+    "63": 33
+  },
+  "description": null,
+  "displayName": "Racemaster  Front Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14744,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Red Indy Car Front Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

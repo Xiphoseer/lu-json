@@ -1,0 +1,47 @@
+{
+  "id": 236,
+  "tasks": [
+    {
+      "IconID": 2992,
+      "gate_version": null,
+      "largeTaskIcon": "..\\../textures/ui/missioncomics/Wonderland/Nimbus_Station/Hud_Icons/mission_236a.dds",
+      "largeTaskIconID": 2992,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3290,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 571
+    },
+    {
+      "IconID": 2993,
+      "gate_version": null,
+      "largeTaskIcon": "..\\../textures/ui/missioncomics/Wonderland/Nimbus_Station/Hud_Icons/mission_236b.dds",
+      "largeTaskIconID": 2993,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3291,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 572
+    },
+    {
+      "IconID": 2994,
+      "gate_version": null,
+      "largeTaskIcon": "..\\../textures/ui/missioncomics/Wonderland/Nimbus_Station/Hud_Icons/mission_236c.dds",
+      "largeTaskIconID": 2994,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3292,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 573
+    }
+  ]
+}

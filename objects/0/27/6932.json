@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE Damage",
+  "components": {
+    "11": 2930,
+    "2": 6494,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Wizard's Hat of Whirlwind",
+  "gate_version": null,
+  "id": 6932,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wizard's Hat of Whirlwind 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 728
+    }
+  ],
+  "type": "Loot"
+}

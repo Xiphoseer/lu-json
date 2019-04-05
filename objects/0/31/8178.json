@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7721,
+    "40": 3787,
+    "5": 1061
+  },
+  "description": "Sign that animates on proximity to theSentinel Vendor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8178,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Faction Sign for Nimbus Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

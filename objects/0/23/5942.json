@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5279,
+    "3": 2416,
+    "5": 790
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5942,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Full Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

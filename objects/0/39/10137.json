@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 369,
+    "2": 9977,
+    "3": 1777,
+    "35": 461,
+    "7": 307
+  },
+  "description": "Ambient Welder NPC for LUP Station",
+  "displayName": "Worker",
+  "gate_version": null,
+  "id": 10137,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Starbase 3001 Welder Ambient",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

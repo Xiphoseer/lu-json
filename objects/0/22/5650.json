@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5071,
+    "40": 2348,
+    "48": 54,
+    "49": 0
+  },
+  "description": "ReBuild Activator object for all equipment on Monument in Scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5650,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Equipment Activator ReBuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 3885,
+    "2": 8187,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Union Shirt",
+  "gate_version": null,
+  "id": 8630,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Cavalry Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

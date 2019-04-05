@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Used to catalog property planets for Nexus Tower missions",
+  "components": {
+    "11": 7006,
+    "2": 13843,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Dr. Overbuild's Property Scanner",
+  "gate_version": "nexustower",
+  "id": 14132,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Doctor Overbuilds Property Device",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 1317
+    }
+  ],
+  "type": "Loot"
+}

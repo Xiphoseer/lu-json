@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth SJ tornado skill",
+  "components": {
+    "11": 7088,
+    "2": 14124
+  },
+  "description": "",
+  "displayName": "NPC Weapon of Spinning Earth Staff",
+  "gate_version": "freetrial",
+  "id": 14434,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Weapon of Spinning Earth Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

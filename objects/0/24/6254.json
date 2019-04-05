@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2611,
+    "2": 5670,
+    "48": 107,
+    "5": 816,
+    "60": 18,
+    "7": 506,
+    "9": 0
+  },
+  "description": "Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6254,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 216
+    }
+  ],
+  "type": "Rebuildables"
+}

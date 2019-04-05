@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11048,
+    "20": 5209,
+    "5": 1079
+  },
+  "description": "FV - Track BoostPad on the narrow stretch before bounce",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11277,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Track BoostPad 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2514,
+    "2": 5446,
+    "3": 2504,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Water Cooler Model",
+  "gate_version": null,
+  "id": 6039,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Water Cooler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

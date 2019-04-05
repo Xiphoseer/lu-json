@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2588,
+    "3": 2812,
+    "5": 341
+  },
+  "description": "Invisible object for falling leaves",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3122,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - SG Falling Leaves Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

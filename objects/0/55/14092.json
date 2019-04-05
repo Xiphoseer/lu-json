@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP 2 AP",
+  "components": {
+    "11": 6970,
+    "2": 13804,
+    "9": 0
+  },
+  "description": "For Silver Trophy Winners!",
+  "displayName": "Jazzy Pants",
+  "gate_version": "nexustower",
+  "id": 14092,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Silver Trophy Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

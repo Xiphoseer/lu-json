@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6157,
+    "40": 2863,
+    "64": 0
+  },
+  "description": "Activator object for choice builds",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6604,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant",
+  "components": {
+    "11": 6929,
+    "2": 13646,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Heroic Force Blade",
+  "gate_version": "communitymissions1.0",
+  "id": 13922,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Heroic Force Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1223
+    }
+  ],
+  "type": "Loot"
+}

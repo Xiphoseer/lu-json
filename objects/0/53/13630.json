@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12694,
+    "3": 1777,
+    "35": 568,
+    "7": 305,
+    "73": 143
+  },
+  "description": "__MG__Test for donation",
+  "displayName": "Test Donation Here",
+  "gate_version": null,
+  "id": 13630,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST donation mission giver",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

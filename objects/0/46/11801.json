@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5852,
+    "2": 11553,
+    "3": 5645,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Water Cooler Model",
+  "gate_version": "nexustower",
+  "id": 11801,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Rewared Office Water Cooler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

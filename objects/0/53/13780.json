@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13519,
+    "3": 6810,
+    "7": 1870
+  },
+  "description": "Test Nexus Jay Stand-in",
+  "displayName": "Test Nexus Jay Stand-in",
+  "gate_version": "buildNexusTower",
+  "id": 13780,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Nexus Jay Stand-in",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Smashables"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5362,
+    "40": 1041,
+    "5": 796,
+    "7": 499,
+    "9": 0
+  },
+  "description": "Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5965,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - Speed Boost Powerup",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 500
+    }
+  ],
+  "type": "NPC"
+}

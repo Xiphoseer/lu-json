@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2739,
+    "25": 0,
+    "3": 1278,
+    "5": 376,
+    "7": 362
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Pelican",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

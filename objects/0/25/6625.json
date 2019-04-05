@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2884,
+    "2": 6182,
+    "5": 924,
+    "7": 606
+  },
+  "description": "Back hitbox",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6625,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CT - Bull Tail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9812,
+    "20": 4411,
+    "5": 1060,
+    "7": 862
+  },
+  "description": "Standard Crate used for racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9984,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Racing crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

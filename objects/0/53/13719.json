@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6829,
+    "2": 13457,
+    "3": 6777,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Safari Termite Mound Model ",
+  "gate_version": "april2011content",
+  "id": 13719,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Safari Termite Mound ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

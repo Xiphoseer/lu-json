@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "for Nya Mission",
+  "components": {
+    "11": 7420,
+    "2": 14713,
+    "9": 0
+  },
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "displayName": "Frakjaw's Maelstrom Battle Mace",
+  "gate_version": "njhub",
+  "id": 16012,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "Frakjaw's Maelstrom Battle Mace",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1497
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1499
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4869,
+    "2": 10345,
+    "5": 1233
+  },
+  "description": "Robot Citizen for the LUP team",
+  "displayName": "Robot Citizen",
+  "gate_version": null,
+  "id": 10742,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Robot Citizen Blue",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

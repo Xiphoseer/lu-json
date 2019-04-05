@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4716,
+    "2": 9517,
+    "3": 4228,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle T-Wall Model",
+  "gate_version": null,
+  "id": 9674,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Wall T",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

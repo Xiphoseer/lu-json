@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3378,
+    "3": 1933,
+    "5": 616
+  },
+  "description": "Window Washer ZP",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3936,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Window Washer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

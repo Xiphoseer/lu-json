@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item, for 1.10 only drops for this mission. Will later drop as loot in Ice Dungeon.",
+  "components": {
+    "11": 7120,
+    "2": 14186
+  },
+  "description": "A gem that can be sold!",
+  "displayName": "Diamond Gem",
+  "gate_version": "njhub",
+  "id": 14497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Diamond Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 14540,
+    "23": 63,
+    "40": 7473,
+    "7": 2052
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Lightning.",
+  "displayName": "Lightning Key",
+  "gate_version": "njhub",
+  "id": 15847,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - lightning elemental key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3461,
+    "2": 1549,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "TEST Launcher Jetpack",
+  "gate_version": null,
+  "id": 14442,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Launcher Jetpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1375
+    }
+  ],
+  "type": "Loot"
+}

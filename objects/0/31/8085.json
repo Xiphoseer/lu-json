@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 3529,
+    "2": 7631,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Red Shako Hat",
+  "gate_version": null,
+  "id": 8085,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Shako Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

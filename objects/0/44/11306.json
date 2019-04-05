@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11082,
+    "25": 0,
+    "3": 5222,
+    "5": 1330
+  },
+  "description": "The ramps that form on the second lap",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Track Columns Lap 2 Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

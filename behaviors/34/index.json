@@ -1,0 +1,7937 @@
+{
+  "_embedded": {
+    "behaviors": [
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34816.json"
+          }
+        },
+        "behaviorID": 34816,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34817.json"
+          }
+        },
+        "behaviorID": 34817,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34818.json"
+          }
+        },
+        "behaviorID": 34818,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34819.json"
+          }
+        },
+        "behaviorID": 34819,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34820.json"
+          }
+        },
+        "behaviorID": 34820,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34821.json"
+          }
+        },
+        "behaviorID": 34821,
+        "effectHandle": "",
+        "effectID": 7605,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34822.json"
+          }
+        },
+        "behaviorID": 34822,
+        "effectHandle": "",
+        "effectID": 7606,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34823.json"
+          }
+        },
+        "behaviorID": 34823,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34824.json"
+          }
+        },
+        "behaviorID": 34824,
+        "effectHandle": "",
+        "effectID": 7607,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34825.json"
+          }
+        },
+        "behaviorID": 34825,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34826.json"
+          }
+        },
+        "behaviorID": 34826,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34827.json"
+          }
+        },
+        "behaviorID": 34827,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34828.json"
+          }
+        },
+        "behaviorID": 34828,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34829.json"
+          }
+        },
+        "behaviorID": 34829,
+        "effectHandle": "",
+        "effectID": 7608,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34830.json"
+          }
+        },
+        "behaviorID": 34830,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34831.json"
+          }
+        },
+        "behaviorID": 34831,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34832.json"
+          }
+        },
+        "behaviorID": 34832,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34833.json"
+          }
+        },
+        "behaviorID": 34833,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34834.json"
+          }
+        },
+        "behaviorID": 34834,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34835.json"
+          }
+        },
+        "behaviorID": 34835,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34836.json"
+          }
+        },
+        "behaviorID": 34836,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34837.json"
+          }
+        },
+        "behaviorID": 34837,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34838.json"
+          }
+        },
+        "behaviorID": 34838,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34839.json"
+          }
+        },
+        "behaviorID": 34839,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34840.json"
+          }
+        },
+        "behaviorID": 34840,
+        "effectHandle": "",
+        "effectID": 7609,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34841.json"
+          }
+        },
+        "behaviorID": 34841,
+        "effectHandle": "",
+        "effectID": 7610,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34842.json"
+          }
+        },
+        "behaviorID": 34842,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34843.json"
+          }
+        },
+        "behaviorID": 34843,
+        "effectHandle": "",
+        "effectID": 7611,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34844.json"
+          }
+        },
+        "behaviorID": 34844,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34845.json"
+          }
+        },
+        "behaviorID": 34845,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34846.json"
+          }
+        },
+        "behaviorID": 34846,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34847.json"
+          }
+        },
+        "behaviorID": 34847,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34848.json"
+          }
+        },
+        "behaviorID": 34848,
+        "effectHandle": "",
+        "effectID": 7612,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34849.json"
+          }
+        },
+        "behaviorID": 34849,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34850.json"
+          }
+        },
+        "behaviorID": 34850,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34851.json"
+          }
+        },
+        "behaviorID": 34851,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34852.json"
+          }
+        },
+        "behaviorID": 34852,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34853.json"
+          }
+        },
+        "behaviorID": 34853,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34854.json"
+          }
+        },
+        "behaviorID": 34854,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34855.json"
+          }
+        },
+        "behaviorID": 34855,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34856.json"
+          }
+        },
+        "behaviorID": 34856,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34857.json"
+          }
+        },
+        "behaviorID": 34857,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34858.json"
+          }
+        },
+        "behaviorID": 34858,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34859.json"
+          }
+        },
+        "behaviorID": 34859,
+        "effectHandle": "",
+        "effectID": 7613,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34860.json"
+          }
+        },
+        "behaviorID": 34860,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34861.json"
+          }
+        },
+        "behaviorID": 34861,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34862.json"
+          }
+        },
+        "behaviorID": 34862,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34863.json"
+          }
+        },
+        "behaviorID": 34863,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34864.json"
+          }
+        },
+        "behaviorID": 34864,
+        "effectHandle": "",
+        "effectID": 7614,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34865.json"
+          }
+        },
+        "behaviorID": 34865,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34866.json"
+          }
+        },
+        "behaviorID": 34866,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34867.json"
+          }
+        },
+        "behaviorID": 34867,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34868.json"
+          }
+        },
+        "behaviorID": 34868,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34869.json"
+          }
+        },
+        "behaviorID": 34869,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34870.json"
+          }
+        },
+        "behaviorID": 34870,
+        "effectHandle": "",
+        "effectID": 7615,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34871.json"
+          }
+        },
+        "behaviorID": 34871,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34872.json"
+          }
+        },
+        "behaviorID": 34872,
+        "effectHandle": "",
+        "effectID": 7616,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34873.json"
+          }
+        },
+        "behaviorID": 34873,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34874.json"
+          }
+        },
+        "behaviorID": 34874,
+        "effectHandle": "",
+        "effectID": 7617,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34875.json"
+          }
+        },
+        "behaviorID": 34875,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34876.json"
+          }
+        },
+        "behaviorID": 34876,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34877.json"
+          }
+        },
+        "behaviorID": 34877,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34878.json"
+          }
+        },
+        "behaviorID": 34878,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34879.json"
+          }
+        },
+        "behaviorID": 34879,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34880.json"
+          }
+        },
+        "behaviorID": 34880,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34881.json"
+          }
+        },
+        "behaviorID": 34881,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34882.json"
+          }
+        },
+        "behaviorID": 34882,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34883.json"
+          }
+        },
+        "behaviorID": 34883,
+        "effectHandle": "",
+        "effectID": 7618,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34884.json"
+          }
+        },
+        "behaviorID": 34884,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34885.json"
+          }
+        },
+        "behaviorID": 34885,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34886.json"
+          }
+        },
+        "behaviorID": 34886,
+        "effectHandle": "",
+        "effectID": 7619,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34887.json"
+          }
+        },
+        "behaviorID": 34887,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34888.json"
+          }
+        },
+        "behaviorID": 34888,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34889.json"
+          }
+        },
+        "behaviorID": 34889,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34890.json"
+          }
+        },
+        "behaviorID": 34890,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34891.json"
+          }
+        },
+        "behaviorID": 34891,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34892.json"
+          }
+        },
+        "behaviorID": 34892,
+        "effectHandle": "",
+        "effectID": 7620,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34893.json"
+          }
+        },
+        "behaviorID": 34893,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34894.json"
+          }
+        },
+        "behaviorID": 34894,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34895.json"
+          }
+        },
+        "behaviorID": 34895,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34896.json"
+          }
+        },
+        "behaviorID": 34896,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34897.json"
+          }
+        },
+        "behaviorID": 34897,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34898.json"
+          }
+        },
+        "behaviorID": 34898,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34899.json"
+          }
+        },
+        "behaviorID": 34899,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34900.json"
+          }
+        },
+        "behaviorID": 34900,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34901.json"
+          }
+        },
+        "behaviorID": 34901,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34902.json"
+          }
+        },
+        "behaviorID": 34902,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34903.json"
+          }
+        },
+        "behaviorID": 34903,
+        "effectHandle": "",
+        "effectID": 7621,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34904.json"
+          }
+        },
+        "behaviorID": 34904,
+        "effectHandle": "",
+        "effectID": 7622,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34905.json"
+          }
+        },
+        "behaviorID": 34905,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34906.json"
+          }
+        },
+        "behaviorID": 34906,
+        "effectHandle": "",
+        "effectID": 7623,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34907.json"
+          }
+        },
+        "behaviorID": 34907,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34908.json"
+          }
+        },
+        "behaviorID": 34908,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34909.json"
+          }
+        },
+        "behaviorID": 34909,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34910.json"
+          }
+        },
+        "behaviorID": 34910,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34911.json"
+          }
+        },
+        "behaviorID": 34911,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34912.json"
+          }
+        },
+        "behaviorID": 34912,
+        "effectHandle": "",
+        "effectID": 7624,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34913.json"
+          }
+        },
+        "behaviorID": 34913,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34914.json"
+          }
+        },
+        "behaviorID": 34914,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34915.json"
+          }
+        },
+        "behaviorID": 34915,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34916.json"
+          }
+        },
+        "behaviorID": 34916,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34917.json"
+          }
+        },
+        "behaviorID": 34917,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34918.json"
+          }
+        },
+        "behaviorID": 34918,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34919.json"
+          }
+        },
+        "behaviorID": 34919,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34920.json"
+          }
+        },
+        "behaviorID": 34920,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34921.json"
+          }
+        },
+        "behaviorID": 34921,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34922.json"
+          }
+        },
+        "behaviorID": 34922,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34923.json"
+          }
+        },
+        "behaviorID": 34923,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34924.json"
+          }
+        },
+        "behaviorID": 34924,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34925.json"
+          }
+        },
+        "behaviorID": 34925,
+        "effectHandle": "",
+        "effectID": 7625,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34926.json"
+          }
+        },
+        "behaviorID": 34926,
+        "effectHandle": "",
+        "effectID": 7626,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34927.json"
+          }
+        },
+        "behaviorID": 34927,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34928.json"
+          }
+        },
+        "behaviorID": 34928,
+        "effectHandle": "",
+        "effectID": 7627,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34929.json"
+          }
+        },
+        "behaviorID": 34929,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34930.json"
+          }
+        },
+        "behaviorID": 34930,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34931.json"
+          }
+        },
+        "behaviorID": 34931,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34932.json"
+          }
+        },
+        "behaviorID": 34932,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34933.json"
+          }
+        },
+        "behaviorID": 34933,
+        "effectHandle": "",
+        "effectID": 7628,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34934.json"
+          }
+        },
+        "behaviorID": 34934,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34935.json"
+          }
+        },
+        "behaviorID": 34935,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34936.json"
+          }
+        },
+        "behaviorID": 34936,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34937.json"
+          }
+        },
+        "behaviorID": 34937,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34938.json"
+          }
+        },
+        "behaviorID": 34938,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34939.json"
+          }
+        },
+        "behaviorID": 34939,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34940.json"
+          }
+        },
+        "behaviorID": 34940,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34941.json"
+          }
+        },
+        "behaviorID": 34941,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34942.json"
+          }
+        },
+        "behaviorID": 34942,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34943.json"
+          }
+        },
+        "behaviorID": 34943,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34944.json"
+          }
+        },
+        "behaviorID": 34944,
+        "effectHandle": "",
+        "effectID": 7629,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34945.json"
+          }
+        },
+        "behaviorID": 34945,
+        "effectHandle": "",
+        "effectID": 7630,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34946.json"
+          }
+        },
+        "behaviorID": 34946,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34947.json"
+          }
+        },
+        "behaviorID": 34947,
+        "effectHandle": "",
+        "effectID": 7631,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34948.json"
+          }
+        },
+        "behaviorID": 34948,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34949.json"
+          }
+        },
+        "behaviorID": 34949,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34950.json"
+          }
+        },
+        "behaviorID": 34950,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34951.json"
+          }
+        },
+        "behaviorID": 34951,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34952.json"
+          }
+        },
+        "behaviorID": 34952,
+        "effectHandle": "",
+        "effectID": 7632,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34953.json"
+          }
+        },
+        "behaviorID": 34953,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34954.json"
+          }
+        },
+        "behaviorID": 34954,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34955.json"
+          }
+        },
+        "behaviorID": 34955,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34956.json"
+          }
+        },
+        "behaviorID": 34956,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34957.json"
+          }
+        },
+        "behaviorID": 34957,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34958.json"
+          }
+        },
+        "behaviorID": 34958,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34959.json"
+          }
+        },
+        "behaviorID": 34959,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34960.json"
+          }
+        },
+        "behaviorID": 34960,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34961.json"
+          }
+        },
+        "behaviorID": 34961,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34962.json"
+          }
+        },
+        "behaviorID": 34962,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34963.json"
+          }
+        },
+        "behaviorID": 34963,
+        "effectHandle": "",
+        "effectID": 7633,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34964.json"
+          }
+        },
+        "behaviorID": 34964,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34965.json"
+          }
+        },
+        "behaviorID": 34965,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34966.json"
+          }
+        },
+        "behaviorID": 34966,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34967.json"
+          }
+        },
+        "behaviorID": 34967,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34968.json"
+          }
+        },
+        "behaviorID": 34968,
+        "effectHandle": "",
+        "effectID": 7634,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34969.json"
+          }
+        },
+        "behaviorID": 34969,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34970.json"
+          }
+        },
+        "behaviorID": 34970,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34971.json"
+          }
+        },
+        "behaviorID": 34971,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34972.json"
+          }
+        },
+        "behaviorID": 34972,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34973.json"
+          }
+        },
+        "behaviorID": 34973,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34974.json"
+          }
+        },
+        "behaviorID": 34974,
+        "effectHandle": "",
+        "effectID": 7635,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34975.json"
+          }
+        },
+        "behaviorID": 34975,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34976.json"
+          }
+        },
+        "behaviorID": 34976,
+        "effectHandle": "",
+        "effectID": 7636,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34977.json"
+          }
+        },
+        "behaviorID": 34977,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34978.json"
+          }
+        },
+        "behaviorID": 34978,
+        "effectHandle": "",
+        "effectID": 7637,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34979.json"
+          }
+        },
+        "behaviorID": 34979,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34980.json"
+          }
+        },
+        "behaviorID": 34980,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34981.json"
+          }
+        },
+        "behaviorID": 34981,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34982.json"
+          }
+        },
+        "behaviorID": 34982,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34983.json"
+          }
+        },
+        "behaviorID": 34983,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34984.json"
+          }
+        },
+        "behaviorID": 34984,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34985.json"
+          }
+        },
+        "behaviorID": 34985,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34986.json"
+          }
+        },
+        "behaviorID": 34986,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34987.json"
+          }
+        },
+        "behaviorID": 34987,
+        "effectHandle": "",
+        "effectID": 7638,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34988.json"
+          }
+        },
+        "behaviorID": 34988,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34989.json"
+          }
+        },
+        "behaviorID": 34989,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34990.json"
+          }
+        },
+        "behaviorID": 34990,
+        "effectHandle": "",
+        "effectID": 7639,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34991.json"
+          }
+        },
+        "behaviorID": 34991,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34992.json"
+          }
+        },
+        "behaviorID": 34992,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34993.json"
+          }
+        },
+        "behaviorID": 34993,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34994.json"
+          }
+        },
+        "behaviorID": 34994,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34995.json"
+          }
+        },
+        "behaviorID": 34995,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34996.json"
+          }
+        },
+        "behaviorID": 34996,
+        "effectHandle": "",
+        "effectID": 7640,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34997.json"
+          }
+        },
+        "behaviorID": 34997,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34998.json"
+          }
+        },
+        "behaviorID": 34998,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/34999.json"
+          }
+        },
+        "behaviorID": 34999,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35000.json"
+          }
+        },
+        "behaviorID": 35000,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35001.json"
+          }
+        },
+        "behaviorID": 35001,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35002.json"
+          }
+        },
+        "behaviorID": 35002,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35003.json"
+          }
+        },
+        "behaviorID": 35003,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35004.json"
+          }
+        },
+        "behaviorID": 35004,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35005.json"
+          }
+        },
+        "behaviorID": 35005,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35006.json"
+          }
+        },
+        "behaviorID": 35006,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35007.json"
+          }
+        },
+        "behaviorID": 35007,
+        "effectHandle": "",
+        "effectID": 7641,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35008.json"
+          }
+        },
+        "behaviorID": 35008,
+        "effectHandle": "",
+        "effectID": 7642,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35009.json"
+          }
+        },
+        "behaviorID": 35009,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35010.json"
+          }
+        },
+        "behaviorID": 35010,
+        "effectHandle": "",
+        "effectID": 7643,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35011.json"
+          }
+        },
+        "behaviorID": 35011,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35012.json"
+          }
+        },
+        "behaviorID": 35012,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35013.json"
+          }
+        },
+        "behaviorID": 35013,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35014.json"
+          }
+        },
+        "behaviorID": 35014,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35015.json"
+          }
+        },
+        "behaviorID": 35015,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35016.json"
+          }
+        },
+        "behaviorID": 35016,
+        "effectHandle": "",
+        "effectID": 7644,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35017.json"
+          }
+        },
+        "behaviorID": 35017,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35018.json"
+          }
+        },
+        "behaviorID": 35018,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35019.json"
+          }
+        },
+        "behaviorID": 35019,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35020.json"
+          }
+        },
+        "behaviorID": 35020,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35021.json"
+          }
+        },
+        "behaviorID": 35021,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35022.json"
+          }
+        },
+        "behaviorID": 35022,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35023.json"
+          }
+        },
+        "behaviorID": 35023,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35024.json"
+          }
+        },
+        "behaviorID": 35024,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35025.json"
+          }
+        },
+        "behaviorID": 35025,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35026.json"
+          }
+        },
+        "behaviorID": 35026,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35027.json"
+          }
+        },
+        "behaviorID": 35027,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35028.json"
+          }
+        },
+        "behaviorID": 35028,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35029.json"
+          }
+        },
+        "behaviorID": 35029,
+        "effectHandle": "",
+        "effectID": 7645,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35030.json"
+          }
+        },
+        "behaviorID": 35030,
+        "effectHandle": "",
+        "effectID": 7646,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35031.json"
+          }
+        },
+        "behaviorID": 35031,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35032.json"
+          }
+        },
+        "behaviorID": 35032,
+        "effectHandle": "",
+        "effectID": 7647,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35033.json"
+          }
+        },
+        "behaviorID": 35033,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35034.json"
+          }
+        },
+        "behaviorID": 35034,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35035.json"
+          }
+        },
+        "behaviorID": 35035,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35036.json"
+          }
+        },
+        "behaviorID": 35036,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35037.json"
+          }
+        },
+        "behaviorID": 35037,
+        "effectHandle": "",
+        "effectID": 7648,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35038.json"
+          }
+        },
+        "behaviorID": 35038,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35039.json"
+          }
+        },
+        "behaviorID": 35039,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35040.json"
+          }
+        },
+        "behaviorID": 35040,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35041.json"
+          }
+        },
+        "behaviorID": 35041,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35042.json"
+          }
+        },
+        "behaviorID": 35042,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35043.json"
+          }
+        },
+        "behaviorID": 35043,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35044.json"
+          }
+        },
+        "behaviorID": 35044,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35045.json"
+          }
+        },
+        "behaviorID": 35045,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35046.json"
+          }
+        },
+        "behaviorID": 35046,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35047.json"
+          }
+        },
+        "behaviorID": 35047,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35048.json"
+          }
+        },
+        "behaviorID": 35048,
+        "effectHandle": "",
+        "effectID": 7649,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35049.json"
+          }
+        },
+        "behaviorID": 35049,
+        "effectHandle": "",
+        "effectID": 7650,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35050.json"
+          }
+        },
+        "behaviorID": 35050,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35051.json"
+          }
+        },
+        "behaviorID": 35051,
+        "effectHandle": "",
+        "effectID": 7651,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35052.json"
+          }
+        },
+        "behaviorID": 35052,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35053.json"
+          }
+        },
+        "behaviorID": 35053,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35054.json"
+          }
+        },
+        "behaviorID": 35054,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35055.json"
+          }
+        },
+        "behaviorID": 35055,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35056.json"
+          }
+        },
+        "behaviorID": 35056,
+        "effectHandle": "",
+        "effectID": 7652,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35057.json"
+          }
+        },
+        "behaviorID": 35057,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35058.json"
+          }
+        },
+        "behaviorID": 35058,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35059.json"
+          }
+        },
+        "behaviorID": 35059,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35060.json"
+          }
+        },
+        "behaviorID": 35060,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35061.json"
+          }
+        },
+        "behaviorID": 35061,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 34
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35062.json"
+          }
+        },
+        "behaviorID": 35062,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35063.json"
+          }
+        },
+        "behaviorID": 35063,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35064.json"
+          }
+        },
+        "behaviorID": 35064,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35065.json"
+          }
+        },
+        "behaviorID": 35065,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35066.json"
+          }
+        },
+        "behaviorID": 35066,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35067.json"
+          }
+        },
+        "behaviorID": 35067,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35068.json"
+          }
+        },
+        "behaviorID": 35068,
+        "effectHandle": "",
+        "effectID": 7653,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35069.json"
+          }
+        },
+        "behaviorID": 35069,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35070.json"
+          }
+        },
+        "behaviorID": 35070,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 4
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35071.json"
+          }
+        },
+        "behaviorID": 35071,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35072.json"
+          }
+        },
+        "behaviorID": 35072,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35073.json"
+          }
+        },
+        "behaviorID": 35073,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35074.json"
+          }
+        },
+        "behaviorID": 35074,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35075.json"
+          }
+        },
+        "behaviorID": 35075,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35076.json"
+          }
+        },
+        "behaviorID": 35076,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35077.json"
+          }
+        },
+        "behaviorID": 35077,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35078.json"
+          }
+        },
+        "behaviorID": 35078,
+        "effectHandle": "",
+        "effectID": 7654,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35079.json"
+          }
+        },
+        "behaviorID": 35079,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35080.json"
+          }
+        },
+        "behaviorID": 35080,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35081.json"
+          }
+        },
+        "behaviorID": 35081,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35082.json"
+          }
+        },
+        "behaviorID": 35082,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35083.json"
+          }
+        },
+        "behaviorID": 35083,
+        "effectHandle": "",
+        "effectID": 7655,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35084.json"
+          }
+        },
+        "behaviorID": 35084,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35085.json"
+          }
+        },
+        "behaviorID": 35085,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35086.json"
+          }
+        },
+        "behaviorID": 35086,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35087.json"
+          }
+        },
+        "behaviorID": 35087,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35088.json"
+          }
+        },
+        "behaviorID": 35088,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35089.json"
+          }
+        },
+        "behaviorID": 35089,
+        "effectHandle": "",
+        "effectID": 7656,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35090.json"
+          }
+        },
+        "behaviorID": 35090,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35091.json"
+          }
+        },
+        "behaviorID": 35091,
+        "effectHandle": "",
+        "effectID": 7657,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35092.json"
+          }
+        },
+        "behaviorID": 35092,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35093.json"
+          }
+        },
+        "behaviorID": 35093,
+        "effectHandle": "",
+        "effectID": 7658,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35094.json"
+          }
+        },
+        "behaviorID": 35094,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35095.json"
+          }
+        },
+        "behaviorID": 35095,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35096.json"
+          }
+        },
+        "behaviorID": 35096,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35097.json"
+          }
+        },
+        "behaviorID": 35097,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35098.json"
+          }
+        },
+        "behaviorID": 35098,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35099.json"
+          }
+        },
+        "behaviorID": 35099,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35100.json"
+          }
+        },
+        "behaviorID": 35100,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35101.json"
+          }
+        },
+        "behaviorID": 35101,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35102.json"
+          }
+        },
+        "behaviorID": 35102,
+        "effectHandle": "",
+        "effectID": 7659,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35103.json"
+          }
+        },
+        "behaviorID": 35103,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35104.json"
+          }
+        },
+        "behaviorID": 35104,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35105.json"
+          }
+        },
+        "behaviorID": 35105,
+        "effectHandle": "",
+        "effectID": 7660,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35106.json"
+          }
+        },
+        "behaviorID": 35106,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35107.json"
+          }
+        },
+        "behaviorID": 35107,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35108.json"
+          }
+        },
+        "behaviorID": 35108,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35109.json"
+          }
+        },
+        "behaviorID": 35109,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35110.json"
+          }
+        },
+        "behaviorID": 35110,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35111.json"
+          }
+        },
+        "behaviorID": 35111,
+        "effectHandle": "",
+        "effectID": 7661,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35112.json"
+          }
+        },
+        "behaviorID": 35112,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35113.json"
+          }
+        },
+        "behaviorID": 35113,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35114.json"
+          }
+        },
+        "behaviorID": 35114,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35115.json"
+          }
+        },
+        "behaviorID": 35115,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35116.json"
+          }
+        },
+        "behaviorID": 35116,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35117.json"
+          }
+        },
+        "behaviorID": 35117,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35118.json"
+          }
+        },
+        "behaviorID": 35118,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35119.json"
+          }
+        },
+        "behaviorID": 35119,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35120.json"
+          }
+        },
+        "behaviorID": 35120,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35121.json"
+          }
+        },
+        "behaviorID": 35121,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35122.json"
+          }
+        },
+        "behaviorID": 35122,
+        "effectHandle": "",
+        "effectID": 7662,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35123.json"
+          }
+        },
+        "behaviorID": 35123,
+        "effectHandle": "",
+        "effectID": 7663,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35124.json"
+          }
+        },
+        "behaviorID": 35124,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35125.json"
+          }
+        },
+        "behaviorID": 35125,
+        "effectHandle": "",
+        "effectID": 7664,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35126.json"
+          }
+        },
+        "behaviorID": 35126,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35127.json"
+          }
+        },
+        "behaviorID": 35127,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35128.json"
+          }
+        },
+        "behaviorID": 35128,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35129.json"
+          }
+        },
+        "behaviorID": 35129,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35130.json"
+          }
+        },
+        "behaviorID": 35130,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35131.json"
+          }
+        },
+        "behaviorID": 35131,
+        "effectHandle": "",
+        "effectID": 7665,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35132.json"
+          }
+        },
+        "behaviorID": 35132,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35133.json"
+          }
+        },
+        "behaviorID": 35133,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35134.json"
+          }
+        },
+        "behaviorID": 35134,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35135.json"
+          }
+        },
+        "behaviorID": 35135,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35136.json"
+          }
+        },
+        "behaviorID": 35136,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35137.json"
+          }
+        },
+        "behaviorID": 35137,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35138.json"
+          }
+        },
+        "behaviorID": 35138,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35139.json"
+          }
+        },
+        "behaviorID": 35139,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35140.json"
+          }
+        },
+        "behaviorID": 35140,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35141.json"
+          }
+        },
+        "behaviorID": 35141,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35142.json"
+          }
+        },
+        "behaviorID": 35142,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35143.json"
+          }
+        },
+        "behaviorID": 35143,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35144.json"
+          }
+        },
+        "behaviorID": 35144,
+        "effectHandle": "",
+        "effectID": 7666,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35145.json"
+          }
+        },
+        "behaviorID": 35145,
+        "effectHandle": "",
+        "effectID": 7667,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35146.json"
+          }
+        },
+        "behaviorID": 35146,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35147.json"
+          }
+        },
+        "behaviorID": 35147,
+        "effectHandle": "",
+        "effectID": 7668,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35148.json"
+          }
+        },
+        "behaviorID": 35148,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35149.json"
+          }
+        },
+        "behaviorID": 35149,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35150.json"
+          }
+        },
+        "behaviorID": 35150,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35151.json"
+          }
+        },
+        "behaviorID": 35151,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35152.json"
+          }
+        },
+        "behaviorID": 35152,
+        "effectHandle": "",
+        "effectID": 7669,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35153.json"
+          }
+        },
+        "behaviorID": 35153,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35154.json"
+          }
+        },
+        "behaviorID": 35154,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35155.json"
+          }
+        },
+        "behaviorID": 35155,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35156.json"
+          }
+        },
+        "behaviorID": 35156,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35157.json"
+          }
+        },
+        "behaviorID": 35157,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35158.json"
+          }
+        },
+        "behaviorID": 35158,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35159.json"
+          }
+        },
+        "behaviorID": 35159,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35160.json"
+          }
+        },
+        "behaviorID": 35160,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35161.json"
+          }
+        },
+        "behaviorID": 35161,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35162.json"
+          }
+        },
+        "behaviorID": 35162,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35163.json"
+          }
+        },
+        "behaviorID": 35163,
+        "effectHandle": "",
+        "effectID": 7670,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35164.json"
+          }
+        },
+        "behaviorID": 35164,
+        "effectHandle": "",
+        "effectID": 7671,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35165.json"
+          }
+        },
+        "behaviorID": 35165,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35166.json"
+          }
+        },
+        "behaviorID": 35166,
+        "effectHandle": "",
+        "effectID": 7672,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35167.json"
+          }
+        },
+        "behaviorID": 35167,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35168.json"
+          }
+        },
+        "behaviorID": 35168,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35169.json"
+          }
+        },
+        "behaviorID": 35169,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35170.json"
+          }
+        },
+        "behaviorID": 35170,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35171.json"
+          }
+        },
+        "behaviorID": 35171,
+        "effectHandle": "",
+        "effectID": 7673,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35172.json"
+          }
+        },
+        "behaviorID": 35172,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35173.json"
+          }
+        },
+        "behaviorID": 35173,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35174.json"
+          }
+        },
+        "behaviorID": 35174,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35175.json"
+          }
+        },
+        "behaviorID": 35175,
+        "effectHandle": "",
+        "effectID": 7677,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35176.json"
+          }
+        },
+        "behaviorID": 35176,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35177.json"
+          }
+        },
+        "behaviorID": 35177,
+        "effectHandle": "",
+        "effectID": 7676,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35178.json"
+          }
+        },
+        "behaviorID": 35178,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35179.json"
+          }
+        },
+        "behaviorID": 35179,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35180.json"
+          }
+        },
+        "behaviorID": 35180,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35181.json"
+          }
+        },
+        "behaviorID": 35181,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35182.json"
+          }
+        },
+        "behaviorID": 35182,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35183.json"
+          }
+        },
+        "behaviorID": 35183,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35184.json"
+          }
+        },
+        "behaviorID": 35184,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35185.json"
+          }
+        },
+        "behaviorID": 35185,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35186.json"
+          }
+        },
+        "behaviorID": 35186,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35187.json"
+          }
+        },
+        "behaviorID": 35187,
+        "effectHandle": "",
+        "effectID": 7681,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35188.json"
+          }
+        },
+        "behaviorID": 35188,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35189.json"
+          }
+        },
+        "behaviorID": 35189,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35190.json"
+          }
+        },
+        "behaviorID": 35190,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35191.json"
+          }
+        },
+        "behaviorID": 35191,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35192.json"
+          }
+        },
+        "behaviorID": 35192,
+        "effectHandle": "",
+        "effectID": 7682,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35193.json"
+          }
+        },
+        "behaviorID": 35193,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35194.json"
+          }
+        },
+        "behaviorID": 35194,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35195.json"
+          }
+        },
+        "behaviorID": 35195,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35196.json"
+          }
+        },
+        "behaviorID": 35196,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35197.json"
+          }
+        },
+        "behaviorID": 35197,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35198.json"
+          }
+        },
+        "behaviorID": 35198,
+        "effectHandle": "",
+        "effectID": 7683,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35199.json"
+          }
+        },
+        "behaviorID": 35199,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35200.json"
+          }
+        },
+        "behaviorID": 35200,
+        "effectHandle": "",
+        "effectID": 7684,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35201.json"
+          }
+        },
+        "behaviorID": 35201,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35202.json"
+          }
+        },
+        "behaviorID": 35202,
+        "effectHandle": "",
+        "effectID": 7685,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35203.json"
+          }
+        },
+        "behaviorID": 35203,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35204.json"
+          }
+        },
+        "behaviorID": 35204,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35205.json"
+          }
+        },
+        "behaviorID": 35205,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35206.json"
+          }
+        },
+        "behaviorID": 35206,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35207.json"
+          }
+        },
+        "behaviorID": 35207,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35208.json"
+          }
+        },
+        "behaviorID": 35208,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35209.json"
+          }
+        },
+        "behaviorID": 35209,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35210.json"
+          }
+        },
+        "behaviorID": 35210,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35211.json"
+          }
+        },
+        "behaviorID": 35211,
+        "effectHandle": "",
+        "effectID": 7686,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35212.json"
+          }
+        },
+        "behaviorID": 35212,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35213.json"
+          }
+        },
+        "behaviorID": 35213,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35214.json"
+          }
+        },
+        "behaviorID": 35214,
+        "effectHandle": "",
+        "effectID": 7687,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35215.json"
+          }
+        },
+        "behaviorID": 35215,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35216.json"
+          }
+        },
+        "behaviorID": 35216,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35217.json"
+          }
+        },
+        "behaviorID": 35217,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35218.json"
+          }
+        },
+        "behaviorID": 35218,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35219.json"
+          }
+        },
+        "behaviorID": 35219,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35220.json"
+          }
+        },
+        "behaviorID": 35220,
+        "effectHandle": "",
+        "effectID": 7688,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35221.json"
+          }
+        },
+        "behaviorID": 35221,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35222.json"
+          }
+        },
+        "behaviorID": 35222,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35223.json"
+          }
+        },
+        "behaviorID": 35223,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35224.json"
+          }
+        },
+        "behaviorID": 35224,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35225.json"
+          }
+        },
+        "behaviorID": 35225,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35226.json"
+          }
+        },
+        "behaviorID": 35226,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35227.json"
+          }
+        },
+        "behaviorID": 35227,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35228.json"
+          }
+        },
+        "behaviorID": 35228,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35229.json"
+          }
+        },
+        "behaviorID": 35229,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35230.json"
+          }
+        },
+        "behaviorID": 35230,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35231.json"
+          }
+        },
+        "behaviorID": 35231,
+        "effectHandle": "",
+        "effectID": 7689,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35232.json"
+          }
+        },
+        "behaviorID": 35232,
+        "effectHandle": "",
+        "effectID": 7690,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35233.json"
+          }
+        },
+        "behaviorID": 35233,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35234.json"
+          }
+        },
+        "behaviorID": 35234,
+        "effectHandle": "",
+        "effectID": 7691,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35235.json"
+          }
+        },
+        "behaviorID": 35235,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35236.json"
+          }
+        },
+        "behaviorID": 35236,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35237.json"
+          }
+        },
+        "behaviorID": 35237,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35238.json"
+          }
+        },
+        "behaviorID": 35238,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35239.json"
+          }
+        },
+        "behaviorID": 35239,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35240.json"
+          }
+        },
+        "behaviorID": 35240,
+        "effectHandle": "",
+        "effectID": 7692,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35241.json"
+          }
+        },
+        "behaviorID": 35241,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35242.json"
+          }
+        },
+        "behaviorID": 35242,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35243.json"
+          }
+        },
+        "behaviorID": 35243,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35244.json"
+          }
+        },
+        "behaviorID": 35244,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35245.json"
+          }
+        },
+        "behaviorID": 35245,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35246.json"
+          }
+        },
+        "behaviorID": 35246,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35247.json"
+          }
+        },
+        "behaviorID": 35247,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35248.json"
+          }
+        },
+        "behaviorID": 35248,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35249.json"
+          }
+        },
+        "behaviorID": 35249,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35250.json"
+          }
+        },
+        "behaviorID": 35250,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35251.json"
+          }
+        },
+        "behaviorID": 35251,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35252.json"
+          }
+        },
+        "behaviorID": 35252,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35253.json"
+          }
+        },
+        "behaviorID": 35253,
+        "effectHandle": "",
+        "effectID": 7693,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35254.json"
+          }
+        },
+        "behaviorID": 35254,
+        "effectHandle": "",
+        "effectID": 7694,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35255.json"
+          }
+        },
+        "behaviorID": 35255,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35256.json"
+          }
+        },
+        "behaviorID": 35256,
+        "effectHandle": "",
+        "effectID": 7695,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35257.json"
+          }
+        },
+        "behaviorID": 35257,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35258.json"
+          }
+        },
+        "behaviorID": 35258,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35259.json"
+          }
+        },
+        "behaviorID": 35259,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35260.json"
+          }
+        },
+        "behaviorID": 35260,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35261.json"
+          }
+        },
+        "behaviorID": 35261,
+        "effectHandle": "",
+        "effectID": 7696,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35262.json"
+          }
+        },
+        "behaviorID": 35262,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35263.json"
+          }
+        },
+        "behaviorID": 35263,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35264.json"
+          }
+        },
+        "behaviorID": 35264,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35265.json"
+          }
+        },
+        "behaviorID": 35265,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35266.json"
+          }
+        },
+        "behaviorID": 35266,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35267.json"
+          }
+        },
+        "behaviorID": 35267,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35268.json"
+          }
+        },
+        "behaviorID": 35268,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35269.json"
+          }
+        },
+        "behaviorID": 35269,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35270.json"
+          }
+        },
+        "behaviorID": 35270,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35271.json"
+          }
+        },
+        "behaviorID": 35271,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35272.json"
+          }
+        },
+        "behaviorID": 35272,
+        "effectHandle": "",
+        "effectID": 7697,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35273.json"
+          }
+        },
+        "behaviorID": 35273,
+        "effectHandle": "",
+        "effectID": 7698,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35274.json"
+          }
+        },
+        "behaviorID": 35274,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35275.json"
+          }
+        },
+        "behaviorID": 35275,
+        "effectHandle": "",
+        "effectID": 7699,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35276.json"
+          }
+        },
+        "behaviorID": 35276,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35277.json"
+          }
+        },
+        "behaviorID": 35277,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35278.json"
+          }
+        },
+        "behaviorID": 35278,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35279.json"
+          }
+        },
+        "behaviorID": 35279,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35280.json"
+          }
+        },
+        "behaviorID": 35280,
+        "effectHandle": "",
+        "effectID": 7700,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35281.json"
+          }
+        },
+        "behaviorID": 35281,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35282.json"
+          }
+        },
+        "behaviorID": 35282,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35283.json"
+          }
+        },
+        "behaviorID": 35283,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35284.json"
+          }
+        },
+        "behaviorID": 35284,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35285.json"
+          }
+        },
+        "behaviorID": 35285,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35286.json"
+          }
+        },
+        "behaviorID": 35286,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35287.json"
+          }
+        },
+        "behaviorID": 35287,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35288.json"
+          }
+        },
+        "behaviorID": 35288,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35289.json"
+          }
+        },
+        "behaviorID": 35289,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35290.json"
+          }
+        },
+        "behaviorID": 35290,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35291.json"
+          }
+        },
+        "behaviorID": 35291,
+        "effectHandle": "",
+        "effectID": 7701,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35292.json"
+          }
+        },
+        "behaviorID": 35292,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35293.json"
+          }
+        },
+        "behaviorID": 35293,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35294.json"
+          }
+        },
+        "behaviorID": 35294,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35295.json"
+          }
+        },
+        "behaviorID": 35295,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35296.json"
+          }
+        },
+        "behaviorID": 35296,
+        "effectHandle": "",
+        "effectID": 7702,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35297.json"
+          }
+        },
+        "behaviorID": 35297,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35298.json"
+          }
+        },
+        "behaviorID": 35298,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35299.json"
+          }
+        },
+        "behaviorID": 35299,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35300.json"
+          }
+        },
+        "behaviorID": 35300,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35301.json"
+          }
+        },
+        "behaviorID": 35301,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35302.json"
+          }
+        },
+        "behaviorID": 35302,
+        "effectHandle": "",
+        "effectID": 7703,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35303.json"
+          }
+        },
+        "behaviorID": 35303,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35304.json"
+          }
+        },
+        "behaviorID": 35304,
+        "effectHandle": "",
+        "effectID": 7704,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35305.json"
+          }
+        },
+        "behaviorID": 35305,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35306.json"
+          }
+        },
+        "behaviorID": 35306,
+        "effectHandle": "",
+        "effectID": 7705,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35307.json"
+          }
+        },
+        "behaviorID": 35307,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35308.json"
+          }
+        },
+        "behaviorID": 35308,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35309.json"
+          }
+        },
+        "behaviorID": 35309,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35310.json"
+          }
+        },
+        "behaviorID": 35310,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35311.json"
+          }
+        },
+        "behaviorID": 35311,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35312.json"
+          }
+        },
+        "behaviorID": 35312,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35313.json"
+          }
+        },
+        "behaviorID": 35313,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35314.json"
+          }
+        },
+        "behaviorID": 35314,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35315.json"
+          }
+        },
+        "behaviorID": 35315,
+        "effectHandle": "",
+        "effectID": 7706,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35316.json"
+          }
+        },
+        "behaviorID": 35316,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35317.json"
+          }
+        },
+        "behaviorID": 35317,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35318.json"
+          }
+        },
+        "behaviorID": 35318,
+        "effectHandle": "",
+        "effectID": 7707,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35319.json"
+          }
+        },
+        "behaviorID": 35319,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35320.json"
+          }
+        },
+        "behaviorID": 35320,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35321.json"
+          }
+        },
+        "behaviorID": 35321,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35322.json"
+          }
+        },
+        "behaviorID": 35322,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35323.json"
+          }
+        },
+        "behaviorID": 35323,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35324.json"
+          }
+        },
+        "behaviorID": 35324,
+        "effectHandle": "",
+        "effectID": 7708,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35325.json"
+          }
+        },
+        "behaviorID": 35325,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35326.json"
+          }
+        },
+        "behaviorID": 35326,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35327.json"
+          }
+        },
+        "behaviorID": 35327,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35328.json"
+          }
+        },
+        "behaviorID": 35328,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35329.json"
+          }
+        },
+        "behaviorID": 35329,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35330.json"
+          }
+        },
+        "behaviorID": 35330,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35331.json"
+          }
+        },
+        "behaviorID": 35331,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35332.json"
+          }
+        },
+        "behaviorID": 35332,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35333.json"
+          }
+        },
+        "behaviorID": 35333,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35334.json"
+          }
+        },
+        "behaviorID": 35334,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35335.json"
+          }
+        },
+        "behaviorID": 35335,
+        "effectHandle": "",
+        "effectID": 7709,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35336.json"
+          }
+        },
+        "behaviorID": 35336,
+        "effectHandle": "",
+        "effectID": 7710,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35337.json"
+          }
+        },
+        "behaviorID": 35337,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35338.json"
+          }
+        },
+        "behaviorID": 35338,
+        "effectHandle": "",
+        "effectID": 7711,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35339.json"
+          }
+        },
+        "behaviorID": 35339,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35340.json"
+          }
+        },
+        "behaviorID": 35340,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35341.json"
+          }
+        },
+        "behaviorID": 35341,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35342.json"
+          }
+        },
+        "behaviorID": 35342,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35343.json"
+          }
+        },
+        "behaviorID": 35343,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35344.json"
+          }
+        },
+        "behaviorID": 35344,
+        "effectHandle": "",
+        "effectID": 7712,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35345.json"
+          }
+        },
+        "behaviorID": 35345,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35346.json"
+          }
+        },
+        "behaviorID": 35346,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35347.json"
+          }
+        },
+        "behaviorID": 35347,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35348.json"
+          }
+        },
+        "behaviorID": 35348,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35349.json"
+          }
+        },
+        "behaviorID": 35349,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35350.json"
+          }
+        },
+        "behaviorID": 35350,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35351.json"
+          }
+        },
+        "behaviorID": 35351,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35352.json"
+          }
+        },
+        "behaviorID": 35352,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35353.json"
+          }
+        },
+        "behaviorID": 35353,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35354.json"
+          }
+        },
+        "behaviorID": 35354,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35355.json"
+          }
+        },
+        "behaviorID": 35355,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35356.json"
+          }
+        },
+        "behaviorID": 35356,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35357.json"
+          }
+        },
+        "behaviorID": 35357,
+        "effectHandle": "",
+        "effectID": 7713,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35358.json"
+          }
+        },
+        "behaviorID": 35358,
+        "effectHandle": "",
+        "effectID": 7714,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35359.json"
+          }
+        },
+        "behaviorID": 35359,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35360.json"
+          }
+        },
+        "behaviorID": 35360,
+        "effectHandle": "",
+        "effectID": 7715,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35361.json"
+          }
+        },
+        "behaviorID": 35361,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35362.json"
+          }
+        },
+        "behaviorID": 35362,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35363.json"
+          }
+        },
+        "behaviorID": 35363,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35364.json"
+          }
+        },
+        "behaviorID": 35364,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35365.json"
+          }
+        },
+        "behaviorID": 35365,
+        "effectHandle": "",
+        "effectID": 7716,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35366.json"
+          }
+        },
+        "behaviorID": 35366,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35367.json"
+          }
+        },
+        "behaviorID": 35367,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35368.json"
+          }
+        },
+        "behaviorID": 35368,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35369.json"
+          }
+        },
+        "behaviorID": 35369,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35370.json"
+          }
+        },
+        "behaviorID": 35370,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35371.json"
+          }
+        },
+        "behaviorID": 35371,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35372.json"
+          }
+        },
+        "behaviorID": 35372,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35373.json"
+          }
+        },
+        "behaviorID": 35373,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35374.json"
+          }
+        },
+        "behaviorID": 35374,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35375.json"
+          }
+        },
+        "behaviorID": 35375,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35376.json"
+          }
+        },
+        "behaviorID": 35376,
+        "effectHandle": "",
+        "effectID": 7717,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35377.json"
+          }
+        },
+        "behaviorID": 35377,
+        "effectHandle": "",
+        "effectID": 7718,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35378.json"
+          }
+        },
+        "behaviorID": 35378,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35379.json"
+          }
+        },
+        "behaviorID": 35379,
+        "effectHandle": "",
+        "effectID": 7719,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35380.json"
+          }
+        },
+        "behaviorID": 35380,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35381.json"
+          }
+        },
+        "behaviorID": 35381,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35382.json"
+          }
+        },
+        "behaviorID": 35382,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35383.json"
+          }
+        },
+        "behaviorID": 35383,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35384.json"
+          }
+        },
+        "behaviorID": 35384,
+        "effectHandle": "",
+        "effectID": 7720,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35385.json"
+          }
+        },
+        "behaviorID": 35385,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35386.json"
+          }
+        },
+        "behaviorID": 35386,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35387.json"
+          }
+        },
+        "behaviorID": 35387,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35388.json"
+          }
+        },
+        "behaviorID": 35388,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35389.json"
+          }
+        },
+        "behaviorID": 35389,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 37
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35390.json"
+          }
+        },
+        "behaviorID": 35390,
+        "effectHandle": "",
+        "effectID": 7722,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35391.json"
+          }
+        },
+        "behaviorID": 35391,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35392.json"
+          }
+        },
+        "behaviorID": 35392,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35393.json"
+          }
+        },
+        "behaviorID": 35393,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35394.json"
+          }
+        },
+        "behaviorID": 35394,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 34
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35395.json"
+          }
+        },
+        "behaviorID": 35395,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35396.json"
+          }
+        },
+        "behaviorID": 35396,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35397.json"
+          }
+        },
+        "behaviorID": 35397,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35398.json"
+          }
+        },
+        "behaviorID": 35398,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35399.json"
+          }
+        },
+        "behaviorID": 35399,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35400.json"
+          }
+        },
+        "behaviorID": 35400,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35401.json"
+          }
+        },
+        "behaviorID": 35401,
+        "effectHandle": "",
+        "effectID": 7723,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35402.json"
+          }
+        },
+        "behaviorID": 35402,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35403.json"
+          }
+        },
+        "behaviorID": 35403,
+        "effectHandle": "",
+        "effectID": 7724,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35404.json"
+          }
+        },
+        "behaviorID": 35404,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35405.json"
+          }
+        },
+        "behaviorID": 35405,
+        "effectHandle": "35405",
+        "effectID": 7725,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35406.json"
+          }
+        },
+        "behaviorID": 35406,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35407.json"
+          }
+        },
+        "behaviorID": 35407,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35408.json"
+          }
+        },
+        "behaviorID": 35408,
+        "effectHandle": "",
+        "effectID": 7726,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35409.json"
+          }
+        },
+        "behaviorID": 35409,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35410.json"
+          }
+        },
+        "behaviorID": 35410,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35411.json"
+          }
+        },
+        "behaviorID": 35411,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35412.json"
+          }
+        },
+        "behaviorID": 35412,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35413.json"
+          }
+        },
+        "behaviorID": 35413,
+        "effectHandle": "",
+        "effectID": 7727,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35414.json"
+          }
+        },
+        "behaviorID": 35414,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35415.json"
+          }
+        },
+        "behaviorID": 35415,
+        "effectHandle": "",
+        "effectID": 7728,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35416.json"
+          }
+        },
+        "behaviorID": 35416,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35417.json"
+          }
+        },
+        "behaviorID": 35417,
+        "effectHandle": "",
+        "effectID": 7726,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35418.json"
+          }
+        },
+        "behaviorID": 35418,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35419.json"
+          }
+        },
+        "behaviorID": 35419,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 37
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35420.json"
+          }
+        },
+        "behaviorID": 35420,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35421.json"
+          }
+        },
+        "behaviorID": 35421,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35422.json"
+          }
+        },
+        "behaviorID": 35422,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35423.json"
+          }
+        },
+        "behaviorID": 35423,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35424.json"
+          }
+        },
+        "behaviorID": 35424,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35425.json"
+          }
+        },
+        "behaviorID": 35425,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35426.json"
+          }
+        },
+        "behaviorID": 35426,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35427.json"
+          }
+        },
+        "behaviorID": 35427,
+        "effectHandle": "",
+        "effectID": 7731,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35428.json"
+          }
+        },
+        "behaviorID": 35428,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35429.json"
+          }
+        },
+        "behaviorID": 35429,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35430.json"
+          }
+        },
+        "behaviorID": 35430,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35431.json"
+          }
+        },
+        "behaviorID": 35431,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35432.json"
+          }
+        },
+        "behaviorID": 35432,
+        "effectHandle": "",
+        "effectID": 7732,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35433.json"
+          }
+        },
+        "behaviorID": 35433,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35434.json"
+          }
+        },
+        "behaviorID": 35434,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35435.json"
+          }
+        },
+        "behaviorID": 35435,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35436.json"
+          }
+        },
+        "behaviorID": 35436,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35437.json"
+          }
+        },
+        "behaviorID": 35437,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35438.json"
+          }
+        },
+        "behaviorID": 35438,
+        "effectHandle": "",
+        "effectID": 7733,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35439.json"
+          }
+        },
+        "behaviorID": 35439,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 46
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35440.json"
+          }
+        },
+        "behaviorID": 35440,
+        "effectHandle": "",
+        "effectID": 7734,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35441.json"
+          }
+        },
+        "behaviorID": 35441,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35442.json"
+          }
+        },
+        "behaviorID": 35442,
+        "effectHandle": "",
+        "effectID": 7735,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35443.json"
+          }
+        },
+        "behaviorID": 35443,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35444.json"
+          }
+        },
+        "behaviorID": 35444,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35445.json"
+          }
+        },
+        "behaviorID": 35445,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35446.json"
+          }
+        },
+        "behaviorID": 35446,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35447.json"
+          }
+        },
+        "behaviorID": 35447,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35448.json"
+          }
+        },
+        "behaviorID": 35448,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35449.json"
+          }
+        },
+        "behaviorID": 35449,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35450.json"
+          }
+        },
+        "behaviorID": 35450,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35451.json"
+          }
+        },
+        "behaviorID": 35451,
+        "effectHandle": "",
+        "effectID": 7736,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35452.json"
+          }
+        },
+        "behaviorID": 35452,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35453.json"
+          }
+        },
+        "behaviorID": 35453,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35454.json"
+          }
+        },
+        "behaviorID": 35454,
+        "effectHandle": "",
+        "effectID": 7737,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35455.json"
+          }
+        },
+        "behaviorID": 35455,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35456.json"
+          }
+        },
+        "behaviorID": 35456,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35457.json"
+          }
+        },
+        "behaviorID": 35457,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35458.json"
+          }
+        },
+        "behaviorID": 35458,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35459.json"
+          }
+        },
+        "behaviorID": 35459,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35460.json"
+          }
+        },
+        "behaviorID": 35460,
+        "effectHandle": "",
+        "effectID": 7738,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35461.json"
+          }
+        },
+        "behaviorID": 35461,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35462.json"
+          }
+        },
+        "behaviorID": 35462,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35463.json"
+          }
+        },
+        "behaviorID": 35463,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35464.json"
+          }
+        },
+        "behaviorID": 35464,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 38
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35465.json"
+          }
+        },
+        "behaviorID": 35465,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35466.json"
+          }
+        },
+        "behaviorID": 35466,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35467.json"
+          }
+        },
+        "behaviorID": 35467,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35468.json"
+          }
+        },
+        "behaviorID": 35468,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35469.json"
+          }
+        },
+        "behaviorID": 35469,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35470.json"
+          }
+        },
+        "behaviorID": 35470,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35471.json"
+          }
+        },
+        "behaviorID": 35471,
+        "effectHandle": "",
+        "effectID": 7739,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35472.json"
+          }
+        },
+        "behaviorID": 35472,
+        "effectHandle": "",
+        "effectID": 7740,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35473.json"
+          }
+        },
+        "behaviorID": 35473,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35474.json"
+          }
+        },
+        "behaviorID": 35474,
+        "effectHandle": "",
+        "effectID": 7741,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35475.json"
+          }
+        },
+        "behaviorID": 35475,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35476.json"
+          }
+        },
+        "behaviorID": 35476,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35477.json"
+          }
+        },
+        "behaviorID": 35477,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35478.json"
+          }
+        },
+        "behaviorID": 35478,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35479.json"
+          }
+        },
+        "behaviorID": 35479,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 41
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35480.json"
+          }
+        },
+        "behaviorID": 35480,
+        "effectHandle": "",
+        "effectID": 7742,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35481.json"
+          }
+        },
+        "behaviorID": 35481,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35482.json"
+          }
+        },
+        "behaviorID": 35482,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 39
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35483.json"
+          }
+        },
+        "behaviorID": 35483,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35484.json"
+          }
+        },
+        "behaviorID": 35484,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35485.json"
+          }
+        },
+        "behaviorID": 35485,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35486.json"
+          }
+        },
+        "behaviorID": 35486,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35487.json"
+          }
+        },
+        "behaviorID": 35487,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35488.json"
+          }
+        },
+        "behaviorID": 35488,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35489.json"
+          }
+        },
+        "behaviorID": 35489,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35490.json"
+          }
+        },
+        "behaviorID": 35490,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35491.json"
+          }
+        },
+        "behaviorID": 35491,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35492.json"
+          }
+        },
+        "behaviorID": 35492,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35493.json"
+          }
+        },
+        "behaviorID": 35493,
+        "effectHandle": "",
+        "effectID": 7743,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35494.json"
+          }
+        },
+        "behaviorID": 35494,
+        "effectHandle": "",
+        "effectID": 7744,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35495.json"
+          }
+        },
+        "behaviorID": 35495,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35496.json"
+          }
+        },
+        "behaviorID": 35496,
+        "effectHandle": "",
+        "effectID": 7745,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35497.json"
+          }
+        },
+        "behaviorID": 35497,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35498.json"
+          }
+        },
+        "behaviorID": 35498,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35499.json"
+          }
+        },
+        "behaviorID": 35499,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35500.json"
+          }
+        },
+        "behaviorID": 35500,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35501.json"
+          }
+        },
+        "behaviorID": 35501,
+        "effectHandle": "",
+        "effectID": 7746,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35502.json"
+          }
+        },
+        "behaviorID": 35502,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35503.json"
+          }
+        },
+        "behaviorID": 35503,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35504.json"
+          }
+        },
+        "behaviorID": 35504,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35505.json"
+          }
+        },
+        "behaviorID": 35505,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 47
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35506.json"
+          }
+        },
+        "behaviorID": 35506,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35507.json"
+          }
+        },
+        "behaviorID": 35507,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35508.json"
+          }
+        },
+        "behaviorID": 35508,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35509.json"
+          }
+        },
+        "behaviorID": 35509,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35510.json"
+          }
+        },
+        "behaviorID": 35510,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35511.json"
+          }
+        },
+        "behaviorID": 35511,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35512.json"
+          }
+        },
+        "behaviorID": 35512,
+        "effectHandle": "",
+        "effectID": 7747,
+        "templateID": 18
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35513.json"
+          }
+        },
+        "behaviorID": 35513,
+        "effectHandle": "",
+        "effectID": 7748,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35514.json"
+          }
+        },
+        "behaviorID": 35514,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35515.json"
+          }
+        },
+        "behaviorID": 35515,
+        "effectHandle": "",
+        "effectID": 7749,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35516.json"
+          }
+        },
+        "behaviorID": 35516,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35517.json"
+          }
+        },
+        "behaviorID": 35517,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35518.json"
+          }
+        },
+        "behaviorID": 35518,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35519.json"
+          }
+        },
+        "behaviorID": 35519,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 17
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35520.json"
+          }
+        },
+        "behaviorID": 35520,
+        "effectHandle": "",
+        "effectID": 7750,
+        "templateID": 1
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35521.json"
+          }
+        },
+        "behaviorID": 35521,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 40
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35522.json"
+          }
+        },
+        "behaviorID": 35522,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 2
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35523.json"
+          }
+        },
+        "behaviorID": 35523,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35524.json"
+          }
+        },
+        "behaviorID": 35524,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 6
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35525.json"
+          }
+        },
+        "behaviorID": 35525,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35526.json"
+          }
+        },
+        "behaviorID": 35526,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 42
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35527.json"
+          }
+        },
+        "behaviorID": 35527,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 45
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35528.json"
+          }
+        },
+        "behaviorID": 35528,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35529.json"
+          }
+        },
+        "behaviorID": 35529,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 56
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35530.json"
+          }
+        },
+        "behaviorID": 35530,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 3
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35531.json"
+          }
+        },
+        "behaviorID": 35531,
+        "effectHandle": "",
+        "effectID": 7751,
+        "templateID": 8
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35532.json"
+          }
+        },
+        "behaviorID": 35532,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 16
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35533.json"
+          }
+        },
+        "behaviorID": 35533,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 15
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35534.json"
+          }
+        },
+        "behaviorID": 35534,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 7
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/lu-json/behaviors/34/35535.json"
+          }
+        },
+        "behaviorID": 35535,
+        "effectHandle": "",
+        "effectID": 0,
+        "templateID": 29
+      }
+    ]
+  },
+  "_links": {
+    "next": {
+      "href": "/lu-json/behaviors/35/index.json"
+    },
+    "prev": {
+      "href": "/lu-json/behaviors/33/index.json"
+    },
+    "self": {
+      "href": "/lu-json/behaviors/34/index.json"
+    }
+  }
+}

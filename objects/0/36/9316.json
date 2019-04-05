@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4033,
+    "2": 8766,
+    "5": 1268,
+    "60": 49,
+    "7": 922,
+    "9": 0
+  },
+  "description": "Level 3 Summon",
+  "displayName": "Bulper",
+  "gate_version": null,
+  "id": 9316,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bulper Rank 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 630
+    }
+  ],
+  "type": "NPC"
+}

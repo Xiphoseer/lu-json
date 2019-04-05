@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5324,
+    "2": 10715,
+    "3": 4989,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Park Bunny Model",
+  "gate_version": null,
+  "id": 10868,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward ParkBunny",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

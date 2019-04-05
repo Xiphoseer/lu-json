@@ -1,0 +1,35 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from Buccaneer Valiant weapon",
+  "components": {
+    "1": 6130,
+    "2": 12253,
+    "5": 1364,
+    "7": 1734,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Ship",
+  "gate_version": "valiantweapons",
+  "id": 12489,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Ship",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 982
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 989
+    }
+  ],
+  "type": "Loot"
+}

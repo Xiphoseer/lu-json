@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 4 IP heals caster for 3 life",
+  "components": {
+    "11": 7329,
+    "2": 14610,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Athlete's Shade",
+  "gate_version": "njhub",
+  "id": 15918,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Athlete's Shade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1461
+    }
+  ],
+  "type": "Loot"
+}

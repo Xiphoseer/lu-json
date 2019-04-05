@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4707,
+    "2": 9508,
+    "3": 4219,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Wall Bridge Model",
+  "gate_version": null,
+  "id": 9665,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Wall Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

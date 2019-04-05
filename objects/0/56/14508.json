@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Recipe ingredient for Johnny Umami in Ninjago",
+  "components": {
+    "11": 7130,
+    "2": 14196,
+    "9": 0
+  },
+  "description": "Use this in a recipe for Johnny Umami!",
+  "displayName": "Bamboo Bite",
+  "gate_version": "njhub",
+  "id": 14508,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bamboo Bite",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1514
+    }
+  ],
+  "type": "Loot"
+}

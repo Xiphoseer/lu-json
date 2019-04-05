@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6528,
+    "2": 12939,
+    "3": 6405,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Statue Model",
+  "gate_version": "march2011content",
+  "id": 13158,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

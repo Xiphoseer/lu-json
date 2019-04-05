@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used in script for skunk to attach to head.  YR-SG",
+  "components": {
+    "11": 1098,
+    "2": 2544
+  },
+  "description": "Used in script for skunk to attach to head.  YR-SG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3906,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Skunk Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

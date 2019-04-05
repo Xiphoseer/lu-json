@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 4 LP",
+  "components": {
+    "11": 3239,
+    "2": 7281,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Healing Drumstick",
+  "gate_version": null,
+  "id": 7725,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Healing Drumstick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 668
+    }
+  ],
+  "type": "Loot"
+}

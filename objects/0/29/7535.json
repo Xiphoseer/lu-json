@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3190,
+    "2": 7100,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Daredevil Flareguns 1",
+  "gate_version": null,
+  "id": 7535,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Daredevil Weapon 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 604
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 708
+    }
+  ],
+  "type": "Loot"
+}

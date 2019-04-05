@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6264,
+    "2": 12667,
+    "7": 1787,
+    "9": 0
+  },
+  "description": "Bullet the space ranger throws for the gravity well",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12884,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Ranger Gravity Well 2 Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1086
+    }
+  ],
+  "type": "Shooting Gallery"
+}

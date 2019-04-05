@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 5060,
+    "2": 10141,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Cat Backpack",
+  "gate_version": null,
+  "id": 10295,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Cat in a Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

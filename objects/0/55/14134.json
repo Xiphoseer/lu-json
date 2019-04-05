@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "prototype moving platform that looks like a gear",
+  "components": {
+    "2": 13845,
+    "25": 0,
+    "27": 0,
+    "3": 7028
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 14134,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "proto - NJ rotating gear platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

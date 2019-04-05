@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6779,
+    "2": 13407,
+    "3": 6727,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Rock Fence Corner Model",
+  "gate_version": "april2011content",
+  "id": 13669,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Rock Corner ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

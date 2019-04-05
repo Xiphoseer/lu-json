@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4580,
+    "2": 9401,
+    "3": 4129,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Temple Model 1",
+  "gate_version": null,
+  "id": 9550,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Temple 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

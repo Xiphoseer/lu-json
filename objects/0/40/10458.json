@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5164,
+    "2": 10301,
+    "53": 53
+  },
+  "description": "Double-click to open this pack of rocket parts!",
+  "displayName": "Build Event Rocket Pack",
+  "gate_version": null,
+  "id": 10458,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Build Event Rocket Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

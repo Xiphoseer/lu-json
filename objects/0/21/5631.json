@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5051,
+    "3": 2313,
+    "48": 60
+  },
+  "description": "Quickbuild Cannon for Gnarled Forest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5631,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Cannon QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

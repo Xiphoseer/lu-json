@@ -1,0 +1,41 @@
+{
+  "currencyIndex": 122,
+  "currency_table": [
+    {
+      "id": 256,
+      "maxvalue": 12,
+      "minvalue": 7,
+      "npcminlevel": 1
+    },
+    {
+      "id": 258,
+      "maxvalue": 30,
+      "minvalue": 18,
+      "npcminlevel": 2
+    },
+    {
+      "id": 259,
+      "maxvalue": 80,
+      "minvalue": 50,
+      "npcminlevel": 3
+    },
+    {
+      "id": 260,
+      "maxvalue": 120,
+      "minvalue": 85,
+      "npcminlevel": 4
+    },
+    {
+      "id": 262,
+      "maxvalue": 225,
+      "minvalue": 150,
+      "npcminlevel": 5
+    },
+    {
+      "id": 263,
+      "maxvalue": 400,
+      "minvalue": 250,
+      "npcminlevel": 6
+    }
+  ]
+}

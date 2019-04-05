@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2518,
+    "2": 5450,
+    "3": 2508,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Timeclock Model",
+  "gate_version": null,
+  "id": 6043,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Timeclock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

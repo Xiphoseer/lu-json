@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11047,
+    "20": 5208,
+    "5": 1079
+  },
+  "description": "FV - Track BoostPad in the bowl",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11276,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Track BoostPad 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

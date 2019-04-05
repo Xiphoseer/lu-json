@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11019,
+    "3": 5183
+  },
+  "description": "Nimbus Station Large Player Property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11249,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS_PlayerProperty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

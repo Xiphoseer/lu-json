@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5195,
+    "2": 11029,
+    "5": 1279,
+    "60": 25,
+    "7": 1607,
+    "9": 0
+  },
+  "description": "Enemy for Luptario",
+  "displayName": "Maelstrom Beaver",
+  "gate_version": null,
+  "id": 11259,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Maelstrom Beaver",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5919,
+    "2": 11620,
+    "3": 5712,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse Observation Platform Model",
+  "gate_version": null,
+  "id": 11868,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Observation Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

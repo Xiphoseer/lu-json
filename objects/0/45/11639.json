@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5690,
+    "2": 11391,
+    "3": 5483,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Lift 2 Model",
+  "gate_version": "nexustower",
+  "id": 11639,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Lift 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

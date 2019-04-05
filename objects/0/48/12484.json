@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "2 damage crossbow bolt",
+  "components": {
+    "18": 6126,
+    "2": 12333,
+    "9": 0
+  },
+  "description": "2 damage projectile arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12484,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "2 Dmg Projectile Arrow ENEMY ONLY",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 770
+    }
+  ],
+  "type": "Shooting Gallery"
+}

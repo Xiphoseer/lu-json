@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6236,
+    "2": 12610,
+    "9": 0
+  },
+  "description": "2 damage projectile",
+  "displayName": null,
+  "gate_version": "auramar",
+  "id": 12821,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "2 Dmg Inventor Gear Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1040
+    }
+  ],
+  "type": "Shooting Gallery"
+}

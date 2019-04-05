@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Promo item to distribute rewards",
+  "components": {
+    "11": 5196,
+    "2": 10372,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10519,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pre-Order Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 820
+    }
+  ],
+  "type": "Loot"
+}

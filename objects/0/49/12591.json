@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6193,
+    "2": 12381,
+    "5": 1384,
+    "60": 107,
+    "7": 1755,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Kinga Hurl - Stromling Ape",
+  "gate_version": "nimbusinstance",
+  "id": 12591,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Ape Boss",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

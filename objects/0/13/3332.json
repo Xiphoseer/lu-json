@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 2579,
+    "5": 391,
+    "7": 400
+  },
+  "description": "Combat Ant for third Hill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3332,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Combat Ant 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5293,
+    "2": 10684,
+    "3": 4958,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Toilet Model",
+  "gate_version": null,
+  "id": 10837,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Toilet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

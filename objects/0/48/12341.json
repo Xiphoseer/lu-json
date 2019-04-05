@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12092,
+    "25": 0,
+    "27": 0,
+    "3": 6030,
+    "5": 1344,
+    "7": 1699
+  },
+  "description": "main Skeleton center drill  platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12341,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Drill Center Moving platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

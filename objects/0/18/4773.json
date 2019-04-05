@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2146,
+    "2": 3410,
+    "5": 661,
+    "7": 434
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4773,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GOL Snail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

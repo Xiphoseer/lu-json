@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Spawn IP powerups, everlasting",
+  "components": {
+    "11": 3296,
+    "2": 7344,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Fountain of Imagination",
+  "gate_version": null,
+  "id": 7788,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fountain of Imagination",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 792
+    }
+  ],
+  "type": "Loot"
+}

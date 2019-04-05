@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7675,
+    "2": 14998,
+    "9": 0
+  },
+  "description": "A bullet shot from the spider queen in groups of 14",
+  "displayName": null,
+  "gate_version": "freetrail",
+  "id": 16252,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss Spread Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 78
+    }
+  ],
+  "type": "Shooting Gallery"
+}

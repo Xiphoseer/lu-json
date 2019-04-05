@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11808,
+    "3": 5853
+  },
+  "description": "Test of the Start Section B of Aura Mar",
+  "displayName": "AM Start Section B",
+  "gate_version": null,
+  "id": 12059,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Start Section B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

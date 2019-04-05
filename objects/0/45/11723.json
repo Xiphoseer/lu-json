@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5774,
+    "2": 11475,
+    "3": 5567,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Mech Bay Ball-Bot Base Energy Fence Model",
+  "gate_version": "march2011content",
+  "id": 11723,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mechbay Ball Bot Base Energy Fence",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

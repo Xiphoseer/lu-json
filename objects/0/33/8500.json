@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Smashing",
+  "components": {
+    "11": 3799,
+    "2": 8055,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quality Woodsman's Axe",
+  "gate_version": null,
+  "id": 8500,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Woodsman's Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 532
+    }
+  ],
+  "type": "Loot"
+}

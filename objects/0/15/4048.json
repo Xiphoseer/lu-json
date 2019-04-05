@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2973,
+    "3": 1740,
+    "5": 639
+  },
+  "description": "Invisible object that detects player emote",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4048,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Emote Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

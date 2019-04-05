@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4820,
+    "2": 9781,
+    "53": 36
+  },
+  "description": "Double-click to get the red Starter Car modules!",
+  "displayName": "Hyperstarter Red Pack for Beta",
+  "gate_version": null,
+  "id": 9953,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hyperstarter Red Pack for Beta",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

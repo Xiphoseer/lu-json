@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6658,
+    "2": 13238,
+    "28": 325,
+    "3": 6611,
+    "42": 0,
+    "63": 22
+  },
+  "description": null,
+  "displayName": "Paradox Blindsider Rear Bumper",
+  "gate_version": "factionvehicles",
+  "id": 13504,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarCarPA_RearBumper_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

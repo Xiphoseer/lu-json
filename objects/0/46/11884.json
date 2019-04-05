@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5935,
+    "2": 11636,
+    "3": 5728,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Present Model 3",
+  "gate_version": "dec2010content",
+  "id": 11884,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Present 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

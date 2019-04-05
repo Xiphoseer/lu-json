@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2806,
+    "3": 1610,
+    "5": 477
+  },
+  "description": "Youreeka: trigger for the hot air balloon at the Inventor building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3535,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Balloon Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

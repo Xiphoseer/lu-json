@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7629,
+    "2": 14910,
+    "31": 90,
+    "5": 1640,
+    "60": 172,
+    "7": 2130,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bone Wolf",
+  "gate_version": "njhub",
+  "id": 16191,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJD - Bone Wolf - Frakjaw instance",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1584
+    },
+    {
+      "AICombatWeight": 25,
+      "castOnType": 0,
+      "skillID": 1585
+    },
+    {
+      "AICombatWeight": 25,
+      "castOnType": 0,
+      "skillID": 1649
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 405,
+    "2": 1969,
+    "3": 1777,
+    "35": 479,
+    "5": 561,
+    "7": 305
+  },
+  "description": "GF ambient 5",
+  "displayName": "Bonny Belay - Pirate Rigger",
+  "gate_version": null,
+  "id": 2280,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Ambient 5",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

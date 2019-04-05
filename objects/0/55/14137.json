@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13848,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Small Valiant Weapon that animates into larger sign",
+  "displayName": "Assembly Ad",
+  "gate_version": "nexustower",
+  "id": 14137,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Assembly Advertisement to Nexus Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP 5 AP + Full Kit Bonus Skill (waiting for info)",
+  "components": {
+    "11": 6234,
+    "2": 12475,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bat Lord Shirt",
+  "gate_version": "auramar",
+  "id": 12686,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bat Lord Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    }
+  ],
+  "type": "Loot"
+}

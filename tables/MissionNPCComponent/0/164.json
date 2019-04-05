@@ -1,0 +1,71 @@
+{
+  "id": 164,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1785,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1790,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1792,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1816,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1817,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1818,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "nexustower",
+      "missionID": 1947,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1956,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1958,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "njhub",
+      "missionID": 1959,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "njhub",
+      "missionID": 1960,
+      "offersMission": true
+    }
+  ]
+}

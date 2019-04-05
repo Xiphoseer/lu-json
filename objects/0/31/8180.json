@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7723,
+    "40": 3789,
+    "5": 1061
+  },
+  "description": "Sign that animates on proximity to the Assembly Vendor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8180,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Assembly Faction Sign for Nimbus Station",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

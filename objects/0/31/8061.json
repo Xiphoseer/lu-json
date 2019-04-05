@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPCSky Lane Helmet",
+  "components": {
+    "11": 3513,
+    "2": 7605
+  },
+  "description": "NPCSky Lane Helmet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8061,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Sky Lane Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

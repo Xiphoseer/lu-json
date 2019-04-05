@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3244,
+    "2": 7286,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Red Racing Helmet",
+  "gate_version": null,
+  "id": 7730,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Racing Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

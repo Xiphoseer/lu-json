@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5887,
+    "40": 2711,
+    "49": 0,
+    "5": 884
+  },
+  "description": "model that ports player to scenario",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6442,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Maelstrom Collector Instancer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

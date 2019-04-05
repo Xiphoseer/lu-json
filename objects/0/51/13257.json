@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6552,
+    "2": 12990,
+    "28": 308,
+    "3": 6452,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Assembly Solarblast Rocket Engine",
+  "gate_version": "factionvehicles",
+  "id": 13257,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Assembly Rocket Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

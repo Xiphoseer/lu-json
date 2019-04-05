@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13150,
+    "25": 0,
+    "3": 6523
+  },
+  "description": "NJ - Broken Rock Filler",
+  "displayName": "NJ - Broken Rock Filler",
+  "gate_version": "njhub",
+  "id": 13421,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Broken Rock Filler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

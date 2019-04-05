@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Monestary Mission Item",
+  "components": {
+    "11": 7725,
+    "2": 15244
+  },
+  "description": "Return this to Zane in the Monastery.",
+  "displayName": "Ice Ninja Kit",
+  "gate_version": "njhub",
+  "id": 16498,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Acolyte Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

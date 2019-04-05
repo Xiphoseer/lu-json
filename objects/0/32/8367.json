@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Summon Dragon, everlasting",
+  "components": {
+    "11": 5455,
+    "2": 10892,
+    "9": 0
+  },
+  "description": "Double-click to summon the spirit of the dragon!",
+  "displayName": "Enchanted Dragon's Tooth",
+  "gate_version": null,
+  "id": 8367,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Enchanted Dragon Tooth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 817
+    }
+  ],
+  "type": "Loot"
+}

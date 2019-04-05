@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Summons battle pet that deals 3/10 damage",
+  "components": {
+    "11": 7421,
+    "2": 14741,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Ninjago Hound Treat",
+  "gate_version": "njhub",
+  "id": 16023,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninjago Hound Treat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1506
+    }
+  ],
+  "type": "Loot"
+}

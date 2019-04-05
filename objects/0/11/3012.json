@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE 2 dmg, everlasting",
+  "components": {
+    "11": 1016,
+    "2": 2509,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Everlasting Hot Dog",
+  "gate_version": null,
+  "id": 3012,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Everlasting Hot Dog",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 55
+    }
+  ],
+  "type": "Loot"
+}

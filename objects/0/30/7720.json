@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7276,
+    "3": 3422,
+    "5": 950
+  },
+  "description": "car modular build front bumper volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7720,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume front bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

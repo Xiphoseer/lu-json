@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP 1 AP",
+  "components": {
+    "11": 7284,
+    "2": 14498,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Brown Cape",
+  "gate_version": "levelprogression",
+  "id": 14811,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Brown Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

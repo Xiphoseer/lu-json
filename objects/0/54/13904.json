@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used in the Anchors Away skill",
+  "components": {
+    "2": 13629,
+    "3": 6895
+  },
+  "description": null,
+  "displayName": "Mesh Effect Anchor",
+  "gate_version": "auramar",
+  "id": 13904,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mesh Effect Grand Piano Falling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

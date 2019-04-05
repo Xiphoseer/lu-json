@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5625,
+    "2": 11326,
+    "3": 5418,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Stairs Model 1",
+  "gate_version": null,
+  "id": 11574,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Stairs 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

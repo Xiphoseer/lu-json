@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 6043,
+    "2": 12049,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Flannel Shirt",
+  "gate_version": "dec2010content",
+  "id": 12299,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flannel Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

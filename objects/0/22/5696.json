@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Smashing",
+  "components": {
+    "11": 2363,
+    "2": 5118,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Mattock",
+  "gate_version": "nimbusinstance",
+  "id": 5696,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Mattock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 279
+    }
+  ],
+  "type": "Loot"
+}

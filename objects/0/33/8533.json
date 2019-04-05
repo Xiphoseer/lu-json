@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 3822,
+    "2": 8087,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Quiver",
+  "gate_version": null,
+  "id": 8533,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quiver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13797,
+    "3": 7020,
+    "5": 1534,
+    "7": 1926
+  },
+  "description": "interactable console that spits out health",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    }
+  ],
+  "id": 14084,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Interactable Console - Health Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

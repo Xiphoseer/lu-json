@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7549,
+    "3": 3644
+  },
+  "description": "GF ravine scene racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8002,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RS Race ravine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,44 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 94,
+    "17": 459,
+    "2": 12318,
+    "3": 6171,
+    "35": 555,
+    "5": 1370,
+    "7": 1739,
+    "73": 127
+  },
+  "description": "__MG__Test for Mission giver that sells",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 12538,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Mission Giver Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

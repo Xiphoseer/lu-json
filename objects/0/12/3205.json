@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2688,
+    "3": 1631
+  },
+  "description": "Base for Teleporter in NP",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3205,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Teleporter Base",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

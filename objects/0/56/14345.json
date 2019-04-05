@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14036,
+    "3": 7168,
+    "67": 32,
+    "78": 37
+  },
+  "description": "Launch pad in LUP Moonbase",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14345,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LUP - Moonbase Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,263 @@
+{
+  "_links": {
+    "self": { "href": "/lu-json/tables/tables.json" },
+    "index": { "href": "/lu-json/index.json" }
+  },
+  "_embedded": {
+    "tables": [
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/AccessoryDefaultLoc/index.json" }
+        },
+        "title": "AccessoriesDefaultLoc",
+        "description": "Default location for items that the player can equip."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/Activities/index.json" }
+        },
+        "title": "Activities",
+        "description": "Minigames for the players."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ActivityRewards/index.json" }
+        },
+        "title": "ActivityRewards",
+        "description": "Rewards for competing in activities."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/BaseCombatAIComponent/index.json" }
+        },
+        "title": "BaseCombatAIComponent",
+        "description": "Predefined variants of the basic combat AI component."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/BrickColors/index.json" }
+        },
+        "title": "BrickColors",
+        "description": "The RGB-Color definitions for coloring bricks."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/CollectibleComponent/index.json" }
+        },
+        "title": "CollectibleComponent",
+        "description": "Requirements for collecting objects with a collectible components."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/DestructibleComponent/index.json" }
+        },
+        "title": "DestructibleComponent",
+        "description": "Stats and possible actions on objects that can be destroyed."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/EventGating/index.json" }
+        },
+        "title": "EventGating",
+        "description": "The dates ranges when gated features are available."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/Factions/index.json" }
+        },
+        "title": "Factions",
+        "description": "Object groups that can destory each other."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/EventGating/index.json" }
+        },
+        "title": "EventGating",
+        "description": "The dates ranges when gated features are available."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/Icons/index.json" }
+        },
+        "title": "Icons",
+        "description": "The icons used for missions and other UI."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/InventoryComponent/index.json" }
+        },
+        "title": "InventoryComponent",
+        "description": "The items that some object with this component has equipped."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ItemComponent/index.json" }
+        },
+        "title": "ItemComponent",
+        "description": "Attributes for an item that may be purchased from a vendor."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/LootMatrix/index.json" }
+        },
+        "title": "LootMatrix",
+        "description": "Set of relations between rewards and rarities."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/LootTable/index.json" }
+        },
+        "title": "LootTable",
+        "description": "Relations between items and LootTable indices."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigComponent/index.json" }
+        },
+        "title": "MinifigComponent",
+        "description": "Basic selection of the parts of a minifigure."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/index.json" }
+        },
+        "title": "MinifigDecals",
+        "description": "Resource definitions for part variants of a minifigure."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MissionEmail/index.json" }
+        },
+        "title": "MissionEmail",
+        "description": "Definitions of E-Mails which get sent for missions."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MissionNPCComponent/index.json" }
+        },
+        "title": "MissionNPCComponent",
+        "description": "Definitions on which mission an NPC can give or accept."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/Missions/index.json" }
+        },
+        "title": "Missions",
+        "description": "Definitions for the missions and achievements."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MissionTasks/index.json" }
+        },
+        "title": "MissionTasks",
+        "description": "The in-world actions needed for the missions."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MissionText/index.json" }
+        },
+        "title": "MissionText",
+        "description": "The texts used to describe missions in the UI."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ModuleComponent/index.json" }
+        },
+        "title": "ModuleComponent",
+        "description": "The modules from which to construct larger assemblies such as rockets and cars."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MovementAIComponent/index.json" }
+        },
+        "title": "MovementAIComponent",
+        "description": "Basic movement settings on objects with this component."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/NpcIcons/index.json" }
+        },
+        "title": "NpcIcons",
+        "description": "Overhead indicators for NPCs."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/PackageComponent/index.json" }
+        },
+        "title": "PackageComponent",
+        "description": "Definitions on which Items to drop from a package item."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/PetComponent/index.json" }
+        },
+        "title": "PetComponent",
+        "description": "Settings for taming the pad in question."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/PhysicsComponent/index.json" }
+        },
+        "title": "PhysicsComponent",
+        "description": "Settings for objects which participate in physics simulation."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ProximityMonitorComponent/index.json" }
+        },
+        "title": "ProximityMonitorComponent",
+        "description": "Settings for monitoring proximity on an object."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/RebuildComponent/index.json" }
+        },
+        "title": "RebuildComponent",
+        "description": "Settings for quickbuilds."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/RenderComponent/index.json" }
+        },
+        "title": "RenderComponent",
+        "description": "Settings on how to display an object."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/RocketLaunchpadControlComponent/index.json" }
+        },
+        "title": "RocketLaunchpadControlComponent",
+        "description": "Settings for a rocket launchpad object."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ScriptComponent/index.json" }
+        },
+        "title": "ScriptComponent",
+        "description": "Paths to the scripts on an object for server and client."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/SkillBehavior/index.json" }
+        },
+        "title": "SkillBehavior",
+        "description": "Relation between item skills and behaviours."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/VendorComponent/index.json" }
+        },
+        "title": "VendorComponent",
+        "description": "Settings for an NPC or object selling items."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/ZoneTable/index.json" }
+        },
+        "title": "ZoneTable",
+        "description": "List of all available zones."
+      }
+    ]
+  },
+  "title": "Tables"
+}

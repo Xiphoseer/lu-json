@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 6 IP Heal 10 Elite",
+  "components": {
+    "11": 6281,
+    "2": 12522,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Heavy Staff",
+  "gate_version": "nexustower",
+  "id": 12733,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Heavy Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 374
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1234
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1329
+    }
+  ],
+  "type": "Loot"
+}

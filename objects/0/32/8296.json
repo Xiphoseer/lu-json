@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5495,
+    "2": 7853,
+    "28": 231,
+    "3": 3863,
+    "42": 0
+  },
+  "description": "Deep Freeze Modular Build Rocket Cockpit",
+  "displayName": "Deep Freeze Rocket Cockpit",
+  "gate_version": null,
+  "id": 8296,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP Luptario Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

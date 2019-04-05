@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2380,
+    "25": 0,
+    "3": 1389
+  },
+  "description": "Challenge - Team 5",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2840,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Content - Cow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "MovingPlatforms"
+}

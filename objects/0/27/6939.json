@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Slashing + Freezing Charge-up",
+  "components": {
+    "11": 2937,
+    "2": 6501,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Ice Saw of Freezing",
+  "gate_version": null,
+  "id": 6939,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Ice Saw of Freezing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 269
+    }
+  ],
+  "type": "Loot"
+}

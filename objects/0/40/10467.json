@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4650,
+    "11": 5163,
+    "2": 10310,
+    "5": 1225,
+    "7": 1559
+  },
+  "description": "TEST Property Kitten",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10467,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Kitten Property Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

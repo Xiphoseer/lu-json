@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4245,
+    "2": 9567,
+    "9": 0
+  },
+  "description": "Laser that engineer turrets fire",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9728,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Engineer Turret Laser 2 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 770
+    }
+  ],
+  "type": "Shooting Gallery"
+}

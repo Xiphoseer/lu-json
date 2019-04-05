@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13947,
+    "25": 1,
+    "27": 0,
+    "3": 7085,
+    "39": 115,
+    "5": 1555,
+    "7": 1935,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ-Spinner Platform",
+  "gate_version": "earthgauntlet",
+  "id": 14247,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Spinner Platform Simple Mover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

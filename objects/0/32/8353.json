@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 3674,
+    "2": 7911,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hanbock",
+  "gate_version": null,
+  "id": 8353,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hanbock Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

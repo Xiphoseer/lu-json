@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13097,
+    "3": 6503
+  },
+  "description": "Main Cavern 4th Ice Plug used to cover holes and stove wave of enemies",
+  "displayName": "NJ - Ice Boss Plug 4",
+  "gate_version": "njhub",
+  "id": 13369,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Boss Plug 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

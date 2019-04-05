@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 5399,
+    "5": 554,
+    "7": 296
+  },
+  "description": "Test NPC for Ian H",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6003,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Ian H",
+  "nametag": false,
+  "npcTemplateID": 4,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

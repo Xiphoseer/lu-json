@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "bad offset, needs icon",
+  "components": {
+    "11": 1695,
+    "2": 2385
+  },
+  "description": "bad offset, needs icon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2844,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Brown Aviator Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

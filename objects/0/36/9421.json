@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4509,
+    "2": 9280,
+    "28": 165,
+    "3": 4066,
+    "42": 0,
+    "63": 5
+  },
+  "description": null,
+  "displayName": "Paragon Warp Side Panels 3",
+  "gate_version": null,
+  "id": 9421,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car3_SidePanels3_g",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

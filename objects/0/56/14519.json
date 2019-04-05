@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Krazi in Monastery Caverns, only on mission",
+  "components": {
+    "11": 7138,
+    "2": 14204
+  },
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "displayName": "Funny Bone",
+  "gate_version": "njhub",
+  "id": 14519,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Funny Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

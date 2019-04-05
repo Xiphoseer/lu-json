@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6537,
+    "2": 12972,
+    "28": 293,
+    "3": 6433,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Test Rocket Jan 14 Engine",
+  "gate_version": null,
+  "id": 13190,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "MOD Test Rocket Jan 14 Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

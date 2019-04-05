@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 11,
+    "2": 4445,
+    "5": 225
+  },
+  "description": "Gives the Rebuild Tutorial mission.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2502,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mr. Tran",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 3 Specialty Kit Item - Proxy",
+  "components": {
+    "11": 4769,
+    "2": 9654,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item. Tied to Buccaneer weapon 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9817,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Buccaneer Offhand 3 - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 697
+    }
+  ],
+  "type": "Loot"
+}

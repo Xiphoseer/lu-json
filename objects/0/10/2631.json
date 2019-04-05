@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Smashing + Freeze chargeup",
+  "components": {
+    "11": 1704,
+    "2": 2228,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Shiver Me Timbers Axe",
+  "gate_version": null,
+  "id": 2631,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shiver Me Timbers Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 804
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test healing staff",
+  "components": {
+    "11": 2892,
+    "2": 6427,
+    "9": 0
+  },
+  "description": "Test healing staff",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6872,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test PvP Awesome Healing Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 152
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 179
+    }
+  ],
+  "type": "Loot"
+}

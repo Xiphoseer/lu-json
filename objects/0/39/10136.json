@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9976,
+    "3": 4491
+  },
+  "description": "GF battle Platform module",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10136,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Trench Platform Module",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

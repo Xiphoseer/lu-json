@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 Damage AOE and Knockdown",
+  "components": {
+    "11": 6320,
+    "2": 12562,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Banana-Wrang",
+  "gate_version": "auramar",
+  "id": 12772,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Banana-Wrang",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1116
+    }
+  ],
+  "type": "Loot"
+}

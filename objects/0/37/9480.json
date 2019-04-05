@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4379,
+    "40": 2259,
+    "49": 0,
+    "5": 1128
+  },
+  "description": "Activator object for all equipment on Monument in Scene 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9480,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss Button",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

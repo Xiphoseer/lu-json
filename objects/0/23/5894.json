@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1660,
+    "3": 825,
+    "48": 71,
+    "7": 503
+  },
+  "description": "QB rope Bridge",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5894,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bridge QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

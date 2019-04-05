@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12000,
+    "40": 5986,
+    "6": 0,
+    "7": 689
+  },
+  "description": "Generic Bouncer for AM AuraMar Sentinel",
+  "displayName": "AM Bouncer Sentinel",
+  "gate_version": null,
+  "id": 12253,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Bouncer Sentinel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6853,
+    "2": 13271,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NJ-Mon_Ice_Transition_02",
+  "gate_version": "njhub",
+  "id": 13472,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Ice_Transition_02",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

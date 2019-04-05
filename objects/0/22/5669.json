@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5093,
+    "40": 2376
+  },
+  "description": "Sphere for trigger region",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5669,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trigger Sphere",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

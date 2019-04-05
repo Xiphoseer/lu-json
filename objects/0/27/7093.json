@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 474 - Hidden",
+  "components": {
+    "11": 2982,
+    "2": 6667
+  },
+  "description": null,
+  "displayName": "Sentinel Faction Approval",
+  "gate_version": null,
+  "id": 7093,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Badge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

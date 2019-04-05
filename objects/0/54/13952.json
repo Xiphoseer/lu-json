@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6930,
+    "2": 13666,
+    "31": 57,
+    "5": 1500,
+    "60": 138,
+    "7": 1891,
+    "9": 0
+  },
+  "description": "Basic Stromling",
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 13952,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Grid Tower Enemy 2B",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1287
+    }
+  ],
+  "type": "Enemies"
+}

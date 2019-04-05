@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6124,
+    "3": 2318,
+    "35": 246,
+    "39": 0,
+    "5": 625,
+    "7": 345,
+    "73": 8
+  },
+  "description": "__MG__Spaceman Bob, the greeter for AG",
+  "displayName": "Bob",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 4009,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spaceship Bob",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

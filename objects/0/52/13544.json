@@ -1,0 +1,45 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6688,
+    "2": 13281,
+    "5": 1618,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Imagination Backpack",
+  "gate_version": "nexustower",
+  "id": 13544,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imagination Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1331
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1332
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1334
+    }
+  ],
+  "type": "Loot"
+}

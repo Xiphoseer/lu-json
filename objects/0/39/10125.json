@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 1 AP",
+  "components": {
+    "11": 4937,
+    "2": 9962,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Queen Shirt",
+  "gate_version": null,
+  "id": 10125,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Queen Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

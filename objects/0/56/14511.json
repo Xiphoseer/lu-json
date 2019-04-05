@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7132,
+    "2": 14198,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Rockolate Bar",
+  "gate_version": "njhub",
+  "id": 14511,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rockolate Bar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 892
+    }
+  ],
+  "type": "Loot"
+}

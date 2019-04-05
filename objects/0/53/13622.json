@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13363,
+    "3": 6687,
+    "7": 1854
+  },
+  "description": "smashable",
+  "displayName": "NJ Smashable Statue",
+  "gate_version": "njhub",
+  "id": 13622,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Smashable Fish Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

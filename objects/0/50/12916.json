@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12702,
+    "3": 6280,
+    "39": 49,
+    "7": 1791
+  },
+  "description": "Mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 73,
+      "iconState": 69
+    }
+  ],
+  "id": 12916,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Parrot Blue Mission Giver",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "NPC"
+}

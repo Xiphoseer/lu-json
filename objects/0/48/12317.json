@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item",
+  "components": {
+    "11": 6057,
+    "2": 12067
+  },
+  "description": "Return this to Sensei Wu in Crux Prime!",
+  "displayName": "Aura Blossoms",
+  "gate_version": "auramar",
+  "id": 12317,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blue Flower Leaves",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

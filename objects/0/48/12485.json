@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12248,
+    "3": 6127,
+    "73": 125
+  },
+  "description": "Test Console for Paradox Pet",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12485,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_ParadoxConsole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

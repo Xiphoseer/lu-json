@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 AP 3 IP Magnet Heroic",
+  "components": {
+    "11": 6274,
+    "2": 12515,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Little Friend",
+  "gate_version": "nexustower",
+  "id": 12726,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "The Ego Club",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1233
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1328
+    }
+  ],
+  "type": "Loot"
+}

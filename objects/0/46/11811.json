@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5862,
+    "2": 11563,
+    "3": 5655,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Shed End Narrow Model",
+  "gate_version": "march2011content",
+  "id": 11811,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Shed End Narrow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

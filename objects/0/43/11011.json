@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND Use only - REBUILD password s3kratK1ttN",
+  "components": {
+    "11": 5363,
+    "2": 10763,
+    "3": 5024,
+    "42": 0,
+    "48": 154
+  },
+  "description": "NS Property Pushback Model - Spike Platform - REBUILD password s3kratK1ttN",
+  "displayName": "FV Property Pushback Model - Spike Platform",
+  "gate_version": null,
+  "id": 11011,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Property Pushback Model - Spike Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

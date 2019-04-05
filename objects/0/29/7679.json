@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5305,
+    "2": 7239,
+    "5": 1430,
+    "60": 25,
+    "7": 715,
+    "9": 0
+  },
+  "description": "Robot Enemy for the LUP team",
+  "displayName": "Infected Citizen",
+  "gate_version": null,
+  "id": 7679,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Robot Citizen - Infected",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Return this to Wisp",
+  "components": {
+    "11": 2549,
+    "2": 5598
+  },
+  "description": "Return this to Paradox!",
+  "displayName": "Maelstrom-Infected Brick",
+  "gate_version": null,
+  "id": 6194,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Infected Brick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

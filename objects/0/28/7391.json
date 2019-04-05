@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3068,
+    "2": 6955,
+    "5": 1076,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Knight Greatsword 1",
+  "gate_version": null,
+  "id": 7391,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Knight Weapon 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 476
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1363
+    }
+  ],
+  "type": "Loot"
+}

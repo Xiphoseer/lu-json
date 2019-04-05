@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/11/11277.json"
+    }
+  },
+  "behaviorID": 11277,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "LOT_ID": 9644.0,
+    "distance": 0.0,
+    "objectRadius": 3.0,
+    "spawn_fail_action": 11860.0,
+    "updatePositionWithParent": 1.0
+  },
+  "templateID": 27
+}

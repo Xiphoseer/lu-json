@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6666,
+    "2": 13246,
+    "28": 331,
+    "3": 6618,
+    "42": 0,
+    "63": 28
+  },
+  "description": null,
+  "displayName": "Assembly Blockader Front Bumper",
+  "gate_version": "factionvehicles",
+  "id": 13512,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAS_FrontBumper_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 849
+    }
+  ],
+  "type": "Rebuildables"
+}

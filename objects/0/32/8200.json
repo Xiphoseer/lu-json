@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5362
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 8200,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Speed Boost Powerup",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 2,
+      "skillID": 500
+    }
+  ],
+  "type": "Powerup"
+}

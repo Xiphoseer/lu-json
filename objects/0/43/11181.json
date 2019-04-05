@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5461,
+    "2": 10930,
+    "53": 62
+  },
+  "description": "Double-click to open this pack of gear!",
+  "displayName": "Beta Testing Gear Pack",
+  "gate_version": null,
+  "id": 11181,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Beta Testing Gear Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "114": 0,
+    "12": 7,
+    "2": 9883,
+    "3": 4440,
+    "40": 4441,
+    "5": 981
+  },
+  "description": "Build Border LUPs",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10047,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build border for LUPs station Rocket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

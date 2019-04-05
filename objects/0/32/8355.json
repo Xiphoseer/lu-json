@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3676,
+    "2": 7913,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Narwhal Shirt",
+  "gate_version": null,
+  "id": 8355,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Narwhal Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

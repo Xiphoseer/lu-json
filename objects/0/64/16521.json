@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7735,
+    "2": 15299,
+    "3": 7911,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Monastery Right Entrance Model",
+  "gate_version": "njhub",
+  "id": 16521,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Monastery Right Entrance",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

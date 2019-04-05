@@ -1,0 +1,35 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3210,
+    "2": 7121,
+    "5": 1241,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Summoner Orb 2",
+  "gate_version": null,
+  "id": 7556,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Summoner Offhand 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 689
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Moves model around",
+  "components": {
+    "11": 4882,
+    "2": 9894
+  },
+  "description": "Moves model around",
+  "displayName": "Move Around Behavior",
+  "gate_version": null,
+  "id": 10058,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Move Around",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

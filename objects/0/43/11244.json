@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 415,
+    "2": 11014,
+    "3": 1777,
+    "35": 510,
+    "7": 307
+  },
+  "description": "For Credits",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11244,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "ND - Seabury Ryan",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

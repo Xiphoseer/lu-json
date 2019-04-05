@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Hat that you put on to enter creative builds",
+  "components": {
+    "11": 2499,
+    "13": 1,
+    "2": 9849,
+    "9": 0
+  },
+  "description": "Wear this hat to start building!",
+  "displayName": "Thinking Hat",
+  "gate_version": null,
+  "id": 6086,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "UGG - Thinking Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 187
+    }
+  ],
+  "type": "Loot"
+}

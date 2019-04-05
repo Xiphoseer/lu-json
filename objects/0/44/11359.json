@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11132,
+    "20": 4233,
+    "5": 1277
+  },
+  "description": "NSWinterTrack_IceVol1",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11359,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSWinterTrack_IceVol1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

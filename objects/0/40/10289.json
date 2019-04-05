@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5053,
+    "2": 10134,
+    "3": 4537,
+    "42": 0
+  },
+  "description": "Place this model on your property!",
+  "displayName": "Disk thing",
+  "gate_version": null,
+  "id": 10289,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Brandis ND Made Loot Model",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1466,
+    "3": 1777,
+    "5": 23
+  },
+  "description": "Vanguard NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1616,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sgt. Maxx",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

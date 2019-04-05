@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6479,
+    "3": 3045,
+    "48": 99,
+    "5": 1226,
+    "9": 0
+  },
+  "description": "Arch QB",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6917,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate Arch QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 325
+    }
+  ],
+  "type": "Rebuildables"
+}

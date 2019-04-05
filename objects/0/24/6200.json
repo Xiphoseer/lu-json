@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2561,
+    "2": 5842
+  },
+  "description": null,
+  "displayName": "Astronaut Helmet",
+  "gate_version": null,
+  "id": 6200,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Astronaut Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

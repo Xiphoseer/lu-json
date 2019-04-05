@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15053,
+    "3": 7713,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - Brick Annex",
+  "gate_version": "freetrial",
+  "id": 16307,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - Brick Annex",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

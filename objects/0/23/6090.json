@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2806,
+    "17": 160,
+    "2": 5485,
+    "35": 191,
+    "5": 802,
+    "60": 2,
+    "7": 518,
+    "9": 0
+  },
+  "description": "Ben's Test NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6090,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ben Aaar",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 205
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 206
+    },
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 238
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

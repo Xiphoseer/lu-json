@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6121,
+    "2": 12246
+  },
+  "description": "Return this to Neido on Crux Prime.",
+  "displayName": "Hello Griffy Doll",
+  "gate_version": "nexustower",
+  "id": 12482,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Hello Griffy Doll",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

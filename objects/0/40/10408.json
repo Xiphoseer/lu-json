@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10252,
+    "3": 4631
+  },
+  "description": "1450 Build Border Mesh asset test",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10408,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "1450 Property Build Border",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

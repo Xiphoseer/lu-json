@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Car Stuff",
+  "components": {
+    "11": 2616,
+    "2": 5744
+  },
+  "description": null,
+  "displayName": "Back Wheels",
+  "gate_version": null,
+  "id": 6305,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Back Wheels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item",
+  "components": {
+    "11": 6063,
+    "2": 12073
+  },
+  "description": "Return this to Sherland Powers in Crux Prime!",
+  "displayName": "Nexus Talon Datacard",
+  "gate_version": "auramar",
+  "id": 12323,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CP Datacard Mission Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

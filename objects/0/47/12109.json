@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Buff 5 life, 5 imagination",
+  "components": {
+    "11": 6001,
+    "2": 11858,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Sensei Wu's Imagination Tea",
+  "gate_version": "auramar",
+  "id": 12109,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wu's Imagination Tea",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1130
+    }
+  ],
+  "type": "Loot"
+}

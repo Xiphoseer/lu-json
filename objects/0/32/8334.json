@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A quest reward from FV, available in GF",
+  "components": {
+    "11": 3660,
+    "2": 7892,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Test Maelstrom Staff",
+  "gate_version": null,
+  "id": 8334,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Maelstrom Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 549
+    }
+  ],
+  "type": "Loot"
+}

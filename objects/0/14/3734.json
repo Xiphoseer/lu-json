@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3307,
+    "23": 9,
+    "40": 2205,
+    "7": 312
+  },
+  "description": "Collectible Spawner for ZP gold skunk",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3734,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Skunk Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

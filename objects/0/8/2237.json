@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 991,
+    "2": 1971,
+    "5": 164,
+    "9": 0
+  },
+  "description": "GF scenario director - not in use",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2237,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pirate Siege Director A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

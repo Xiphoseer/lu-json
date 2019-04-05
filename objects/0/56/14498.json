@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; it's a Paradox device.",
+  "components": {
+    "11": 7121,
+    "2": 14187
+  },
+  "description": "Give this to Nya in the Ninjago Monastery.",
+  "displayName": "Portable Chaos Cleaner",
+  "gate_version": "njhub",
+  "id": 14498,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Portable Dechaosizer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

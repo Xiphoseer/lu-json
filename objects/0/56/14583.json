@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14266,
+    "3": 7312,
+    "7": 2035
+  },
+  "description": "",
+  "displayName": "NJ - Fire Elemental Lantern Smashable",
+  "gate_version": "njhub",
+  "id": 14583,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire Pole Lantern Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14070,
+    "3": 7187,
+    "5": 1598,
+    "7": 1939
+  },
+  "description": "Target smashable only by the plunger gun",
+  "displayName": "Plunger Gun Target",
+  "gate_version": null,
+  "id": 14380,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Plunger Gun Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

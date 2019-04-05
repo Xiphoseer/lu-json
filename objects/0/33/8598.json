@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 4 IP",
+  "components": {
+    "11": 3854,
+    "2": 8155,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Zippered Leather Jacket",
+  "gate_version": null,
+  "id": 8598,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Zippered Leather Jacket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

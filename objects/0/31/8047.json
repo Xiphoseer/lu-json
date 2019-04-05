@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3680,
+    "2": 7592,
+    "26": 6,
+    "5": 1049,
+    "60": 31,
+    "7": 852,
+    "9": 0
+  },
+  "description": "testing AI and Skills for new skunk design",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8047,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST NS Skunk enemy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 1,
+      "skillID": 772
+    }
+  ],
+  "type": "NPC"
+}

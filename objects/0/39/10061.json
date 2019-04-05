@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A friendly greeter",
+  "components": {
+    "11": 4885,
+    "2": 9897
+  },
+  "description": "A friendly greeter",
+  "displayName": "Greeter Behavior",
+  "gate_version": null,
+  "id": 10061,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Greeter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 Main Castle Gate, 1 5-Step curved staircase",
+  "components": {
+    "11": 4741,
+    "2": 9563,
+    "53": 28
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Castle Model Pack 3",
+  "gate_version": null,
+  "id": 9723,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Castle Model Pack 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

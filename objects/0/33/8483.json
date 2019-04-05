@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Smashing",
+  "components": {
+    "11": 3782,
+    "2": 8038,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional  Ladle",
+  "gate_version": null,
+  "id": 8483,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Ladle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 553
+    }
+  ],
+  "type": "Loot"
+}

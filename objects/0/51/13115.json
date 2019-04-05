@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6503,
+    "2": 12891
+  },
+  "description": null,
+  "displayName": "NPC Vendor Backpack",
+  "gate_version": "auramar",
+  "id": 13115,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Vendor Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

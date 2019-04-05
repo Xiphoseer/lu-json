@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 4 IP restores caster for 9 Imagination",
+  "components": {
+    "11": 7331,
+    "2": 14612,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Scholar's Travel Hat",
+  "gate_version": "njhub",
+  "id": 15920,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Scholar's Travel Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1464
+    }
+  ],
+  "type": "Loot"
+}

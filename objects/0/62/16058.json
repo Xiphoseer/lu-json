@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7579,
+    "2": 14777,
+    "7": 2106,
+    "9": 0
+  },
+  "description": "NJ  exploding Kunai 8/25 dmg",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16058,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Exploding  Kunai Projectile Bullet 8/25 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1534
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5278,
+    "2": 10669,
+    "3": 4943,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Large Plant Model",
+  "gate_version": null,
+  "id": 10822,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward LargePlant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

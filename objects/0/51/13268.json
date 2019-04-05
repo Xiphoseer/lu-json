@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13001,
+    "3": 6463
+  },
+  "description": "ground boost pads in venture hallways",
+  "displayName": "NT_FX_venture_boost_pads",
+  "gate_version": "auramar",
+  "id": 13268,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT_FX_venture_boost_pads",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

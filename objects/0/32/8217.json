@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Slashing",
+  "components": {
+    "11": 3625,
+    "2": 7759,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Basic Dagger",
+  "gate_version": null,
+  "id": 8217,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 148
+    }
+  ],
+  "type": "Loot"
+}

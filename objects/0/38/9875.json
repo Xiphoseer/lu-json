@@ -1,0 +1,27 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Available only to LEGO Club members!",
+  "components": {
+    "11": 4786,
+    "2": 9707
+  },
+  "description": "Available only to LEGO Club members!",
+  "displayName": "LEGO Club Jumpsuit",
+  "gate_version": null,
+  "id": 9875,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LEGO Club Jumpsuit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 826
+    }
+  ],
+  "type": "Loot"
+}

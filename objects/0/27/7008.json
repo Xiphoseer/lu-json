@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6588,
+    "3": 3104,
+    "32": 8
+  },
+  "description": "The Duck showcase display pedestal",
+  "displayName": "Duck Showcase",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 66,
+      "iconState": 65
+    }
+  ],
+  "id": 7008,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Showcase Display Pedestal - Duck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Exhibits"
+}

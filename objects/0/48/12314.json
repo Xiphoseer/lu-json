@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 + 3 pt Lightning",
+  "components": {
+    "11": 6054,
+    "2": 12064,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Javelin of Lightning",
+  "gate_version": "ventureinstance",
+  "id": 12314,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Javelin of Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 957
+    }
+  ],
+  "type": "Loot"
+}

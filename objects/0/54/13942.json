@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For testing targetting",
+  "components": {
+    "11": 6932,
+    "2": 13658,
+    "9": 0
+  },
+  "description": "for testing only",
+  "displayName": "Test",
+  "gate_version": null,
+  "id": 13942,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Tower Grid MainHand A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1276
+    }
+  ],
+  "type": "Loot"
+}

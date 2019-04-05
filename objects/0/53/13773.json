@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Brick Donation Object",
+  "components": {
+    "100": 0,
+    "2": 13280,
+    "3": 6644,
+    "5": 1468
+  },
+  "description": "Allows interactions with brick donation UI",
+  "displayName": "Nexus Jawbox",
+  "gate_version": "communitymissions1.0",
+  "icons": [
+    {
+      "iconID": 111,
+      "iconState": 69
+    }
+  ],
+  "id": 13773,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Nexus Jawbox",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

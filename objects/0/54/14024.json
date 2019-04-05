@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton for Nijago",
+  "components": {
+    "1": 6964,
+    "17": 532,
+    "2": 13734,
+    "31": 74,
+    "5": 1521,
+    "60": 152,
+    "7": 1910,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Blacksmith",
+  "gate_version": "njhub",
+  "id": 14024,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Blacksmith",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 40,
+      "castOnType": 0,
+      "skillID": 1383
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1384
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1391
+    }
+  ],
+  "type": "Enemies"
+}

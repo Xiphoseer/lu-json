@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5396,
+    "3": 2482,
+    "40": 2483,
+    "5": 797
+  },
+  "description": "Test object for some fun",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6000,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pool",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

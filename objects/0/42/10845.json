@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 5301,
+    "2": 10692,
+    "3": 4966,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Plant Model",
+  "gate_version": null,
+  "id": 10845,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Plant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

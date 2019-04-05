@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 80,
+    "17": 318,
+    "2": 9583,
+    "3": 1777,
+    "35": 406,
+    "7": 306
+  },
+  "description": "LEGO Club Vendor - Clubhouse",
+  "displayName": "Bucky Gorfunblot - LEGO Club Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 9749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Club LEGO Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

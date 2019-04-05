@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 6230,
+    "2": 12471,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Baseball Jersey 1",
+  "gate_version": "nexustower",
+  "id": 12682,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Baseball Jersey 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward - bag of 200 tokens + frog-in-hat",
+  "components": {
+    "11": 7010,
+    "2": 13857,
+    "53": 130
+  },
+  "description": "Double-click to get your reward!",
+  "displayName": "12 Month Membership Reward",
+  "gate_version": "nexustower",
+  "id": 14147,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "12 Month Membership Reward",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

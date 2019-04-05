@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6569,
+    "3": 3087,
+    "39": 1864,
+    "5": 222
+  },
+  "description": "placeholder object - click to start SG",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 120,
+      "iconState": 69
+    }
+  ],
+  "id": 4860,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cannon - Shooting Gallery",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

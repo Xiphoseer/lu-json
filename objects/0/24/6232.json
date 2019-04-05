@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 2584,
+    "2": 5651,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Pod Rocket Shirt",
+  "gate_version": null,
+  "id": 6232,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pod Rocket Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5857,
+    "3": 2684,
+    "52": 2,
+    "7": 586
+  },
+  "description": "Default object for choice builds",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6414,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Choice Build object - Shield Buff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

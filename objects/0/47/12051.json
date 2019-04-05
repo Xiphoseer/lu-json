@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11800,
+    "23": 38,
+    "40": 5846,
+    "7": 1657
+  },
+  "description": "Collectible Spawner for Aura Mar Imagination brick",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12051,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Imagination Brick Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

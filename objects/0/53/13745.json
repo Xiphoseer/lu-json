@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used with the nexus tower mission chains",
+  "components": {
+    "11": 6848,
+    "2": 13484
+  },
+  "description": null,
+  "displayName": "Crate Disguise Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 13745,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Crate Disguise Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

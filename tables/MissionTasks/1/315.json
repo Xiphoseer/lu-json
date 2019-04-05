@@ -1,0 +1,19 @@
+{
+  "id": 315,
+  "tasks": [
+    {
+      "IconID": 4463,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Salute_Emote_Task.dds",
+      "largeTaskIconID": 4463,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6008,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": "356",
+      "taskType": 5,
+      "uid": 476
+    }
+  ]
+}

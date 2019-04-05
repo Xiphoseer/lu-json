@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5228,
+    "2": 10615,
+    "3": 4891,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Sun Dial Model",
+  "gate_version": null,
+  "id": 10768,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Sun Dial",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

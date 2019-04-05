@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11081,
+    "25": 0,
+    "3": 5221
+  },
+  "description": "The columns that fall on the second lap",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Track Columns Lap 2 Columns",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "7 damage reusable grenade on long timer",
+  "components": {
+    "11": 6283,
+    "2": 12524,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "The Big One!",
+  "gate_version": "auramar",
+  "id": 12735,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "The Big One!",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 994
+    }
+  ],
+  "type": "Loot"
+}

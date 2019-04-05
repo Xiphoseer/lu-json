@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 2173,
+    "5": 229
+  },
+  "description": "interact test object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4738,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Interact NPC 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Assembly vendors",
+  "components": {
+    "11": 6513,
+    "2": 12919,
+    "53": 119
+  },
+  "description": "Contains 10 Red Imaginite",
+  "displayName": "Medium Bag of Red Imaginite",
+  "gate_version": "march2011content",
+  "id": 13139,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Medium Red Imaginite Bag - Assembly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

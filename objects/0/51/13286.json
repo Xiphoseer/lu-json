@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Sorcerer Valiant Weapon Proxy",
+  "components": {
+    "11": 6577,
+    "2": 13016,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sorcerer Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13286,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Sorcerer Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1029
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12176,
+    "3": 6102,
+    "39": 55,
+    "5": 1354
+  },
+  "description": "Treasure Chest for Minigames",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12423,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MINIGAME - Reward Treasure Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

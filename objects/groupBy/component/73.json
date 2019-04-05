@@ -1,0 +1,897 @@
+[
+  {
+    "comp_val": 180,
+    "id": 16500,
+    "name": "NJ Mon- Ninjago Guard 3"
+  },
+  {
+    "comp_val": 181,
+    "id": 16501,
+    "name": "NJ Mon- Ninjago Guard 4 Podo Pandaheart - Ninjago Monastery Guard"
+  },
+  {
+    "comp_val": 182,
+    "id": 16589,
+    "name": "NPC Town Crier"
+  },
+  {
+    "comp_val": 183,
+    "id": 1274,
+    "name": "Old Man"
+  },
+  {
+    "comp_val": 71,
+    "id": 1933,
+    "name": "Pirate Ambient 1"
+  },
+  {
+    "comp_val": 38,
+    "id": 1934,
+    "name": "Pirate Ambient 2"
+  },
+  {
+    "comp_val": 15,
+    "id": 1938,
+    "name": "Captain Jack Knife"
+  },
+  {
+    "comp_val": 13,
+    "id": 2183,
+    "name": "Pirate Technician"
+  },
+  {
+    "comp_val": 85,
+    "id": 2190,
+    "name": "Friendly Felix"
+  },
+  {
+    "comp_val": 37,
+    "id": 2240,
+    "name": "Pirate First Mate"
+  },
+  {
+    "comp_val": 65,
+    "id": 2496,
+    "name": "Test Missiongiver"
+  },
+  {
+    "comp_val": 60,
+    "id": 2562,
+    "name": "AG - Coin Mission Giver"
+  },
+  {
+    "comp_val": 97,
+    "id": 3002,
+    "name": "AG - Concert Fan A"
+  },
+  {
+    "comp_val": 16,
+    "id": 3095,
+    "name": "Pirate Cannoneer"
+  },
+  {
+    "comp_val": 31,
+    "id": 3110,
+    "name": "Pirate Worker"
+  },
+  {
+    "comp_val": 2,
+    "id": 3257,
+    "name": "PR - Coalessa"
+  },
+  {
+    "comp_val": 6,
+    "id": 3275,
+    "name": "ZP - Inventor"
+  },
+  {
+    "comp_val": 19,
+    "id": 3367,
+    "name": "ZP - Reporter Mission Giver"
+  },
+  {
+    "comp_val": 84,
+    "id": 3386,
+    "name": "PR - Bella Pepper"
+  },
+  {
+    "comp_val": 3,
+    "id": 3519,
+    "name": "PR - Bridge_QB"
+  },
+  {
+    "comp_val": 4,
+    "id": 3521,
+    "name": "ZP - Skunk Buster Boss"
+  },
+  {
+    "comp_val": 5,
+    "id": 3522,
+    "name": "ZP - Over Heated Skunk Buster"
+  },
+  {
+    "comp_val": 7,
+    "id": 3553,
+    "name": "Skunk Buster Trainee"
+  },
+  {
+    "comp_val": 129,
+    "id": 3723,
+    "name": "AG - Ninja Picnicker"
+  },
+  {
+    "comp_val": 173,
+    "id": 3724,
+    "name": "AG - Pirate Picnicker"
+  },
+  {
+    "comp_val": 178,
+    "id": 3918,
+    "name": "NS Consumable Vendor - Race Place"
+  },
+  {
+    "comp_val": 8,
+    "id": 4009,
+    "name": "Spaceship Bob"
+  },
+  {
+    "comp_val": 9,
+    "id": 4026,
+    "name": "AG - Concert Fireman"
+  },
+  {
+    "comp_val": 10,
+    "id": 4027,
+    "name": "AG - Beastie Brick A"
+  },
+  {
+    "comp_val": 11,
+    "id": 4028,
+    "name": "AG - Concert Dwarf"
+  },
+  {
+    "comp_val": 18,
+    "id": 4038,
+    "name": "AG - Sentinel Mission Giver"
+  },
+  {
+    "comp_val": 126,
+    "id": 4769,
+    "name": "Test Puccio MissionGiver"
+  },
+  {
+    "comp_val": 14,
+    "id": 4853,
+    "name": "Gun Monkey"
+  },
+  {
+    "comp_val": 128,
+    "id": 5004,
+    "name": "AG - Paradox Mech"
+  },
+  {
+    "comp_val": 73,
+    "id": 5007,
+    "name": "AG - Concert Fan C"
+  },
+  {
+    "comp_val": 130,
+    "id": 5009,
+    "name": "AG - Cowboy Picnicker"
+  },
+  {
+    "comp_val": 20,
+    "id": 5997,
+    "name": "AG - Skylane - Venture Ship Captain"
+  },
+  {
+    "comp_val": 21,
+    "id": 6006,
+    "name": "AG - Wisp - Paradox Scientist"
+  },
+  {
+    "comp_val": 22,
+    "id": 6007,
+    "name": "AG - Epsilon - Sentinel Scout"
+  },
+  {
+    "comp_val": 23,
+    "id": 6008,
+    "name": "AG - Beck - Sentinel Commander"
+  },
+  {
+    "comp_val": 29,
+    "id": 6010,
+    "name": "AG - Sentinel Engineer"
+  },
+  {
+    "comp_val": 25,
+    "id": 6011,
+    "name": "AG - Rusty -  Assembly Foreman"
+  },
+  {
+    "comp_val": 26,
+    "id": 6012,
+    "name": "AG - Venture Scout"
+  },
+  {
+    "comp_val": 64,
+    "id": 6013,
+    "name": "AG - Assembly Surveyor"
+  },
+  {
+    "comp_val": 28,
+    "id": 6014,
+    "name": "AG - Skylane - Venture Explorer"
+  },
+  {
+    "comp_val": 30,
+    "id": 6224,
+    "name": "GF - Edison2"
+  },
+  {
+    "comp_val": 12,
+    "id": 6227,
+    "name": "GF - first venture mission giver"
+  },
+  {
+    "comp_val": 36,
+    "id": 6236,
+    "name": "GF - Renee"
+  },
+  {
+    "comp_val": 24,
+    "id": 6289,
+    "name": "AG - Sentinel Grunt"
+  },
+  {
+    "comp_val": 27,
+    "id": 6374,
+    "name": "AG - Property Launch Pad Guard"
+  },
+  {
+    "comp_val": 32,
+    "id": 6390,
+    "name": "GF - Pirate Mission Giver"
+  },
+  {
+    "comp_val": 33,
+    "id": 6391,
+    "name": "GF - Temp FV Mission Giver"
+  },
+  {
+    "comp_val": 72,
+    "id": 6479,
+    "name": "Test Mission Puccio Turn in"
+  },
+  {
+    "comp_val": 49,
+    "id": 6630,
+    "name": "NS - Johnny Thunder"
+  },
+  {
+    "comp_val": 177,
+    "id": 6631,
+    "name": "NS Sentinel Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 176,
+    "id": 6632,
+    "name": "NS Paradox Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 174,
+    "id": 6633,
+    "name": "NS Assembly Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 175,
+    "id": 6634,
+    "name": "NS Venture Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 17,
+    "id": 6635,
+    "name": "NS - Mardolf"
+  },
+  {
+    "comp_val": 35,
+    "id": 6636,
+    "name": "NS - Mardolf's Assistant"
+  },
+  {
+    "comp_val": 56,
+    "id": 6638,
+    "name": "NS - Embarrassed Minifigure"
+  },
+  {
+    "comp_val": 39,
+    "id": 6732,
+    "name": "GF Ninja Prisoner 02"
+  },
+  {
+    "comp_val": 40,
+    "id": 6733,
+    "name": "GF Ninja Prisoner 03"
+  },
+  {
+    "comp_val": 41,
+    "id": 6734,
+    "name": "GF Ninja Prisoner 04"
+  },
+  {
+    "comp_val": 42,
+    "id": 6736,
+    "name": "GF Ninja Prisoner 06"
+  },
+  {
+    "comp_val": 44,
+    "id": 7094,
+    "name": "Sentinel Rep"
+  },
+  {
+    "comp_val": 48,
+    "id": 7095,
+    "name": "Venture Rep"
+  },
+  {
+    "comp_val": 46,
+    "id": 7096,
+    "name": "Assembly Rep"
+  },
+  {
+    "comp_val": 47,
+    "id": 7097,
+    "name": "Paradox Rep"
+  },
+  {
+    "comp_val": 43,
+    "id": 7098,
+    "name": "Nexus Force Recruiter"
+  },
+  {
+    "comp_val": 45,
+    "id": 7099,
+    "name": "AG - Melodie Foxtrot"
+  },
+  {
+    "comp_val": 51,
+    "id": 7128,
+    "name": "Sentinel Battle Engineer"
+  },
+  {
+    "comp_val": 50,
+    "id": 7129,
+    "name": "Lair-Sentinel Grunt"
+  },
+  {
+    "comp_val": 54,
+    "id": 7411,
+    "name": "FV Ninja 1"
+  },
+  {
+    "comp_val": 52,
+    "id": 7413,
+    "name": "FV Old Traveler"
+  },
+  {
+    "comp_val": 53,
+    "id": 7414,
+    "name": "FV Dojo Master"
+  },
+  {
+    "comp_val": 61,
+    "id": 7423,
+    "name": "FV Ninja 3"
+  },
+  {
+    "comp_val": 57,
+    "id": 7424,
+    "name": "FV Ninja 4"
+  },
+  {
+    "comp_val": 55,
+    "id": 7425,
+    "name": "FV Ninja 5"
+  },
+  {
+    "comp_val": 58,
+    "id": 7426,
+    "name": "FV Numb Chuck"
+  },
+  {
+    "comp_val": 66,
+    "id": 7432,
+    "name": "FV Ninja 7"
+  },
+  {
+    "comp_val": 83,
+    "id": 7752,
+    "name": "NS - Nexus Force Grunt"
+  },
+  {
+    "comp_val": 1,
+    "id": 7973,
+    "name": "AG - Mission Giver - Battlefield Outpost Console"
+  },
+  {
+    "comp_val": 149,
+    "id": 8015,
+    "name": "Test NIF Mission Giver for Nic"
+  },
+  {
+    "comp_val": 63,
+    "id": 8206,
+    "name": "GF - Swifty McGurk"
+  },
+  {
+    "comp_val": 122,
+    "id": 8223,
+    "name": "Ship - Epsilon - Sentinel Scout"
+  },
+  {
+    "comp_val": 121,
+    "id": 8224,
+    "name": "Ship - Spaceship Bob 2.0"
+  },
+  {
+    "comp_val": 67,
+    "id": 8657,
+    "name": "Map Pirate 1"
+  },
+  {
+    "comp_val": 68,
+    "id": 8658,
+    "name": "Map Pirate 2"
+  },
+  {
+    "comp_val": 69,
+    "id": 8659,
+    "name": "Map Pirate 3"
+  },
+  {
+    "comp_val": 70,
+    "id": 9457,
+    "name": "FV - Dragon Bill"
+  },
+  {
+    "comp_val": 34,
+    "id": 9632,
+    "name": "Vance Bulwark"
+  },
+  {
+    "comp_val": 59,
+    "id": 9680,
+    "name": "Echs Ray"
+  },
+  {
+    "comp_val": 74,
+    "id": 9692,
+    "name": "NS - Ambient Concert NPC"
+  },
+  {
+    "comp_val": 75,
+    "id": 9693,
+    "name": "NS - Concert Fan D"
+  },
+  {
+    "comp_val": 76,
+    "id": 9694,
+    "name": "NS - Concert Fan E"
+  },
+  {
+    "comp_val": 77,
+    "id": 9720,
+    "name": "testBattle"
+  },
+  {
+    "comp_val": 78,
+    "id": 9758,
+    "name": "Sales Agent Nate"
+  },
+  {
+    "comp_val": 62,
+    "id": 9821,
+    "name": "Velocity Lane"
+  },
+  {
+    "comp_val": 79,
+    "id": 9859,
+    "name": "AG Property Mission Giver 01"
+  },
+  {
+    "comp_val": 82,
+    "id": 9897,
+    "name": "NS - Sentinel Grunt"
+  },
+  {
+    "comp_val": 80,
+    "id": 9929,
+    "name": "NS - Sentinel Battle Grunt"
+  },
+  {
+    "comp_val": 81,
+    "id": 9932,
+    "name": "Battle Ninja 01"
+  },
+  {
+    "comp_val": 102,
+    "id": 10099,
+    "name": "Starbase 3001 Mission Giver"
+  },
+  {
+    "comp_val": 86,
+    "id": 10299,
+    "name": "Property Guard 1"
+  },
+  {
+    "comp_val": 87,
+    "id": 10300,
+    "name": "Property Guard 2"
+  },
+  {
+    "comp_val": 88,
+    "id": 10301,
+    "name": "Property Guard 3"
+  },
+  {
+    "comp_val": 89,
+    "id": 10460,
+    "name": "MissionGiver379"
+  },
+  {
+    "comp_val": 94,
+    "id": 10748,
+    "name": "WBL - Moose Mission Giver"
+  },
+  {
+    "comp_val": 98,
+    "id": 10984,
+    "name": "WBL - Draggle Mission Giver"
+  },
+  {
+    "comp_val": 91,
+    "id": 11232,
+    "name": "WBL - Robot Citizen Green - mission giver"
+  },
+  {
+    "comp_val": 90,
+    "id": 11233,
+    "name": "WBL - Robot Citizen Blue - mission giver"
+  },
+  {
+    "comp_val": 92,
+    "id": 11234,
+    "name": "WBL - Robot Citizen Red - mission giver"
+  },
+  {
+    "comp_val": 96,
+    "id": 11235,
+    "name": "WBL - Gonk - mission giver"
+  },
+  {
+    "comp_val": 95,
+    "id": 11236,
+    "name": "WBL - Moonbase Commander - mission giver"
+  },
+  {
+    "comp_val": 93,
+    "id": 11237,
+    "name": "WBL - Chickadee - mission giver"
+  },
+  {
+    "comp_val": 101,
+    "id": 11325,
+    "name": "WBL - Firefly Box Open"
+  },
+  {
+    "comp_val": 99,
+    "id": 11387,
+    "name": "WBL - Baggle Mission Giver"
+  },
+  {
+    "comp_val": 100,
+    "id": 11388,
+    "name": "WBL - Zaggle Mission Giver"
+  },
+  {
+    "comp_val": 103,
+    "id": 11981,
+    "name": "Starbase 3001 Mission Giver"
+  },
+  {
+    "comp_val": 105,
+    "id": 11991,
+    "name": "AM - Sentinel Guard Geoff"
+  },
+  {
+    "comp_val": 108,
+    "id": 11992,
+    "name": "AM - Sentinel Guard Tyler"
+  },
+  {
+    "comp_val": 107,
+    "id": 11997,
+    "name": "AM - Wounded Trapped Pilot"
+  },
+  {
+    "comp_val": 106,
+    "id": 11998,
+    "name": "AM - Sensei Wu"
+  },
+  {
+    "comp_val": 124,
+    "id": 12044,
+    "name": "FV Zip Lash"
+  },
+  {
+    "comp_val": 119,
+    "id": 12117,
+    "name": "FB - Peppermint Lane"
+  },
+  {
+    "comp_val": 109,
+    "id": 12118,
+    "name": "FB - Old Man Winter"
+  },
+  {
+    "comp_val": 120,
+    "id": 12119,
+    "name": "FB - Toy Assembler"
+  },
+  {
+    "comp_val": 131,
+    "id": 12122,
+    "name": "Wenn Wuzzit"
+  },
+  {
+    "comp_val": 104,
+    "id": 12163,
+    "name": "NS - Duke Console"
+  },
+  {
+    "comp_val": 110,
+    "id": 12255,
+    "name": "Nexus Naomi"
+  },
+  {
+    "comp_val": 111,
+    "id": 12256,
+    "name": "HaelsGuard"
+  },
+  {
+    "comp_val": 115,
+    "id": 12257,
+    "name": "OverbuildsGaurd"
+  },
+  {
+    "comp_val": 112,
+    "id": 12258,
+    "name": "Hael Storm"
+  },
+  {
+    "comp_val": 116,
+    "id": 12259,
+    "name": "Dr_Overbuild"
+  },
+  {
+    "comp_val": 117,
+    "id": 12260,
+    "name": "DukesGuard"
+  },
+  {
+    "comp_val": 118,
+    "id": 12261,
+    "name": "DukeExeter"
+  },
+  {
+    "comp_val": 114,
+    "id": 12262,
+    "name": "VandaDarkflame"
+  },
+  {
+    "comp_val": 113,
+    "id": 12263,
+    "name": "VandaGuard"
+  },
+  {
+    "comp_val": 123,
+    "id": 12264,
+    "name": "Temp_PirateBronson"
+  },
+  {
+    "comp_val": 139,
+    "id": 12327,
+    "name": "Temp_BankGuard"
+  },
+  {
+    "comp_val": 125,
+    "id": 12485,
+    "name": "NT_ParadoxConsole"
+  },
+  {
+    "comp_val": 127,
+    "id": 12538,
+    "name": "TEST Mission Giver Vendor"
+  },
+  {
+    "comp_val": 135,
+    "id": 12576,
+    "name": "AG Medium Property Mission Giver 01"
+  },
+  {
+    "comp_val": 132,
+    "id": 12841,
+    "name": "Nexus Naomi - NT War room"
+  },
+  {
+    "comp_val": 133,
+    "id": 12911,
+    "name": "TEST multimission giver"
+  },
+  {
+    "comp_val": 136,
+    "id": 13183,
+    "name": "NS Medium Property Mission Giver 02"
+  },
+  {
+    "comp_val": 151,
+    "id": 13300,
+    "name": "NT Gear Vendor"
+  },
+  {
+    "comp_val": 148,
+    "id": 13376,
+    "name": "NT Sentinel Faction Vendor"
+  },
+  {
+    "comp_val": 140,
+    "id": 13377,
+    "name": "NT Clothing Vendor"
+  },
+  {
+    "comp_val": 144,
+    "id": 13379,
+    "name": "NT Brick Vendor"
+  },
+  {
+    "comp_val": 145,
+    "id": 13380,
+    "name": "NT Assembly Faction Vendor"
+  },
+  {
+    "comp_val": 153,
+    "id": 13382,
+    "name": "NT Model Vendor 2"
+  },
+  {
+    "comp_val": 152,
+    "id": 13383,
+    "name": "NT Modules Vendor"
+  },
+  {
+    "comp_val": 142,
+    "id": 13392,
+    "name": "NT Consumable Vendor"
+  },
+  {
+    "comp_val": 138,
+    "id": 13418,
+    "name": "AG Property Mission Giver Burke Barrelchest"
+  },
+  {
+    "comp_val": 154,
+    "id": 13569,
+    "name": "NT Mr. Ree Shady Vendor"
+  },
+  {
+    "comp_val": 143,
+    "id": 13630,
+    "name": "TEST donation mission giver"
+  },
+  {
+    "comp_val": 146,
+    "id": 13631,
+    "name": "TEST - Rock QG"
+  },
+  {
+    "comp_val": 161,
+    "id": 13789,
+    "name": "NJ Mon - Sensei Wu"
+  },
+  {
+    "comp_val": 162,
+    "id": 13790,
+    "name": "NJ Mon- Cole Earth Ninja"
+  },
+  {
+    "comp_val": 164,
+    "id": 13791,
+    "name": "NJ Mon- Zane Ice Ninja"
+  },
+  {
+    "comp_val": 163,
+    "id": 13792,
+    "name": "NJ Mon- Jay Lightning Ninja"
+  },
+  {
+    "comp_val": 165,
+    "id": 13793,
+    "name": "NJ Mon- Kai Fire Ninja"
+  },
+  {
+    "comp_val": 160,
+    "id": 13794,
+    "name": "NJ Mon- Ninjago Guard 1 Toshiro Gojira - Ninjago Monastery Guard"
+  },
+  {
+    "comp_val": 170,
+    "id": 13795,
+    "name": "NJ Mon- Cringe Lo"
+  },
+  {
+    "comp_val": 172,
+    "id": 13796,
+    "name": "NJ Mon- Wan Wan"
+  },
+  {
+    "comp_val": 167,
+    "id": 13797,
+    "name": "NJ Mon- Old Man"
+  },
+  {
+    "comp_val": 166,
+    "id": 13798,
+    "name": "NJ Mon- Ninjago Guard 2"
+  },
+  {
+    "comp_val": 168,
+    "id": 13799,
+    "name": "NJ Mon - Nya vendor"
+  },
+  {
+    "comp_val": 171,
+    "id": 13800,
+    "name": "NJ Mon - Johny Umami vendor"
+  },
+  {
+    "comp_val": 169,
+    "id": 13801,
+    "name": "NJ Mon - Bubu Mumu Vendor"
+  },
+  {
+    "comp_val": 155,
+    "id": 13806,
+    "name": "Commendation Vendor"
+  },
+  {
+    "comp_val": 150,
+    "id": 13876,
+    "name": "Test Jason Yegge"
+  },
+  {
+    "comp_val": 156,
+    "id": 14349,
+    "name": "[TEMP] Spaceship Greeter"
+  },
+  {
+    "comp_val": 157,
+    "id": 14426,
+    "name": "AG - Earth Ninja"
+  },
+  {
+    "comp_val": 158,
+    "id": 14481,
+    "name": "TEST gather mission NPC 1"
+  },
+  {
+    "comp_val": 159,
+    "id": 14482,
+    "name": "TEST gather mission NPC 2"
+  },
+  {
+    "comp_val": 179,
+    "id": 16033,
+    "name": "NJ Mon- Cringe Lo_ET"
+  }
+]

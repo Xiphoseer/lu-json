@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "gives run speed increase",
+  "components": {
+    "11": 2482,
+    "2": 5297,
+    "9": 0
+  },
+  "description": "gives run speed increase",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5873,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GM Only - Winged Helm of Speed",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 171
+    }
+  ],
+  "type": "Loot"
+}

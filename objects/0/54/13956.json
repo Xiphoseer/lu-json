@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13669,
+    "3": 6933,
+    "7": 1895
+  },
+  "description": "Ninja Jail Door in Jail scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13956,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ - Smash Door",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

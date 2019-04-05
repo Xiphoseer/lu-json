@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 08 2011",
+  "components": {
+    "11": 7390,
+    "2": 14677,
+    "53": 151
+  },
+  "description": "Double-click to open!",
+  "displayName": "Duck Car Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15976,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Duck Car Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

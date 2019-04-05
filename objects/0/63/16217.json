@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth  element projectile spinner trap",
+  "components": {
+    "2": 14933,
+    "25": 14,
+    "3": 7644,
+    "39": 115,
+    "5": 1652,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Earth  - Projectile Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16217,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Projectile Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

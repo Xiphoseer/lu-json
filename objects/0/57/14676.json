@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7397,
+    "2": 14355,
+    "7": 2042,
+    "9": 0
+  },
+  "description": "Projectile used in stinky fish skill",
+  "displayName": null,
+  "gate_version": "freetrial",
+  "id": 14676,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Stinky Fish Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1430
+    }
+  ],
+  "type": "Shooting Gallery"
+}

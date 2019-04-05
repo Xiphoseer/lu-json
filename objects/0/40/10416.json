@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 385,
+    "2": 10260,
+    "3": 1777,
+    "35": 483
+  },
+  "description": "GF - Pirate Ambient 10",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10416,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PirateAmbient10",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

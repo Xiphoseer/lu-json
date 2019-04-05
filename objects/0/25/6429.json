@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2627,
+    "2": 5873,
+    "42": 0
+  },
+  "description": "Quick Build Behavior",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6429,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Quick Build",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Behavior"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 1028,
+    "2": 2544,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Crescent Wrench",
+  "gate_version": null,
+  "id": 3077,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Crescent Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 523
+    }
+  ],
+  "type": "Loot"
+}

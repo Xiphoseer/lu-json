@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Smashing",
+  "components": {
+    "11": 3744,
+    "2": 8005,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Pickaxe",
+  "gate_version": null,
+  "id": 8450,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Pickaxe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 281
+    }
+  ],
+  "type": "Loot"
+}

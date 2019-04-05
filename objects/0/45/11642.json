@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5693,
+    "2": 11394,
+    "3": 5486,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Light Trailer Model",
+  "gate_version": "nexustower",
+  "id": 11642,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Light Trailer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,136 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 10,
+      "value_2": 64,
+      "value_3": 352,
+      "value_4": 0,
+      "version": 45
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.41960784792900085,
+        0.6196078658103943,
+        0.7490196228027344,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        -2500.0,
+        1500.0,
+        300.0,
+        800.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0,
+        300.0,
+        500.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0
+      ],
+      "ids": [],
+      "sky": [
+        "mesh\\env\\env_sky_won_nim_hills.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 6871947673619,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 1466.8284912109375,
+              "y": 258.4400634765625,
+              "z": -154.82350158691406
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "attached_cinematic_path": "",
+            "bouncer_destination": "1447.1409\u001f286.6083\u001f-153.4495",
+            "bouncer_speed": 69.0,
+            "bouncer_uses_high_arc": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "fxpriority": 0,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "grp_name": "",
+            "ignoreCameraCollision": false,
+            "ignore_collision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "lead_in_time": 0.5,
+            "loadOnClientOnly": false,
+            "lock_controls": true,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "num_targets_to_activate": 1,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "respond_to_faction": "1",
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "2 ",
+            "smashable_loot_matrix": -1,
+            "smashable_loot_matrix_set": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 4868,
+            "startsQBActivator": false,
+            "stickLanding": true,
+            "template": -1,
+            "uses_group_name": false
+          },
+          "value_1": 1,
+          "value_2": 0,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

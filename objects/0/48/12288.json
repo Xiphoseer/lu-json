@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6035,
+    "2": 12037,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Snowball",
+  "gate_version": "dec2010content",
+  "id": 12288,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Snowball",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 942
+    }
+  ],
+  "type": "Loot"
+}

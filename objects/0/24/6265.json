@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Used to tame Elephants",
+  "components": {
+    "11": 2607,
+    "2": 5684
+  },
+  "description": "Elephants like peanuts!",
+  "displayName": "Bag of Peanuts",
+  "gate_version": null,
+  "id": 6265,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bag of Peanuts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

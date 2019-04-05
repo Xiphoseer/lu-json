@@ -1,0 +1,123 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 13,
+      "value_2": 64,
+      "value_3": 352,
+      "value_4": 0,
+      "version": 46
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.41960784792900085,
+        0.6196078658103943,
+        0.7490196228027344,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        -2500.0,
+        1500.0,
+        300.0,
+        800.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0,
+        300.0,
+        500.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0
+      ],
+      "ids": [],
+      "sky": [
+        "mesh\\env\\env_sky_won_nim_hills.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 549756087745,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 147.19007873535156,
+              "y": 291.88818359375,
+              "z": -10.474299430847168
+            },
+            "rot": {
+              "w": 0.6810542941093445,
+              "x": 0.19015756249427795,
+              "y": -0.1901562511920929,
+              "z": 0.6810622215270996
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "allowPosSnap": true,
+            "attached_path": "Room1Door1",
+            "attached_path_start": 0,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "groupID": "Room1Door;",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "maxLerpDist": 4.0,
+            "maxSpeedMultiplier": 2.0,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "platformIsMover": true,
+            "platformIsRotater": false,
+            "platformIsSimpleMover": false,
+            "platformNoUpdateSync": false,
+            "platformSoundStart": "",
+            "platformSoundStop": "",
+            "platformSoundTravel": "",
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 20000,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "spawner_active_on_load": true,
+            "spawntemplate": 9266,
+            "startPathingOnLoad": false,
+            "template": -1,
+            "trigger_id": "2:1",
+            "useClientLatency": true
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

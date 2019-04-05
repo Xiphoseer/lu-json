@@ -1,0 +1,52 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6885,
+    "11": 6899,
+    "2": 12187,
+    "26": 33,
+    "42": 0,
+    "5": 1493,
+    "7": 396,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 24,
+      "iconState": 100
+    },
+    {
+      "iconID": 29,
+      "iconState": 105
+    },
+    {
+      "iconID": 33,
+      "iconState": 109
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    },
+    {
+      "iconID": 69,
+      "iconState": 111
+    }
+  ],
+  "id": 12434,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Alien Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

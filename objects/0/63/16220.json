@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire  element low-blade spinner trap",
+  "components": {
+    "2": 14936,
+    "25": 17,
+    "3": 7647,
+    "39": 115,
+    "5": 1655,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Fire - Low-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16220,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Low-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

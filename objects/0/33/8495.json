@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Slashing",
+  "components": {
+    "11": 3794,
+    "2": 8050,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Force Blade",
+  "gate_version": null,
+  "id": 8495,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Force Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 554
+    }
+  ],
+  "type": "Loot"
+}

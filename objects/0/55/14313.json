@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14002,
+    "3": 7146
+  },
+  "description": "vision blocker object Dark",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 14313,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "vision blocker plane Dark",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

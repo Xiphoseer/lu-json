@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 3903,
+    "2": 8206,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hammer Pants",
+  "gate_version": null,
+  "id": 8651,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hammer Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2707,
+    "3": 1777,
+    "5": 1363
+  },
+  "description": "Tool for testing out animation calls",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12488,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Animation Debugger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

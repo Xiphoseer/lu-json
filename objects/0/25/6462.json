@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5912,
+    "3": 1080,
+    "5": 881,
+    "52": 3
+  },
+  "description": "test object for the choice build system",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6462,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Choice build  - GF Tiki",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

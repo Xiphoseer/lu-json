@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For skeleton enemies",
+  "components": {
+    "11": 7022,
+    "2": 13876
+  },
+  "description": "",
+  "displayName": "NPC Maelstrom Staff",
+  "gate_version": "njhub",
+  "id": 14167,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Maelstrom Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

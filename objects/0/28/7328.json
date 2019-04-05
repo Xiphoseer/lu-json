@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6894,
+    "3": 3307,
+    "5": 1011
+  },
+  "description": "smashed/broken fire hydrant for Pet Rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7328,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Hydrant Broken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

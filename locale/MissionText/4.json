@@ -1,0 +1,1297 @@
+{
+  "1031": {
+    "completion_succeed_tip": "Frostburgh Explorer!",
+    "description": "Discover all 3 points of interest in Frostburgh."
+  },
+  "1032": {
+    "completion_succeed_tip": "Frostburgh Observer!",
+    "description": "Use all 3 of the Binoculars in Frostburgh."
+  },
+  "1034": {
+    "completion_succeed_tip": "Ice Cubes 1!",
+    "description": "Smash 25 Icy Rocks in Frostburgh."
+  },
+  "1035": {
+    "completion_succeed_tip": "Ice Cubes 2!",
+    "description": "Smash 25 more Icy Rocks in Frostburgh."
+  },
+  "1038": {
+    "completion_succeed_tip": "A Frosty Builder 1!",
+    "description": "Quick Build 10 snowmen in Frostburgh."
+  },
+  "1039": {
+    "completion_succeed_tip": "A Frosty Builder 2!",
+    "description": "Quick Build 25 more snowmen in Frostburgh."
+  },
+  "1040": {
+    "completion_succeed_tip": "Reindeer Tamer!",
+    "description": "Tame a Reindeer Pet."
+  },
+  "1041": {
+    "completion_succeed_tip": "Frostburgh Achiever 1!",
+    "description": "Complete 10 non-daily missions or achievements in Frostburgh."
+  },
+  "1042": {
+    "completion_succeed_tip": "Frostburgh Achiever 2!",
+    "description": "Complete 10 more non-daily missions or achievements in Frostburgh, for a total of 20."
+  },
+  "1047": {
+    "accept_chat_bubble": "You'll find all of the shortcuts in the hallways throughout the Tower.",
+    "chat_state_1": "Walking's for Buccaneers. Us Daredevils like to move fast!",
+    "chat_state_2": "Venture League speed pads take a little exploration to find, bro.",
+    "chat_state_3": "I was watching you on the monitors, dude. Total blur.",
+    "completion_succeed_tip": "Return to Trek Furino in Venture League Observatory in Nexus Tower.",
+    "in_progress": "Use each Faction's shortcut devices in Nexus Tower, then return to Trek Furino.",
+    "offer": "Dude, you're ripping around the tower pretty fast, but have you found all of the shortcuts yet? Try to use 'em all!",
+    "ready_to_complete": "Whoa, you're back here already? Say, you don't deliver pizza by chance, do you?"
+  },
+  "1052": {
+    "completion_succeed_tip": "Crux Prime Observer!",
+    "description": "Use all 10 of the Binoculars on Crux Prime."
+  },
+  "1053": {
+    "completion_succeed_tip": "The Crux Prime Story!",
+    "description": "Read all of the message plaques on Crux Prime."
+  },
+  "1054": {
+    "completion_succeed_tip": "You've discovered Sentinel Point Zeta!",
+    "description": "Discover Sentinel Point Zeta on Crux Prime."
+  },
+  "1055": {
+    "completion_succeed_tip": "You've discovered Caldera Mar!",
+    "description": "Discover Caldera Mar on Crux Prime."
+  },
+  "1056": {
+    "completion_succeed_tip": "You've discovered the Maelstrom Quarry!",
+    "description": "Discover the Maelstrom Quarry on Crux Prime."
+  },
+  "1057": {
+    "completion_succeed_tip": "You've discovered the Ninjago Ruins!",
+    "description": "Discover the Ninjago Ruins on Crux Prime."
+  },
+  "1058": {
+    "completion_succeed_tip": "You've discovered Aura Mar!",
+    "description": "Discover Aura Mar on Crux Prime."
+  },
+  "1059": {
+    "completion_succeed_tip": "You've discovered Rivendark Canyon!",
+    "description": "Discover Rivendark Canyon on Crux Prime."
+  },
+  "1060": {
+    "completion_succeed_tip": "Crux Prime Explorer!",
+    "description": "Discover all 6 points of interest on Crux Prime."
+  },
+  "1071": {
+    "accept_chat_bubble": "Use the launchpad behind me to rocket back to the Venture Explorer!",
+    "chat_state_1": "We need your help aboard the Venture Explorer!",
+    "chat_state_2": "Be careful up there - the ship's dangerously close to the Maelstrom!",
+    "chat_state_3_turnin": "Hey, glad you showed up for the party!",
+    "completion_succeed_tip": "Speak to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Use the launchpad to return to the Venture Explorer. Then check in with Epsilon Starcracker.",
+    "offer": "The Venture Explorer is still in orbit - but it's under attack! Can you get back up there and find Epsilon?",
+    "ready_to_complete": "This ship's seen better days, hasn't it?"
+  },
+  "1078": {
+    "completion_succeed_tip": "Hammer Down 1!",
+    "description": "Smash 50 Hammer Stromlings on the Venture Explorer spaceship."
+  },
+  "1079": {
+    "completion_succeed_tip": "Hammer Down 2!",
+    "description": "Smash 250 more Hammer Stromlings on the Venture Explorer spaceship."
+  },
+  "1080": {
+    "completion_succeed_tip": "Corrupted Sentry Destroyer 1!",
+    "description": "Smash 25 Corrupted Sentries on the Venture Explorer spaceship."
+  },
+  "1081": {
+    "completion_succeed_tip": "Corrupted Sentry Destroyer 2!",
+    "description": "Smash 125 more Corrupted Sentries on the Venture Explorer spaceship."
+  },
+  "1082": {
+    "completion_succeed_tip": "Elite Dark Spiderling Destroyer 1!",
+    "description": "Smash 10 Elite Dark Spiderlings on the Venture Explorer spaceship."
+  },
+  "1083": {
+    "completion_succeed_tip": "Elite Dark Spiderling Destroyer 2!",
+    "description": "Smash 50 more Elite Dark Spiderlings on the Venture Explorer spaceship."
+  },
+  "1085": {
+    "completion_succeed_tip": "Snow Day 1!",
+    "description": "Complete 20 Daily Winter Missions."
+  },
+  "1086": {
+    "completion_succeed_tip": "Snow Day 2!",
+    "description": "Complete 20 more Daily Winter Missions."
+  },
+  "1087": {
+    "completion_succeed_tip": "Snow Day 3!",
+    "description": "Complete 20 more Daily Winter Missions."
+  },
+  "1088": {
+    "completion_succeed_tip": "Space Debris 1!",
+    "description": "Smash 10 pieces of Venture Koi debris on Crux Prime."
+  },
+  "1089": {
+    "completion_succeed_tip": "Space Debris 2!",
+    "description": "Smash 50 more pieces of Venture Koi debris on Crux Prime."
+  },
+  "1090": {
+    "completion_succeed_tip": "Space Debris 3!",
+    "description": "Smash 100 more pieces of Venture Koi debris on Crux Prime."
+  },
+  "1091": {
+    "completion_succeed_tip": "Bone to Pick 1!",
+    "description": "Smash 25 pieces of Skeleton equipment on Crux Prime."
+  },
+  "1092": {
+    "completion_succeed_tip": "Bone to Pick 2!",
+    "description": "Smash 100 more pieces of Skeleton equipment on Crux Prime."
+  },
+  "1093": {
+    "completion_succeed_tip": "Bone to Pick 3!",
+    "description": "Smash 250 more pieces of Skeleton equipment on Crux Prime."
+  },
+  "1094": {
+    "completion_succeed_tip": "Shield Builder 1!",
+    "description": "Quick Build 10 Shield Zones on Crux Prime."
+  },
+  "1095": {
+    "completion_succeed_tip": "Shield Builder 2!",
+    "description": "Quick Build 50 more Shield Zones on Crux Prime."
+  },
+  "1096": {
+    "completion_succeed_tip": "Shield Builder 3!",
+    "description": "Quick Build 100 more Shield Zones on Crux Prime."
+  },
+  "1100": {
+    "completion_succeed_tip": "Crux Prime Defender 1!",
+    "description": "Smash 50 Stromling Invaders on Crux Prime."
+  },
+  "1101": {
+    "completion_succeed_tip": "Crux Prime Defender 2!",
+    "description": "Smash 100 more Stromling Invaders on Crux Prime."
+  },
+  "1102": {
+    "completion_succeed_tip": "Crux Prime Defender 3!",
+    "description": "Smash 500 more Stromling Invaders on Crux Prime."
+  },
+  "1103": {
+    "completion_succeed_tip": "Crux Prime Defender 4!",
+    "description": "Smash 1000 more Stromling Invaders on Crux Prime."
+  },
+  "1104": {
+    "completion_succeed_tip": "Crux Prime Hacker 1!",
+    "description": "Smash 50 Stromling Mech Invaders on Crux Prime."
+  },
+  "1105": {
+    "completion_succeed_tip": "Crux Prime Hacker 2!",
+    "description": "Smash 150 more Stromling Mech Invaders on Crux Prime."
+  },
+  "1106": {
+    "completion_succeed_tip": "Crux Prime Hacker 3!",
+    "description": "Smash 300 more Stromling Mech Invaders on Crux Prime."
+  },
+  "1107": {
+    "completion_succeed_tip": "Crux Prime Exterminator 1!",
+    "description": "Smash 25 Dark Spiderling Invaders on Crux Prime."
+  },
+  "1108": {
+    "completion_succeed_tip": "Crux Prime Exterminator 2!",
+    "description": "Smash 50 more Dark Spiderling Invaders on Crux Prime."
+  },
+  "1109": {
+    "completion_succeed_tip": "Crux Prime Exterminator 3!",
+    "description": "Smash 125 more Dark Spiderling Invaders on Crux Prime."
+  },
+  "1110": {
+    "completion_succeed_tip": "Crux Prime Avenger 1!",
+    "description": "Smash 50 Stromling Pirate Invaders on Crux Prime."
+  },
+  "1111": {
+    "completion_succeed_tip": "Crux Prime Avenger 2!",
+    "description": "Smash 100 more Stromling Pirate Invaders on Crux Prime."
+  },
+  "1112": {
+    "completion_succeed_tip": "Crux Prime Avenger 3!",
+    "description": "Smash 500 more Stromling Pirate Invaders on Crux Prime."
+  },
+  "1113": {
+    "completion_succeed_tip": "Crux Prime Avenger 4!",
+    "description": "Smash 1000 more Stromling Pirate Invaders on Crux Prime."
+  },
+  "1114": {
+    "completion_succeed_tip": "Crux Prime Mutineer 1!",
+    "description": "Smash 25 Stromling Admiral Invaders on Crux Prime."
+  },
+  "1115": {
+    "completion_succeed_tip": "Crux Prime Mutineer 2!",
+    "description": "Smash 50 more Stromling Admiral Invaders on Crux Prime."
+  },
+  "1116": {
+    "completion_succeed_tip": "Crux Prime Mutineer 3!",
+    "description": "Smash 125 more Stromling Admiral Invaders on Crux Prime."
+  },
+  "1117": {
+    "completion_succeed_tip": "Crux Prime Ape Whisperer 1!",
+    "description": "Smash 10 Stromling Ape Invaders on Crux Prime."
+  },
+  "1118": {
+    "completion_succeed_tip": "Crux Prime Ape Whisperer 2!",
+    "description": "Smash 50 more Stromling Ape Invaders on Crux Prime."
+  },
+  "1119": {
+    "completion_succeed_tip": "Crux Prime Ape Whisperer 3!",
+    "description": "Smash 125 more Stromling Ape Invaders on Crux Prime."
+  },
+  "1120": {
+    "completion_succeed_tip": "Crux Prime Guardian 1!",
+    "description": "Smash 25 Dark Ronin Invaders on Crux Prime."
+  },
+  "1121": {
+    "completion_succeed_tip": "Crux Prime Guardian 2!",
+    "description": "Smash 50 more Dark Ronin Invaders on Crux Prime."
+  },
+  "1122": {
+    "completion_succeed_tip": "Crux Prime Guardian 3!",
+    "description": "Smash 125 more Dark Ronin Invaders on Crux Prime."
+  },
+  "1123": {
+    "completion_succeed_tip": "Crux Prime Shogun 1!",
+    "description": "Smash 25 Maelstrom Horseman Invaders on Crux Prime."
+  },
+  "1124": {
+    "completion_succeed_tip": "Crux Prime Shogun 2!",
+    "description": "Smash 50 more Maelstrom Horseman Invaders on Crux Prime."
+  },
+  "1125": {
+    "completion_succeed_tip": "Crux Prime Shogun 3!",
+    "description": "Smash 125 more Maelstrom Horseman Invaders on Crux Prime."
+  },
+  "1126": {
+    "completion_succeed_tip": "Crux Prime Dragonslayer 1!",
+    "description": "Smash 5 Maelstrom Dragon Invaders on Crux Prime."
+  },
+  "1127": {
+    "completion_succeed_tip": "Crux Prime Dragonslayer 2!",
+    "description": "Smash 25 more Maelstrom Dragon Invaders on Crux Prime."
+  },
+  "1128": {
+    "completion_succeed_tip": "Crux Prime Dragonslayer 3!",
+    "description": "Smash 50 more Maelstrom Dragon Invaders on Crux Prime."
+  },
+  "1129": {
+    "completion_succeed_tip": "Crux Prime Bonesmasher 1!",
+    "description": "Smash 50 Skeletons on Crux Prime."
+  },
+  "1130": {
+    "completion_succeed_tip": "Crux Prime Bonesmasher 2!",
+    "description": "Smash 125 more Skeletons on Crux Prime."
+  },
+  "1131": {
+    "completion_succeed_tip": "Crux Prime Bonesmasher 3!",
+    "description": "Smash 500 more Skeletons on Crux Prime."
+  },
+  "1132": {
+    "accept_chat_bubble": "Can't go anywhere without me compasses! Or me shoes, for that matter.",
+    "chat_state_1": "Blasted parrots, they must've taken them.",
+    "chat_state_2": "You'll need to show off some platforming prowess if yer gonna find all 8!",
+    "chat_state_3": "Compasses lost in a Map Room. Got a beauty to it, har!",
+    "completion_succeed_tip": "Return the compasses to Hael Storm in the Venture League Observatory.",
+    "in_progress": "Collect the 8 compasses in the Venture League Map Room of Nexus Tower.",
+    "offer": "Blimey! Me compasses have been scattered to the winds while I was peeping in the spyglass. Snap to it and bring back all 8 of 'em!",
+    "ready_to_complete": "I ain't seen fleet-footin' like that since Trek Furino got chased off by Doc Overeasy's mechanical dog! Har!"
+  },
+  "1133": {
+    "completion_succeed_tip": "Crux Prime Champion 1!",
+    "description": "Smash any named Maelstrom enemy on Crux Prime."
+  },
+  "1134": {
+    "completion_succeed_tip": "Crux Prime Champion 2!",
+    "description": "Smash 5  more named Maelstrom enemies on Crux Prime."
+  },
+  "1135": {
+    "completion_succeed_tip": "Crux Prime Champion 3!",
+    "description": "Smash 10 more named Maelstrom enemies on Crux Prime."
+  },
+  "1136": {
+    "completion_succeed_tip": "Crux Prime Gardener!",
+    "description": "Water 100 Aura Blossom flowers on Crux Prime."
+  },
+  "1137": {
+    "completion_succeed_tip": "Crux Prime Pathfinder!",
+    "description": "Quick Build 25 Venture League Bouncers on Crux Prime."
+  },
+  "1138": {
+    "completion_succeed_tip": "Turn Off That Noise!",
+    "description": "Quick Build 25 Skeleton Growlspeakers on Crux Prime."
+  },
+  "1139": {
+    "completion_succeed_tip": "Spinjitzu Initiate 1!",
+    "description": "Use Imagination Spinjitzu to destroy 25 enemies on Crux Prime."
+  },
+  "1140": {
+    "completion_succeed_tip": "Spinjitzu Initiate 2!",
+    "description": "Use Imagination Spinjitzu to destroy 100 more enemies on Crux Prime."
+  },
+  "1141": {
+    "completion_succeed_tip": "Crux Prime Achiever 1!",
+    "description": "Complete 15 Missions or Achievements on Crux Prime."
+  },
+  "1142": {
+    "completion_succeed_tip": "Crux Prime Achiever 2!",
+    "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 30."
+  },
+  "1143": {
+    "completion_succeed_tip": "Crux Prime Achiever 3!",
+    "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 45."
+  },
+  "1144": {
+    "completion_succeed_tip": "Crux Prime Achiever 4!",
+    "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 60."
+  },
+  "1145": {
+    "completion_succeed_tip": "Crux Prime Achiever 5!",
+    "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 75."
+  },
+  "1146": {
+    "completion_succeed_tip": "You've discovered Sneezy's Chateau!",
+    "description": "Discover Sneezy's Chateau in Frostburgh."
+  },
+  "1147": {
+    "completion_succeed_tip": "You've discovered the Frostburgh Race Place!",
+    "description": "Discover the Race Place in Frostburgh."
+  },
+  "1148": {
+    "completion_succeed_tip": "You've discovered Fritz's Workshop!",
+    "description": "Discover Fritz's Workshop in Frostburgh."
+  },
+  "1150": {
+    "accept_chat_bubble": "You gotta search all over the Tower for the burst Imagination pipes.",
+    "chat_state_1": "You ever get an idea on the tip of your tongue? That's what happens to them pipes.",
+    "chat_state_2": "Without Imagination, we wouldn't have nothing new!",
+    "chat_state_3": "Now that's much better. Willya look at all that beautiful blue?",
+    "completion_succeed_tip": "Return to Augie Ninewells in the Nexus Core.",
+    "in_progress": "Quick Build 4 Imagination pipes around Nexus Tower.",
+    "offer": "Ya know, Imagination's a powerful thing - sometimes too powerful! Can you fix 4 of the burst Imagination pipes around the Tower?",
+    "ready_to_complete": "Eh, sometimes our little pipe dream here turns into a nightmare. Thanks for pitchin' in!"
+  },
+  "1151": {
+    "accept_chat_bubble": "Drag the Maelstrom Vacuum out of your Backpack and onto slot 5 of your Action Bar.",
+    "chat_state_1": "Have you mastered the Action Bar yet?",
+    "chat_state_2": "Use your Action Bar so you don't have to go digging in your Backpack while you're fighting!",
+    "chat_state_3": "You're a quick study!",
+    "completion_succeed_tip": "Return to Wisp Lee for extra Backpack space!",
+    "in_progress": "Drag the Maelstrom Vacuum onto <font color='#FF7F00'>slot 5</font> of your <font color='#FF7F00'>Action Bar</font>. Then press <font color='#FF7F00'>5</font> to activate the Vacuum.",
+    "offer": "You can quickly use an item by loading it into <font color='#FF7F00'>slot 5</font> of your <font color='#FF7F00'>Action Bar</font>. Drag the Maelstrom Vacuum from your backpack to slot 5 to try it out.",
+    "ready_to_complete": "Using your Action Bar saves time during battle. Health Kits, Armor Polish, and other Supplies can also be put into slot 5."
+  },
+  "1152": {
+    "accept_chat_bubble": "Don't forget the one in the Sentinel Base Camp!",
+    "chat_state_1": "Want to see some surgical airstrikes?",
+    "chat_state_2": "Be sure to find all 4 Satellite Beacons.",
+    "chat_state_3": "Smash from above! That's the way to do it!",
+    "completion_succeed_tip": "You built the last Satellite Beacon. Use the console to report back to the pilot.",
+    "in_progress": "<font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> on the Avant Gardens battlefield.",
+    "offer": "We need more airstrikes! <font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> on the battlefield.",
+    "ready_to_complete": "Those Stromlings never see that coming!"
+  },
+  "1153": {
+    "accept_chat_bubble": "Use supplies and play with friends to last longer!",
+    "chat_state_1": "Got what it takes to survive a Maelstrom onslaught?",
+    "chat_state_2": "Gear up for this battle - you'll need it!",
+    "chat_state_3": "Well done, soldier!",
+    "completion_succeed_tip": "Return to Beck Strongheart for more Backpack space!",
+    "in_progress": "<font color='#FF7F00'>Survive for 3 minutes</font> in the <font color='#FF7F00'>Avant Gardens Survival</font> mini-game.",
+    "offer": "Show me you can <font color='#FF7F00'>survive for 3 minutes</font>, and I'll give you more Backpack space.",
+    "ready_to_complete": "You did pretty well in there, soldier! Here, let me expand your Backpack."
+  },
+  "1154": {
+    "completion_succeed_tip": "Collector of Corruption 1!",
+    "description": "Collect 100 Maelstrom-infected bricks."
+  },
+  "1155": {
+    "completion_succeed_tip": "Collector of Corruption 2!",
+    "description": "Collect 250 Maelstrom-infected bricks."
+  },
+  "1156": {
+    "completion_succeed_tip": "Collector of Corruption 3!",
+    "description": "Collect 500 Maelstrom-infected bricks."
+  },
+  "1157": {
+    "completion_succeed_tip": "Collector of Corruption 4!",
+    "description": "Collect 1000 Maelstrom-infected bricks."
+  },
+  "1158": {
+    "accept_chat_bubble": "I bet you can find cannonballs in Gnarled Forest.",
+    "chat_state_1": "Have you met my sisters, Velocity and Peppermint? We're the Bowling Lanes!",
+    "chat_state_2": "My secret bowling move is called the Air Strike! Pretty cool, huh?",
+    "chat_state_3": "Oh, they're still slimy. Perfect!",
+    "completion_succeed_tip": "Return to Sky Lane in Avant Gardens for more Backpack space!",
+    "in_progress": "<font color='#FF7F00'>Collect 10 cannonballs</font> for <font color='#FF7F00'>Sky Lane</font> in Avant Gardens. Find them inside sharks in Gnarled Forest.",
+    "offer": "The girls and I are bowling later, and I bowl my best when I use cannonballs that have been marinating inside a shark. <font color='#FF7F00'>Collect 10 cannonballs</font>!",
+    "ready_to_complete": "These are perfect! Time for the Lanes to hit the lanes! Here, have more Backpack space!"
+  },
+  "1159": {
+    "accept_chat_bubble": "Please hurry and bring delicious bananas into my life. I feel very left out.",
+    "chat_state_1": "Succulent yellow nanners? Delicious pungent peelfruit? This is not Ninja food!",
+    "chat_state_2": "Go and fetch me bananas! I must have them for my cereal!",
+    "chat_state_3": "I can tell by your face that you found the succulent tender banana fruits!",
+    "chat_state_4": "Do you think these would be good with ice cream? How about seaweed?",
+    "completion_succeed_tip": "Deliver the bananas to Kenjin the Wise in Forbidden Valley.",
+    "in_progress": "Kenjin the Wise in Forbidden Valley wants 10 bananas from Gnarled Forest.",
+    "offer": "All day long, I hear nothing but talk of these things called \" bananas.\" I must try them. Bring 10 and I will expand your Backpack!",
+    "ready_to_complete": "I hope these bananas fill me as much as you will fill the new Backpack space I am giving you! Nom nom nom."
+  },
+  "1160": {
+    "accept_chat_bubble": "Enter a race and beat a 4:05 race time. Or do not return to me!",
+    "chat_state_1": "Prepared for your next challenge?",
+    "chat_state_2": "You cannot race fast by standing still. Away with you!",
+    "chat_state_3": "Better. Better.",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Beat Zip Lash's race time of 4:05 during a race at the Dragonmaw Chasm racetrack.",
+    "offer": "A Ninja moves like a blur of shadow. Prove you can be a Ninja by beating this race time: 4:05.",
+    "ready_to_complete": "Someone has trained you well. Yet you still have much to learn."
+  },
+  "1161": {
+    "accept_chat_bubble": "Enter a race and beat a 1:27 lap time. Or are you too slow for this?",
+    "chat_state_1": "Another hopeful student? Ha!",
+    "chat_state_2": "Leave me until you can do what I ask of you.",
+    "chat_state_3": "You smell like dragonfire. That is good.",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Beat Zip Lash's lap time of 1:27 during a race at the Dragonmaw Chasm racetrack.",
+    "offer": "A Ninja is swift. Prove you can be a Ninja by beating this lap time: 1:27.",
+    "ready_to_complete": "So you are swift. But are you brave?"
+  },
+  "1162": {
+    "accept_chat_bubble": "Let all other racers fall behind you! Blaze the path of the Ninja!",
+    "chat_state_1": "There is one final task to complete.",
+    "chat_state_2": "Go! Go and win!",
+    "chat_state_3": "You grin like one who has eaten the fish from my lunch roll.",
+    "chat_state_4": "Racing Ninjas represent!",
+    "chat_state_4_turnin": "Racing Ninjas represent!",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Win a race of 3 or more players at the Dragonmaw Chasm racetrack.",
+    "offer": "A Ninja disappears like morning mist. Vanish in front of your opponents and win a race of 3 or more players!",
+    "ready_to_complete": "I guess this means you are Ninja after all. And no, you cannot drive my car."
+  },
+  "1163": {
+    "accept_chat_bubble": "Place in the top 3 or better. 4th place is not a place for Ninjas!",
+    "chat_state_1": "Never turn your back on an enemy - unless you are passing him by! Ha! Ha!",
+    "chat_state_2": "Why do you still stand in front of me? You should be in front of the other racers! Ha!",
+    "chat_state_3": "You are a worthy pupil. But still not yet a Ninja!",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Finish in 3rd place or better during a race of 3 or more at the Dragonmaw Chasm racetrack.",
+    "offer": "A Ninja leaps and bounds past obstacles. Place in the top 3 in a race of 3 or more, and leave the other obstacles behind!",
+    "ready_to_complete": "You are almost a Racing Ninja! Soon, very soon."
+  },
+  "1164": {
+    "completion_succeed_tip": "Dragonmaw Chasm Super Champ!",
+    "description": "Win 10 races at the Dragonmaw Chasm racetrack. Minimum of 3 players per race."
+  },
+  "1165": {
+    "accept_chat_bubble": "The Chasm is not the only danger - beware the other players as well!",
+    "chat_state_1": "You are fast, but can you outrun disaster?",
+    "chat_state_2": "You must be focused out there. Danger is everywhere!",
+    "chat_state_3": "You look the same as when you left me. That is good.",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Complete a race at the Dragonmaw Chasm racetrack without wrecking.",
+    "offer": "A Ninja cannot be harmed by danger. Prove you can be a Ninja by completing a race without wrecking!",
+    "ready_to_complete": "Not even the Stromlings' jeers could touch you!"
+  },
+  "1166": {
+    "completion_succeed_tip": "Dragonmaw Chasm Flag Racer!",
+    "description": "Collect 10 Flags at the Dragonmaw Chasm racetrack."
+  },
+  "1167": {
+    "completion_succeed_tip": "Terror of Dragonmaw Chasm!",
+    "description": "Smash 200 Dragon Eggs at the Dragonmaw Chasm racetrack."
+  },
+  "1168": {
+    "completion_succeed_tip": "Space Blizzard Super Champ!",
+    "description": "Win 10 races at the Space Blizzard racetrack. Minimum 3 players in the race."
+  },
+  "1170": {
+    "accept_chat_bubble": "Talk to Duke, Vanda and Hael to find out where the Safe parts are.",
+    "chat_state_1": "Did you know you can access your Vault account from your Property?",
+    "chat_state_2": "Talk to Duke, Hael, and Vanda to get started on building a Property Safe.",
+    "chat_state_3_turnin": "Did you know you can access your Vault account from outside Nexus Tower!",
+    "completion_succeed_tip": "Return to Dr. Overbuild in the Nexus Core in Nexus Tower.",
+    "in_progress": "Talk to Duke Exeter, Vanda Darkflame and Hael Storm about a Safe, find the pieces and then talk to Dr. Overbuild.",
+    "offer": "Would you like to access your Vault account while on your Property? Duke Exeter, Hael Storm, and Vanda Darkflame can help!",
+    "ready_to_complete": "You've found all of the pieces for the Safe? Excellent."
+  },
+  "1173": {
+    "accept_chat_bubble": "While you're there, make sure that Maelstrom outbreak is still under control!",
+    "chat_state_1": "A good soldier is always organized. How about a place to store your stuff?",
+    "chat_state_2": "Look for Beck Strongheart at the Sentinel Base Camp in Avant Gardens.",
+    "chat_state_3_turnin": "Back for more action?",
+    "completion_succeed_tip": "Talk to Beck Strongheart in Avant Gardens about a housing for your safe.",
+    "in_progress": "Talk to Beck Strongheart in Avant Gardens about a housing for your Property Safe.",
+    "offer": "No one knows more about security than the Sentinels. Beck Strongheart on Avant Gardens can help you find a housing for a Property Safe.",
+    "ready_to_complete": "Building a safe? Good thinking. Here's a secure housing unit. See Dr. Overbuild when you have all 3 parts."
+  },
+  "1174": {
+    "accept_chat_bubble": "You can rocket straight to the beach if you wear a pirate hat!",
+    "chat_state_1": "Got some treasures you want to store, eh?",
+    "chat_state_2": "Head to the beach in Gnarled Forest and talk to Jack Knife!",
+    "chat_state_3_turnin": "Ahoy there!",
+    "completion_succeed_tip": "Talk to Jack Knife in Gnarled Forest about a lock for your safe.",
+    "in_progress": "Talk to Captain Jack Knife in Gnarled Forest about a lock for your Property Safe.",
+    "offer": "You can't spell locker without a lock! And no one knows more about locks - or pickin' 'em - than Cap'n Jack Knife!",
+    "ready_to_complete": "Arrr ya tryin' to keep yer stuff safe? Use this here lock. It's Ninja-proof! And see Overrrbuild when ya have all the parts!"
+  },
+  "1175": {
+    "accept_chat_bubble": "Only Paradox has the technology to link a Property Safe to the Vault.",
+    "chat_state_1": "A safe, you say? You've come to the right Faction.",
+    "chat_state_2": "Speak to Numb Chuck in Forbidden Valley for the part you need.",
+    "chat_state_3_turnin": "Ah, Vanda sent you? You must have gained her trust.",
+    "completion_succeed_tip": "Talk to Numb Chuck in Forbidden Valley about a functionator for your Safe.",
+    "in_progress": "Talk to Numb Chuck in Forbidden Valley about a functionator device for your Property Safe.",
+    "offer": "Paradox protects its secrets, so of course we can help protect yours as well. Numb Chuck can share our technology with you.",
+    "ready_to_complete": "Ninjas aren't just excellent Ninjas - we are also skilled bankers! Use this device to link your Safe to your Vault account! Kii-yaa!"
+  },
+  "1177": {
+    "accept_chat_bubble": "You traveled all over to find these parts? We really must restock our storeroom.",
+    "chat_state_1": "What was it you wanted again? A Safe? Or a submarine?",
+    "chat_state_2": "One moment, let me just get the lock aligned with the functionator.",
+    "chat_state_3_turnin": "How convenient!",
+    "completion_succeed_tip": "Talk to Dr. Overbuild to see if your Property Safe is ready.",
+    "in_progress": "Talk to Dr. Overbuild again to see if he's done with your Safe.",
+    "offer": "And now, to build and activate your Property Safe!",
+    "ready_to_complete": "Each of your Properties now has a Safe on it! Go and try it out!"
+  },
+  "1178": {
+    "completion_succeed_tip": "By collecting all of the Flags in Nexus Tower, you've unlocked more Backpack space!",
+    "description": "Collect 15 Backpack Flags in Nexus Tower."
+  },
+  "1180": {
+    "accept_chat_bubble": "Neido has been asking for our help. See what you can do for him.",
+    "chat_state_1": "Somewhere in the Universe is a creature that embodies all of Sentinel's qualities.",
+    "chat_state_2": "Find out what Neido needs help with, and maybe he'll share his secrets.",
+    "chat_state_3_turnin": "Ah, a visitor from the Tower of Shining Blue Light!",
+    "completion_succeed_tip": "Talk to Neido in the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Speak to Neido in the Ninjago Ruins on Crux Prime.",
+    "offer": "Ninjas are mysterious - I bet they even have mysterious pets! Ask that Ninja on Crux Prime what he knows.",
+    "ready_to_complete": "Your leader sent you for an ancient pet, you say? A geriatric monkey or a one-legged ostrich, perhaps?"
+  },
+  "1181": {
+    "accept_chat_bubble": "The Dragon lays her eggs at the bottom of the Chasm.",
+    "chat_state_1": "You can beat the clock - but how about a mother's wrath?",
+    "chat_state_2": "Why are you still here? Leave my sight!",
+    "chat_state_3": "So it is done.",
+    "completion_succeed_tip": "Return to Zip Lash at the Forbidden Valley Race Place.",
+    "in_progress": "Smash 10 Dragon Eggs during a race at the Dragonmaw Chasm racetrack.",
+    "offer": "A Ninja is strong. Strong enough to face an angry Dragon. Smash 10 eggs during a race - then drive away! Fast!",
+    "ready_to_complete": "The path we drive is cruel and fast, but the Maelstrom must be contained."
+  },
+  "1182": {
+    "accept_chat_bubble": "Check Gnarled Forest and Forbidden Valley for the ingredients for your sundae.",
+    "chat_state_1": "A Stegosaur in Nexus Tower! How marvelous!",
+    "chat_state_2": "Only the best bananas will do! Nothing too mushy.",
+    "chat_state_3": "This is going to be one lucky dinosaur!",
+    "completion_succeed_tip": "Return the banana split ingredients to Coalessa in Pet Cove.",
+    "in_progress": "Find 50 bananas and 5 Healing Cherries and take them back to Coalessa in Pet Cove.",
+    "offer": "What do Stegosaurs eat? Why, banana splits, of course! They adore them! Find me the ingredients and I'll whip you up a sundae!",
+    "ready_to_complete": "You're sure to catch a Stegosaur with this sundae - that is, if the cats don't eat it first! Shoo kitties shoo!"
+  },
+  "1183": {
+    "accept_chat_bubble": "When you search the ship, look for bright bits in hidden places. And watch out for those Maelstrom beasties!",
+    "chat_state_1": "Poor, poor Alien.",
+    "chat_state_2": "See Sky Lane in Avant Gardens to return to the Venture Explorer.",
+    "chat_state_3": "The Venture Explorer, you say? That place is swarming with Maelstrom!",
+    "chat_state_3_turnin": "What did you find?",
+    "completion_succeed_tip": "Return to Vanda Darkflame in Nexus Tower.",
+    "in_progress": "Search the Venture Explorer for the 3 Alien pieces, then return to Vanda Darkflame in Nexus Tower.",
+    "offer": "Crews aboard the Venture Explorer saw an Alien Creature roaming the halls, but it's gone missing since the attack. You should look for it.",
+    "ready_to_complete": "Doesn't look like much yet, but if Coalessa says it was scaring the Venture Explorer crew, it might be a wonderful pet!"
+  },
+  "1184": {
+    "accept_chat_bubble": "Use Spinjitzu to smash those Pit Bosses until you find the one that's stolen Hello Griffy.",
+    "chat_state_1": "Ninjas have a softer side too, you know.",
+    "chat_state_2": "What does a Skeleton want with a doll anyway? Bony arms give horrible hugs!",
+    "chat_state_3": "Hello Griffy! Hello again!",
+    "completion_succeed_tip": "Return to Neido in the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash Skeleton Pit Bosses on Crux Prime until you find Neido's Hello Griffy doll.",
+    "offer": "When this Temple crashed into this world, I lost my Hello Griffy Doll. One of those Skeleton Pit Bosses now has it! Please recover it for me!",
+    "ready_to_complete": "You've found Griffy! Pah, he smells like bony feet. No matter, let's talk about that ancient pet of yours."
+  },
+  "1186": {
+    "accept_chat_bubble": "Keep smashing those Skeleton Miners until you find the pet bones!",
+    "chat_state_1": "Those Skeletons are expert diggers! Shame they're so dreadful!",
+    "chat_state_2": "Use your Spinjoojoo to smash those horrible Skeletons and find those pet bones!",
+    "chat_state_3_turnin": "You found these on Crux Prime? What else is buried there, I wonder?",
+    "completion_succeed_tip": "Return the bones to Dr. Overbuild in Nexus Tower.",
+    "in_progress": "Smash Skeleton Miners on Crux Prime until you find 4 fossilized bones, then take them back to Dr. Overbuild.",
+    "offer": "Those nasty Skeletons on Crux Prime have unearthed the pieces to a long-forgotten pet! Collect the 4 pieces and take them to Dr. Overbuild!",
+    "ready_to_complete": "Rebuilding bones is usually Mardolf's specialty, but I can give it a shot."
+  },
+  "1187": {
+    "completion_succeed_tip": "Nexus Tower Observer!",
+    "description": "Use all 8 of the binoculars in Nexus Tower."
+  },
+  "1188": {
+    "accept_chat_bubble": "Just interact with the Pet-o-Matic and the device will do the rest. Instant pet!",
+    "chat_state_1": "I hope it's not a squirrel. Those things give me the willies.",
+    "chat_state_2": "The Pet-o-Matic is over there. Be sure not to use the espresso maker!",
+    "chat_state_3": "No mystery is safe from Paradox!",
+    "chat_state_4": "You've served Paradox well. I shall remember your devotion.",
+    "completion_succeed_tip": "Show Vanda Darkflame your new Alien pet.",
+    "in_progress": "Activate the Paradox Pet-o-Matic to rebuild the Alien Creature, then tame it.",
+    "offer": "Use that Pet-o-Matic over there to breathe new life into the Creature. Then bring it to me once you've tamed it.",
+    "ready_to_complete": "Not at all what I expected! It’s kind of cute, if you don’t mind the slime!"
+  },
+  "1190": {
+    "accept_chat_bubble": "Rather than simply destroy the Maelstrom, Paradox always looks for ways to harness its secrets.",
+    "chat_state_1": "That Rutger is one charming vampire.",
+    "chat_state_2": "I know the Skeletons are a nuisance, but they've proven to be an excellent source of Maelstrom research material!",
+    "chat_state_3_turnin": "You have ze samples? Vonderful!",
+    "completion_succeed_tip": "Return the Maelstrom Samples to Rutger Hemoglobin, the Paradox Clothing Vendor in Nexus Tower.",
+    "in_progress": "Collect 10 Maelstrom Samples from Skeleton Miners and Engineers on Crux Prime, then take them to Rutger Hemoglobin in Nexus Tower.",
+    "offer": "Rutger Hemoglobin is studying how to use Maelstrom to dye clothing. Can you get 10 samples for him from the Skeletons on Crux Prime?",
+    "ready_to_complete": "Ah, perfect! Zese samples vill let me make the most luxurious purple garments!"
+  },
+  "1191": {
+    "completion_succeed_tip": "By finding the Imagination Brick in Nexus Tower, you've unlocked an extra Imagination Point!",
+    "description": "Collect the Imagination Brick in Nexus Tower."
+  },
+  "1194": {
+    "accept_chat_bubble": "Just use the Property launchpad and choose 5 different Properties to visit today!",
+    "chat_state_1": "Ready to rocket to some Properties?",
+    "chat_state_2": "Launch your rocket towards Block Yard or Avant Grove and choose some interesting Properties to visit!",
+    "chat_state_3": "Have a good time out there?",
+    "completion_succeed_tip": "Return to Crash Helmut in Avant Gardens.",
+    "in_progress": "Visit 5 Block Yard or Avant Grove Properties today.",
+    "offer": "There are hundreds of great Properties on the Block Yard and Avant Grove worlds! Visit 5 of them today!",
+    "offer_repeatable": "There are hundreds of great Properties on the Block Yard and Avant Grove worlds! Visit 5 of them today!",
+    "ready_to_complete": "Hope you enjoyed your tour today! Go build some more on your own Block Yard or Avant Grove property!"
+  },
+  "1195": {
+    "accept_chat_bubble": "My cousin Randall would never have screwed up like this.",
+    "chat_state_1": "I'm in big trouble, man.",
+    "chat_state_2": "Hael will keelhaul me if he finds out I lost those compasses, bro.",
+    "chat_state_3": "Did you find them all? I've been, like, freaking out over here.",
+    "completion_succeed_tip": "Return to Trek Furino in the Venture League Observatory in Nexus Tower.",
+    "in_progress": "Search Nexus Tower for Trek Furino's 15 missing compasses.",
+    "offer": "I was taking some of our best compasses to Duke Exeter, but the box had a hole and like 15 of them fell out! Total fail. Can you find them for me?",
+    "ready_to_complete": "Whoa, you sure know your way around here! I always have to use a compass."
+  },
+  "1196": {
+    "accept_chat_bubble": "Use the Property launchpad to visit 5 different Nimbus Rock or Nimbus Isle Properties.",
+    "chat_state_1": "Many industrious builders are hard at work on their Nimbus Rock and Nimbus Isle Properties!",
+    "chat_state_2": "Head to the Nimbus Rock or Nimbus Isle worlds and find some Properties to explore!",
+    "chat_state_3": "To explore! To experience! To build! How exciting!",
+    "completion_succeed_tip": "Return to Burke Barrelchest in Nimbus Station!",
+    "in_progress": "Visit 5 Nimbus Rock or Nimbus Isle Properties today.",
+    "offer": "Visit 5 Nimbus Rock or Nimbus Isle Properties today and be inspired!",
+    "offer_repeatable": "Visit 5 Nimbus Rock or Nimbus Isle Properties today and be inspired!",
+    "ready_to_complete": "Do you feel refreshed? Inspired? Imaginated? Good! Now you are ready to build your own creations!"
+  },
+  "1197": {
+    "accept_chat_bubble": "That Property launchpad over there will take you to Chantey Shanty.",
+    "chat_state_1": "Feel like moorin' yer rocket at some Chanty Shanteys today?",
+    "chat_state_2": "Just use the Chantey Shanty launcher and visit some o' them Properties out there!",
+    "chat_state_3": "What fresh new wonders did you see out there?",
+    "completion_succeed_tip": "Return to Betty Hatchesbatten in Gnarled Forest!",
+    "in_progress": "Visit 5 Chantey Shanty Properties today.",
+    "offer": "There be some wonderful Chantey Shanty Properties waitin' to be discovered. Visit 5 of them today!",
+    "offer_repeatable": "There be some wonderful Chantey Shanty Properties waitin' to be discovered. Visit 5 of them today!",
+    "ready_to_complete": "Travelin' the worlds, seein' the sights. Is there nothin' better?"
+  },
+  "1198": {
+    "accept_chat_bubble": "Visit 5 Raven Bluff Properties and take in the sights of Forbidden Valley's most ingenious creators.",
+    "chat_state_1": "Raven Bluff is home to many fascinating creations.",
+    "chat_state_2": "Search the Raven Bluff Property Browser for Properties that catch your eye.",
+    "chat_state_3": "Ninjas usually create in private, but sharing your Property with others is just too much fun!",
+    "completion_succeed_tip": "Return to Ninja Tashi in Forbidden Valley!",
+    "in_progress": "Visit 5 Raven Bluff Properties today.",
+    "offer": "A true Ninja seeks beauty and mystery. And Properties too. Those are fun. Visit 5 Raven Bluff Properties.",
+    "offer_repeatable": "A true Ninja seeks beauty and mystery. And Properties too. Those are fun. Visit 5 Raven Bluff Properties.",
+    "ready_to_complete": "I hope you have found balance and inspiration in your travels today."
+  },
+  "1199": {
+    "completion_succeed_tip": "The Visitor 1!",
+    "description": "Visit 25 Properties that you have not previously visited, on any world."
+  },
+  "1200": {
+    "completion_succeed_tip": "The Visitor 2!",
+    "description": "Visit 75 more Properties that you have not previously visited, on any world."
+  },
+  "1201": {
+    "completion_succeed_tip": "The Visitor 3!",
+    "description": "Visit 150 more Properties that you have not previously visited, on any world."
+  },
+  "1202": {
+    "completion_succeed_tip": "The Visitor 4!",
+    "description": "Visit 250 more Properties that you have not previously visited, on any world."
+  },
+  "1203": {
+    "accept_chat_bubble": "Our Vault is built in a rocket which is ready to blast off should trouble ever befall the Tower.",
+    "chat_state_1": "Today only, we are offering 4.5% CDs with 6-month laddering.",
+    "chat_state_2": "Your account is ready. Do you have items or gear you wish to store in the Vault?",
+    "chat_state_3": "I expect your Backpack feels much lighter now.",
+    "completion_succeed_tip": "Return to the Nexus Naomi console in the Sentinel War Room.",
+    "in_progress": "Interact with the Vault terminal in Nexus Tower to open your account.",
+    "offer": "I have set up the necessary protocols for your Vault account. Simply interact with a terminal to begin your banking experience.",
+    "ready_to_complete": "Thank you for banking with Nexus Force. Please enjoy your complimentary toaster!"
+  },
+  "1204": {
+    "completion_succeed_tip": "Model Mover 1!",
+    "description": "Place 25 models on any of your Properties."
+  },
+  "1205": {
+    "completion_succeed_tip": "Model Mover 2!",
+    "description": "Place 75 more models on any of your Properties."
+  },
+  "1206": {
+    "completion_succeed_tip": "Model Mover 3!",
+    "description": "Place 150 more models on any of your Properties."
+  },
+  "1207": {
+    "completion_succeed_tip": "Model Mover 4!",
+    "description": "Place 250 more models on any of your Properties."
+  },
+  "1208": {
+    "completion_succeed_tip": "Ain't Misbehavin' 1!",
+    "description": "Add 5 Behaviors to any of your models."
+  },
+  "1209": {
+    "completion_succeed_tip": "Ain't Misbehavin' 2!",
+    "description": "Add 25 more Behaviors to any of your models."
+  },
+  "1210": {
+    "completion_succeed_tip": "Ain't Misbehavin' 3!",
+    "description": "Add 50 more Behaviors to any of your models."
+  },
+  "1211": {
+    "completion_succeed_tip": "Ain't Misbehavin' 4!",
+    "description": "Add 75 more Behaviors to any of your models."
+  },
+  "1216": {
+    "accept_chat_bubble": "Be careful as you search the ship - there are Maelstrom enemies everywhere!",
+    "chat_state_1": "How are your data recovery skills?",
+    "chat_state_2": "You'll need to search the entire ship - the Datacards can be found anywhere!",
+    "chat_state_3": "Did you find all 10?",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Collect all 10 Datacards aboard the Venture Explorer.",
+    "offer": "These Maelstrom invaders are searching the ship for information about Nexus Tower! Can you recover all 10 Datacards?",
+    "ready_to_complete": "It's a good thing you showed up! We don't want the enemy learning too much about the Tower!"
+  },
+  "1217": {
+    "accept_chat_bubble": "Keep your distance! Those things pack quite a punch!",
+    "chat_state_1": "We've got to pound on those Hammer Stromlings!",
+    "chat_state_2": "Careful, some of those things know how to throw.",
+    "chat_state_3": "Nailed 'em!",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 25 Hammer Stromlings aboard the Venture Explorer.",
+    "offer": "We need to push back the Maelstrom - it's taking over the ship! Let's start by smashing 25 of those Hammer Stromlings!",
+    "ready_to_complete": "Hammer time is over! Good work."
+  },
+  "1218": {
+    "accept_chat_bubble": "Dodge their shots, then go in fast! Smash 6 of those Sentries!",
+    "chat_state_1": "Someone's got to shut those things down!",
+    "chat_state_2": "Remember to rebuild them into turrets if you've got the Imagination!",
+    "chat_state_3": "Way to blue-screen those 'bots!",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 6 Corrupted Sentry robots aboard the Venture Explorer.",
+    "offer": "The Maelstrom has corrupted the ship's defenses! Smash 6 of those Corrupted Sentry robots!",
+    "ready_to_complete": "Yep, those were the mechs you were looking for! Move along."
+  },
+  "1219": {
+    "accept_chat_bubble": "Watch out for the other enemies when you go after those Spiderlings!",
+    "chat_state_1": "Ready for another bug hunt?",
+    "chat_state_2": "Don't get trapped by their web attacks!",
+    "chat_state_3": "Spiders aren't actually bugs. Just so you know.",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 3 Elite Dark Spiderlings aboard the Venture Explorer.",
+    "offer": "Looks like we've still got some bugs to work out! Smash 3 of those Dark Spiderlings!",
+    "ready_to_complete": "Thanks for doing that - those things make my armor crawl!"
+  },
+  "1220": {
+    "accept_chat_bubble": "Interact with the consoles around the ship to collect the data!",
+    "chat_state_1": "I just got a strange signal from the ship's computer!",
+    "chat_state_2": "We need 10 pieces of data before we can decode the message!",
+    "chat_state_3": "How can the Maelstrom broadcast anything? It's just chaos!",
+    "chat_state_4_turnin": "I'm ready to get out of here, are you?",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Collect data from 10 consoles aboard the Venture Explorer.",
+    "offer": "The ship's system has decoded a message in the Maelstrom, but we'll need to piece it together! Go collect the data from 10 consoles!",
+    "ready_to_complete": "The message says: \"All your base are belong to me!\" Huh? We've got to warn the Tower!"
+  },
+  "1221": {
+    "accept_chat_bubble": "Get out of here and get back to Sky Lane!",
+    "chat_state_1": "Hope you still have your rocket - you're gonna need it!",
+    "chat_state_2": "Head to the launch pad and blast off for Avant Gardens!",
+    "chat_state_3": "Beck? Come in Beck. I have an urgent message for the Tower.",
+    "chat_state_3_turnin": "All your base what? Epsilon, you're breaking up! Epsilon?!",
+    "completion_succeed_tip": "Return to Sky Lane in Avant Gardens.",
+    "in_progress": "Return to Sky Lane in Avant Gardens.",
+    "offer": "You've been a huge help - but it's time for you to get out of here! Blast off to Avant Gardens and check in with Sky Lane!",
+    "ready_to_complete": "You made it back! But I don't think the Maelstrom is done up there. Come back tomorrow and help clear it out again!"
+  },
+  "1222": {
+    "accept_chat_bubble": "Keep your distance! Those things pack quite a punch!",
+    "chat_state_1": "We've got to pound on those Hammer Stromlings!",
+    "chat_state_2": "Careful, some of those things know how to throw.",
+    "chat_state_3": "Nailed 'em!",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 25 Hammer Stromlings aboard the Venture Explorer.",
+    "offer": "The Maelstrom has surged back - and brought more Hammer Stromlings with it! Smash 25 of them!",
+    "offer_repeatable": "The Maelstrom has surged back - and brought more Hammer Stromlings with it! Smash 25 of them!",
+    "ready_to_complete": "Hammer time is over! Good work."
+  },
+  "1223": {
+    "accept_chat_bubble": "Dodge their shots, then go in fast! Smash 6 of those Sentries!",
+    "chat_state_1": "Someone's got to shut those things down!",
+    "chat_state_2": "Remember to rebuild them into turrets if you've got the Imagination!",
+    "chat_state_3": "Way to blue-screen those 'bots!",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 6 Corrupted Sentry robots aboard the Venture Explorer.",
+    "offer": "The Maelstrom's gotten into the security system again! Smash 6 of those Corrupted Sentry robots!",
+    "offer_repeatable": "The Maelstrom's gotten into the security system again! Smash 6 of those Corrupted Sentry robots!",
+    "ready_to_complete": "Yep, those were the mechs you were looking for! Move along."
+  },
+  "1224": {
+    "accept_chat_bubble": "Watch out for the other enemies when you go after those Spiderlings!",
+    "chat_state_1": "Ready for another bug hunt?",
+    "chat_state_2": "Don't get trapped by their web attacks!",
+    "chat_state_3": "Spiders aren't actually bugs. Just so you know.",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Smash 3 Elite Dark Spiderlings aboard the Venture Explorer.",
+    "offer": "Looks like we've still got some bugs to work out! Smash 3 of those Dark Spiderlings!",
+    "offer_repeatable": "Looks like we've still got some bugs to work out! Smash 3 of those Dark Spiderlings!",
+    "ready_to_complete": "Thanks for doing that - those things make my armor crawl!"
+  },
+  "1225": {
+    "accept_chat_bubble": "Interact with the glowing consoles around the ship to collect the data!",
+    "chat_state_1": "We can use the ship's computer as a translator again!",
+    "chat_state_2": "We need 10 pieces of data before we can decode the message!",
+    "chat_state_3": "That first message was strange - let's see if there's anything else.",
+    "chat_state_4_turnin": "I'm ready to get out of here, are you?",
+    "completion_succeed_tip": "Return to Epsilon Starcracker aboard the Venture Explorer.",
+    "in_progress": "Collect data from 10 consoles aboard the Venture Explorer.",
+    "offer": "There must be other messages encoded in the Maelstrom! Go collect the data from 10 consoles!",
+    "offer_repeatable": "There must be other messages encoded in the Maelstrom! Go collect the data from 10 consoles!",
+    "ready_to_complete": "I can't find anything this time - it's all chaos! At least that first message got to Duke in time."
+  },
+  "1226": {
+    "completion_succeed_tip": "Murgle Blotch Timesmash 1!",
+    "description": "Defeat Murgle Blotch in the Battle of Nimbus Station in less than 4:00."
+  },
+  "1227": {
+    "completion_succeed_tip": "Kinga Hurl Timesmash 1!",
+    "description": "Defeat Kinga Hurl in the Battle of Nimbus Station in less than 10:00."
+  },
+  "1228": {
+    "completion_succeed_tip": "Whack Bliddo Timesmash 1!",
+    "description": "Defeat Whack Bliddo in the Battle of Nimbus Station in less than 14:00."
+  },
+  "1229": {
+    "completion_succeed_tip": "The Four Riders Timesmash 1!",
+    "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station in less than 20:00."
+  },
+  "1230": {
+    "completion_succeed_tip": "The Curse of Murgle Blotch 1!",
+    "description": "Defeat Murgle Blotch in the Battle of Nimbus Station 50 times."
+  },
+  "1231": {
+    "completion_succeed_tip": "The Curse of Murgle Blotch 2!",
+    "description": "Defeat Murgle Blotch in the Battle of Nimbus Station 150 more times."
+  },
+  "1232": {
+    "completion_succeed_tip": "The Curse of Kinga Hurl 1!",
+    "description": "Defeat Kinga Hurl in the Battle of Nimbus Station 25 times."
+  },
+  "1233": {
+    "completion_succeed_tip": "The Curse of Kinga Hurl 2!",
+    "description": "Defeat Kinga Hurl in the Battle of Nimbus Station 100 more times."
+  },
+  "1234": {
+    "completion_succeed_tip": "The Curse of Whack Bliddo 1!",
+    "description": "Defeat Whack Bliddo in the Battle of Nimbus Station 10 times."
+  },
+  "1235": {
+    "completion_succeed_tip": "The Curse of Whack Bliddo 2!",
+    "description": "Defeat Whack Bliddo in the Battle of Nimbus Station 50 more times."
+  },
+  "1236": {
+    "completion_succeed_tip": "The Four Riders of the Maelstrom 1!",
+    "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station 5 times."
+  },
+  "1237": {
+    "completion_succeed_tip": "The Four Riders of the Maelstrom 2!",
+    "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station 25 more times."
+  },
+  "1238": {
+    "completion_succeed_tip": "Resistance Force 1!",
+    "description": "Smash 250 enemies in the Battle of Nimbus Station."
+  },
+  "1239": {
+    "completion_succeed_tip": "Resistance Force 2!",
+    "description": "Smash 500 more enemies in the Battle of Nimbus Station."
+  },
+  "1240": {
+    "completion_succeed_tip": "Resistance Force 3!",
+    "description": "Smash 1000 more enemies in the Battle of Nimbus Station."
+  },
+  "1241": {
+    "completion_succeed_tip": "Resistance Force 4!",
+    "description": "Smash 2500 more enemies in the Battle of Nimbus Station."
+  },
+  "1242": {
+    "completion_succeed_tip": "Murgle Blotch Timesmash 2!",
+    "description": "Defeat Murgle Blotch in the Battle of Nimbus Station in less than 3:10."
+  },
+  "1243": {
+    "completion_succeed_tip": "Kinga Hurl Timesmash 2!",
+    "description": "Defeat Kinga Hurl in the Battle of Nimbus Station in less than 7:30."
+  },
+  "1244": {
+    "completion_succeed_tip": "Whack Bliddo Timesmash 2!",
+    "description": "Defeat Whack Bliddo in the Battle of Nimbus Station in less than 12:00."
+  },
+  "1245": {
+    "completion_succeed_tip": "The Four Riders Timesmash 2!",
+    "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station in less than 18:00."
+  },
+  "1246": {
+    "accept_chat_bubble": "Use my glorious machine right here to travel back in time!",
+    "chat_state_1": "Where am I? When am I?",
+    "chat_state_2": "Brace yourself - Nimbus Station wasn't always this lovely.",
+    "chat_state_3": "I felt the shockwaves of Murgle Blotch's demise ripple through time!",
+    "completion_succeed_tip": "Return to Wenn Wuzzit in Nimbus Station.",
+    "in_progress": "Travel back in time and smash Murgle Blotch in the Battle of Nimbus Station.",
+    "offer": "Nimbus Station is under attack! No, not now - in the past! Will you go back in time and fight off the Maelstrom?",
+    "ready_to_complete": "If you hadn't have smashed Murgle Blotch, we might not be standing here right now! Good work, time traveler!"
+  },
+  "1247": {
+    "accept_chat_bubble": "Travel back in time and rejoin the battle once more!",
+    "chat_state_1": "Even now, years later, I can still hear the echo of his fearsome roar!",
+    "chat_state_2": "You'll need to fight through many waves of enemies to topple Kinga Hurl!",
+    "chat_state_3": "Just think, this place might now be one great ape colony!",
+    "completion_succeed_tip": "Return to Wenn Wuzzit in Nimbus Station.",
+    "in_progress": "Travel back in time and smash Kinga Hurl in the Battle of Nimbus Station.",
+    "offer": "After the fall of Murgle Blotch, the Maelstrom sent Kinga Hurl to lead the attack! The ape must be smashed!",
+    "ready_to_complete": "Kinga Hurl is no more! Yet he still exists, somewhere in the past. This is hurting my brain."
+  },
+  "1248": {
+    "accept_chat_bubble": "The battle still rages in the past - it is there you will find the deadly Whack Bliddo!",
+    "chat_state_1": "I shudder to think of it! Its scrabbling legs, its burning eyes!",
+    "chat_state_2": "They say Whack Bliddo came from the dark beast that spawned the Maelstrom itself!",
+    "chat_state_3": "Did you see its eyes go dark? All of them?",
+    "completion_succeed_tip": "Return to Wenn Wuzzit in Nimbus Station.",
+    "in_progress": "Travel back in time and smash Whack Bliddo in the Battle of Nimbus Station.",
+    "offer": "With Kinga Hurl demolished, a new threat emerged - the Dark Spider known as Whack Bliddo! It must be destroyed!",
+    "ready_to_complete": "Whack Bliddo is now trapped in the web of time! Yet why does it still haunt my dreams? Oh, horror!"
+  },
+  "1249": {
+    "accept_chat_bubble": "Travel back in time and win the Battle of Nimbus Station so that we may thrive today!",
+    "chat_state_1": "The Riders! Beware the Four Riders!",
+    "chat_state_2": "They say their names mean terrible and fearsome things!",
+    "chat_state_3": "Victorious! Victorious! And just in time, too!",
+    "chat_state_4": "Anyone know what time it is? My watch has stopped.",
+    "completion_succeed_tip": "Return to Wenn Wuzzit in Nimbus Station.",
+    "in_progress": "Travel back in time and smash the Four Riders of the Maelstrom in the Battle of Nimbus Station.",
+    "offer": "At the end of it all, Four Riders emerged from the Maelstrom! And if you cannot defeat them, Nimbus Station will be lost!",
+    "ready_to_complete": "Your bravery that day helped turn the tide against the Maelstrom - allowing Nimbus Station to be rebuilt!"
+  },
+  "1253": {
+    "accept_chat_bubble": "Use your Soap Gun to hunt down and eradicate any offending dirt cloud!",
+    "chat_state_1": "I am detecting unnaturally high dirt and sediment levels within the Tower.",
+    "chat_state_2": "We should strive to keep the dirt and dust of Crux Prime out on the battlefield!",
+    "chat_state_3": "Is it true that dirt can collect to form a small rabbit which hides beneath beds?",
+    "completion_succeed_tip": "Return to the Nexus Naomi console in the Sentinel War Room.",
+    "in_progress": "Use the Soap Gun to clean up 5 dirt clouds in the Sentinel area of Nexus Tower.",
+    "offer": "Now that the soap is ready, use the Soap Gun to spray the dirt clouds around the Sentinel area. My systems are quite incompatible with dust.",
+    "ready_to_complete": "Duke should be pleased to see those gleaming floors."
+  },
+  "1254": {
+    "accept_chat_bubble": "Keep looking until you find 20 Admirals to smash!",
+    "chat_state_1": "C'mon soldiers! Let's smash 'em and trash 'em!",
+    "chat_state_2": "Get out there and smash those Admirals!",
+    "chat_state_3": "How'd you do out there?",
+    "chat_state_4": "Report back tomorrow and I'll give you more to do!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 20 Admiral Invaders on Crux Prime.",
+    "offer": "Find 20 of those Stromling Admiral Invaders and send 'em back to the deeps!",
+    "offer_repeatable": "Find 20 more Stromling Admiral Invaders and send 'em back to the deeps!",
+    "ready_to_complete": "That's right! No quarter for those ugly leg-draggers!"
+  },
+  "1255": {
+    "accept_chat_bubble": "You can usually find Horsemen out by the edge of Aura Mar.",
+    "chat_state_1": "Came here for two things! One is to chew bubble gum! Forgot the other.",
+    "chat_state_2": "Alright, get out there and smash those Horsemen!",
+    "chat_state_3": "You made it back!",
+    "chat_state_4": "I've got more missions for you when you're ready!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 20 Horseman Invaders on Crux Prime.",
+    "offer": "Get 'em off their high horses! Smash 20 of those Maelstrom Horseman Invaders!",
+    "offer_repeatable": "They're back on their high horses! Smash 20 more Maelstrom Horseman Invaders!",
+    "ready_to_complete": "Way to thin out the herd!"
+  },
+  "1256": {
+    "accept_chat_bubble": "Check Caldera Mar for Spiderlings, but don't get swarmed!",
+    "chat_state_1": "Keep the launch zone clear! Don't let 'em get close!",
+    "chat_state_2": "Get out there and smash those Spiderlings!",
+    "chat_state_3": "Mission accomplished?",
+    "chat_state_4": "You ever want more to smash, just come back and see me!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 20 Spiderling Invaders on Crux Prime.",
+    "offer": "Who's afraid of spiders? Not you! Get out there and smash 20 of those Spiderling Invaders!",
+    "offer_repeatable": "Still not afraid of spiders? Then get out there and smash 20 more Spiderling Invaders!",
+    "ready_to_complete": "Squished 'em all!"
+  },
+  "1257": {
+    "accept_chat_bubble": "Dragons like to roost on the rocks above Caldera Mar.",
+    "chat_state_1": "Anyone here not afraid of giant Maelstrom-breathing lizards?",
+    "chat_state_2": "Good luck out there! 5 Dragons won't be easy!",
+    "chat_state_3": "I knew you'd take care of it!",
+    "chat_state_4": "Come back later for more missions!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 5 Dragon Invaders on Crux Prime.",
+    "offer": "We got way too many Dragon Invaders out there. Tough job, but can you smash 5 of them?",
+    "offer_repeatable": "We've got Dragon Invaders! Need you to smash 5 more!",
+    "ready_to_complete": "You've done this before, haven't you?"
+  },
+  "1258": {
+    "accept_chat_bubble": "Keep searching the battlefield until you find all of your targets!",
+    "chat_state_1": "Okay, who wants some? Got a 4-for-1 special today!",
+    "chat_state_2": "Get out there and give the Maelstrom a bad day!",
+    "chat_state_3": "Nothing's too hard for you, right?",
+    "chat_state_4": "Maelstrom keeps coming, we keep smashing. Come back for more!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Stromlings, 5 Pirates, 5 Admirals and 5 Dark Ronin on Crux Prime.",
+    "offer": "This place has got way too much Maelstrom. Time to make some room!",
+    "offer_repeatable": "Ready to smash a buncha more Maelstrom?",
+    "ready_to_complete": "Hey, save some for the rest of us!"
+  },
+  "1259": {
+    "accept_chat_bubble": "Be careful when you head down into that Quarry area!",
+    "chat_state_1": "This is Crux Prime, not Maelstrom Prime! Let's keep it that way!",
+    "chat_state_2": "Alright, let's get to work!",
+    "chat_state_3": "Nice work, soldier!",
+    "chat_state_4": "Maelstrom keeps coming, we keep smashing. Come back for more!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Skeleton Miners, 10 Skeleton Engineers and 5 Horsemen Invaders on Crux Prime.",
+    "offer": "Skeletons, Horsemen - all in a day's work, right? Let's get smashing!",
+    "offer_repeatable": "Skeletons, Horsemen - all in a day's work, right? Ready to get smashing?",
+    "ready_to_complete": "You think you can teach me that spinny stuff?"
+  },
+  "1260": {
+    "accept_chat_bubble": "Be careful with those Skeletons! They're bad news!",
+    "chat_state_1": "Alright, let's see some action out there!",
+    "chat_state_2": "Good Minifigure! Get to it!",
+    "chat_state_3": "Report!",
+    "chat_state_4": "I've got more missions for you when you're ready!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 5 Horsemen, 10 Mechs, and 10 Admirals on Crux Prime.",
+    "offer": "Big Maelstrom surge! Dropped more Horsemen, Mechs and Admirals on us. Need you to clean it up!",
+    "offer_repeatable": "Big Maelstrom surge! Dropped more Horsemen, Mechs and Admirals on us. Need you to clean it up!",
+    "ready_to_complete": "I think I just heard the Maelstrom say 'Fail.'"
+  },
+  "1261": {
+    "accept_chat_bubble": "Remember, show no fear! Animals are funny that way.",
+    "chat_state_1": "This ain't Pet Cove, people! Only thing we're tamin' today is Maelstrom!",
+    "chat_state_2": "Animal control is on the job!",
+    "chat_state_3": "Okay, gimme the goods.",
+    "chat_state_4": "Come back later for more missions!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 1 Dragon, 2 Apes, and 5 Spiders on Crux Prime.",
+    "offer": "Doesn't matter if they breathe flame or chuck boulders, they gotta get smashed. You up for more?",
+    "offer_repeatable": "Maelstrom beasts on the loose! Need you to get 'em under control!",
+    "ready_to_complete": "Nexus Force in the house!!"
+  },
+  "1262": {
+    "accept_chat_bubble": "Keep searching the battlefield until you find all of your targets!",
+    "chat_state_1": "On today's menu: Maelstrom, Maelstrom and more Maelstrom!",
+    "chat_state_2": "Hey Maelstrom, you ready for us?",
+    "chat_state_3": "Ready for debrief?",
+    "chat_state_4": "You ever want more to smash, just come back and see me!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Mechs, 5 Apes, and 1 Dragon on Crux Prime.",
+    "offer": "Maelstrom keeps on coming - but luckily we can smash all day! You feelin' lucky today?",
+    "offer_repeatable": "Every day's a new opportunity to smash more Maelstrom. You game?",
+    "ready_to_complete": "Whoa, you're like a one-Minifigure army!"
+  },
+  "1263": {
+    "accept_chat_bubble": "Be careful with those Admirals! They got a mean right hook!",
+    "chat_state_1": "Pick 'em off and put 'em down!",
+    "chat_state_2": "No quarter for them salty dogs!",
+    "chat_state_3": "Mission accomplished?",
+    "chat_state_4": "I've got more missions for you when you're ready!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Stromling Admirals, 5 Horsemen, and 10 Stromlings on Crux Prime.",
+    "offer": "What do you get when you smash a buncha Maelstrom? A big old mess! Get to it!",
+    "offer_repeatable": "The battle ain’t over yet! Ready for more action?",
+    "ready_to_complete": "A lot less ugly in the Universe today!"
+  },
+  "1264": {
+    "accept_chat_bubble": "That Spinjitzu stuff takes plenty of Imagination! Be ready!",
+    "chat_state_1": "Max your gear and show no fear!",
+    "chat_state_2": "Don't forget to use your Spinjitzu whatzit!",
+    "chat_state_3": "You made it back!",
+    "chat_state_4": "You ever want more to smash, just come back and see me!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Skeleton Engineers, 10 Mechs, and 10 Pirates on Crux Prime.",
+    "offer": "You seem to know what you're doing out there! Want to do some more of it?",
+    "offer_repeatable": "You seem to know what you're doing out there! Want to do some more of it?",
+    "ready_to_complete": "That's right Maelstrom, what you got for us next?!"
+  },
+  "1265": {
+    "accept_chat_bubble": "That Spinjitzu stuff takes plenty of Imagination! Be ready!",
+    "chat_state_1": "Smash or be smashed! Those are your orders!",
+    "chat_state_2": "Don't forget to use your Spinjitzu whatzit!",
+    "chat_state_3": "How'd you do out there?",
+    "chat_state_4": "Come back later for more missions!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 10 Skeleton Miners, 10 Spiderlings, and 5 Apes  on Crux Prime.",
+    "offer": "If there's one thing I can't stand, it's Skeletons. And Spiderlings. And Apes. Get rid of 'em!",
+    "offer_repeatable": "If there's one thing I can't stand, it's Skeletons. And Spiderlings. And Apes. Get rid of 'em!",
+    "ready_to_complete": "Hey Maelstrom, you want some more? You know where to find us!"
+  },
+  "1266": {
+    "accept_chat_bubble": "Keep searching the battlefield until you find all of your targets!",
+    "chat_state_1": "What's worse, 20 Stromlings or 2 Dragons?",
+    "chat_state_2": "What's first? Stromlings or Dragons?",
+    "chat_state_3": "Nice work, soldier!",
+    "chat_state_4": "I've got more missions for you when you're ready!",
+    "completion_succeed_tip": "Return to Bronson Jarls at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Smash 20 Stromlings and 2 Dragons on Crux Prime.",
+    "offer": "Okay, I got an easy job and a hard job. And you get to do 'em both at once!",
+    "offer_repeatable": "Remember that mix-and-match mission I gave you? Well I'm giving it to you again!",
+    "ready_to_complete": "Now that's what I call multitasking!"
+  },
+  "1267": {
+    "accept_chat_bubble": "ED-902 is out there somewhere!",
+    "chat_state_1": "Anyone want to smash a Mech with a bad interface?",
+    "chat_state_2": "Search the battlefield until you find ED-902!",
+    "chat_state_3": "Soldier, report!",
+    "chat_state_4": "Maelstrom keeps coming, we keep smashing. Come back for more!",
+    "completion_succeed_tip": "Smash ED-902!",
+    "description": "Smash ED-902 on Crux Prime!",
+    "in_progress": "Smash ED-902 on Crux Prime.",
+    "offer": "There's a bot out there named ED-902 that needs a serious reboot!",
+    "offer_repeatable": "ED-902 is back! Want to smash it again?",
+    "ready_to_complete": "Awww, system failure for ED-902. Someone call IT."
+  },
+  "1268": {
+    "accept_chat_bubble": "Muffet Bane is out there somewhere!",
+    "chat_state_1": "What's got four legs, four eyes and a bad temper?",
+    "chat_state_2": "Search the battlefield until you find Muffet Bane!",
+    "chat_state_3": "Ready for debrief?",
+    "chat_state_4": "Report back tomorrow and I'll give you more to do!",
+    "completion_succeed_tip": "Smash Muffet Bane!",
+    "description": "Smash Muffet Bane on Crux Prime!",
+    "in_progress": "Smash Muffet Bane on Crux Prime.",
+    "offer": "Spiders give me the willies! Especially the one they call Muffet Bane. Do me a favor and squish it!",
+    "offer_repeatable": "Muffet Bane is back! Want to smash it again?",
+    "ready_to_complete": "Spiders, man, why does it always have to be spiders?"
+  },
+  "1269": {
+    "accept_chat_bubble": "Gull Rawstew is out there somewhere!",
+    "chat_state_1": "Aaaarrrr!!! It's Smash Like a Pirate Day!",
+    "chat_state_2": "Search the battlefield until you find Gull Rawstew!",
+    "chat_state_3": "Did you find him?",
+    "chat_state_4": "Maelstrom keeps coming, we keep smashing. Come back for more!",
+    "completion_succeed_tip": "Smash Gull Rawstew!",
+    "description": "Smash Gull Rawstew on Crux Prime!",
+    "in_progress": "Smash Gull Rawstew on Crux Prime.",
+    "offer": "Got a wily Pirate out there named Gull Rawstew that needs a long walk on a short plank!",
+    "offer_repeatable": "Gull Rawstew is back! Want to smash it again?",
+    "ready_to_complete": "Back to the brig with you, Rawstew!"
+  },
+  "1270": {
+    "accept_chat_bubble": "Admiral Flogmore is out there somewhere!",
+    "chat_state_1": "Anyone want to give the ol' Sentinel Faction Salute to a Stromling Admiral?",
+    "chat_state_2": "Search the battlefield until you find Admiral Flogmore!",
+    "chat_state_3": "Did you find him?",
+    "chat_state_4": "You ever want more to smash, just come back and see me!",
+    "completion_succeed_tip": "Smash Admiral Flogmore!",
+    "description": "Smash Admiral Flogmore on Crux Prime!",
+    "in_progress": "Smash Admiral Flogmore on Crux Prime.",
+    "offer": "Mutiny on the battlefield! Need you to track down Admiral Flogmore and give him the lash!",
+    "offer_repeatable": "Admiral Flogmore is back! Want to smash it again?",
+    "ready_to_complete": "Sorry Admiral, we're takin' over this crew!"
+  },
+  "1271": {
+    "accept_chat_bubble": "Roo Morgg is out there somewhere!",
+    "chat_state_1": "What's big, ugly and likes to hurl giant chunks of rock at your head?",
+    "chat_state_2": "Search the battlefield until you find Roo Morgg!",
+    "chat_state_3": "One less Ape on the battlefield?",
+    "chat_state_4": "Come back later for more missions!",
+    "completion_succeed_tip": "Smash Roo Morgg!",
+    "description": "Smash Roo Morgg on Crux Prime!",
+    "in_progress": "Smash Roo Morgg on Crux Prime.",
+    "offer": "How are you with dodging boulders? Got an Ape named Roo Morgg that needs smashing.",
+    "offer_repeatable": "Roo Morgg is back! Want to smash it again?",
+    "ready_to_complete": "Hmm, your head doesn't look too dented."
+  },
+  "1272": {
+    "accept_chat_bubble": "Grim Daisho is out there somewhere!",
+    "chat_state_1": "Ronin, man. Give me the creeps.",
+    "chat_state_2": "Search the battlefield until you find Grim Daisho!",
+    "chat_state_3": "Did you exorcise that Ronin?",
+    "chat_state_4": "Report back tomorrow and I'll give you more to do!",
+    "completion_succeed_tip": "Smash Grim Daisho!",
+    "description": "Smash Grim Daisho on Crux Prime!",
+    "in_progress": "Smash Grim Daisho on Crux Prime.",
+    "offer": "There's a Dark Ronin named Grim Daisho that's been haunting our troops. Go and banish him!",
+    "offer_repeatable": "Grim Daisho is back! Want to smash it again?",
+    "ready_to_complete": "Pwnin' the Ronin. That's what I like to hear!"
+  },
+  "1273": {
+    "accept_chat_bubble": "Vargas the Tormented is out there somewhere!",
+    "chat_state_1": "Who wants to pull a Maelstrom Horseman off his saddle?",
+    "chat_state_2": "Search the battlefield until you find Vargas the Tormented!",
+    "chat_state_3": "I knew you'd take care of it!",
+    "chat_state_4": "I've got more missions for you when you're ready!",
+    "completion_succeed_tip": "Smash Vargas the Tormented!",
+    "description": "Smash Vargas the Tormented on Crux Prime!",
+    "in_progress": "Smash Vargas the Tormented on Crux Prime.",
+    "offer": "Some of our troops got run down by a Horseman named Vargas the Tormented! Smash on sight!",
+    "offer_repeatable": "Vargas the Tormented is back! Want to smash it again?",
+    "ready_to_complete": "Ha, and you think Vargas was tormented before?"
+  },
+  "1274": {
+    "accept_chat_bubble": "Butterscorch is out there somewhere!",
+    "chat_state_1": "Any Dragonslayers out there today?",
+    "chat_state_2": "Search the battlefield until you find Butterscorch!",
+    "chat_state_3": "Glad to see you back in one piece!",
+    "chat_state_4": "Report back tomorrow and I'll give you more to do!",
+    "completion_succeed_tip": "Smash Butterscorch!",
+    "description": "Smash Butterscorch on Crux Prime!",
+    "in_progress": "Smash Butterscorch on Crux Prime.",
+    "offer": "None of the Dragons are all that friendly, but Butterscorch is the worst! You ready to face him?",
+    "offer_repeatable": "Butterscorch is back! Want to smash it again?",
+    "ready_to_complete": "Facin' down a Dragon man, you're more Minifigure than me."
+  },
+  "1275": {
+    "accept_chat_bubble": "Lure some Maelstrom near the missiles, then take 'em out!",
+    "chat_state_1": "Ship down, payload scattered, today is not my day.",
+    "chat_state_2": "Keep your distance and then light 'em up!",
+    "chat_state_3": "I heard explosions! Music to my ears!",
+    "completion_succeed_tip": "Return to Sherland Powers.",
+    "in_progress": "Smash 5 downed missiles on Crux Prime.",
+    "offer": "My missiles went AWOL during the crash! Smash 'em and you might take out some Maelstrom as well!",
+    "ready_to_complete": "Wish I could have dropped 'em on my targets, but they still went boom in the end!"
+  },
+  "1276": {
+    "accept_chat_bubble": "Assembly has the orange chambers just past the Imagination beam.",
+    "chat_state_1": "Building and creating can be a messy business sometimes.",
+    "chat_state_2": "Be careful cleaning the Imagination tubes. They're fragile.",
+    "chat_state_3": "I've never seen the Imagination beam gleam so brightly!",
+    "completion_succeed_tip": "Return to the Nexus Naomi console in the Sentinel War Room.",
+    "in_progress": "Use the Soap Gun to clean up 7 dirt clouds in the Assembly area of Nexus Tower.",
+    "offer": "Dr. Overbuild has heard of your cleaning prowess from Duke Exeter, and has requested that you tidy up the Assembly area next!",
+    "ready_to_complete": "They say a messy area is a creative area, but I still prefer it with less dirt!"
+  },
+  "1277": {
+    "accept_chat_bubble": "Use the teleporters to move around the Paradox area.",
+    "chat_state_1": "It is difficult to detect dirt in low-light situations.",
+    "chat_state_2": "Perhaps additional lighting in the Paradox area would make those Minifigures more cheerful.",
+    "chat_state_3": "Dirt levels in the Tower have fallen to an all-time low, thanks to your efforts!",
+    "completion_succeed_tip": "Return to the Nexus Naomi console in the Sentinel War Room.",
+    "in_progress": "Use the Soap Gun to clean up 5 dirt clouds in the Paradox area of Nexus Tower.",
+    "offer": "Someone turned the lights on in the Paradox area and Vanda was quite upset to see all the dirt in there! Can you clean up their murk?",
+    "ready_to_complete": "Perfect. The darkness may hide the dirt, but that doesn't mean we shouldn't try to clean it."
+  }
+}

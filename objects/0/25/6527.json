@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5486,
+    "3": 2540,
+    "48": 66
+  },
+  "description": "temporary QB for the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6527,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Rail QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

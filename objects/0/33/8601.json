@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3857,
+    "2": 8158,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Lounge Lizard Shirt",
+  "gate_version": null,
+  "id": 8601,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lounge Lizard Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

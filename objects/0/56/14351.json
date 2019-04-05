@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14042,
+    "25": 0,
+    "3": 7173
+  },
+  "description": "Version 3 of ship piston - 6 sided with railings on 3 sides",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14351,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship Piston 03 - Railings",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

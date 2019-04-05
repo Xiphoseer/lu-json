@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 2581,
+    "2": 5644,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Metal Legs, Solid",
+  "gate_version": null,
+  "id": 6202,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Metal Legs, Solid",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

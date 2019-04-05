@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7207,
+    "2": 14398,
+    "28": 379,
+    "3": 7417,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Duck Car Side Panels",
+  "gate_version": "ftcommunityitems",
+  "id": 14710,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Duck Side Panels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

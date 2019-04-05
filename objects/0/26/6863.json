@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 10000 coins",
+  "components": {
+    "11": 2885,
+    "2": 6418
+  },
+  "description": "A valuable gem that can be sold!",
+  "displayName": "Yellow Gem",
+  "gate_version": null,
+  "id": 6863,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yellow Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

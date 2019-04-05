@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Bank Object",
+  "components": {
+    "2": 13279,
+    "3": 6643,
+    "5": 1478
+  },
+  "description": "Allows interactions with the bank UI",
+  "displayName": "Property Safe",
+  "gate_version": "bank",
+  "id": 13541,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Property Safe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

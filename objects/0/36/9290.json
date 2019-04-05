@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 292,
+    "2": 8743,
+    "35": 374,
+    "7": 307
+  },
+  "description": " Knight Lvl 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9290,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Knight Lvl 2",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

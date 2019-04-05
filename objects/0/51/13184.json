@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12966,
+    "25": 0,
+    "27": 0,
+    "3": 6427,
+    "39": 115,
+    "5": 1446,
+    "7": 1823
+  },
+  "description": "",
+  "displayName": "NJ-Spinner Platform Short",
+  "gate_version": "auramar",
+  "id": 13184,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Spinner Platform Short",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

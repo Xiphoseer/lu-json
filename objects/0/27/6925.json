@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Shackles?",
+  "components": {
+    "11": 2923,
+    "2": 6487,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Helm Of Entrapment",
+  "gate_version": null,
+  "id": 6925,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Helm Of Entrapment 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 845
+    }
+  ],
+  "type": "Loot"
+}

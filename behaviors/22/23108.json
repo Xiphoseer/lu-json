@@ -1,0 +1,18 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/22/23108.json"
+    }
+  },
+  "behaviorID": 23108,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "double_jump_action": 23109.0,
+    "falling_action": 23109.0,
+    "ground_action": 23110.0,
+    "jetpack_action": 23109.0,
+    "jump_action": 23109.0
+  },
+  "templateID": 6
+}

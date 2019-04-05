@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 347,
+    "2": 8752,
+    "3": 1777,
+    "35": 441,
+    "5": 1112,
+    "7": 912
+  },
+  "description": "These are the ninjas that get rescued from the brigs - they show up later in FV",
+  "displayName": "Rescued Ninja",
+  "gate_version": null,
+  "id": 9298,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Rescued Ninja 2",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

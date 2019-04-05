@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3609,
+    "2": 7614,
+    "3": 3705,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Console Model",
+  "gate_version": null,
+  "id": 8068,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Battlefield Outpost Console",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Emote, IP Restore, everlasting",
+  "components": {
+    "11": 2471,
+    "2": 5263,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Everlasting Hiccup Tablets",
+  "gate_version": null,
+  "id": 5833,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Everlasting Hiccup Tablets",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 167
+    }
+  ],
+  "type": "Loot"
+}

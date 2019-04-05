@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6547,
+    "3": 3080
+  },
+  "description": "Used to define direction for directional camera",
+  "displayName": "Fixed Camera Directional Widget",
+  "gate_version": null,
+  "id": 14089,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Fixed Camera Directional Widget",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "HF Gadgets"
+}

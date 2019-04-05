@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6433,
+    "3": 3022,
+    "48": 98
+  },
+  "description": "QB wall that cant be easily smashed",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6878,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - QB Non-Smash Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

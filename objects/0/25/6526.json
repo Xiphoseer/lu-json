@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2754,
+    "2": 6097,
+    "3": 2827,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Large Cannon Model",
+  "gate_version": null,
+  "id": 6526,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Large Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

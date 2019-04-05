@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4618,
+    "2": 10225,
+    "5": 1165,
+    "60": 61,
+    "7": 1551,
+    "9": 0
+  },
+  "description": "Enemy for property unlock maps",
+  "displayName": "Stromling Admiral",
+  "gate_version": null,
+  "id": 10379,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property - Stromling Admiral",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

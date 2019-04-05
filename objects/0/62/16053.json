@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7433,
+    "2": 14772
+  },
+  "description": "NPC Skeleton Head Frakjaw",
+  "displayName": "NPC Skeleton Head Frakjaw",
+  "gate_version": "njhub",
+  "id": 16053,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Skeleton Head Frakjaw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

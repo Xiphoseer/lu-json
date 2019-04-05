@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6153,
+    "3": 2809,
+    "5": 1120,
+    "7": 580,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 9313,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Boss Spider Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

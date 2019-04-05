@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 111 - Hidden",
+  "components": {
+    "11": 3475,
+    "2": 3427
+  },
+  "description": "Return this to Coalessa!",
+  "displayName": "Coalessa's Flying Disc",
+  "gate_version": null,
+  "id": 3981,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Coalessa's Flying Disc",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6807,
+    "2": 13435,
+    "3": 6755,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Building Wall Corner Model ",
+  "gate_version": "april2011content",
+  "id": 13697,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Building Wall Corner ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

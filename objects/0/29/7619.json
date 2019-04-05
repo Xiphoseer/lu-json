@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2931,
+    "3": 5215,
+    "40": 5141,
+    "49": 0,
+    "7": 869
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7619,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Pet Bouncer Button",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Switch"
+}

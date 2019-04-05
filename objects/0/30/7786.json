@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 4 IP",
+  "components": {
+    "11": 3294,
+    "2": 7342,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Mega Helm",
+  "gate_version": null,
+  "id": 7786,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mega Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 379 - Hidden",
+  "components": {
+    "11": 3221,
+    "2": 7175
+  },
+  "description": null,
+  "displayName": "Assembly Package",
+  "gate_version": null,
+  "id": 7610,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Assembly Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

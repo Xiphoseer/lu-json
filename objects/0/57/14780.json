@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 6/7/10 NJ Double Bladed Slashing",
+  "components": {
+    "11": 7269,
+    "2": 14467,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Kai's Training Dagger",
+  "gate_version": "njhub",
+  "id": 14780,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kai's Training Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1442
+    }
+  ],
+  "type": "Loot"
+}

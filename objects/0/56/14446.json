@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7091,
+    "2": 14135,
+    "28": 355,
+    "3": 7246,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Classic Blue Rocket Engine",
+  "gate_version": "freetrial",
+  "id": 14446,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Classic Blue Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

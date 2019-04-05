@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11685,
+    "3": 5757
+  },
+  "description": "NT Faux Beam",
+  "displayName": "NT_Paradox_Window_Blocker",
+  "gate_version": null,
+  "id": 11935,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_Paradox_Window_Blocker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

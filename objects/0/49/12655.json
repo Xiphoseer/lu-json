@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6219,
+    "2": 12444,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "auramar",
+  "id": 12655,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Turret Laser 2 dmg bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1024
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6273,
+    "2": 12514,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Golden Battle Axe",
+  "gate_version": "nexustower",
+  "id": 12725,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Golden Battle Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1239
+    }
+  ],
+  "type": "Loot"
+}

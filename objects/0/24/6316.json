@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5754,
+    "3": 2617,
+    "40": 2618,
+    "48": 67,
+    "6": 0
+  },
+  "description": "Space Ship QB bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6316,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Space Ship QuickBuild Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

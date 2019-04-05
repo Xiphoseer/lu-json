@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3969,
+    "17": 285,
+    "2": 8211,
+    "7": 900
+  },
+  "description": "Test version of the Mythirin NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8656,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Mythirian 01",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

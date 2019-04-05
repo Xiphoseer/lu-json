@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7463,
+    "2": 14469,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Reddish Brown Dog Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14791,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reddish Brown Dog Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

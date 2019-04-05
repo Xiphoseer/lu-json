@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13369,
+    "40": 6691,
+    "5": 1466
+  },
+  "description": "Clear threat list  Trigger Wall",
+  "displayName": "Clear threat list  Trigger Wall",
+  "gate_version": null,
+  "id": 13632,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Clear threat list  Trigger Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

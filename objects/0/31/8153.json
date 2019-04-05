@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7697,
+    "40": 3763
+  },
+  "description": "This sign is using a flash texture, and animates to appear on proxmity of the paradox building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8153,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Nimbus Station Large Paradox Sign",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2219,
+    "3": 1256,
+    "48": 58,
+    "5": 643
+  },
+  "description": "AG Hotdog Stand Burno Quickbuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4046,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Hotdog Stand Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

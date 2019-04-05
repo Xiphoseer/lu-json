@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6286,
+    "3": 2977,
+    "48": 96,
+    "57": 0,
+    "7": 629
+  },
+  "description": "Bridge for either team",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6745,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Siege-Bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

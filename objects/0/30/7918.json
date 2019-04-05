@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3112,
+    "3": 1816,
+    "5": 1044
+  },
+  "description": "Organ test assets",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7918,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Organ Button On",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

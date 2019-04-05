@@ -1,0 +1,48 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1836,
+    "3": 1020,
+    "5": 641,
+    "7": 415
+  },
+  "description": "AG Burno mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 48,
+      "iconState": 1
+    },
+    {
+      "iconID": 49,
+      "iconState": 2
+    },
+    {
+      "iconID": 50,
+      "iconState": 4
+    },
+    {
+      "iconID": 51,
+      "iconState": 9
+    },
+    {
+      "iconID": 49,
+      "iconState": 10
+    },
+    {
+      "iconID": 169,
+      "iconState": 12
+    }
+  ],
+  "id": 4045,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Burno The Dragon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

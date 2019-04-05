@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 7,
+    "2": 2403,
+    "3": 991,
+    "5": 81
+  },
+  "description": "Team 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2862,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Mission B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

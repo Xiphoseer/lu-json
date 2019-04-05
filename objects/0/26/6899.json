@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6459,
+    "3": 3032
+  },
+  "description": "test right wheel for car",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6899,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "test right wheel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

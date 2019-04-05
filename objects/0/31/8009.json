@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for brett",
+  "components": {
+    "11": 3411,
+    "2": 7556
+  },
+  "description": "Test object for brett",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8009,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test_Acc_ProxyHand2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

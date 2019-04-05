@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 164
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7230,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test powerup perf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Powerup"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11948,
+    "3": 5956,
+    "39": 12199,
+    "5": 1329,
+    "7": 320
+  },
+  "description": "Water and Grow Flowers for Sensei Wu in AM",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12199,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Aura Blossom Flowers",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

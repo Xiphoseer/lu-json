@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4789,
+    "2": 9737,
+    "3": 4372,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Yellow Tree Model 3",
+  "gate_version": null,
+  "id": 9909,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Tree 3 yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "consumable",
+  "components": {
+    "11": 6006,
+    "2": 11863,
+    "53": 106
+  },
+  "description": "Double-click to unwrap this S.N.A.C.K. pack!",
+  "displayName": "S.N.A.C.K.",
+  "gate_version": "auramar",
+  "id": 12114,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "S.N.A.C.K.",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

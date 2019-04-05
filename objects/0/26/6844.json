@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/2 Ranged + 5 chargeup",
+  "components": {
+    "11": 2864,
+    "2": 6395,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Quality Flintlock Pistol of Blasting",
+  "gate_version": null,
+  "id": 6844,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Quality Flintlock Pistol of Blasting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 895
+    }
+  ],
+  "type": "Loot"
+}

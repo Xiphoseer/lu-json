@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2610,
+    "2": 5739,
+    "5": 179,
+    "7": 119
+  },
+  "description": "Shooting Gallery Target",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6300,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Ship Windcatcher Maelstrom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

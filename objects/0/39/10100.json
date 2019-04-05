@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 366,
+    "2": 9936,
+    "3": 1777,
+    "35": 458,
+    "7": 307
+  },
+  "description": "Ambient NPC for LUP Station",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10100,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Starbase 3001 Ambient",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5766,
+    "2": 11467,
+    "3": 5559,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Truck Model",
+  "gate_version": "march2011content",
+  "id": 11715,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Truck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

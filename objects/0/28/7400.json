@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3077,
+    "2": 6964,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Buccaneer Pistol & Cutlass 1",
+  "gate_version": null,
+  "id": 7400,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Buccaneer Weapon 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 451
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 711
+    }
+  ],
+  "type": "Loot"
+}

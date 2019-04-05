@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For use with treeMonkey",
+  "components": {
+    "2": 6799
+  },
+  "description": "For use with treeMonkey",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7219,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Banana Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

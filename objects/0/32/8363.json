@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Makes you sparkle",
+  "components": {
+    "11": 3684,
+    "2": 7921,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8363,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bag of Glitter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 959
+    }
+  ],
+  "type": "Loot"
+}

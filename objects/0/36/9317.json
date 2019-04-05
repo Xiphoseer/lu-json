@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5144,
+    "3": 3160
+  },
+  "description": "Test object for VFX",
+  "displayName": "ANGELO IS AWESOME",
+  "gate_version": null,
+  "id": 9317,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ANGELOS TEST OBJECT",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6185,
+    "2": 12395,
+    "9": 0
+  },
+  "description": "Paradox Scout Helmet",
+  "displayName": "NPC Paradox Scout Helmet",
+  "gate_version": null,
+  "id": 12606,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Paradox Scout Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 298
+    }
+  ],
+  "type": "Loot"
+}

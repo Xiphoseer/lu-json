@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Fire  element projectile spinner trap",
+  "components": {
+    "2": 14941,
+    "25": 22,
+    "3": 7652,
+    "39": 115,
+    "5": 1660,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Fire  - Projectile Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16225,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Fire - Projectile Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

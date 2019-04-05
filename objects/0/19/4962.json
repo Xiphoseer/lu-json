@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4386,
+    "25": 0,
+    "27": 0,
+    "3": 2262
+  },
+  "description": "Puccio & Kidd",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4962,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DMB - Bone Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

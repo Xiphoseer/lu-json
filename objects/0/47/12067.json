@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11816,
+    "3": 5861
+  },
+  "description": "Test of the Mine Section A of Aura Mar",
+  "displayName": "AM Mine Section A",
+  "gate_version": null,
+  "id": 12067,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Mining Section A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

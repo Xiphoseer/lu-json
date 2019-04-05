@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6815,
+    "2": 13443,
+    "3": 6763,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Straight Aviary Floor Model 2",
+  "gate_version": "april2011content",
+  "id": 13705,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Aviary Floor Straight 2 ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

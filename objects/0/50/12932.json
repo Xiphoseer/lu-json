@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12717,
+    "3": 6286,
+    "48": 185,
+    "7": 1794
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 12932,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "rebuild_nt_rebuildpipe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

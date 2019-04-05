@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE Emote, AoE IP Restore, everlasting",
+  "components": {
+    "11": 984,
+    "2": 2450,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Boom Box",
+  "gate_version": null,
+  "id": 2946,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rhymin and Buildin Boombox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 793
+    }
+  ],
+  "type": "Loot"
+}

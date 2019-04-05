@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Engineerr Valiant Weapon Proxy",
+  "components": {
+    "11": 6570,
+    "2": 13009,
+    "5": 1091,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Engineer Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13279,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Engineer Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1010
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "ActivityID": 55,
+  "CommunityActivityFlagID": null,
+  "gate_version": null,
+  "instanceMapID": 1402,
+  "leaderboardType": null,
+  "locStatus": 2,
+  "localize": true,
+  "maxTeamSize": 4,
+  "maxTeams": 1,
+  "minTeamSize": 1,
+  "minTeams": 1,
+  "noTeamLootOnDeath": false,
+  "optionalCostCount": null,
+  "optionalCostLOT": null,
+  "optionalPercentage": null,
+  "requiresUniqueData": false,
+  "showUIRewards": true,
+  "startDelay": 3000,
+  "waitTime": 60000
+}

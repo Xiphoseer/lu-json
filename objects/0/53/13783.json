@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 514,
+    "2": 13522,
+    "3": 6811,
+    "35": 604,
+    "5": 1470,
+    "7": 1928,
+    "9": 0
+  },
+  "description": "GF ambient",
+  "displayName": "Yawny Goodknight - Sentinel Guard",
+  "gate_version": "nexustower",
+  "id": 13783,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT - Sleepy Knight",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

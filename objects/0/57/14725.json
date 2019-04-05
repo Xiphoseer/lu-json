@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Ren Blue Ninja hood",
+  "components": {
+    "11": 7219,
+    "2": 14412,
+    "9": 0
+  },
+  "description": "NPC Ren Blue Ninja hood",
+  "displayName": "NPC Ren Blue Ninja hood",
+  "gate_version": "njhub",
+  "id": 14725,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Ren Blue Ninja hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 102,
+    "17": 485,
+    "2": 13104,
+    "3": 1777,
+    "35": 573,
+    "7": 306,
+    "73": 148
+  },
+  "description": "Sentinel Faction Kits Vendor",
+  "displayName": "Nikolai Gammapulse - Sentinel Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 13376,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Sentinel Faction Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

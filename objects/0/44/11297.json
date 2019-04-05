@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11073,
+    "3": 5219
+  },
+  "description": "Maya Measurement of twenty degrees for Navmesh testing",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11297,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MM_20Degrees",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

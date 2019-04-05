@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6271,
+    "2": 12512,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Wand of Repulsion",
+  "gate_version": "nexustower",
+  "id": 12723,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wand of Repulsion",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1231
+    }
+  ],
+  "type": "Loot"
+}

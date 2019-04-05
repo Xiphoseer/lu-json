@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9816,
+    "3": 4414
+  },
+  "description": "Overhead indicator for Survival",
+  "displayName": "Survival Overhead Icon",
+  "gate_version": null,
+  "id": 9988,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Survival Overhead Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Icon"
+}

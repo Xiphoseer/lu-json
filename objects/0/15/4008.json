@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "3": 1536,
+    "5": 623
+  },
+  "description": "once 3999 spawns in, it creates one of these bouncers",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4008,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - hydrant broken bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Bouncers"
+}

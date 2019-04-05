@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4452,
+    "2": 9223,
+    "28": 108,
+    "3": 3767,
+    "42": 0,
+    "63": 7
+  },
+  "description": null,
+  "displayName": "Hyperstarter Rear Bumper",
+  "gate_version": null,
+  "id": 9364,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car1_RearBumper1_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

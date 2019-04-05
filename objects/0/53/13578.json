@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6705,
+    "2": 13315
+  },
+  "description": "Return this to Achilles Plutarch in Nexus Tower.",
+  "displayName": "Achilles' Shield",
+  "gate_version": "nexustower",
+  "id": 13578,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

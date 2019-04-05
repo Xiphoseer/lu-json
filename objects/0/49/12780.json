@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP + emote",
+  "components": {
+    "11": 6328,
+    "2": 12570,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Egyptian Headdress",
+  "gate_version": "auramar",
+  "id": 12780,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Walk Like an Egyptian Headdress",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1109
+    }
+  ],
+  "type": "Loot"
+}

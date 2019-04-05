@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8702,
+    "3": 3979
+  },
+  "description": "block template to show the size of the medium buiuld area",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9248,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proto-med property build area",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

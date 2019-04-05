@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 2 IP",
+  "components": {
+    "11": 3668,
+    "2": 7905,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Twin Dragons Kimono",
+  "gate_version": null,
+  "id": 8347,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Twin Dragons Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

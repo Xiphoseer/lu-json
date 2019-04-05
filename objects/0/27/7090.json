@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 474 - Hidden",
+  "components": {
+    "11": 2979,
+    "2": 6664
+  },
+  "description": null,
+  "displayName": "Venture League Approval",
+  "gate_version": null,
+  "id": 7090,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Venture Badge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

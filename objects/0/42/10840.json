@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5296,
+    "2": 10687,
+    "3": 4961,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Flamingo Model",
+  "gate_version": null,
+  "id": 10840,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Flamingo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

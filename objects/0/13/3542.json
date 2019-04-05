@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2935,
+    "3": 1725,
+    "5": 466
+  },
+  "description": "Big Piano",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3542,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Piano F",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

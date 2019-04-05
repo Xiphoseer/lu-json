@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 4 AP",
+  "components": {
+    "11": 6998,
+    "2": 13832,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Nexus Force Shield MK I",
+  "gate_version": "nexustower",
+  "id": 14121,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Force Shield Mk I",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

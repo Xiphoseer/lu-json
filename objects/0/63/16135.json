@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14853,
+    "40": 7591,
+    "5": 1614,
+    "7": 2114
+  },
+  "description": "Pet Dig Treasure Chest",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16135,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Treasure Pet Dig",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

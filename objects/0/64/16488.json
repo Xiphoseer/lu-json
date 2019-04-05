@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/3 6/6/9 NJ Slashing",
+  "components": {
+    "11": 7722,
+    "2": 15234,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Purified Dagger",
+  "gate_version": "njhub",
+  "id": 16488,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1420
+    }
+  ],
+  "type": "Loot"
+}

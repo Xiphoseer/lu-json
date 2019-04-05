@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6107,
+    "2": 12227
+  },
+  "description": "Return this to Dr. Overbuild.",
+  "displayName": "Safe Housing",
+  "gate_version": "nexustower",
+  "id": 12464,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bank - Safe Housing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

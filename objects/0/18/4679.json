@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4097,
+    "3": 1777,
+    "35": 100,
+    "7": 305
+  },
+  "description": "Parachute Game Vendor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4679,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dirtnap Barski",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

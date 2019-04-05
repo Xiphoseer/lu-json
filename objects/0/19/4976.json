@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2907,
+    "40": 2272,
+    "5": 699,
+    "9": 0
+  },
+  "description": "Geoffed Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4976,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mission Minigame Vol",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 158
+    }
+  ],
+  "type": "BlockingVolume"
+}

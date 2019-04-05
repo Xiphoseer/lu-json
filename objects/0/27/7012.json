@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6591,
+    "3": 3105
+  },
+  "description": "Transition cave from Jail area to Property / Croc",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Area 7 Transition",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

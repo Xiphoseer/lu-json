@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for FE",
+  "components": {
+    "2": 10882
+  },
+  "description": "Test object for FE",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11132,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST FE Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

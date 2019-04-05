@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9645,
+    "3": 4299,
+    "7": 1613
+  },
+  "description": "Smashable Canister for FV facility research area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9809,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Facility - Canister",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

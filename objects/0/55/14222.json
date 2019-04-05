@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 7048,
+    "2": 13922
+  },
+  "description": "Return this to Rutger Hemoglobin in Nexus Tower.",
+  "displayName": "Rutger's Hair Gel",
+  "gate_version": "nexustower",
+  "id": 14222,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

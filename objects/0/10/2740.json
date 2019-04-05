@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2041,
+    "25": 0,
+    "3": 1110
+  },
+  "description": "Team 5",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2740,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Contest Large Rocks Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "MovingPlatforms"
+}

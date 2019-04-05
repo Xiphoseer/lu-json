@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12336,
+    "3": 6175,
+    "7": 1742
+  },
+  "description": "Smashable Crate for Venture Explorer instnace",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12544,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VE Instance - Smashable Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

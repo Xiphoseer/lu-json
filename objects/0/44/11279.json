@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1893,
+    "3": 1007,
+    "39": 11279,
+    "5": 1195
+  },
+  "description": "Wishing Well",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11279,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Wishing Well Dingy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

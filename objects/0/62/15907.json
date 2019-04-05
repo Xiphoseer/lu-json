@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Left handed Weird dmg attack + 3 IP",
+  "components": {
+    "11": 7323,
+    "2": 14599,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Scorpion Whip",
+  "gate_version": "njhub",
+  "id": 15907,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Scorpion Whip",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1475
+    }
+  ],
+  "type": "Loot"
+}

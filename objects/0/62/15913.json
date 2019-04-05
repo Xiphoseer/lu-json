@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14605,
+    "40": 7529
+  },
+  "description": "for attaching vfx to",
+  "displayName": "fx_pirate_ship_boom_locator",
+  "gate_version": null,
+  "id": 15913,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_pirate_ship_boom_locator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

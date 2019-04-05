@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth element high-blade spinner trap",
+  "components": {
+    "2": 14935,
+    "25": 16,
+    "3": 7646,
+    "5": 1654
+  },
+  "description": "",
+  "displayName": "NJ - Earth - High-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16219,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - High-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

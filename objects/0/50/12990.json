@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 3 Specialty Kit Item - Color Variant",
+  "components": {
+    "11": 6470,
+    "2": 12775,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Buccaneer Bandolier 3",
+  "gate_version": "auramar",
+  "id": 12990,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Buccaneer Neck/Back 3 Color Variant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 383
+    }
+  ],
+  "type": "Loot"
+}

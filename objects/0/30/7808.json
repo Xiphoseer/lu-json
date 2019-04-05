@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3305,
+    "2": 7363,
+    "3": 3475,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Fire Hydrant Model",
+  "gate_version": null,
+  "id": 7808,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fire Hydrant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5480,
+    "2": 10961,
+    "28": 221,
+    "3": 5121,
+    "42": 0
+  },
+  "description": "Jadeoria Modular Build Rocket Nose Cone",
+  "displayName": "Jadeoria Rocket Nose Cone",
+  "gate_version": null,
+  "id": 11192,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP Brickazons Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

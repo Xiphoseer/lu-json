@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Smashing",
+  "components": {
+    "11": 2954,
+    "2": 6552,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Fish on a Stick",
+  "gate_version": null,
+  "id": 6973,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Fish on a Stick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 546
+    }
+  ],
+  "type": "Loot"
+}

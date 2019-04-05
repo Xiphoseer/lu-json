@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1660,
+    "3": 825,
+    "48": 71,
+    "5": 910,
+    "7": 503
+  },
+  "description": "Siege QB Bridge",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6575,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Attacker Bridge QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

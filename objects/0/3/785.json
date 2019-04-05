@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Do not drop/vend",
+  "components": {
+    "11": 603,
+    "2": 618,
+    "3": 1757
+  },
+  "description": null,
+  "displayName": "Flag 2x2 with Horizontal Clips",
+  "gate_version": null,
+  "id": 785,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "m2335",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "LEGO brick"
+}

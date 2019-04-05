@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5782,
+    "3": 2636,
+    "5": 0,
+    "7": 511
+  },
+  "description": "Crate holding 1 piece of the bridge collectible for Pet Rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6335,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PC - Bridge Part 1 Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

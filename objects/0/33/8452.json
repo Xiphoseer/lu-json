@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Slashing",
+  "components": {
+    "11": 3746,
+    "2": 8007,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Shortsword",
+  "gate_version": null,
+  "id": 8452,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Shortsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 277
+    }
+  ],
+  "type": "Loot"
+}

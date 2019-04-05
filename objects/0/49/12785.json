@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 3 AP",
+  "components": {
+    "11": 6333,
+    "2": 12575,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Miners' Helm",
+  "gate_version": "auramar",
+  "id": 12785,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Miners Helm 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1895,
+    "40": 1041,
+    "5": 28,
+    "7": 216,
+    "9": 0
+  },
+  "description": "Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1625,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - Life Powerup 1 point",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 5
+    }
+  ],
+  "type": "NPC"
+}

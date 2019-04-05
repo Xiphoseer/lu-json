@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13840,
+    "3": 7026,
+    "40": 7138,
+    "5": 1554
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 14129,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Dukes Blast Door",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

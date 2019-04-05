@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13563,
+    "3": 6832
+  },
+  "description": "Lightning - Electricity dungeon Transition 1",
+  "displayName": "NJ - Lightning - Electricity - Transition1",
+  "gate_version": "njhub",
+  "id": 13824,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Electricity - Transition1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

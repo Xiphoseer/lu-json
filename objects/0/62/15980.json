@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 12 2011",
+  "components": {
+    "11": 7393,
+    "2": 14681,
+    "53": 155
+  },
+  "description": "Double-click to open!",
+  "displayName": "Dune Buggy Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15980,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dune Buggy Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

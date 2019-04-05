@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 3663,
+    "2": 7897,
+    "28": 60,
+    "3": 3894,
+    "42": 0
+  },
+  "description": "Promo Modular Build rocket engine",
+  "displayName": "Nexus Force Rocket Engine",
+  "gate_version": null,
+  "id": 8339,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Promo Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

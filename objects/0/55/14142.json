@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13852,
+    "3": 7031,
+    "5": 1542,
+    "7": 1923,
+    "9": 0
+  },
+  "description": "Proto - Fire Jet",
+  "displayName": "Proto - Fire Jet",
+  "gate_version": "auramar",
+  "id": 14142,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Proto - Fire Jet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

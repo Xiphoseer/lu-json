@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7753,
+    "3": 3800
+  },
+  "description": "Paradox Facility scene glom in Forbidden Valley",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8211,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Paradox Facility Scene Glom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

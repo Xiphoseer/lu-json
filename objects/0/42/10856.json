@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5312,
+    "2": 10703,
+    "3": 4977,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fireplace Model",
+  "gate_version": null,
+  "id": 10856,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Fireplace",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

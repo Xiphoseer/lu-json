@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13546,
+    "3": 6816
+  },
+  "description": "exeter_missile_strike_object",
+  "displayName": "exeter skill strike object",
+  "gate_version": "auramar",
+  "id": 13807,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nt_FX_rocket_flyby",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

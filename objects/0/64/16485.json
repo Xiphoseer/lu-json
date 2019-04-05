@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Collectible widget spawner for njhub",
+  "components": {
+    "2": 15231,
+    "23": 78,
+    "40": 7886
+  },
+  "description": "",
+  "displayName": "Dragon Relic of Ice",
+  "gate_version": "njhub",
+  "id": 16485,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Ice Dragon Relic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

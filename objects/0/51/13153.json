@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6523,
+    "2": 12934,
+    "3": 6400,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Lamp Model",
+  "gate_version": "march2011content",
+  "id": 13153,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Lamp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item for PreOrders",
+  "components": {
+    "11": 4823,
+    "2": 9789,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Nexus Astronaut Pants",
+  "gate_version": null,
+  "id": 9961,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Astronaut Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

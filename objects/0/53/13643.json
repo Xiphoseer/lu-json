@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6753,
+    "2": 13381,
+    "3": 6701,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Wall Gate Model ",
+  "gate_version": "april2011content",
+  "id": 13643,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Wall Gate ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12206,
+    "3": 6114
+  },
+  "description": "Grenades that the Skeleton throw from the towers",
+  "displayName": "Skullken_tower_grenade",
+  "gate_version": null,
+  "id": 12453,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FX_AM_skullken_tower_grenade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

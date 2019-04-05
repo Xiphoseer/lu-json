@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 1026,
+    "71": 39
+  },
+  "description": "Zone control object for racing on GF track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7919,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Racing zone control object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

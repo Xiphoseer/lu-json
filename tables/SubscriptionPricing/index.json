@@ -1,0 +1,38 @@
+{
+  "_embedded": {
+    "SubscriptionPricing": [
+      {
+        "countryCode": "US",
+        "id": 0,
+        "monetarySymbol": 36,
+        "monthlyFeeBronze": "9.99",
+        "monthlyFeeGold": "7.50",
+        "monthlyFeeSilver": "8.33",
+        "symbolIsAppended": false
+      },
+      {
+        "countryCode": "GB",
+        "id": 1,
+        "monetarySymbol": 163,
+        "monthlyFeeBronze": "7.49",
+        "monthlyFeeGold": "5.83",
+        "monthlyFeeSilver": "6.67",
+        "symbolIsAppended": false
+      },
+      {
+        "countryCode": "DE",
+        "id": 2,
+        "monetarySymbol": 8364,
+        "monthlyFeeBronze": "9,99",
+        "monthlyFeeGold": "7,50",
+        "monthlyFeeSilver": "8,33",
+        "symbolIsAppended": false
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/SubscriptionPricing/index.json"
+    }
+  }
+}

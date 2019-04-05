@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11215,
+    "3": 5314
+  },
+  "description": "Celebration that plays when you join the Sentinel Faction",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11467,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Celebration",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

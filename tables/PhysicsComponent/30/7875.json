@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 12,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 7875,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "miscellaneous\\gorrilla.hkx",
+  "playerHeight": 6.0,
+  "playerRadius": 6.0,
+  "rotSpeed": 360.0,
+  "speed": 7.0,
+  "static": 0.0
+}

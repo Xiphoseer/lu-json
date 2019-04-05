@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5540,
+    "2": 11076
+  },
+  "description": "It can make someone pretty.",
+  "displayName": "Handsome Mug",
+  "gate_version": null,
+  "id": 11299,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Handsome Mug",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

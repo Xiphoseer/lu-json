@@ -1,0 +1,85 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 41,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 199,
+      "activityRating": 0,
+      "description": "PvP Siege Winner T1"
+    },
+    {
+      "ActivityRewardIndex": 42,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 17,
+      "LootMatrixIndex": 198,
+      "activityRating": 500,
+      "description": "PvP Siege Winner T2"
+    },
+    {
+      "ActivityRewardIndex": 43,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 18,
+      "LootMatrixIndex": 197,
+      "activityRating": 1500,
+      "description": "PvP Siege Winner T3"
+    },
+    {
+      "ActivityRewardIndex": 44,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 19,
+      "LootMatrixIndex": 239,
+      "activityRating": 3000,
+      "description": "PvP Siege Winner T4"
+    },
+    {
+      "ActivityRewardIndex": 45,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 20,
+      "LootMatrixIndex": 241,
+      "activityRating": 4000,
+      "description": "PvP Siege Winner T5"
+    },
+    {
+      "ActivityRewardIndex": 46,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 202,
+      "activityRating": 0,
+      "description": "PvP Siege Loser T1"
+    },
+    {
+      "ActivityRewardIndex": 47,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 201,
+      "activityRating": 5,
+      "description": "PvP Siege Loser T2"
+    },
+    {
+      "ActivityRewardIndex": 48,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 200,
+      "activityRating": 15,
+      "description": "PvP Siege Loser T3"
+    },
+    {
+      "ActivityRewardIndex": 49,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 240,
+      "activityRating": 30,
+      "description": "PvP Siege Loser T4"
+    },
+    {
+      "ActivityRewardIndex": 50,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 16,
+      "LootMatrixIndex": 242,
+      "activityRating": 40,
+      "description": "PvP Siege Loser T5"
+    }
+  ],
+  "objectTemplate": 37
+}

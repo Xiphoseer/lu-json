@@ -1,0 +1,26 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/4/4415.json"
+    }
+  },
+  "behaviorID": 4415,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "LOT_ID": 7833.0,
+    "clear_provided_target": 0.0,
+    "max_distance": 180.0,
+    "offset_x": 0.0,
+    "offset_y": 1.0,
+    "offset_z": 6.0,
+    "projectile_speed": 300.0,
+    "projectile_type": 1.0,
+    "track_radius": 5.0,
+    "track_target": 0.0,
+    "use_high_arc": 0.0,
+    "use_mouseposit": 1.0,
+    "use_prediction": 0.0
+  },
+  "templateID": 4
+}

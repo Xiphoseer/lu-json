@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1090,
+    "2": 2027,
+    "5": 222
+  },
+  "description": "A test for beginning a Shooting Gallery instance",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2437,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Instance trigger test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

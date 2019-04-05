@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 82,
+    "17": 315,
+    "2": 9549,
+    "3": 1777,
+    "35": 402,
+    "7": 306
+  },
+  "description": "GF Brick Vendor - Camp",
+  "displayName": "Rolly Jodger - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 9707,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Brick Vendor - Pirate Camp",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5799,
+    "2": 11500,
+    "3": 5592,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City Monster with Car Model",
+  "gate_version": "nexustower",
+  "id": 11748,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City Monster with Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

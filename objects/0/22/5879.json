@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5346,
+    "3": 2465,
+    "5": 767
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5879,
+  "interactionDistance": 500.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Stop Play Button 01",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

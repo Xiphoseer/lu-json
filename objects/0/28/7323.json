@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6889,
+    "40": 3303,
+    "5": 1012
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7323,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Race Vol 200x100",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

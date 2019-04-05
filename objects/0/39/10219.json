@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10060,
+    "3": 4514,
+    "7": 1533
+  },
+  "description": "Smashable barrier for FV",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10219,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV- lego Barrier",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

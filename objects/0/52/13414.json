@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13145,
+    "3": 6519
+  },
+  "description": "Lightning - Prototype room for gameplay iteration",
+  "displayName": "NJ - Lightning Proto Gameplay Room 3",
+  "gate_version": "njhub",
+  "id": 13414,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning Proto Gameplay Room 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

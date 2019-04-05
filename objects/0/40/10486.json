@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Proxy",
+  "components": {
+    "11": 5179,
+    "2": 10329,
+    "9": 0
+  },
+  "description": "Used to fill the hand will using dragon style",
+  "displayName": "Dragon Style- Right Hand Proxy",
+  "gate_version": null,
+  "id": 10486,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dragon Style- Right Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 750
+    }
+  ],
+  "type": "Loot"
+}

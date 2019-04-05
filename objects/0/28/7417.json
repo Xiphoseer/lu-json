@@ -1,0 +1,40 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 3 Specialty Kit Item",
+  "components": {
+    "11": 3089,
+    "2": 6981,
+    "5": 1091,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item",
+  "displayName": "Engineer Vest 3",
+  "gate_version": null,
+  "id": 7417,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Engineer Neck/Back 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 649
+    }
+  ],
+  "type": "Loot"
+}

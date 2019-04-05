@@ -1,0 +1,19 @@
+{
+  "id": 384,
+  "tasks": [
+    {
+      "IconID": 2920,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Gnarled_forest\\Task_icons\\mission_384.dds",
+      "largeTaskIconID": 2920,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6224,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 4,
+      "uid": 583
+    }
+  ]
+}

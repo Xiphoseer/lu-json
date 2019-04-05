@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3522,
+    "2": 7412,
+    "7": 756,
+    "9": 0
+  },
+  "description": "Thrown gem that spawns the trance gem on impact",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7854,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Gem Projectile Rank 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 407
+    }
+  ],
+  "type": "Shooting Gallery"
+}

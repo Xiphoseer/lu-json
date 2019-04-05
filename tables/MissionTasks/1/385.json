@@ -1,0 +1,61 @@
+{
+  "id": 385,
+  "tasks": [
+    {
+      "IconID": 2921,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Gnarled_forest\\Task_icons\\mission_385.dds",
+      "largeTaskIconID": 2921,
+      "locStatus": 2,
+      "localize": true,
+      "target": 386,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 585
+    },
+    {
+      "IconID": 2921,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Gnarled_forest\\Task_icons\\mission_385.dds",
+      "largeTaskIconID": 2921,
+      "locStatus": 2,
+      "localize": true,
+      "target": 387,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 598
+    },
+    {
+      "IconID": 2921,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Gnarled_forest\\Task_icons\\mission_385.dds",
+      "largeTaskIconID": 2921,
+      "locStatus": 2,
+      "localize": true,
+      "target": 388,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 599
+    },
+    {
+      "IconID": 2921,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Gnarled_forest\\Task_icons\\mission_385.dds",
+      "largeTaskIconID": 2921,
+      "locStatus": 2,
+      "localize": true,
+      "target": 390,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 16,
+      "uid": 601
+    }
+  ]
+}

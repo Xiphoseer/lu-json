@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Model 3",
+  "components": {
+    "11": 3017,
+    "2": 6725,
+    "42": 0
+  },
+  "description": "Test Model 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7146,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test for Media team 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

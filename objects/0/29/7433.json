@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Unused Mission Item - Hidden",
+  "components": {
+    "11": 3090,
+    "2": 6998
+  },
+  "description": "Mission Item - Unused",
+  "displayName": "Story Tablet 1",
+  "gate_version": null,
+  "id": 7433,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Unused Story Tablet 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

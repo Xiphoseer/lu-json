@@ -1,0 +1,19 @@
+{
+  "id": 1363,
+  "tasks": [
+    {
+      "IconID": 3289,
+      "gate_version": "nexustower",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3602,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3038,
+      "targetGroup": null,
+      "targetValue": 200,
+      "taskParam1": "2",
+      "taskType": 11,
+      "uid": 1894
+    }
+  ]
+}

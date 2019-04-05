@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10055,
+    "3": 4509
+  },
+  "description": "Scale test for Monastary",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10214,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Entry_Monistary",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

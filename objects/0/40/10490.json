@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 3 Reward Behavior for Achievement 882",
+  "components": {
+    "11": 5183,
+    "2": 10333
+  },
+  "description": "Smashes model on attack then completely resets model and all behaviors.",
+  "displayName": "Advanced Smash Behavior",
+  "gate_version": null,
+  "id": 10490,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Advanced Smash",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

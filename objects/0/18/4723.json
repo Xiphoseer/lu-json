@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4140,
+    "3": 1278
+  },
+  "description": "Used to have a moving effect on the quick build (the white bricks)",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4723,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Quick_Build_Effect_Node",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Effect"
+}

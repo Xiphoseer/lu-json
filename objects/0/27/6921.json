@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3021,
+    "2": 6483,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Breastplate of Armor 1",
+  "gate_version": null,
+  "id": 6921,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Breastplate of Armor 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

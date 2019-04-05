@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3830,
+    "2": 8095,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Lockjaw Helm",
+  "gate_version": null,
+  "id": 8541,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lockjaw Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

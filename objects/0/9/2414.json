@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 12,
+    "17": 362,
+    "2": 9874,
+    "3": 1777,
+    "35": 454,
+    "7": 306
+  },
+  "description": "FV Accessory Vendor - Great Tree",
+  "displayName": "Yan Parablister - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 2414,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Gear Vendor - Great Tree",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

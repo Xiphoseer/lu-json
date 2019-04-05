@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4351,
+    "3": 2233,
+    "5": 734,
+    "7": 305
+  },
+  "description": "DJ npc with turntables",
+  "displayName": "DJ Studd - Nimbus Station Mixmaster",
+  "gate_version": null,
+  "id": 4918,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Concert DJ",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

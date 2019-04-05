@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5272,
+    "2": 10663,
+    "3": 4937,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Deck Chair Model",
+  "gate_version": null,
+  "id": 10816,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward DeckChair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

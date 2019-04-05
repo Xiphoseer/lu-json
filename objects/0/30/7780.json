@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE IP Spawn",
+  "components": {
+    "11": 3288,
+    "2": 7336,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hat of Sprouting Imagination",
+  "gate_version": null,
+  "id": 7780,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hat of Sprouting Imagination",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 615
+    }
+  ],
+  "type": "Loot"
+}

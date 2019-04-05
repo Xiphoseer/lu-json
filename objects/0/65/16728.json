@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 8052,
+    "2": 15517,
+    "9": 0
+  },
+  "description": "NJ  Kunai 3/12 dmg with DoT",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16728,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Fire Kunai Projectile Bullet 3/12 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1680
+    }
+  ],
+  "type": "Shooting Gallery"
+}

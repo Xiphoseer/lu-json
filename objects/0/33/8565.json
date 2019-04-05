@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8118,
+    "3": 3951
+  },
+  "description": "Mannequin used to replace ninjas in the jails of GF",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8565,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV GF - Ninja Mannequin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

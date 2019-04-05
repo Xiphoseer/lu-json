@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6647,
+    "2": 13171,
+    "3": 6532,
+    "42": 0
+  },
+  "description": "This model contains behaviors!",
+  "displayName": "Reward Charging Rhino",
+  "gate_version": null,
+  "id": 13450,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Charging Rhino",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

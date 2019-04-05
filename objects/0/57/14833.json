@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7305,
+    "2": 14527,
+    "9": 0
+  },
+  "description": "NPC Red Samurai Helm",
+  "displayName": "NPC Red Samurai Helm",
+  "gate_version": "njhub",
+  "id": 14833,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Red Samurai Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

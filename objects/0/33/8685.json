@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP +Emote",
+  "components": {
+    "11": 3924,
+    "2": 8239,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sailor Hat",
+  "gate_version": null,
+  "id": 8685,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sailor Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 842
+    }
+  ],
+  "type": "Loot"
+}

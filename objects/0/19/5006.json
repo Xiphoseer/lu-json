@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4423,
+    "3": 2318,
+    "35": 118,
+    "5": 736,
+    "7": 474,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Kant Dance",
+  "gate_version": null,
+  "id": 5006,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Concert Fan B",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

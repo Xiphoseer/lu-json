@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Emote",
+  "components": {
+    "11": 2901,
+    "2": 6442,
+    "9": 0
+  },
+  "description": "Don't eat it!",
+  "displayName": "Stinky Fish",
+  "gate_version": null,
+  "id": 6885,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Stinky Fish",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1429
+    }
+  ],
+  "type": "Loot"
+}

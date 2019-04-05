@@ -1,0 +1,651 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 4300,
+      "value_2": 64,
+      "value_3": 880,
+      "value_4": 16704,
+      "version": 48
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.41960784792900085,
+        0.6196078658103943,
+        0.7490196228027344,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        -0.47999998927116394,
+        -0.8600000143051147,
+        -0.1899999976158142,
+        100.0,
+        300.0,
+        80.0,
+        100.0,
+        0.0,
+        0.0,
+        100.0,
+        700.0,
+        100.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "ids": [
+        {
+          "id": 0,
+          "value_1": 0.0,
+          "value_2": 0.0
+        },
+        {
+          "id": 1,
+          "value_1": 100.0,
+          "value_2": 150.0
+        },
+        {
+          "id": 2,
+          "value_1": 150.0,
+          "value_2": 200.0
+        },
+        {
+          "id": 3,
+          "value_1": 200.0,
+          "value_2": 250.0
+        },
+        {
+          "id": 4,
+          "value_1": 350.0,
+          "value_2": 450.0
+        },
+        {
+          "id": 5,
+          "value_1": 50.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 6,
+          "value_1": 40.0,
+          "value_2": 40.0
+        },
+        {
+          "id": 7,
+          "value_1": 400.0,
+          "value_2": 600.0
+        },
+        {
+          "id": 8,
+          "value_1": 60.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 9,
+          "value_1": 50.0,
+          "value_2": 100.0
+        },
+        {
+          "id": 10,
+          "value_1": 300.0,
+          "value_2": 400.0
+        }
+      ],
+      "sky": [
+        "mesh\\env\\env_sky_won_nim_landing.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 3716106,
+          "lot": 14218,
+          "pos": {
+            "pos": {
+              "x": 512.306640625,
+              "y": 415.94000244140625,
+              "z": 42.051761627197266
+            },
+            "rot": {
+              "w": 0.12264882028102875,
+              "x": 0.0,
+              "y": 0.9924502372741699,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "256;247;47;141|142",
+            "GMLevel": 0,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "launchCamera": "AG_VentureExplorer_Launcher",
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "playSummary": true,
+            "playerAnim": "rocket-launch-AG",
+            "propertyDefaultTargetZone": 0,
+            "renderCullingGroup": 4,
+            "rocketAltLandingPrecondition": "",
+            "rocketAltLandingSpawnName": "",
+            "rocketAnim": "launch-property",
+            "rocketLaunchMusic": "AG_Rocket-Launch-Cinematic",
+            "rocketLaunchPreCondition": "256;247;47;141|142",
+            "rocketLaunchUseDBDefaults": false,
+            "rocketUseAltLandingPrecondition": false,
+            "rocketUseLaunchPrecondition": true,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "summaryCamera": "AG_VentureExplorer_Launcher",
+            "targetScene": "NS_AG",
+            "targetZone": 1001,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716107,
+          "lot": 14217,
+          "pos": {
+            "pos": {
+              "x": 577.2481689453125,
+              "y": 412.0999755859375,
+              "z": 88.13292694091797
+            },
+            "rot": {
+              "w": 0.45934736728668213,
+              "x": 0.0,
+              "y": 0.888256847858429,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "256;191|192;247",
+            "GMLevel": 0,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "launchCamera": "AGExitCam1",
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "playSummary": true,
+            "playerAnim": "rocket-launch-AG",
+            "propertyDefaultTargetZone": 0,
+            "renderCullingGroup": 7,
+            "rocketAltLandingPrecondition": "",
+            "rocketAltLandingSpawnName": "",
+            "rocketAnim": "launch-AG",
+            "rocketLaunchMusic": "AG_Rocket-Launch-Cinematic",
+            "rocketLaunchPreCondition": "256;191|192;247",
+            "rocketLaunchUseDBDefaults": false,
+            "rocketUseAltLandingPrecondition": false,
+            "rocketUseLaunchPrecondition": true,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "summaryCamera": "AGExitCam1",
+            "targetScene": "NS_AG",
+            "targetZone": 1200,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716108,
+          "lot": 14216,
+          "pos": {
+            "pos": {
+              "x": 584.7453002929688,
+              "y": 408.9400329589844,
+              "z": 133.61160278320313
+            },
+            "rot": {
+              "w": 0.6151795387268066,
+              "x": 0.0,
+              "y": 0.7883870601654053,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "GMLevel": 0,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "launchCamera": "Prop_Sm_Launch",
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "mapID": 1150,
+            "navmesh_carver": false,
+            "playSummary": false,
+            "playerAnim": "rocket-launch-AG",
+            "propertyDefaultTargetZone": 0,
+            "propertyLaunchNavGroupID": "",
+            "propertyLaunchPadOnPropertyMap": false,
+            "propertyName": "AGSmallProperty",
+            "renderCullingGroup": 7,
+            "rocketAltLandingPrecondition": "",
+            "rocketAltLandingSpawnName": "",
+            "rocketAnim": "launch-property",
+            "rocketLaunchMusic": "AG_Rocket-Launch-Cinematic",
+            "rocketLaunchPreCondition": "97|111",
+            "rocketLaunchUseDBDefaults": false,
+            "rocketUseAltLandingPrecondition": false,
+            "rocketUseLaunchPrecondition": true,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "summaryCamera": "Prop_Sm_Launch",
+            "targetScene": "",
+            "targetZone": 1150,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716109,
+          "lot": 14220,
+          "pos": {
+            "pos": {
+              "x": 403.0952453613281,
+              "y": 416.2301940917969,
+              "z": 78.55313873291016
+            },
+            "rot": {
+              "w": 0.7439854741096497,
+              "x": 0.0,
+              "y": -0.6681957840919495,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "256;247;47;113",
+            "GMLevel": 0,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "launchCamera": "Prop_Med_Launch",
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "mapID": 1151,
+            "navmesh_carver": false,
+            "playSummary": false,
+            "playerAnim": "rocket-launch-AG",
+            "propertyDefaultTargetZone": 0,
+            "propertyLaunchNavGroupID": "",
+            "propertyLaunchPadOnPropertyMap": false,
+            "propertyName": "AGMedProperty",
+            "renderCullingGroup": 3,
+            "rocketAltLandingPrecondition": "",
+            "rocketAltLandingSpawnName": "",
+            "rocketAnim": "launch-property",
+            "rocketLaunchMusic": "AG_Rocket-Launch-Cinematic",
+            "rocketLaunchPreCondition": "256;247;47;113",
+            "rocketLaunchUseDBDefaults": false,
+            "rocketUseAltLandingPrecondition": false,
+            "rocketUseLaunchPrecondition": true,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "summaryCamera": "Prop_Med_Launch",
+            "targetScene": "",
+            "targetZone": 1151,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716110,
+          "lot": 10496,
+          "pos": {
+            "pos": {
+              "x": 116.23458862304688,
+              "y": 375.7479553222656,
+              "z": -161.52127075195313
+            },
+            "rot": {
+              "w": 0.9967066049575806,
+              "x": 0.0,
+              "y": -0.08109204471111298,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "actIDovrd": true,
+            "activityID": 5,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "transferZoneID",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 12.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 3,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1,
+            "transferZoneID": "1101"
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716111,
+          "lot": 8419,
+          "pos": {
+            "pos": {
+              "x": 663.5587158203125,
+              "y": 332.5146789550781,
+              "z": -158.60067749023438
+            },
+            "rot": {
+              "w": 0.7070713639259338,
+              "x": -0.7071416974067688,
+              "y": -0.0006433901144191623,
+              "z": -0.0006176696624606848
+            }
+          },
+          "scale": 44.93000411987305,
+          "settings": {
+            "CamRlBiasAmt": 0.0,
+            "CamRlBiasBi": false,
+            "CamRlBiasFwd": false,
+            "CamRlBiasRet": false,
+            "CamRlCamPath": "",
+            "CamRlCamRetPath": "",
+            "CamRlFaceTgt": true,
+            "CamRlPosPath": "",
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camDir": "",
+            "camGradSnap": false,
+            "camLkDir": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001drenderDisabled",
+            "custom_script_client": "scripts\\client\\ai\\AG\\L_ACT_SHARK_PLAYER_DEATH_TRIGGER_CLIENT.lua",
+            "custom_script_server": "scripts\\ai\\AG\\L_ACT_SHARK_PLAYER_DEATH_TRIGGER.lua",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rlLeadIn": 1.0,
+            "rlLeadOut": -1.0,
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "setsRailCam": false,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716112,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": 251.45445251464844,
+              "y": 504.9815979003906,
+              "z": 100.83198547363281
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CamRlBiasAmt": 0.0,
+            "CamRlBiasBi": false,
+            "CamRlBiasFwd": false,
+            "CamRlBiasRet": false,
+            "CamRlCamPath": "",
+            "CamRlCamRetPath": "",
+            "CamRlFaceTgt": true,
+            "CamRlPosPath": "",
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{175adda8-4a62-40c9-9d44-75989ffa6faa}",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camDir": "",
+            "camGradSnap": false,
+            "camLkDir": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "radius": 0.0,
+            "renderCullingGroup": 0,
+            "respawn": 25.0,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rlLeadIn": 1.0,
+            "rlLeadOut": -1.0,
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "setsRailCam": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 6368,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716113,
+          "lot": 14672,
+          "pos": {
+            "pos": {
+              "x": -561.4584350585938,
+              "y": 352.843017578125,
+              "z": 248.76449584960938
+            },
+            "rot": {
+              "w": 0.9822871088981628,
+              "x": 0.0,
+              "y": 0.1873820275068283,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "246",
+            "actIDovrd": true,
+            "activityID": 14,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001diconID\u001dtransferZoneID\u001dtype",
+            "custom_script_client": "",
+            "custom_script_server": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "iconID": 179,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 8.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1,
+            "transferZoneID": "1102",
+            "type": "AG_Spider_Boss_01"
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 3716114,
+          "lot": 7869,
+          "pos": {
+            "pos": {
+              "x": 0.0,
+              "y": -50.0,
+              "z": -50.0
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "groupID": "Jet_FX;",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderAnimLODSkew": 100.0,
+            "renderCullingGroup": 0,
+            "renderOffscreenAnimEnabled": false,
+            "sceneIDOverride": 0,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    },
+    {
+      "_type": 2002
+    }
+  ]
+}

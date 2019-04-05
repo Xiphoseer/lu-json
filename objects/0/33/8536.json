@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 3825,
+    "2": 8090,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dox Shoulderpads",
+  "gate_version": null,
+  "id": 8536,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dox Shoulderpads",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5866,
+    "2": 11567,
+    "3": 5659,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Shed Wall Short Model 2",
+  "gate_version": "march2011content",
+  "id": 11815,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Shed Wall Short 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

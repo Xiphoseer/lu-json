@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5994,
+    "2": 11851,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Sunflower Seed",
+  "gate_version": "nexustower",
+  "id": 12102,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sunflower Seed",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1224
+    }
+  ],
+  "type": "Loot"
+}

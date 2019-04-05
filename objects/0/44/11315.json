@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5532,
+    "2": 11092,
+    "53": 71
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "Founder's Reward Pack",
+  "gate_version": null,
+  "id": 11315,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Founder's Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

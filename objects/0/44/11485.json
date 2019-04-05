@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11233,
+    "3": 5331
+  },
+  "description": "Paradox Area No Detail",
+  "displayName": "NT Glom_Paradox (No Detail)",
+  "gate_version": null,
+  "id": 11485,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Glom_Paradox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

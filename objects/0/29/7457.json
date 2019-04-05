@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3112,
+    "2": 7022,
+    "5": 1240,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Summoner Hat 1",
+  "gate_version": null,
+  "id": 7457,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Summoner Head 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 631
+    }
+  ],
+  "type": "Loot"
+}

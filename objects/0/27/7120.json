@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6709,
+    "3": 3067,
+    "5": 953
+  },
+  "description": "Placeable NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7120,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Small Spider",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

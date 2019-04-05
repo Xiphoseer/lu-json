@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "FV Miniboss",
+  "components": {
+    "1": 5803,
+    "2": 11748,
+    "39": 11989,
+    "5": 1316,
+    "60": 86,
+    "7": 1644,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Butterscorch - Maelstrom Dragon Invader",
+  "gate_version": "auramar",
+  "id": 11989,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Maelstrom Dragon NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 832
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 936
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 1211
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 1212
+    }
+  ],
+  "type": "Enemies"
+}

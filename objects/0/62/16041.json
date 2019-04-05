@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 6 AP",
+  "components": {
+    "11": 7429,
+    "2": 14762,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Cotton Repair Kit",
+  "gate_version": "njhub",
+  "id": 16041,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cotton Repair Kit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1521
+    }
+  ],
+  "type": "Loot"
+}

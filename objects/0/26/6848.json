@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Ranged + PBAoE",
+  "components": {
+    "11": 2868,
+    "2": 6399,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Captain Jack's Volleygun",
+  "gate_version": null,
+  "id": 6848,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Captain Jack's Volleygun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 872
+    }
+  ],
+  "type": "Loot"
+}

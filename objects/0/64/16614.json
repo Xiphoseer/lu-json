@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Fire Kit 2",
+  "components": {
+    "11": 7807,
+    "2": 15394,
+    "9": 0
+  },
+  "description": "Wear this to look like Kai!",
+  "displayName": "Kai's Hood of Flames",
+  "gate_version": "njhub",
+  "id": 16614,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu Hood Kai's Hood of Flames",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1572
+    }
+  ],
+  "type": "Loot"
+}

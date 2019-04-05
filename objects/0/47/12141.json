@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11890,
+    "3": 5899
+  },
+  "description": "Nexus Tower G10-Shell",
+  "displayName": "NT G10-Shell",
+  "gate_version": null,
+  "id": 12141,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G10-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

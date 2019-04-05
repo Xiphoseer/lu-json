@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2800,
+    "17": 188,
+    "2": 6045,
+    "35": 231,
+    "5": 889,
+    "60": 8,
+    "7": 577,
+    "9": 0
+  },
+  "description": "__MG__Guard that has animations and skills for shooting at enemies below",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6482,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Wall Guard",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 209
+    }
+  ],
+  "type": "NPC"
+}

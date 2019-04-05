@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1454,
+    "2": 2720,
+    "26": 4,
+    "5": 4,
+    "7": 389,
+    "9": 0
+  },
+  "description": "Don't use",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3253,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Reindeer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

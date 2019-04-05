@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1450,
+    "2": 2242,
+    "5": 559,
+    "9": 0
+  },
+  "description": "Deep Dive Mission Giver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - SkunkBuster Boss DD",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

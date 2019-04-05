@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 5 LP, 10 AP, 10 IP, +Emote, everlasting",
+  "components": {
+    "11": 1003,
+    "2": 2232,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Yo Ho Ho Mug",
+  "gate_version": null,
+  "id": 2989,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yo Ho Ho Mug",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 759
+    }
+  ],
+  "type": "Loot"
+}

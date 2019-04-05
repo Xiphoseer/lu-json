@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Nya Ninja Hair",
+  "components": {
+    "11": 7224,
+    "2": 14417,
+    "9": 0
+  },
+  "description": "NPC Nya Ninja Hair",
+  "displayName": "NPC Nya Ninja Hair",
+  "gate_version": "njhub",
+  "id": 14730,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Nya Ninja Hair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

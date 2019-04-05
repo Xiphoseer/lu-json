@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2837,
+    "2": 6333,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "First Mate's Vest",
+  "gate_version": null,
+  "id": 6799,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "First Mate's Shirt 2 - Bare Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

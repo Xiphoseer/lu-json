@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For testing colors and NOT skills",
+  "components": {
+    "11": 2349,
+    "2": 5076,
+    "9": 0
+  },
+  "description": "For testing colors and NOT skills",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5654,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Sword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 148
+    }
+  ],
+  "type": "Loot"
+}

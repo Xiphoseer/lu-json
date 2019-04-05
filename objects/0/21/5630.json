@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5049,
+    "3": 2312,
+    "5": 1717,
+    "7": 524
+  },
+  "description": "Laser Mining Gun asset placed on Monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5630,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Laser Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

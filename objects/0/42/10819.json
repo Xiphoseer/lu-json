@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5275,
+    "2": 10666,
+    "3": 4940,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Double Bed Model",
+  "gate_version": null,
+  "id": 10819,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward DoubleBed",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

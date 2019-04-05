@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13553,
+    "3": 6822
+  },
+  "description": "Lightning - Light dungeon Room 2",
+  "displayName": "NJ - Lightning - Light - Room2",
+  "gate_version": "njhub",
+  "id": 13813,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Lightning - Light - Room2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

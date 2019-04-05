@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13582,
+    "3": 6844,
+    "7": 1876
+  },
+  "description": "smashable piece hanging on wall",
+  "displayName": "NT-Sentinal wall smashable1",
+  "gate_version": null,
+  "id": 13842,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT-Sentinal wall smashable1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

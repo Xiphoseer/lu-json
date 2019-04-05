@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13202,
+    "3": 6574
+  },
+  "description": null,
+  "displayName": "NJ-Mon_Ice_Combat",
+  "gate_version": "njhub",
+  "id": 13467,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Ice_Combat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

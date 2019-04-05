@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5794,
+    "2": 11495,
+    "3": 5587,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Micro City House 2 Model",
+  "gate_version": "nexustower",
+  "id": 11743,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro City House 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

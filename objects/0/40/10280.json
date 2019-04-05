@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5046,
+    "2": 10124,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Test",
+  "gate_version": null,
+  "id": 10280,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Model Reward Cottage Kitchen Stove",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

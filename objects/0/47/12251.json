@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11998,
+    "3": 5985
+  },
+  "description": "locator for fv start area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12251,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV_track_locfx_StartAreaFall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

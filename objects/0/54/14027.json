@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Elite Tough  Skeleton for Ninjago",
+  "components": {
+    "1": 6967,
+    "17": 535,
+    "2": 13737,
+    "31": 77,
+    "5": 1524,
+    "60": 155,
+    "7": 1913,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Overseer",
+  "gate_version": "njhub",
+  "id": 14027,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Overseer",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1387
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1388
+    }
+  ],
+  "type": "Enemies"
+}

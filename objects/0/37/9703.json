@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 4235,
+    "2": 11008,
+    "7": 1918,
+    "9": 0
+  },
+  "description": "Daredevil flare shot bullet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9703,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Daredevil Bullet 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1304
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10913,
+    "3": 5297,
+    "5": 1254
+  },
+  "description": "Placeholder for celebration effect",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11164,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Object - New Item Celebrate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

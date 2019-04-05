@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Drops an anvil for 6 dmg",
+  "components": {
+    "11": 6707,
+    "2": 13317,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Foreman Radio",
+  "gate_version": "nexustower",
+  "id": 13580,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Foreman Radio",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1256
+    }
+  ],
+  "type": "Loot"
+}

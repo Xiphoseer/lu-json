@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "components": {
+    "11": 6725,
+    "2": 13341,
+    "53": 122
+  },
+  "description": "Double-click to use!",
+  "displayName": "Surprise Model Pack",
+  "gate_version": "communitymissions1.0",
+  "id": 13604,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG-NS Model Surprise Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

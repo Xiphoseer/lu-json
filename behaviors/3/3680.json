@@ -1,0 +1,15 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/3/3680.json"
+    }
+  },
+  "behaviorID": 3680,
+  "effectHandle": null,
+  "effectID": 1003,
+  "parameters": {
+    "max damage": 1.0,
+    "min damage": 1.0
+  },
+  "templateID": 1
+}

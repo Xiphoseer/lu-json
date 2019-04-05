@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5896,
+    "3": 2717,
+    "5": 877
+  },
+  "description": "Baby Spider",
+  "displayName": "Dark Spiderling",
+  "gate_version": null,
+  "id": 6408,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Caged Baby Spider",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5681,
+    "2": 11382,
+    "3": 5474,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Open Container 2 Model",
+  "gate_version": "nexustower",
+  "id": 11630,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Container Open 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

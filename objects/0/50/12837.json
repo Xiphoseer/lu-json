@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6360,
+    "2": 12626
+  },
+  "description": "Used to test stack deletion",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12837,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test DELETION Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,297 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 90,
+      "value_2": 64,
+      "value_3": 816,
+      "value_4": 0,
+      "version": 48
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.4666669964790344,
+        0.4470590054988861,
+        0.6039220094680786,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.5099999904632568,
+        -0.8299999833106995,
+        -0.2199999988079071,
+        200.0,
+        1000.0,
+        3500.0,
+        4000.0,
+        8000.0,
+        8000.0,
+        300.0,
+        1600.0,
+        2000.0,
+        2500.0,
+        8000.0,
+        8000.0
+      ],
+      "ids": [
+        {
+          "id": 1,
+          "value_1": 100.0,
+          "value_2": 350.0
+        },
+        {
+          "id": 2,
+          "value_1": 150.0,
+          "value_2": 350.0
+        },
+        {
+          "id": 3,
+          "value_1": 200.0,
+          "value_2": 350.0
+        },
+        {
+          "id": 4,
+          "value_1": 250.0,
+          "value_2": 350.0
+        },
+        {
+          "id": 10,
+          "value_1": 300.0,
+          "value_2": 400.0
+        }
+      ],
+      "sky": [
+        "mesh\\env\\NG_NinjaGo\\env_nj_mon_siege_sky.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 549756171979,
+          "lot": 16094,
+          "pos": {
+            "pos": {
+              "x": -470.0458679199219,
+              "y": 163.22122192382813,
+              "z": 668.6992797851563
+            },
+            "rot": {
+              "w": 0.5022632479667664,
+              "x": 0.0,
+              "y": 0.8647148013114929,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "ArmGroup": "Catapult_Arm_01",
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "ArmGroup\u001dcustom_script_client\u001dcustom_script_server",
+            "custom_script_client": "",
+            "custom_script_server": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "groupID": "Catapult_Base_01;",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 11,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 549756171980,
+          "lot": 16097,
+          "pos": {
+            "pos": {
+              "x": -470.04998779296875,
+              "y": 163.22122192382813,
+              "z": 668.7000122070313
+            },
+            "rot": {
+              "w": 0.502265453338623,
+              "x": 0.0,
+              "y": 0.8647134900093079,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 1.5,
+            "fxpriority": 0,
+            "groupID": "Catapult_Arm_01;",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderAnimLODSkew": 1.0,
+            "renderCullingGroup": 10,
+            "renderOffscreenAnimEnabled": false,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 549756171981,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": -474.6455993652344,
+              "y": 163.22120666503906,
+              "z": 703.991943359375
+            },
+            "rot": {
+              "w": 0.9629274010658264,
+              "x": 0.0,
+              "y": 0.2697606384754181,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 1.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "fxpriority": 0,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderCullingGroup": 4,
+            "respawn": 20.0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "6",
+            "smashable_loot_matrix": 748,
+            "smashable_loot_matrix_set": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 14374,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        },
+        {
+          "id": 549756171982,
+          "lot": 176,
+          "pos": {
+            "pos": {
+              "x": -464.4688720703125,
+              "y": 163.22119140625,
+              "z": 703.5608520507813
+            },
+            "rot": {
+              "w": 0.09844975918531418,
+              "x": 0.0,
+              "y": 0.9951421022415161,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "SmashableDoesNotCutNavmesh": false,
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "explode_factor": 1.0,
+            "friction": 1.5,
+            "fxpriority": 0,
+            "gravFactor": 1.0,
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": true,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "max_to_spawn": -1,
+            "navmesh_carver": false,
+            "no_auto_spawn": true,
+            "no_timed_spawn": true,
+            "override_faction": false,
+            "radius": 0.0,
+            "renderCullingGroup": 2,
+            "respawn": 20.0,
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "set_faction": "6",
+            "smashable_loot_matrix": 748,
+            "smashable_loot_matrix_set": false,
+            "spawner_active_on_load": true,
+            "spawntemplate": 14373,
+            "startsQBActivator": false,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

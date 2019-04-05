@@ -1,0 +1,21 @@
+{
+  "armorBonusUI": null,
+  "behaviorID": 28279,
+  "cancelType": null,
+  "castTypeDesc": null,
+  "cooldown": 5.0,
+  "cooldowngroup": 7,
+  "damageUI": null,
+  "gate_version": "nexustower",
+  "hideIcon": false,
+  "imBonusUI": null,
+  "imaginationcost": 2,
+  "inNpcEditor": false,
+  "lifeBonusUI": null,
+  "locStatus": 2,
+  "localize": true,
+  "oomBehaviorEffectID": 1102,
+  "oomSkillID": "",
+  "skillID": 1237,
+  "skillIcon": 3120
+}

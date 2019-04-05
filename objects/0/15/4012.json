@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3455,
+    "3": 1969
+  },
+  "description": "1 particle object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4012,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PERF - particle1tester",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

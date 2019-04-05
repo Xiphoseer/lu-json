@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 AP 1 IP FlashBang Elite",
+  "components": {
+    "11": 6282,
+    "2": 12523,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Zweihander",
+  "gate_version": "nexustower",
+  "id": 12734,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Zweihander",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 364
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1234
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1330
+    }
+  ],
+  "type": "Loot"
+}

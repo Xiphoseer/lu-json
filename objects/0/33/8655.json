@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item - Mission IDs 740, 741, 742 - Not Hidden",
+  "components": {
+    "11": 3907,
+    "2": 8210
+  },
+  "description": "Trapped Pirates may want this!",
+  "displayName": "Pirate-Sized Ninja Clothes",
+  "gate_version": null,
+  "id": 8655,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninja Clothes - Pirate Sized",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

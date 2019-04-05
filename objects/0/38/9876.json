@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "2": 1759,
+    "39": 103,
+    "5": 1188,
+    "7": 976,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 9876,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DPS Dummy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

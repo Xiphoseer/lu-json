@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Smashing",
+  "components": {
+    "11": 1095,
+    "2": 3268,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Basic Shovel",
+  "gate_version": null,
+  "id": 3872,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 150
+    }
+  ],
+  "type": "Loot"
+}

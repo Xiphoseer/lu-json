@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/7/9 NJ Slashing",
+  "components": {
+    "11": 7182,
+    "2": 14373,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hidden Blade",
+  "gate_version": "njhub",
+  "id": 14685,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hidden Blade",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1421
+    }
+  ],
+  "type": "Loot"
+}

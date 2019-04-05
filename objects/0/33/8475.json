@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Piercing",
+  "components": {
+    "11": 3774,
+    "2": 8030,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Corseque",
+  "gate_version": null,
+  "id": 8475,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Corseque",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 292
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7355,
+    "2": 14641,
+    "3": 7531,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Micro Castle Model 1",
+  "gate_version": "freetrial",
+  "id": 15949,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro scale castle 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

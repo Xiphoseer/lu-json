@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 4229,
+    "5": 344
+  },
+  "description": "For Min Spec Testing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4827,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Hobo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5530,
+    "2": 11090,
+    "53": 69
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "GameStop Reward Pack",
+  "gate_version": null,
+  "id": 11313,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GameStop Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

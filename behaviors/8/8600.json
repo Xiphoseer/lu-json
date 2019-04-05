@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/8/8600.json"
+    }
+  },
+  "behaviorID": 8600,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "behavior 1": 8601.0,
+    "behavior 2": 8602.0,
+    "behavior 3": 8604.0
+  },
+  "templateID": 3
+}

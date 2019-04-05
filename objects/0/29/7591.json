@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3217,
+    "2": 7155,
+    "53": 9
+  },
+  "description": "Double-click to get the Rank 1 Engineer Specialty Gear!",
+  "displayName": "Rank 1 Engineer Kit Package",
+  "gate_version": null,
+  "id": 7591,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Engineer Kit Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

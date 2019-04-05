@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Long Slashing",
+  "components": {
+    "11": 6269,
+    "2": 12510,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Super Fang",
+  "gate_version": "auramar",
+  "id": 12721,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Fang",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 286
+    }
+  ],
+  "type": "Loot"
+}

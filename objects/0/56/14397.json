@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "give to sensei wu for mission",
+  "components": {
+    "11": 7083,
+    "2": 14088
+  },
+  "description": "Return this to Rocco Sirocco in Avant Gardens!",
+  "displayName": "Ninjago in a Box",
+  "gate_version": "freetrial",
+  "id": 14397,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninjago in a Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

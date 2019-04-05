@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2752,
+    "2": 6095,
+    "3": 2825,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Island Plant Model",
+  "gate_version": null,
+  "id": 6524,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Island Plant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

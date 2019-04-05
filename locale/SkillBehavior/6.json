@@ -1,0 +1,337 @@
+{
+  "1537": {
+    "descriptionUI": "Reduces damage you take from Skeletons by 2, to a minimum of 1",
+    "name": "[DNL] Equipped 1 HOOD Nj SJ Item"
+  },
+  "1538": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(AltCombo) 7+8+9 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1541": {
+    "descriptionUI": "Takes a picture",
+    "name": "Snap Pix"
+  },
+  "1543": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 22 %(Description)Makes you rush forward, doing damage to enemies that you strike",
+    "name": "[DNL] UI Ninja Step"
+  },
+  "1544": {
+    "descriptionUI": "Makes you run faster",
+    "name": "[DNL] UI Ninja Speed"
+  },
+  "1545": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
+    "name": "[DNL] UI Ninjago Roundhouse 1"
+  },
+  "1546": {
+    "descriptionUI": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
+    "name": "[DNL] UI Ninjago Spear Throw"
+  },
+  "1547": {
+    "descriptionUI": "%(DamageCombo) 5 %(AltCombo) 11 %(Description)Throws shuriken that do damage to enemies",
+    "name": "[DNL] UI Ninjago Shuriken Throw"
+  },
+  "1548": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 25 %(Description)Spin around and deal damage to enemies",
+    "name": "[DNL] UI Ninjago Whirlwind 2"
+  },
+  "1549": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
+    "name": "[DNL] Ninjago Katana Strike"
+  },
+  "1550": {
+    "descriptionUI": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
+    "name": "[DNL] Ninjago Spear Throw"
+  },
+  "1555": {
+    "descriptionUI": "Summons a Ninja Owl that assists you in battle",
+    "name": "[DNL] Summon Ninjago Owl"
+  },
+  "1557": {
+    "descriptionUI": "Restores 5 Imagination after you have been damaged 5 times",
+    "name": "[DNL] Gem Pack"
+  },
+  "1558": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Makes you rush forward, doing 6 damage to enemies that you strike",
+    "name": "[DNL] Shinobi Rush 1"
+  },
+  "1559": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Makes you rush forward, doing 8 damage to enemies that you strike",
+    "name": "[DNL] Shinobi Rush 2"
+  },
+  "1560": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 8+9+9 %(ChargeUp)Turns you into a whirlwind that shocks enemies - release to do 6 damage to normal enemies or 21 damage to Skeletons and knock them back",
+    "name": "Lightning Spinjitzu Attack"
+  },
+  "1561": {
+    "descriptionUI": "Takes a picture",
+    "name": "Snap Pix 2"
+  },
+  "1562": {
+    "descriptionUI": "Takes a picture",
+    "name": "Snap Pix 3"
+  },
+  "1565": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 7+7+8 %(ChargeUp) Transform into a whirlwind that slows enemies; release to deal 4 damage to enemies or 10 damage to Skeletons and freeze them in place",
+    "name": "Ice Spinjitzu Attack"
+  },
+  "1567": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 7+8+10 %(ChargeUp)Turns you into a whirlwind that stuns enemies - release to set enemies ablaze for 5 damage to normal enemies or 16 damage to Skeletons",
+    "name": "Fire Spinjitzu Attack"
+  },
+  "1569": {
+    "descriptionUI": "%(DamageCombo) 8 %(AltCombo) 22 %(Description)Calls down a bolt of lightning to strike an enemy",
+    "name": "Lightning Spinjitzu Strike"
+  },
+  "1570": {
+    "descriptionUI": "Shields you from up to 10 damage for 30 seconds",
+    "name": "Lightning Force Field"
+  },
+  "1571": {
+    "descriptionUI": "Restores 10 Armor",
+    "name": "Ice Trade Off"
+  },
+  "1572": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 19 %(Description)Heals 1 Life per enemy struck",
+    "name": "Fire Power Drain"
+  },
+  "1574": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 23 %(Description)Throws shurikens in front of you",
+    "name": "Ice Spinjitzu Throwing Stars"
+  },
+  "1575": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 21 %(Description)Pulls an enemy to you",
+    "name": "Fire Spinjitzu Back Draft"
+  },
+  "1576": {
+    "descriptionUI": "Equipping the Trial Gear for the first time in a day will fully restore your Life, Imagination, and Armor",
+    "name": "Trial Gear Boost"
+  },
+  "1587": {
+    "descriptionUI": "Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies",
+    "name": "Strengthen Armor"
+  },
+  "1590": {
+    "descriptionUI": "+10 AP",
+    "name": "Armor Boost 10"
+  },
+  "1591": {
+    "descriptionUI": "+11 AP",
+    "name": "Armor Boost 11"
+  },
+  "1592": {
+    "descriptionUI": "+12 AP",
+    "name": "Armor Boost 12"
+  },
+  "1593": {
+    "descriptionUI": "+13 AP",
+    "name": "Armor Boost 13"
+  },
+  "1594": {
+    "descriptionUI": "+14 AP",
+    "name": "Armor Boost 14"
+  },
+  "1595": {
+    "descriptionUI": "+15 AP",
+    "name": "Armor Boost 15"
+  },
+  "1596": {
+    "descriptionUI": "+16 AP",
+    "name": "Armor Boost 16"
+  },
+  "1597": {
+    "descriptionUI": "+17 AP",
+    "name": "Armor Boost 17"
+  },
+  "1598": {
+    "descriptionUI": "+18 AP",
+    "name": "Armor Boost 18"
+  },
+  "1599": {
+    "descriptionUI": "+19 AP",
+    "name": "Armor Boost 19"
+  },
+  "1600": {
+    "descriptionUI": "+20 AP",
+    "name": "Armor Boost 20"
+  },
+  "1601": {
+    "descriptionUI": "+10 IP",
+    "name": "Imagination Boost 10"
+  },
+  "1602": {
+    "descriptionUI": "+11 IP",
+    "name": "Imagination Boost 11"
+  },
+  "1603": {
+    "descriptionUI": "+12 IP",
+    "name": "Imagination Boost 12"
+  },
+  "1604": {
+    "descriptionUI": "+13 IP",
+    "name": "Imagination Boost 13"
+  },
+  "1605": {
+    "descriptionUI": "+14 IP",
+    "name": "Imagination Boost 14"
+  },
+  "1606": {
+    "descriptionUI": "+15 IP",
+    "name": "Imagination Boost 15"
+  },
+  "1607": {
+    "descriptionUI": "+16 IP",
+    "name": "Imagination Boost 16"
+  },
+  "1608": {
+    "descriptionUI": "+17 IP",
+    "name": "Imagination Boost 17"
+  },
+  "1609": {
+    "descriptionUI": "+18 IP",
+    "name": "Imagination Boost 18"
+  },
+  "1610": {
+    "descriptionUI": "+19 IP",
+    "name": "Imagination Boost 19"
+  },
+  "1611": {
+    "descriptionUI": "+20 IP",
+    "name": "Imagination Boost 20"
+  },
+  "1612": {
+    "descriptionUI": "+6 LP",
+    "name": "Life Boost 6"
+  },
+  "1613": {
+    "descriptionUI": "+7 LP",
+    "name": "Life Boost 7"
+  },
+  "1614": {
+    "descriptionUI": "+8 LP",
+    "name": "Life Boost 8"
+  },
+  "1615": {
+    "descriptionUI": "+9 LP",
+    "name": "Life Boost 9"
+  },
+  "1616": {
+    "descriptionUI": "+10 LP",
+    "name": "Life Boost 10"
+  },
+  "1617": {
+    "descriptionUI": "+11 LP",
+    "name": "Life Boost 11"
+  },
+  "1618": {
+    "descriptionUI": "+12 LP",
+    "name": "Life Boost 12"
+  },
+  "1619": {
+    "descriptionUI": "+13 LP",
+    "name": "Life Boost 13"
+  },
+  "1620": {
+    "descriptionUI": "+14 LP",
+    "name": "Life Boost 14"
+  },
+  "1621": {
+    "descriptionUI": "+15 LP",
+    "name": "Life Boost 15"
+  },
+  "1622": {
+    "descriptionUI": "+16 LP",
+    "name": "Life Boost 16"
+  },
+  "1623": {
+    "descriptionUI": "+17 LP",
+    "name": "Life Boost 17"
+  },
+  "1624": {
+    "descriptionUI": "+18 LP",
+    "name": "Life Boost 18"
+  },
+  "1625": {
+    "descriptionUI": "+19 LP",
+    "name": "Life Boost 19"
+  },
+  "1626": {
+    "descriptionUI": "+20 LP",
+    "name": "Life Boost 20"
+  },
+  "1628": {
+    "descriptionUI": "%(DamageCombo) 4+4+6 %(ChargeUp)Blocks 6 attacks while charged",
+    "name": "Rental Knights Blade"
+  },
+  "1629": {
+    "descriptionUI": "%(DamageCombo) 4+4+4 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Rental Blaster Master"
+  },
+  "1630": {
+    "descriptionUI": "%(DamageCombo) 4+4+6+6 %(ChargeUp)Fires a 4 damage projectile",
+    "name": "Rental Flare Guns"
+  },
+  "1631": {
+    "descriptionUI": "%(DamageCombo) 4+4+6 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
+    "name": "Rental Gnarled Staff"
+  },
+  "1632": {
+    "descriptionUI": "+24 AP",
+    "name": "Armor Boost 24"
+  },
+  "1633": {
+    "descriptionUI": "+24 IP",
+    "name": "Imagination Boost 24"
+  },
+  "1634": {
+    "descriptionUI": "+21 IP",
+    "name": "Imagination Boost 21"
+  },
+  "1636": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+5+10 %(Description)Slashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1637": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(AltCombo) 6+6+10 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1638": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 6+7+9 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1639": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(AltCombo) 7+8+11 %(Description)Smashes enemies",
+    "name": "Ninjago Attack"
+  },
+  "1643": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 16 %(Description)Drops a boulder on an enemy",
+    "name": "[DNL] Earth Gravity Drop"
+  },
+  "1644": {
+    "descriptionUI": "%(DamageCombo) 8 %(AltCombo) 22 %(Description)Calls down a bolt of lightning to strike an enemy",
+    "name": "[DNL] Lightning Spinjitzu Strike"
+  },
+  "1645": {
+    "descriptionUI": "%(DamageCombo) 6 %(AltCombo) 23 %(Description)Throws shurikens in front of you",
+    "name": "[DNL] Ice Spinjitzu Throwing Stars"
+  },
+  "1646": {
+    "descriptionUI": "%(DamageCombo) 4 %(AltCombo) 21 %(Description)Pulls an enemy to you",
+    "name": "[DNL] Fire Spinjitzu Back Draft"
+  },
+  "1651": {
+    "name": "NPC Skeleton Throw Damage Bone Ranged Attack"
+  },
+  "1657": {
+    "descriptionUI": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your hoofs",
+    "name": "TEST Basic Horse Attack"
+  },
+  "1659": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(AltCombo) 7+8+10 %(ChargeUp)Turns you into a whirlwind that stuns enemies - release to set enemies ablaze for 5 damage to normal enemies or 16 damage to Skeletons",
+    "name": "Cutejitzu"
+  },
+  "1745": {
+    "descriptionUI": "Summons a Crocodile that assists you in battle",
+    "name": "Summon Crocodile"
+  }
+}

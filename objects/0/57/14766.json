@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model - Community & Marketing reward",
+  "components": {
+    "11": 7255,
+    "2": 14453,
+    "3": 7452,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Ninjago Fire Temple Model",
+  "gate_version": "ftcommunityitems",
+  "id": 14766,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ninjago Fire Temple - Marketing Reward",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

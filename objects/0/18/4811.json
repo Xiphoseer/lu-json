@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4222,
+    "3": 2170,
+    "48": 47,
+    "5": 668,
+    "7": 440
+  },
+  "description": "CTF Red Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4811,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Red Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

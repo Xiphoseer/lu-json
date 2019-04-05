@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13799,
+    "3": 7022,
+    "39": 11282,
+    "5": 1536
+  },
+  "description": "interactable console that works as a wishing well",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    },
+    {
+      "iconID": 158,
+      "iconState": 70
+    }
+  ],
+  "id": 14086,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Interactable Console - Wishing Well",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

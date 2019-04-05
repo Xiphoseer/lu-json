@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13998,
+    "3": 7142
+  },
+  "description": "Celebration that plays when you join the Nexus Force",
+  "displayName": "",
+  "gate_version": "freetrial",
+  "id": 14309,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Nexus Force Celebration",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

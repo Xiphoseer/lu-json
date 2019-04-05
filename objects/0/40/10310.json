@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10156,
+    "3": 4549
+  },
+  "description": "Spawned by the Boombox skill",
+  "displayName": "Boom Box",
+  "gate_version": null,
+  "id": 10310,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BoomBox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

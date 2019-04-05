@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "for Nya Mission",
+  "components": {
+    "11": 7503,
+    "2": 14866,
+    "9": 0
+  },
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "displayName": "Maelstrom Bone Dagger",
+  "gate_version": "njhub",
+  "id": 16148,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Bone Dagger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1497
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1538
+    }
+  ],
+  "type": "Loot"
+}

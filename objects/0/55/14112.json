@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6989,
+    "2": 13823
+  },
+  "description": "Maelstrom Armor for NJ Skeleton",
+  "displayName": "NPC Maelstrom Armor for NJ Skeleton",
+  "gate_version": "njhub",
+  "id": 14112,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Maelstrom Armor for NJ Skeleton",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

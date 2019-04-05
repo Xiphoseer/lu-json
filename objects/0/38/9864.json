@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4775,
+    "2": 9696
+  },
+  "description": null,
+  "displayName": "Test Blue Cape",
+  "gate_version": null,
+  "id": 9864,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Test Blue Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7765,
+    "2": 15344,
+    "3": 7954,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Outpost Flag Model",
+  "gate_version": "njhub",
+  "id": 16565,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Outpost Flag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

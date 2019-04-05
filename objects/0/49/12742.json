@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 3 AP + 3 LP buff",
+  "components": {
+    "11": 6290,
+    "2": 12531,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Medic Shield",
+  "gate_version": "auramar",
+  "id": 12742,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Medic Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1006
+    }
+  ],
+  "type": "Loot"
+}

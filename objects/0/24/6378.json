@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5827,
+    "3": 2665
+  },
+  "description": "Research mountain with spider cages and damage",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6378,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Research Mountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

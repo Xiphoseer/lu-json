@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6152,
+    "3": 2858,
+    "48": 84,
+    "7": 595
+  },
+  "description": "rebuildable ravine platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6599,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - QB Ravine Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

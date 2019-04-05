@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 5516,
+    "2": 11064,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Grey T-Rex Backpack",
+  "gate_version": null,
+  "id": 11287,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Grey T-Rex in a Bag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

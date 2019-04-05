@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5603,
+    "2": 11304,
+    "3": 5396,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Check In Desk Model",
+  "gate_version": null,
+  "id": 11552,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Check In Desk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

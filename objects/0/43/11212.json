@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Stromling",
+  "components": {
+    "1": 5143,
+    "2": 10982,
+    "31": 3,
+    "5": 1255,
+    "60": 69,
+    "7": 1594,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Invader",
+  "gate_version": "auramar",
+  "id": 11212,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 928
+    }
+  ],
+  "type": "Enemies"
+}

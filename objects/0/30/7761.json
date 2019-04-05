@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3270,
+    "2": 7317,
+    "3": 3431,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Trash Can Model",
+  "gate_version": null,
+  "id": 7761,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Small trash can",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test Tower Grid Offhand",
+  "components": {
+    "11": 6934,
+    "2": 13665,
+    "9": 0
+  },
+  "description": "test Tower Grid Offhand",
+  "displayName": "test Tower Grid Offhand",
+  "gate_version": null,
+  "id": 13950,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Tower Grid Offhand A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1278
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4870,
+    "2": 10346,
+    "5": 1234
+  },
+  "description": "Robot Citizen for the LUP team",
+  "displayName": "Robot Citizen",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 10743,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Robot Citizen Orange",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

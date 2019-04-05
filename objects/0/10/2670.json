@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Team 5",
+  "components": {
+    "11": 885,
+    "2": 1911,
+    "9": 0
+  },
+  "description": "Team 5",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2670,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Contest Insta Bot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 67
+    }
+  ],
+  "type": "Loot"
+}

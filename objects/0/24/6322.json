@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5760,
+    "3": 2622
+  },
+  "description": "New Concert Scene off zorillo park",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6322,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Zorillo Concert scene",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

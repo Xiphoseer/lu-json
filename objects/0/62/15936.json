@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "repairs caster for 3 Armor. 4 AP 5 IP",
+  "components": {
+    "11": 7343,
+    "2": 14628,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hobby Hood",
+  "gate_version": "njhub",
+  "id": 15936,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hobby Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1463
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    }
+  ],
+  "type": "Loot"
+}

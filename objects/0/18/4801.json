@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 81,
+    "2": 4211,
+    "3": 1777,
+    "35": 103,
+    "7": 305
+  },
+  "description": "testing missing giver NPCs from HF NPC Creator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4801,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RafTestMG",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

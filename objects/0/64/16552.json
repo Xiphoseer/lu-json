@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15330,
+    "3": 7583,
+    "40": 7941,
+    "5": 1725,
+    "7": 2152
+  },
+  "description": "",
+  "displayName": "NJ -  Dragon Emblem Daily Chest",
+  "gate_version": "njhub",
+  "id": 16552,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ -  Dragon Emblem Daily Chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

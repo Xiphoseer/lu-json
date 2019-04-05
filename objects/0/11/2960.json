@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 2 IP",
+  "components": {
+    "11": 997,
+    "2": 2464,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "No Pirates Shirt",
+  "gate_version": null,
+  "id": 2960,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "No Pirates Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

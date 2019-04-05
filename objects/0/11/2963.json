@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 3347,
+    "2": 2467,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Mantis Style Maelstrom Hammer",
+  "gate_version": null,
+  "id": 2963,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Hammer 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 426
+    }
+  ],
+  "type": "Loot"
+}

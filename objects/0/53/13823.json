@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13562,
+    "3": 6831,
+    "5": 1540,
+    "7": 1872,
+    "9": 0
+  },
+  "description": "phantom object around the beam in the beam room",
+  "displayName": "NT - Beam Phantom",
+  "gate_version": null,
+  "id": 13823,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Beam Phantom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

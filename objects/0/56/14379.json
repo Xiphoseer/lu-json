@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14071,
+    "3": 3949
+  },
+  "description": "used with the inventor shoulder 3 skill",
+  "displayName": null,
+  "gate_version": "factionkit2",
+  "id": 14379,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Inventor 3 backpack Mesh Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

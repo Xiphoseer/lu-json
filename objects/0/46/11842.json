@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5893,
+    "2": 11594,
+    "3": 5686,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Lightning Model",
+  "gate_version": null,
+  "id": 11842,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

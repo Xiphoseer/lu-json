@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6928,
+    "2": 13662,
+    "60": 139,
+    "7": 1888,
+    "9": 0
+  },
+  "description": "For testing grid based skill casting",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13947,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Grid Tower 02A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1283
+    }
+  ],
+  "type": "Environmental"
+}

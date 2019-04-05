@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6122,
+    "2": 12247
+  },
+  "description": "Return this to Coalessa.",
+  "displayName": "Sentinel Pet Egg",
+  "gate_version": "nexustower",
+  "id": 12483,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Pet Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

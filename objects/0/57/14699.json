@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7196,
+    "2": 14387,
+    "28": 372,
+    "3": 7410,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Cockpit",
+  "displayName": "LEGO Club Rocket Cockpit",
+  "gate_version": "ftcommunityitems",
+  "id": 14699,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LEGO Club Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

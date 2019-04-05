@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "TEST",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/58003.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": null,
+  "gate_version": null,
+  "ghostdistance": 200.0,
+  "ghostdistance_min": null,
+  "heightInChunks": null,
+  "locStatus": 0,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 120,
+  "population_soft_cap": 80,
+  "scriptID": -1,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": null,
+  "zoneControlTemplate": null,
+  "zoneID": 58003,
+  "zoneName": "01_Live_Maps/Forbidden_Valley/Racetrack/test.luz"
+}

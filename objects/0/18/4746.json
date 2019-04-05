@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 129,
+    "17": 115,
+    "2": 4164,
+    "3": 2318,
+    "5": 732,
+    "7": 305
+  },
+  "description": null,
+  "displayName": "Eeekums - Monkey Picnicker",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 4746,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Monkey Picnicker",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2535,
+    "2": 5467,
+    "3": 2525,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Hut Model",
+  "gate_version": null,
+  "id": 6060,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Hut",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

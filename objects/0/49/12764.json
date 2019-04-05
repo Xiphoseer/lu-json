@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "30 IP",
+  "components": {
+    "11": 6312,
+    "2": 12554,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Big Fountain Soda",
+  "gate_version": "auramar",
+  "id": 12764,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Big Fountain Soda",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1151
+    }
+  ],
+  "type": "Loot"
+}

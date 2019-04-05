@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2141,
+    "3": 1186,
+    "48": 29
+  },
+  "description": "NP Quick Build",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3419,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - QuickBuild Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

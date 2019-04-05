@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7974,
+    "2": 15692,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Crocodile Egg",
+  "gate_version": "njhub",
+  "id": 16898,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Hatchling Crocodiles Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 1745
+    }
+  ],
+  "type": "Loot"
+}

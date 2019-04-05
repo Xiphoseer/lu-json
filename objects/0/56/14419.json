@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14110,
+    "3": 7226,
+    "7": 1965
+  },
+  "description": "",
+  "displayName": "NJ - Rock Smashable Small",
+  "gate_version": "njhub",
+  "id": 14419,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Rock Smashable Small",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

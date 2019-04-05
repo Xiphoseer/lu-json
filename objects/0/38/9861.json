@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9693,
+    "3": 4334,
+    "40": 4334,
+    "5": 981
+  },
+  "description": "Build Border for Gnarled Forest Modular Build",
+  "displayName": "Build Border Gnarled Forest Car",
+  "gate_version": null,
+  "id": 9861,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build Border Gnarled Forest Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

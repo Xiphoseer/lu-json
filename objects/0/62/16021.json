@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14739,
+    "3": 7559,
+    "7": 2095
+  },
+  "description": null,
+  "displayName": "rocket smashable",
+  "gate_version": "freetrial",
+  "id": 16021,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG-smashable rocket-top",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3256,
+    "2": 7298,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Firefighter Coat",
+  "gate_version": null,
+  "id": 7742,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Firefighter Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing engineer Valiant offhand skill",
+  "components": {
+    "11": 6197,
+    "2": 12423,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": "valiantweapons",
+  "id": 12633,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1010
+    }
+  ],
+  "type": "Loot"
+}

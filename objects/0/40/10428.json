@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10271,
+    "3": 4641,
+    "7": 1558
+  },
+  "description": "smashable that needs to be a bouncer QB when smashed only smashable by the hammer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10428,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Hammer Smashable to horse Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

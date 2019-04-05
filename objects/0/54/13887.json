@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4700,
+    "2": 13609,
+    "42": 0
+  },
+  "description": "Build this pattern on your property!",
+  "displayName": "Castle Small Corner Pattern",
+  "gate_version": null,
+  "id": 13887,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Pattern Reward Castle Corner Small",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

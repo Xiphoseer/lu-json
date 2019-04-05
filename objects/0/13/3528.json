@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3079,
+    "3": 1783,
+    "5": 536
+  },
+  "description": "Youreeka: the switch for the red bouncer at the hazmat building",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3528,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Hazmat Switch Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

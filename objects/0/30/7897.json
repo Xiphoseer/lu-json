@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7455,
+    "3": 3564
+  },
+  "description": "A section of the GF race track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7897,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE- GF Race section A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13600,
+    "3": 6867,
+    "5": 1489
+  },
+  "description": "Nexus Tower - Paradox Console",
+  "displayName": "Paradox Console",
+  "gate_version": "nexustower",
+  "id": 13878,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Paradox Console",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 162,
+    "40": 1041,
+    "5": 432,
+    "7": 377
+  },
+  "description": "Coin Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3465,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - 10 Coin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

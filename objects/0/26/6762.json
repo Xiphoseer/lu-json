@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2803,
+    "2": 6302,
+    "28": 38,
+    "3": 2966,
+    "42": 0,
+    "63": 29
+  },
+  "description": "Modular Car Tank",
+  "displayName": "Modular Car Imagination Tank #2",
+  "gate_version": null,
+  "id": 6762,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Tank 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 854
+    }
+  ],
+  "type": "Rebuildables"
+}

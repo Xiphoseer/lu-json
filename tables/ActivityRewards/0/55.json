@@ -1,0 +1,37 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 71,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 31,
+      "LootMatrixIndex": 484,
+      "activityRating": 3,
+      "description": "FV Dragon 3 Player"
+    },
+    {
+      "ActivityRewardIndex": 72,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 32,
+      "LootMatrixIndex": 483,
+      "activityRating": 2,
+      "description": "FV Dragon 2 Player"
+    },
+    {
+      "ActivityRewardIndex": 73,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 33,
+      "LootMatrixIndex": 314,
+      "activityRating": 1,
+      "description": "FV Dragon 1 Player"
+    },
+    {
+      "ActivityRewardIndex": 135,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 34,
+      "LootMatrixIndex": 485,
+      "activityRating": 4,
+      "description": "FV Dragon 4 Player"
+    }
+  ],
+  "objectTemplate": 55
+}

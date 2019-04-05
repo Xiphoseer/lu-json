@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Emote, Restore IP, everlasting",
+  "components": {
+    "11": 1012,
+    "2": 2492,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Funky Horn",
+  "gate_version": null,
+  "id": 2986,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Funky Horn",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 794
+    }
+  ],
+  "type": "Loot"
+}

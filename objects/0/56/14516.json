@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Skeletons on Siege Field, only on mission",
+  "components": {
+    "11": 7135,
+    "2": 14201
+  },
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "displayName": "Rib Bone",
+  "gate_version": "njhub",
+  "id": 14516,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rib Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

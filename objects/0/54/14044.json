@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13755,
+    "3": 6983,
+    "7": 1917
+  },
+  "description": "Venture Crate for AuraMar",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 14044,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Crate Venture Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6124,
+    "3": 2318,
+    "35": 246,
+    "39": 0,
+    "5": 1355,
+    "7": 345,
+    "73": 121
+  },
+  "description": "__MG__SpaceShip Bob, SpaceShip Instance",
+  "displayName": "Bob",
+  "gate_version": null,
+  "id": 8224,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ship - Spaceship Bob 2.0",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

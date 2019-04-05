@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Hidden",
+  "components": {
+    "11": 5492,
+    "2": 10981,
+    "3": 5968
+  },
+  "description": "Moonbase Fuel Rod",
+  "displayName": "Moonbase Fuel Rod",
+  "gate_version": null,
+  "id": 11211,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Quest - Moonbase Fuel Rod",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

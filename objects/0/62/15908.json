@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7526,
+    "2": 14600,
+    "9": 0
+  },
+  "description": "NJ  Arrow 6/24 dmg",
+  "displayName": null,
+  "gate_version": null,
+  "id": 15908,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Crossbow Bolt Arrow Projectile Bullet 6/24 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1476
+    }
+  ],
+  "type": "Shooting Gallery"
+}

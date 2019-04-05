@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "17": 401,
+    "2": 10898,
+    "35": 500,
+    "5": 556,
+    "7": 303,
+    "9": 0
+  },
+  "description": "none",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11148,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Chicka",
+  "nametag": false,
+  "npcTemplateID": 13,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 55
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Knockback",
+  "components": {
+    "11": 2900,
+    "2": 6441,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Flash Bang",
+  "gate_version": null,
+  "id": 6884,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flash Bang",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 266
+    }
+  ],
+  "type": "Loot"
+}

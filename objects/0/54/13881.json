@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13604,
+    "3": 6870,
+    "5": 1484
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 92,
+      "iconState": 69
+    }
+  ],
+  "id": 13881,
+  "interactionDistance": 8.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - LUP Gateway",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

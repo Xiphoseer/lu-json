@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7162,
+    "3": 3348
+  },
+  "description": "The giant tree et al glom for megan's test of glomming on 512",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7597,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Megan Zone512 Glom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

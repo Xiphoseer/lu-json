@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP +Emote",
+  "components": {
+    "11": 3290,
+    "2": 7338,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Wolf Head Helmet",
+  "gate_version": null,
+  "id": 7782,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wolf Head Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 613
+    }
+  ],
+  "type": "Loot"
+}

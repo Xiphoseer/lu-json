@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11831,
+    "3": 5876
+  },
+  "description": "Test of the Ruins Section A of Aura Mar",
+  "displayName": "AM Ruins Section A",
+  "gate_version": null,
+  "id": 12082,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Ruins Section A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

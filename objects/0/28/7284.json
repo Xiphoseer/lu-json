@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Smashing + knockdown chargeup",
+  "components": {
+    "11": 3026,
+    "2": 6858,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Blade of Knock Down",
+  "gate_version": null,
+  "id": 7284,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Blade of KnockDown",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 805
+    }
+  ],
+  "type": "Loot"
+}

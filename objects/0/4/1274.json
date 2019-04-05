@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 4445,
+    "5": 17,
+    "73": 183,
+    "9": 0
+  },
+  "description": "Test; don't use in a production map",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old Man",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

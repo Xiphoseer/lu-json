@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "heal 10 life, Buff 5 life",
+  "components": {
+    "11": 6311,
+    "2": 12553,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "BBQ Drumstick",
+  "gate_version": "auramar",
+  "id": 12763,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "BBQ Drumstick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1148
+    }
+  ],
+  "type": "Loot"
+}

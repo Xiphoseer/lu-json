@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 71,
+    "2": 3359,
+    "3": 1777,
+    "35": 84,
+    "7": 306
+  },
+  "description": "NS Clothing Vendor - Race",
+  "displayName": "Leroy Duddsmith - Clothing Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 139,
+      "iconState": 66
+    },
+    {
+      "iconID": 140,
+      "iconState": 69
+    }
+  ],
+  "id": 3917,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Clothing Vendor - Race Place",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7786,
+    "2": 1549,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1727,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GM Only - JetPack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 306
+    }
+  ],
+  "type": "Loot"
+}

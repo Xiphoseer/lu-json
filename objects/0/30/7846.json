@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 7404,
+    "5": 15
+  },
+  "description": "Ambient Crocodile",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7846,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Crocodile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

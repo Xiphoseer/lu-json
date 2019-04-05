@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7499,
+    "3": 3609,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Froggy",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7953,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Froggy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

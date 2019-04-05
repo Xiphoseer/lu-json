@@ -1,0 +1,33 @@
+{
+  "id": 1954,
+  "tasks": [
+    {
+      "IconID": 4660,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4660,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "NJHUB_POI_LIGHTNINGSHRINE",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 12,
+      "uid": 2764
+    },
+    {
+      "IconID": 4653,
+      "gate_version": null,
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4653,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12658,
+      "targetGroup": null,
+      "targetValue": 1,
+      "taskParam1": "1",
+      "taskType": 11,
+      "uid": 2832
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 1 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5157,
+    "2": 10291
+  },
+  "description": "When interacted with, model will spin clockwise in a circle.",
+  "displayName": "Spin Right Behavior",
+  "gate_version": null,
+  "id": 10448,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Spin Right",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

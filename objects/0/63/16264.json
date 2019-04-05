@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15008,
+    "3": 7687,
+    "5": 1685
+  },
+  "description": "",
+  "displayName": "NJ mon -Prisoner Cage",
+  "gate_version": "njhub",
+  "id": 16264,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ mon - Prisoner Cage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 7165,
+    "2": 14272,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Lucky Shovel",
+  "gate_version": "freetrial",
+  "id": 14591,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lucky Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 1411
+    }
+  ],
+  "type": "Loot"
+}

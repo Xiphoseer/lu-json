@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 10 AP",
+  "components": {
+    "11": 1009,
+    "2": 2503,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Armor Gleam",
+  "gate_version": null,
+  "id": 2997,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Armor Polish 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 681
+    }
+  ],
+  "type": "Loot"
+}

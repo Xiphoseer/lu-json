@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5882,
+    "2": 11583,
+    "3": 5675,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Medical Stretcher Model 1",
+  "gate_version": null,
+  "id": 11831,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Accessory Medical Stretcher 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

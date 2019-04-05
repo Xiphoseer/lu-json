@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14112,
+    "3": 7227,
+    "48": 209,
+    "7": 1966
+  },
+  "description": "",
+  "displayName": "NJ QB Generic Smashable 2",
+  "gate_version": "njhub",
+  "id": 14420,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ QB Armor Statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

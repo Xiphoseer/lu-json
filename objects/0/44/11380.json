@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11153,
+    "3": 5279
+  },
+  "description": "RACE-FVTrack08_TRACK_FVCanyon",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11380,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack08_TRACK_FVCanyon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

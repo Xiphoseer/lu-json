@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP",
+  "components": {
+    "11": 6995,
+    "2": 13829,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Murgle Blotch Shirt",
+  "gate_version": "nexustower",
+  "id": 14118,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Murgle Blotch Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

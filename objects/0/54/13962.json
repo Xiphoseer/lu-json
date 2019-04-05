@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "1": 6938,
+    "2": 13674
+  },
+  "description": "For testing grid based skill casting",
+  "displayName": "",
+  "gate_version": null,
+  "id": 13962,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Grid Tower 02B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

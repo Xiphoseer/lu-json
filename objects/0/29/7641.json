@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Special NPC Left Hand Staff 2/3/3 Short Smashing",
+  "components": {
+    "11": 3233,
+    "2": 7210,
+    "9": 0
+  },
+  "description": "Special NPC Left Hand Staff 2/3/3 Short Smashing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7641,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Coalessa Staff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 280
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7191,
+    "3": 3373,
+    "7": 710
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7624,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Nonsmashable version of smashed bridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

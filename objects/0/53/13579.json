@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Douses enemies in oil",
+  "components": {
+    "11": 6706,
+    "2": 13316,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Oil Can",
+  "gate_version": "nexustower",
+  "id": 13579,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Oil Can",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1229
+    }
+  ],
+  "type": "Loot"
+}

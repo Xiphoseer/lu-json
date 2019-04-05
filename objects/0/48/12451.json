@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Like Portable Drumset. Stat restoration",
+  "components": {
+    "11": 6099,
+    "2": 12290,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Thumpin' Bass",
+  "gate_version": "auramar",
+  "id": 12451,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Thumpin' Bass",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 975
+    }
+  ],
+  "type": "Loot"
+}

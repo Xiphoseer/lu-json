@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1090,
+    "2": 1760,
+    "5": 208
+  },
+  "description": "NPC used in shooting gallery siege mode.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2390,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shooting Gallery Ninja",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

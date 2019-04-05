@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP",
+  "components": {
+    "11": 3245,
+    "2": 7287,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Aussie Hat",
+  "gate_version": null,
+  "id": 7731,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Aussie Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

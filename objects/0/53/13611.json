@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Dynamite Plunger model",
+  "components": {
+    "11": 6731,
+    "2": 13348
+  },
+  "description": "A behavior that makes a model communicate to a model with the Dynamite Behavior to explode.",
+  "displayName": "Dynamite Pluger Behavior",
+  "gate_version": null,
+  "id": 13611,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Dynamite Pluger Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

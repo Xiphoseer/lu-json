@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7811,
+    "2": 15398
+  },
+  "description": null,
+  "displayName": "NPC Silver Samurai Helm",
+  "gate_version": "njhub",
+  "id": 16624,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Silver Samurai Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

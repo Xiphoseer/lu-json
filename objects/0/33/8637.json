@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP, 3 IP",
+  "components": {
+    "11": 3889,
+    "2": 8192,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Breastplate of Armored Inspiration",
+  "gate_version": null,
+  "id": 8637,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Breastplate of Armored Inspiration",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

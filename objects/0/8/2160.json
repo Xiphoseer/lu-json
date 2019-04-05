@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item - Mission ID 228, others - Not Hidden",
+  "components": {
+    "11": 884,
+    "2": 1898
+  },
+  "description": null,
+  "displayName": "Banana",
+  "gate_version": null,
+  "id": 2160,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Banana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

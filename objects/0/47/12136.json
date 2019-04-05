@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11885,
+    "3": 5894
+  },
+  "description": "Nexus Tower G05-Shell",
+  "displayName": "NT G05-Shell",
+  "gate_version": null,
+  "id": 12136,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G05-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3990,
+    "2": 8717,
+    "7": 904,
+    "9": 0
+  },
+  "description": "Rocket for the Maelstrom Rocket skill, AOE damage",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9261,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Marauder Maelstrom Rocket - 1 splash damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 754
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Money Magnet",
+  "components": {
+    "11": 3030,
+    "2": 4400,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Money Magnet",
+  "gate_version": null,
+  "id": 4977,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Money Magnet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 330
+    }
+  ],
+  "type": "Loot"
+}

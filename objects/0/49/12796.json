@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 2 AP",
+  "components": {
+    "11": 6344,
+    "2": 12586,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Pinstripe Pant Legs",
+  "gate_version": "nexustower",
+  "id": 12796,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pinstripe Pant Legs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

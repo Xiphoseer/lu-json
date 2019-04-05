@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 322,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 981,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 982,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "dec2010content",
+      "missionID": 1152,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "freetrial",
+      "missionID": 1864,
+      "offersMission": true
+    }
+  ]
+}

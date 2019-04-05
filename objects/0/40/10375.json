@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "DO NOT USE",
+  "components": {
+    "11": 5124,
+    "2": 10223,
+    "3": 4615,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Farm Fence Tall Model",
+  "gate_version": "march2011content",
+  "id": 10375,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "OLD Model Reward Farm Fence Tall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

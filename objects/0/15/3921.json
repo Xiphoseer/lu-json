@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 84,
+    "17": 208,
+    "2": 3363,
+    "3": 1777,
+    "35": 86,
+    "7": 306
+  },
+  "description": "NS Brick Vendor - Brick Annex",
+  "displayName": "Bruno Underbite - Brick Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 3921,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Brick Vendor - Brick Annex",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

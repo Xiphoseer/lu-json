@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "40": 7019
+  },
+  "description": "Test only for physics",
+  "displayName": "TEST phantom mopp physics",
+  "gate_version": null,
+  "id": 14082,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test phantom mopp shape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

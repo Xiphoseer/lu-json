@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5531,
+    "2": 11091,
+    "53": 70
+  },
+  "description": "Double-click to open this pack of rewards!",
+  "displayName": "Target Reward Pack",
+  "gate_version": null,
+  "id": 11314,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Target Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

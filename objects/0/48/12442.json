@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12196,
+    "3": 6108,
+    "5": 1062
+  },
+  "description": "launch pad for Frostburgh",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12442,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Frostburgh launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

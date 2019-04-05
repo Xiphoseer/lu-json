@@ -1,0 +1,290 @@
+[
+  {
+    "id": 2212,
+    "name": "HF - Invisible Physics Blocker"
+  },
+  {
+    "id": 2713,
+    "name": "SleddingActivator_ON"
+  },
+  {
+    "id": 2717,
+    "name": "Awesomer Goal Line"
+  },
+  {
+    "id": 2718,
+    "name": "Awesomer Checkpoint"
+  },
+  {
+    "id": 2743,
+    "name": "Awesomer Boundary"
+  },
+  {
+    "id": 2839,
+    "name": "Awesomer Speed Boost Trigger"
+  },
+  {
+    "id": 2929,
+    "name": "Contest - DeathPlane"
+  },
+  {
+    "id": 2931,
+    "name": "Contest - Team4 FinishLine"
+  },
+  {
+    "id": 2967,
+    "name": "SleddingActivator_OFF"
+  },
+  {
+    "id": 3202,
+    "name": "AG - Friendly Felix Scene 1 Trigger"
+  },
+  {
+    "id": 3239,
+    "name": "? - Movement Help Trigger"
+  },
+  {
+    "id": 3240,
+    "name": "AG - Jump Help Trigger"
+  },
+  {
+    "id": 3241,
+    "name": "AG - Double Jump Help Trigger"
+  },
+  {
+    "id": 3242,
+    "name": "AG - Bouncer Help Trigger"
+  },
+  {
+    "id": 3297,
+    "name": "AG - Course Cancel Trigger"
+  },
+  {
+    "id": 3298,
+    "name": "AG - Course Goal Trigger"
+  },
+  {
+    "id": 3420,
+    "name": "AG - Help Trigger Obstacle Course"
+  },
+  {
+    "id": 3461,
+    "name": "HF - Treasure Node Vol"
+  },
+  {
+    "id": 3464,
+    "name": "HF - Treasure Node Vol"
+  },
+  {
+    "id": 3477,
+    "name": "HF - Treasure Node Box"
+  },
+  {
+    "id": 3640,
+    "name": "AG - Scene 2 Clientside Scripted Event Trigger"
+  },
+  {
+    "id": 3913,
+    "name": "PR - Pet Blocker"
+  },
+  {
+    "id": 3965,
+    "name": "FV - Gas Trigger"
+  },
+  {
+    "id": 4843,
+    "name": "MG - Obj M Blue"
+  },
+  {
+    "id": 4844,
+    "name": "MG - Obj M Red"
+  },
+  {
+    "id": 4845,
+    "name": "MG - Obj P Blue"
+  },
+  {
+    "id": 4846,
+    "name": "MG - Obj P Red"
+  },
+  {
+    "id": 4847,
+    "name": "MG - Obj Spawn Red"
+  },
+  {
+    "id": 4848,
+    "name": "MG - Obj Spawn Blue"
+  },
+  {
+    "id": 4849,
+    "name": "MG - Obj Spawn Yellow"
+  },
+  {
+    "id": 4850,
+    "name": "MG - Obj Flag Blue"
+  },
+  {
+    "id": 4851,
+    "name": "MG - Obj Flag Red"
+  },
+  {
+    "id": 4870,
+    "name": "MG - Obj Zone"
+  },
+  {
+    "id": 4933,
+    "name": "MG - Obj Vol Blue"
+  },
+  {
+    "id": 4934,
+    "name": "MG - Obj Vol Red"
+  },
+  {
+    "id": 4935,
+    "name": "MG - Obj Vol Yellow"
+  },
+  {
+    "id": 4945,
+    "name": "HF - RespawnPoints"
+  },
+  {
+    "id": 4976,
+    "name": "Mission Minigame Vol"
+  },
+  {
+    "id": 5633,
+    "name": "AG - Death Plane 640x640"
+  },
+  {
+    "id": 5849,
+    "name": "NPC - SPAWN"
+  },
+  {
+    "id": 6546,
+    "name": "Camera-only Blocking Volume"
+  },
+  {
+    "id": 6697,
+    "name": "Invisible Phantom Volume 001"
+  },
+  {
+    "id": 6728,
+    "name": "NPC BLOCKER"
+  },
+  {
+    "id": 7323,
+    "name": "Race Vol 200x100"
+  },
+  {
+    "id": 7324,
+    "name": "Race Vol 200x200"
+  },
+  {
+    "id": 7325,
+    "name": "Race Vol 200x400"
+  },
+  {
+    "id": 7569,
+    "name": "Terrain Vol Blocker"
+  },
+  {
+    "id": 7799,
+    "name": "RACE - Obj Zone"
+  },
+  {
+    "id": 8418,
+    "name": "GFTrack_CavesExitDeathPlane"
+  },
+  {
+    "id": 8435,
+    "name": "mg Spider Boss Activity Object"
+  },
+  {
+    "id": 8573,
+    "name": "AG - Jump Help Trigger"
+  },
+  {
+    "id": 9254,
+    "name": "MG - Spider Egg Spawn"
+  },
+  {
+    "id": 9534,
+    "name": "Racing - GF Lap 01 Good Collider"
+  },
+  {
+    "id": 9609,
+    "name": "Racing - GF Lap 01 Bad Collider"
+  },
+  {
+    "id": 9610,
+    "name": "Racing - GF Lap 02 Good Collider"
+  },
+  {
+    "id": 9611,
+    "name": "Racing - GF Lap 02 Bad Collider"
+  },
+  {
+    "id": 9612,
+    "name": "Racing - GF Lap 03 Good Collider"
+  },
+  {
+    "id": 9613,
+    "name": "Racing - GF Lap 03 Bad Collider"
+  },
+  {
+    "id": 9643,
+    "name": "GFTrack_DeathVol2_RoadGaps"
+  },
+  {
+    "id": 9679,
+    "name": "NSTrack_DeathVol1_ThrusterGap"
+  },
+  {
+    "id": 11026,
+    "name": "Racing - GF FX"
+  },
+  {
+    "id": 11154,
+    "name": "Racing - NS FX"
+  },
+  {
+    "id": 11359,
+    "name": "NSWinterTrack_IceVol1"
+  },
+  {
+    "id": 11478,
+    "name": "NSTrack_phyvol_snowdrift01"
+  },
+  {
+    "id": 11492,
+    "name": "NSTrack_phyvol_snowdrift02"
+  },
+  {
+    "id": 11493,
+    "name": "NSTrack_phyvol_snowdrift03"
+  },
+  {
+    "id": 11495,
+    "name": "NSWinterTrack_IceVol_Global"
+  },
+  {
+    "id": 11496,
+    "name": "NSWinterTrack_IceVol_Secondary"
+  },
+  {
+    "id": 12811,
+    "name": "TEST KOTH volume"
+  },
+  {
+    "id": 14532,
+    "name": "Invisible Jetpack Physics Blocker"
+  },
+  {
+    "id": 15842,
+    "name": "Invisible Jetpack Physics Phantom"
+  },
+  {
+    "id": 16044,
+    "name": "Outer Jetpack Collision Volume"
+  }
+]

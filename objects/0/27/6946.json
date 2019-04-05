@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6508,
+    "3": 3055,
+    "7": 655
+  },
+  "description": "Wall to be smashed, to rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6946,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Smash Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

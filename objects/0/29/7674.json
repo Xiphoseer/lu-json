@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7236,
+    "3": 3390,
+    "7": 713
+  },
+  "description": "Created to test object creator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7674,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST SMASHABLE",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

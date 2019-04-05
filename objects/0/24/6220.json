@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5625,
+    "40": 2563,
+    "5": 809
+  },
+  "description": "Another top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6220,
+  "interactionDistance": 1000.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test MR - Straight Trap Placers",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

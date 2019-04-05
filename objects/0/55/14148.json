@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward - bag of 100 tokens + Green T-Rex backpack",
+  "components": {
+    "11": 7011,
+    "2": 13858,
+    "53": 131
+  },
+  "description": "Double-click to get your reward!",
+  "displayName": "6 Month Membership Reward",
+  "gate_version": "nexustower",
+  "id": 14148,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "6 Month Membership Reward",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 340,
+    "2": 9811,
+    "3": 1777,
+    "35": 433,
+    "39": 49,
+    "5": 1197,
+    "7": 307
+  },
+  "description": "NS Foot Race NPC",
+  "displayName": "Leland Hammertoe - Foot Race Host",
+  "gate_version": null,
+  "id": 9983,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nimbus Racer",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

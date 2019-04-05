@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10596,
+    "3": 4738,
+    "73": 94
+  },
+  "description": "__MG__Mission giver in Luptario",
+  "displayName": "Chester the Moose",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 143,
+      "iconState": 1
+    },
+    {
+      "iconID": 144,
+      "iconState": 2
+    },
+    {
+      "iconID": 145,
+      "iconState": 4
+    },
+    {
+      "iconID": 148,
+      "iconState": 69
+    }
+  ],
+  "id": 10748,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Moose Mission Giver",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

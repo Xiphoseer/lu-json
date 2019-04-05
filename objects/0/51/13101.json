@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6496,
+    "2": 12877,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC Sensei Wu Helmet",
+  "gate_version": "auramar",
+  "id": 13101,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Sensei Wu Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 298
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 5080,
+    "2": 10906,
+    "9": 0
+  },
+  "description": "3 damage projectile arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11157,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "3 Dmg Projectile Arrow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 847
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 2018,
+    "7": 626
+  },
+  "description": "GF ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1791,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninja Prisioner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

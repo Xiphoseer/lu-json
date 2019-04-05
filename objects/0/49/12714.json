@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 3 AP",
+  "components": {
+    "11": 6262,
+    "2": 12503,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Futuron Shirt",
+  "gate_version": "auramar",
+  "id": 12714,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Futuron Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

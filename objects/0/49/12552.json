@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12343,
+    "3": 6179
+  },
+  "description": "Camera for joining a faction cinematic",
+  "displayName": "Camera for joining a faction cinematic",
+  "gate_version": null,
+  "id": 12552,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Join a faction camera",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

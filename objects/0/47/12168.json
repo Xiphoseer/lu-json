@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11917,
+    "3": 5925,
+    "5": 1368,
+    "7": 1662,
+    "9": 0
+  },
+  "description": "keg of blasting powder that Skeleton use for mining",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12168,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Bone Fracture Bomb Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1159
+    }
+  ],
+  "type": "Smashables"
+}

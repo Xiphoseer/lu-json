@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 456,
+    "2": 12133,
+    "3": 1777,
+    "35": 552,
+    "7": 305,
+    "73": 10
+  },
+  "description": "wants to see dance emote",
+  "displayName": "Skee Daddle",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    }
+  ],
+  "id": 4027,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Beastie Brick A",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

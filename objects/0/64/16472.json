@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15218,
+    "3": 7874
+  },
+  "description": "fx_ninjago_red_tower",
+  "displayName": "fx_ninjago_red_tower",
+  "gate_version": "njhub",
+  "id": 16472,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_ninjago_red_tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

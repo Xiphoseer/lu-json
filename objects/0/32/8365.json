@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Shielding",
+  "components": {
+    "11": 3686,
+    "2": 7923,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Potion of Shielding",
+  "gate_version": null,
+  "id": 8365,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Potion of Shielding",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 863
+    }
+  ],
+  "type": "Loot"
+}

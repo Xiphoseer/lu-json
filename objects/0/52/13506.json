@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6660,
+    "2": 13240,
+    "28": 327,
+    "3": 6613,
+    "42": 0,
+    "63": 24
+  },
+  "description": null,
+  "displayName": "Sentinel Stalwart Engine Panel",
+  "gate_version": "factionvehicles",
+  "id": 13506,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarSE_EnginePanel_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 3662,
+    "2": 7896,
+    "28": 59,
+    "3": 3893,
+    "42": 0
+  },
+  "description": "Promo Modular Build rocket cockpit",
+  "displayName": "Nexus Force Rocket Cockpit",
+  "gate_version": null,
+  "id": 8338,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Promo Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

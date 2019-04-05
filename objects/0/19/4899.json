@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4151,
+    "3": 2040,
+    "48": 43
+  },
+  "description": "Test object for custom Quickbuild system",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4899,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "QB Custom test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11994,
+    "3": 5982
+  },
+  "description": "Static Platform for AM AuraMar",
+  "displayName": "AM Platform Static",
+  "gate_version": null,
+  "id": 12248,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM- Platform Static",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

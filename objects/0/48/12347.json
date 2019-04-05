@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12098,
+    "3": 6036,
+    "39": 108,
+    "5": 1339
+  },
+  "description": "Foot race activator",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12347,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Venture Explorer Foot Race Console",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2515,
+    "25": 0,
+    "3": 1223,
+    "40": 2438,
+    "48": 54,
+    "6": 0
+  },
+  "description": "Test for moving obstacle bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4910,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Moving obstacle bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

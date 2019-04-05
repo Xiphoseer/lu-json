@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Stuns and fires multiple shots",
+  "components": {
+    "11": 3467,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "Stuns and fires multiple shots",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5841,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Stun Pulse Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 165
+    }
+  ],
+  "type": "Loot"
+}

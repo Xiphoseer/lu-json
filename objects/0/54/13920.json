@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant",
+  "components": {
+    "11": 6927,
+    "2": 13644,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Superior Halberd",
+  "gate_version": "communitymissions1.0",
+  "id": 13920,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Halberd",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

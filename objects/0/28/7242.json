@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "40": 3265,
+    "5": 1000
+  },
+  "description": "This sphere is used to hide other players during a modular build",
+  "displayName": "HidePlayerSphere",
+  "gate_version": null,
+  "id": 7242,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "UGG_MB_HidePlayerSphere",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

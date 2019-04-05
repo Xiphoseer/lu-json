@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6488,
+    "2": 12847,
+    "28": 284,
+    "3": 6353,
+    "42": 0,
+    "63": 6,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Fright Speed Engine Panel",
+  "gate_version": "auramar",
+  "id": 13063,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarAM_FrontPanel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

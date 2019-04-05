@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7692,
+    "3": 3642
+  },
+  "description": "GF dock scene racing - Minspec Specific",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8148,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RS Race dock - Minspec",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5909,
+    "2": 11610,
+    "3": 5702,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Treehouse No Bridge Corner Model",
+  "gate_version": null,
+  "id": 11858,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Treehouse Corner No Bridges",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

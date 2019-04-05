@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6123,
+    "2": 10989,
+    "31": 54,
+    "5": 1360,
+    "60": 87,
+    "7": 1730,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Oni Rider Kikin - Maelstrom Horseman",
+  "gate_version": "nimbusinstance",
+  "id": 12468,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Maelstrom Horseman NAMED Boss",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 935
+    }
+  ],
+  "type": "Enemies"
+}

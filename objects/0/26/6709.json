@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6259,
+    "3": 2935
+  },
+  "description": "GF stairs  for jail area with only 5 steps",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6709,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Short stairs 5",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

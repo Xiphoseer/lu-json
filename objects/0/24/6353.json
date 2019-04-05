@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5754,
+    "3": 2617,
+    "40": 2618,
+    "6": 0
+  },
+  "description": "Bouncer for Space Ship",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6353,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Space Ship Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

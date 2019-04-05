@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "6 AP 8 IP +Shuriken Throw +Dragon Style Unarmed",
+  "components": {
+    "11": 3677,
+    "2": 7914,
+    "9": 0
+  },
+  "description": "Masters of Panda style Kung Fu do not use any weapons!",
+  "displayName": "Panda Style Gi",
+  "gate_version": null,
+  "id": 8356,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Panda Style Gi Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 365
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 376
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 858
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 861
+    }
+  ],
+  "type": "Loot"
+}

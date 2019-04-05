@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 474 - Hidden",
+  "components": {
+    "11": 2980,
+    "2": 6665
+  },
+  "description": null,
+  "displayName": "Assembly Approval",
+  "gate_version": null,
+  "id": 7091,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Assembly Badge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

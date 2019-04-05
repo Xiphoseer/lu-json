@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13256,
+    "3": 6628,
+    "5": 1458,
+    "60": 130,
+    "7": 1838
+  },
+  "description": "Animated Sunflower Plant",
+  "displayName": "Sunflower",
+  "gate_version": "nexustower",
+  "id": 13296,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Sunflower Plant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4292,
+    "3": 2193,
+    "5": 629,
+    "7": 418
+  },
+  "description": "Large Speaker for AG scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4858,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Speaker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

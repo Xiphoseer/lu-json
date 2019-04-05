@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6130,
+    "2": 12268,
+    "3": 6135,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Skeleton Corner Wall Model",
+  "gate_version": "auramar",
+  "id": 12497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Wall Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

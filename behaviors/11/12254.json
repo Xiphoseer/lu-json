@@ -1,0 +1,21 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/11/12254.json"
+    }
+  },
+  "behaviorID": 12254,
+  "effectHandle": null,
+  "effectID": 2939,
+  "parameters": {
+    "action": 12255.0,
+    "angle": 90.0,
+    "blocked action": 12201.0,
+    "check_env": 1.0,
+    "max range": 6.0,
+    "max targets": 1.0,
+    "min range": 0.0,
+    "target_enemy": 1.0
+  },
+  "templateID": 2
+}

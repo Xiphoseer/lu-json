@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1814,
+    "2": 3117,
+    "5": 570
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3710,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Monkey Game Monkey",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

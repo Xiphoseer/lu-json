@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5543,
+    "2": 11181
+  },
+  "description": "NPC for Starbase 3001",
+  "displayName": "LUP Starbase Shirt",
+  "gate_version": null,
+  "id": 11429,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LUP Starbase Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

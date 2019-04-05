@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12134,
+    "40": 6066
+  },
+  "description": "POI Trigger Wall",
+  "displayName": "POI Trigger Wall",
+  "gate_version": null,
+  "id": 12382,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "(do not use) POI Trigger Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

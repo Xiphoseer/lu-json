@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2352,
+    "2": 3417,
+    "36": 0
+  },
+  "description": "An inventory item to match the Homespace",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3972,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Homespace property in inventory",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Property"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5686,
+    "2": 11387,
+    "3": 5479,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Fence 2 Model",
+  "gate_version": "nexustower",
+  "id": 11635,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Fence 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

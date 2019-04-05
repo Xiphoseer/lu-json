@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14037,
+    "3": 7169,
+    "67": 33,
+    "78": 38
+  },
+  "description": "Launch pad in LUP Deep Freeze",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14346,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LUP - Deep Freeze Rocket Launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

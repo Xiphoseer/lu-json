@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15024,
+    "3": 7689
+  },
+  "description": "",
+  "displayName": "NJ-Mon_Fire_Transition_01_A",
+  "gate_version": "njhub",
+  "id": 16278,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Fire_Transition_01_A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

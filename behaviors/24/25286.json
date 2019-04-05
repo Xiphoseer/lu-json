@@ -1,0 +1,23 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/24/25286.json"
+    }
+  },
+  "behaviorID": 25286,
+  "effectHandle": "",
+  "effectID": 5583,
+  "parameters": {
+    "dir_angle_xz": 0.0,
+    "dir_angle_y": 0.0,
+    "dir_force": 7.0,
+    "max damage": 9.0,
+    "min damage": 9.0,
+    "on_fail_armor": 25287.0,
+    "on_fail_blocked": 25288.0,
+    "on_success": 25287.0,
+    "use_caster_velocity": 0.0,
+    "velocity_multiplier": 1.0
+  },
+  "templateID": 1
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Carried by the player during a Siege match",
+  "components": {
+    "11": 2775,
+    "2": 6154,
+    "5": 916,
+    "9": 0
+  },
+  "description": "Carried by the player during a Siege match",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6600,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PvP Carry Barrel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 182
+    }
+  ],
+  "type": "Loot"
+}

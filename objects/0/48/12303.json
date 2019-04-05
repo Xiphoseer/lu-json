@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6045,
+    "2": 12053
+  },
+  "description": "Armor for NJ Skeleton",
+  "displayName": "NPC Skeleton Armor 1",
+  "gate_version": null,
+  "id": 12303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skeleton Armor 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

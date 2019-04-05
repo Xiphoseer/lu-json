@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1087,
+    "17": 8,
+    "2": 2198,
+    "5": 196,
+    "7": 374,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 2585,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Red Siege Pirate Guard",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3576,
+    "2": 7466,
+    "5": 1046,
+    "7": 843
+  },
+  "description": "Chest pops out of ground, opens, spawn powerups and fade into ground again",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7920,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "X marks the spot chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Smashables"
+}

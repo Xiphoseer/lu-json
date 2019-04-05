@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10285,
+    "3": 4647
+  },
+  "description": "VFX Property FV Fog",
+  "displayName": "VFX Property FV Fog",
+  "gate_version": null,
+  "id": 10442,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Property FV Fog",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 81,
+    "17": 281,
+    "2": 7754,
+    "3": 1777,
+    "35": 355,
+    "7": 867
+  },
+  "description": "AG Accessory Vendor - Bulwark",
+  "displayName": "Klaus Zett - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 8212,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG Gear Vendor - Sentinel",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

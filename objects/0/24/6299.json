@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5733,
+    "3": 2604,
+    "7": 541
+  },
+  "description": "A broken version of the Good Stromling Mech",
+  "displayName": "Broken Paradox Mech",
+  "gate_version": null,
+  "id": 6299,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ambient Busted Mech",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

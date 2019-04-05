@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11912,
+    "3": 5920,
+    "7": 1661
+  },
+  "description": "Mining equipment for Skeleton",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12164,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Equipment Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

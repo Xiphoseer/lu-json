@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6947,
+    "2": 13704,
+    "31": 63,
+    "5": 1508,
+    "60": 141,
+    "7": 1899,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bone Wolf",
+  "gate_version": "njhub",
+  "id": 13995,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Bone Wolf",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1584
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 1585
+    },
+    {
+      "AICombatWeight": 25,
+      "castOnType": 0,
+      "skillID": 1586
+    }
+  ],
+  "type": "Enemies"
+}

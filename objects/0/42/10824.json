@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5280,
+    "2": 10671,
+    "3": 4945,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Lounge Chair Model 1",
+  "gate_version": null,
+  "id": 10824,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward LoungeChair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

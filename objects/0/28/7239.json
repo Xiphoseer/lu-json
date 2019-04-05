@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6816,
+    "35": 295,
+    "5": 999,
+    "7": 307
+  },
+  "description": "Crowd NPC 5 Sit",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7239,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp9",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Elite Ranged Skeleton for Ninjago Boss Instance",
+  "components": {
+    "1": 7903,
+    "17": 564,
+    "2": 15260,
+    "31": 100,
+    "5": 1720,
+    "60": 182,
+    "7": 2150,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Mad Scientist",
+  "gate_version": "njhub",
+  "id": 16511,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 1381
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1382
+    }
+  ],
+  "type": "Enemies"
+}

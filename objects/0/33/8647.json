@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 3899,
+    "2": 8202,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cargo Pants",
+  "gate_version": null,
+  "id": 8647,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cargo Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

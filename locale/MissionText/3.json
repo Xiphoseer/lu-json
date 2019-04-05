@@ -1,0 +1,1315 @@
+{
+  "1001": {
+    "accept_chat_bubble": "Head up to the Venture League Observatory and check in with my old friend Hael Storm.",
+    "chat_state_1": "Let's see how the Maelstrom handles a few Sentinel salvos!",
+    "chat_state_2": "When we push back the Maelstrom, Hael will have plenty more places to hunt for his treasure!",
+    "chat_state_3_turnin": "Duke sent you, did he? He ready to pay off that bet?",
+    "completion_succeed_tip": "Talk to Hael Storm in the Venture League Observatory in Nexus Tower.",
+    "in_progress": "Talk to Hael Storm in the Venture League Observatory.",
+    "offer": "We need some guidance systems for those new Missiles. Ask Hael Storm for help. He's the best navigator in the Nexus Force.",
+    "ready_to_complete": "Missile guidance systems? Easy peasy. I once led an arrow to a target without it leavin' the bow!"
+  },
+  "1002": {
+    "accept_chat_bubble": "I suggest that you check in with your Faction Leader first.",
+    "chat_state_1": "I find your gaze unsettling.",
+    "chat_state_2": "Follow the Paradox logos to find Vanda Darkflame in her laboratory.",
+    "chat_state_3_turnin": "I sensed your approach. Agent Blammo did not disappoint.",
+    "completion_succeed_tip": "Follow the Paradox logos to find Vanda Darkflame in the Paradox Laboratory.",
+    "in_progress": "Follow the Paradox logos to find Vanda Darkflame in the Paradox Laboratory.",
+    "offer": "I sense the mystery of Paradox within you. You should speak with your leader, Vanda Darkflame, before exploring the rest of the Tower.",
+    "ready_to_complete": "So, you wish to embrace the Paradox. I am Vanda Darkflame, keeper of mysteries and seeker of truths."
+  },
+  "1004": {
+    "accept_chat_bubble": "Vanda and Paradox have proven to be worthy allies, but I've still got to keep an eye on them.",
+    "chat_state_1": "Time to fight fire with fire.",
+    "chat_state_2": "Paradox studies the Maelstrom, so they must know its weakness by now.",
+    "chat_state_3_turnin": "Anti-Maelstrom warheads? Ah yes, fire with fire. How unsurprising.",
+    "completion_succeed_tip": "Talk to Vanda Darkflame in the Paradox Laboratory.",
+    "in_progress": "Talk to Vanda Darkflame in the Paradox Laboratory in Nexus Tower.",
+    "offer": "Now we just need a payload. No one knows more about the Maelstrom than Vanda Darkflame. I don't quite trust her, but we need her help.",
+    "ready_to_complete": "When will Duke learn? The Maelstrom is chaos. You cannot simply destroy chaos!"
+  },
+  "1005": {
+    "completion_succeed_tip": "By collecting all of the Backpack flags in Frostburgh, you've unlocked more Backpack space!",
+    "description": "Collect 5 Backpack Flags in Frostburgh."
+  },
+  "1006": {
+    "accept_chat_bubble": "I suggest that you check in with your Faction Leader first.",
+    "chat_state_1": "I hear the jangling of bricks. You must be Assembly!",
+    "chat_state_2": "Follow the Assembly logos to find Dr. Overbuild in the Nexus Core.",
+    "chat_state_3_turnin": "Now here's a fresh new face!",
+    "completion_succeed_tip": "Follow the Assembly logos to find Dr. Overbuild in the Nexus Core.",
+    "in_progress": "Follow the Assembly logos to find Dr. Overbuild.",
+    "offer": "Greetings, builder! I'm sure you're eager to speak with Dr. Overbuild. Allow me to show you how to find him!",
+    "ready_to_complete": "Come to study the Imagination Nexus with us, have you? Isn't it beautiful?"
+  },
+  "1007": {
+    "accept_chat_bubble": "If you need to refill your Imagination, you're in the right spot!",
+    "chat_state_1": "Have you ever been caught in a brainstorm? Quite electrifying!",
+    "chat_state_2": "Search the perimeter of the Core chamber for the 3 pipes!",
+    "chat_state_3": "If you can imagine it, you can build it!",
+    "completion_succeed_tip": "Return to Dr. Overbuild in the Nexus Core.",
+    "in_progress": "Quick Build 3 Imagination pipes in the Nexus Core.",
+    "offer": "Imagination can flow free, but it's best when it's given a bit of structure. We can guide it if you Quick Build the 3 large pipes in here!",
+    "ready_to_complete": "Wonderful! Now we can run the microwave and the hair dryer at the same time!"
+  },
+  "1008": {
+    "accept_chat_bubble": "Overbuild's a smart fellow. Smartest in the Universe, in fact!",
+    "chat_state_1": "We're getting smashed down there!",
+    "chat_state_2": "The Doc spends all of his time studying the Imagination Nexus. Check the Core and you'll find him.",
+    "chat_state_3_turnin": "I've always got an idea for Duke! Hmm, now where did I leave it this time?",
+    "completion_succeed_tip": "Talk to Dr. Overbuild in the Nexus Core.",
+    "in_progress": "Talk to Dr. Overbuild in the Nexus Core about a way to fight the Maelstrom.",
+    "offer": "We've got to support our troops down on Crux Prime! Ask Doc Overbuild if he has any ideas. He's always got something up those metal sleeves.",
+    "ready_to_complete": "So Duke wants a force multiplier? Yes, I have an idea that might boost his battle efforts!"
+  },
+  "1009": {
+    "accept_chat_bubble": "I suggest that you check in with your Faction Leader first.",
+    "chat_state_1": "Another Sentinel soldier! Splendid.",
+    "chat_state_2": "Follow the Sentinel Faction logos to locate Duke Exeter!",
+    "chat_state_3_turnin": "Another strong Minifigure for the Sentinel Faction ranks!",
+    "completion_succeed_tip": "Follow the Sentinel logos to find Duke Exeter in the Command Center.",
+    "in_progress": "Follow the Sentinel logos to find Duke Exeter in the Command Center.",
+    "offer": "You should check in with your leader, Duke Exeter, right away. I've plotted the most efficient route for your mission.",
+    "ready_to_complete": "Welcome to central ops, soldier. Let's get you up to speed."
+  },
+  "1010": {
+    "accept_chat_bubble": "Head through the door to my left to find the Combat Challenge stations.",
+    "chat_state_1": "Ready to prove your battle skills?",
+    "chat_state_2": "Use different skills to cause maximum damage!",
+    "chat_state_3": "If that's what you can do in here, you'll do just fine on the battlefield.",
+    "completion_succeed_tip": "Report your score to Duke Exeter in the Command Center.",
+    "in_progress": "Use your combat skills to cause 25 points of damage in the Sentinel Faction Combat Challenge.",
+    "offer": "Sentinel soldiers require strength, stamina and speed. Report to the Combat Challenge and execute 25 points of damage!",
+    "ready_to_complete": "That's enough damage to take out any Maelstrom grunt. Still, I'd like to see you beat that score someday."
+  },
+  "768": {
+    "accept_chat_bubble": "It’s up to you now!",
+    "chat_state_1": "Are you ready?",
+    "chat_state_2": "Don't forget to collect life and armor when you get low!",
+    "chat_state_3": "That was crazy! You were like hit, hit and she was like smash, smash!",
+    "chat_state_4": "You're ready to claim this property!",
+    "completion_succeed_tip": "Return to Vance Bulwark on Block Yard to turn in your Trial Faction gear.",
+    "in_progress": "<font color='#FF7F00'>Smash the Spider Queen</font> on Block Yard.",
+    "offer": "That thing has corrupted this entire sector with Maelstrom! <font color='#FF7F00'>Smash the Spider Queen</font>!",
+    "ready_to_complete": "Well done, but it's not over yet. To keep this Property clear of Maelstrom, you must use your Imagination."
+  },
+  "769": {
+    "accept_chat_bubble": "Don't delay! All 3 pipes must be complete for the pressure to equalize!",
+    "chat_state_1": "I can't work under these conditions!",
+    "chat_state_2": "You'll need all 3 pipes intact at once for power to be restored!",
+    "chat_state_3": "I hope my data hasn't been corrupted.",
+    "completion_succeed_tip": "Return to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "in_progress": "Repair 3 Refinery pipes in Forbidden Valley. All 3 must remain intact at the same time for power to be restored.",
+    "offer": "Maelstrom forces have smashed some of the pipes that bring power to the Refinery! Can you repair them?",
+    "ready_to_complete": "Good, now I can resume my experiments. The Maelstrom is strange and baffling - and yet, oddly alluring."
+  },
+  "770": {
+    "accept_chat_bubble": "Be careful when you go to Forbidden Valley, them Ninjas are everywhere!",
+    "chat_state_1": "Snuck in right under our noses, they did!",
+    "chat_state_2": "No matter what we do, them Ninjas always get our stuff!",
+    "chat_state_3": "I hope they ain't too wrecked apart!",
+    "completion_succeed_tip": "Head back to Gnarled Forest and talk to Betty Hatchesbatten.",
+    "in_progress": "Go to Forbidden Valley and find 3 missing barrels.",
+    "offer": "Them slippery Ninjas stole the barrels that had our new rocket pieces! Can you steal ‘em back from Forbidden Valley?",
+    "ready_to_complete": "They were in rough shape but now they're good as new. Here, see what you can do with 'em!"
+  },
+  "771": {
+    "accept_chat_bubble": "Remember, I ain't tellin' you nothin' without all 10 cannonballs first!",
+    "chat_state_1": "I know a secret! Yeh wanna know it too?",
+    "chat_state_2": "Look in them sharks again, they're always full o' cannonballs.",
+    "chat_state_3": "Alright then, listen close now.",
+    "completion_succeed_tip": "Return to Black-Hearted Kevin at the Pirates' Camp in Gnarled Forest.",
+    "in_progress": "Find 10 cannonballs for Black-Hearted Kevin in Gnarled Forest.",
+    "offer": "Find me 10 cannonballs and I'll give you a Captain's Hat and tell you a secret about them launch pads.",
+    "ready_to_complete": "Wear this or any pirate hat when yeh launch from Nimbus Station to Gnarled Forest, an' you'll land here at the beach!"
+  },
+  "772": {
+    "accept_chat_bubble": "They sure don't make 'em like Johnny Thunder!",
+    "chat_state_1": "I don't know what I love more, the hat or the mustache. Sigh.",
+    "chat_state_2": "Tell him it's for me! I hope he remembers who I am!",
+    "chat_state_3": "Did he give it to you personally?",
+    "completion_succeed_tip": "Take the autograph back to Renee Tombcrusher in Gnarled Forest.",
+    "in_progress": "Get an autographed picture from Johnny Thunder in Nimbus Station.",
+    "offer": "Caught me daydreaming again! Johnny Thunder - now that's a Venture League hero. I'd just love to see that rugged, manly, mustached face again!",
+    "ready_to_complete": "Will you look at this man? Consider me Thunderstruck!"
+  },
+  "773": {
+    "accept_chat_bubble": "Talk to my fans!",
+    "chat_state_1": "Come to have another look, eh?",
+    "chat_state_2": "How's it goin' out there? Those ladies sound pretty jazzed!",
+    "chat_state_3": "You went through those fast!",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Talk to 4 female fans at the Red Blocks concert about meeting Johnny Thunder.",
+    "offer": "Everyone loves the Thunder – especially the ladies! Go see if any lucky gals want to meet me in person!",
+    "ready_to_complete": "They really love me, don't they? Ripper! Oh and here, an autographed picture of the Thunder, just for you!"
+  },
+  "774": {
+    "accept_chat_bubble": "DJ Studd is the best!",
+    "chat_state_1": "Yeah, this concert rocks!",
+    "chat_state_2": "Woo hoo!",
+    "chat_state_3": "Huh?",
+    "completion_succeed_tip": "Talk to Sofie Cushion at the concert about meeting Johnny Thunder.",
+    "in_progress": "Talk to Sofie Cushion at the Red Blocks concert about meeting Johnny Thunder.",
+    "offer": "Go find a lucky gal!",
+    "ready_to_complete": "Oh no, not that Johnny Thunder guy again."
+  },
+  "775": {
+    "accept_chat_bubble": "Those guys can really play!",
+    "chat_state_1": "This is the best show ever!",
+    "chat_state_2": "This is my 26th time seeing this band!",
+    "chat_state_3": "Dance with me!",
+    "completion_succeed_tip": "Talk to DeeDee Light at the concert about meeting Johnny Thunder.",
+    "in_progress": "Talk to DeeDee Light at the Red Blocks concert about meeting Johnny Thunder.",
+    "offer": "Go tell some lucky lady she can meet me in person!",
+    "ready_to_complete": "Gee, thanks. This is the fourth time this week. Someone should tell him to stop."
+  },
+  "776": {
+    "accept_chat_bubble": "This is my favorite jam!",
+    "chat_state_1": "OMG I can't stop texting about this concert!",
+    "chat_state_2": "You guys rock!",
+    "chat_state_3": "You're with who?",
+    "completion_succeed_tip": "Talk to Green Brockley at the concert about meeting Johnny Thunder.",
+    "in_progress": "Talk to Green Brockley at the Red Blocks concert about meeting Johnny Thunder.",
+    "offer": "Make some lucky gal very happy and tell her I'm back here!",
+    "ready_to_complete": "Johnny Thunder? Is he like some kind of weatherman?"
+  },
+  "777": {
+    "accept_chat_bubble": "Woo hoo!!",
+    "chat_state_1": "Woo hoo!",
+    "chat_state_2": "Yeah!!",
+    "chat_state_3": "Aren't these guys great?",
+    "completion_succeed_tip": "Talk to Krista Clear at the concert about meeting Johnny Thunder.",
+    "in_progress": "Talk to Krista Clear at the Red Blocks concert about meeting Johnny Thunder.",
+    "offer": "Find a gal in the crowd and see if she wants to meet the Thunder!",
+    "ready_to_complete": "Johnny what? Oh, he's that weird guy that hangs out up on the hill, right?"
+  },
+  "778": {
+    "completion_succeed_tip": "Join a Faction!",
+    "description": "Go to Nimbus Station and join a Faction!"
+  },
+  "779": {
+    "accept_chat_bubble": "Be careful once you reach Gnarled Forest! It's no Nimbus Station, believe me.",
+    "chat_state_1": "Ready for an adventure?",
+    "chat_state_2": "Look for the launch pad to Gnarled Forest.",
+    "chat_state_3": "You new to Venture League? Haven't seen you before.",
+    "chat_state_3_turnin": "Welcome to Gnarled Forest!",
+    "completion_succeed_tip": "Talk to Hugo First by the launchpad in Gnarled Forest.",
+    "in_progress": "Talk to Hugo First by the launchpad in Gnarled Forest.",
+    "offer": "I hear the Pirates in Gnarled Forest have gotten into a big Maelstrom mess. You should head there and check in with Hugo First.",
+    "ready_to_complete": "Are you my replacement? Ah well, guess it could be worse. I could be stationed in Forbidden Valley!"
+  },
+  "781": {
+    "accept_chat_bubble": "There are some Ninjas in the Great Tree that may be able to help you find the Maelstrom Hammer.",
+    "chat_state_1": "Did Paradox drop that anvil off? They're sneaky, aren't they?",
+    "chat_state_2": "The launchpad to Forbidden Valley is behind me, at the top of the hill.",
+    "chat_state_3": "They let you into Forbidden Valley? I thought it was, you know, Forbidden.",
+    "completion_succeed_tip": "Return to Nimbus Station and talk to Nexus Jay.",
+    "in_progress": "Get the Maelstrom Hammer from Gathermaster Klex in Forbidden Valley.",
+    "offer": "I wonder what that weird glowing anvil is! Someone said it can only be destroyed by a Maelstrom Hammer from Forbidden Valley!",
+    "ready_to_complete": "Whoa! That Maelstrom Hammer looks heavy. And dangerous. Don't swing it at me!"
+  },
+  "783": {
+    "completion_succeed_tip": "Cobwebs!",
+    "description": "Find the Maelstrom Spider's lair."
+  },
+  "786": {
+    "accept_chat_bubble": "Are you as nimble as a Panda? As fast-moving as sprouting bamboo?",
+    "chat_state_1": "Who is swift enough to complete my training course?",
+    "chat_state_2": "Don't lose your footing on the trail!",
+    "chat_state_3": "You ran the entire course already? And tamed the Panda?",
+    "completion_succeed_tip": "Return to Brickmaster Clang in Forbidden Valley.",
+    "in_progress": "Interact with the Panda statue in the Great Tree, complete the Foot Race and then tame the Panda.",
+    "offer": "If you wish to tame a Panda, you must first complete my training course. Interact with the Panda statue to begin.",
+    "ready_to_complete": "It seems the Panda approved - he did not mistake your arm for bamboo!"
+  },
+  "788": {
+    "completion_succeed_tip": "Dragon Tamer!",
+    "description": "Tame the Red Dragon and Green Dragon Pets."
+  },
+  "789": {
+    "completion_succeed_tip": "Zen Tamer!",
+    "description": "Tame the Mantis, Panda, and Goat Pets."
+  },
+  "790": {
+    "completion_succeed_tip": "Ninja Acolyte 1!",
+    "description": "Smash 25 Dark Ronin."
+  },
+  "791": {
+    "completion_succeed_tip": "Ninja Acolyte 2!",
+    "description": "Smash 100 more Dark Ronin."
+  },
+  "792": {
+    "completion_succeed_tip": "Ninja Acolyte 3!",
+    "description": "Smash 1000 more Dark Ronin."
+  },
+  "793": {
+    "completion_succeed_tip": "Ninja Initiate 1!",
+    "description": "Smash 10 Maelstrom Horsemen."
+  },
+  "794": {
+    "completion_succeed_tip": "Ninja Initiate 2!",
+    "description": "Smash 100 more Maelstrom Horsemen."
+  },
+  "795": {
+    "completion_succeed_tip": "Ninja Initiate 3!",
+    "description": "Smash 1000 more Maelstrom Horsemen."
+  },
+  "796": {
+    "completion_succeed_tip": "Ninja Warlord 1!",
+    "description": "Smash 3 Maelstrom Dragons."
+  },
+  "797": {
+    "completion_succeed_tip": "Ninja Warlord 2!",
+    "description": "Smash 30 more Maelstrom Dragons."
+  },
+  "798": {
+    "completion_succeed_tip": "Ninja Warlord 3!",
+    "description": "Smash 300 more Maelstrom Dragons."
+  },
+  "799": {
+    "completion_succeed_tip": "Forbidden Valley Achiever 1!",
+    "description": "Complete 10 Missions or Achievements in Forbidden Valley."
+  },
+  "800": {
+    "completion_succeed_tip": "Forbidden Valley Achiever 2!",
+    "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 20."
+  },
+  "801": {
+    "completion_succeed_tip": "Forbidden Valley Achiever 3!",
+    "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 30."
+  },
+  "802": {
+    "completion_succeed_tip": "Forbidden Valley Achiever 4!",
+    "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 40."
+  },
+  "803": {
+    "completion_succeed_tip": "Forbidden Valley Achiever 5!",
+    "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 50."
+  },
+  "806": {
+    "completion_succeed_tip": "Keelhaul Canyon Flag Racer!",
+    "description": "Collect 10 Flags on the Keelhaul Canyon racetrack."
+  },
+  "809": {
+    "accept_chat_bubble": "Use the Build Area across from me to assemble your new rocket.",
+    "chat_state_1": "Ready to let your Imagination take flight?",
+    "chat_state_2": "Don't forget your Thinking Hat!",
+    "chat_state_3": "A soaring display of creativity!",
+    "chat_state_4": "Bricks without Imagination are bricks without purpose.",
+    "completion_succeed_tip": "Show Mardolf your new rocket!",
+    "in_progress": "<font color='#FF7F00'>Build a new rocket</font> using a <font color='#FF7F00'>Nimbus rocket part</font>. You can drag a completed rocket into the Build Area to change its parts.",
+    "offer": "Let's see your creative energy! <font color='#FF7F00'>Build a new rocket</font> with a <font color='#FF7F00'>Nimbus rocket part</font>! Drag one of your completed rockets into the Build Area to get started!",
+    "ready_to_complete": "Excellent! You have a strong creative spark! The <font color='#FF7F00'>Assembly Faction</font> approves!"
+  },
+  "812": {
+    "accept_chat_bubble": "Make sure you equip all pieces from the same set of Venture League gear!",
+    "chat_state_1": "Time to try it all on!",
+    "chat_state_2": "If you’re already wearing the full kit, just take a piece off and put it back on!",
+    "chat_state_3": "One day you'll have enough Faction Tokens to look like me!",
+    "completion_succeed_tip": "Return to Magnus Bumperdent, the Venture League Faction Vendor in Nimbus Plaza.",
+    "in_progress": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+    "offer": "<font color='#FF7F00'>Equip your entire Specialty Kit</font> to get a bonus! Open the Specialty Kit Package and <font color='#FF7F00'>read the Rank 1 book</font> to get started.",
+    "ready_to_complete": "Now you look like a real Venture League hero! Collect <font color='#FF7F00'>Faction Tokens</font> to buy other books and gear!"
+  },
+  "813": {
+    "accept_chat_bubble": "Make sure you equip all 4 pieces of gear from the same Paradox set.",
+    "chat_state_1": "Armor up!",
+    "chat_state_2": "If you’re already wearing the full kit, just take a piece off and put it back on!",
+    "chat_state_3": "Now you're ready to blast some Maelstrom!",
+    "completion_succeed_tip": "Return to Cog Blammo, the Paradox Faction Vendor in Nimbus Plaza.",
+    "in_progress": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+    "offer": "<font color='#FF7F00'>Equip your entire Specialty Kit</font> to get a bonus! Open the Specialty Kit Package and <font color='#FF7F00'>read the Rank 1 book</font> to get started.",
+    "ready_to_complete": "Unleash the powers of Paradox and reap the rewards! Collect <font color='#FF7F00'>Faction Tokens</font> to buy other books and gear!"
+  },
+  "814": {
+    "accept_chat_bubble": "When you equip your Sentinel Faction gear, all 4 pieces must be from the same set!",
+    "chat_state_1": "I have some important news for you!",
+    "chat_state_2": "If you’re already wearing the full kit, just take a piece off and put it back on!",
+    "chat_state_3": "Wear your Sentinel gear when you finally meet Duke Exeter!",
+    "completion_succeed_tip": "Return to Xeno Blueblade, the Sentinel Faction Vendor in Nimbus Plaza.",
+    "in_progress": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+    "offer": "<font color='#FF7F00'>Equip your entire Specialty Kit</font> to get a bonus! Open the Specialty Kit Package and <font color='#FF7F00'>read the Rank 1 book</font> to get started.",
+    "ready_to_complete": "Don't you feel stronger already? That's the power of the Sentinels! Collect <font color='#FF7F00'>Faction Tokens</font> to buy other books and gear."
+  },
+  "815": {
+    "accept_chat_bubble": "You'll need to equip all 4 pieces from the same set of Assembly gear if you want the bonuses!",
+    "chat_state_1": "Some Assembly is required!",
+    "chat_state_2": "If you’re already wearing the full kit, just take a piece off and put it back on!",
+    "chat_state_3": "Now you look like a proper Assembly builder!",
+    "completion_succeed_tip": "Talk to Meldric Steamvalve, the Assembly Faction Vendor in Nimbus Plaza.",
+    "in_progress": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+    "offer": "<font color='#FF7F00'>Equip your entire Specialty Kit</font> to get a bonus! Open the Specialty Kit Package and <font color='#FF7F00'>read the Rank 1 book</font> to get started.",
+    "ready_to_complete": "Can you feel your potential building? Those are the benefits of joining Assembly! Collect <font color='#FF7F00'>Faction Tokens</font> to buy other books and gear!"
+  },
+  "817": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 5 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 5 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "818": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 6 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 6 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "819": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 7 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 7 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "820": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 8 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 8 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "821": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 9 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 9 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "822": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 10 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 10 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "823": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 11 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 11 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "824": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 12 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 12 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "825": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 13 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 13 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "826": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 14 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 14 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "827": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 15 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 15 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "828": {
+    "accept_chat_bubble": "You can buy Blue Imaginite from some vendors.",
+    "chat_state_1": "Want a bigger Backpack?",
+    "chat_state_2": "I'll bet someone nearby is selling Blue Imaginite.",
+    "chat_state_3": "Do you have the Imaginite?",
+    "chat_state_4": "Bring me more Blue Imaginite and I'll open more Backpack space for you!",
+    "completion_succeed_tip": "Return to Rad Eccles in Nimbus Station and he'll expand your Backpack.",
+    "in_progress": "Take 16 Blue Imaginite to Rad Eccles in Nimbus Station.",
+    "offer": "Bring me 16 Blue Imaginite and I will add one more Item slot in your Backpack!",
+    "ready_to_complete": "Here, just a minute while I adjust your Backpack."
+  },
+  "833": {
+    "accept_chat_bubble": "Head off to my left towards Race Place, then look up the hill behind the vendors.",
+    "chat_state_1": "Isn't it great to be a part of the Nexus Force?",
+    "chat_state_2": "It's vital that we protect Imagination!",
+    "chat_state_3_turnin": "Ready to fly to Nexus Tower?",
+    "completion_succeed_tip": "Talk to Kurt Tussle, the Nexus Force Guard at Nimbus Station Race Place.",
+    "in_progress": "Find Kurt Tussle, the Nexus Force Guard at Nimbus Station Race Place.",
+    "offer": "Now that you've joined a Faction, you can fly to Nexus Tower and meet your Faction Leader!",
+    "ready_to_complete": "Nexus Tower was built to protect the Imagination Nexus that Dr. Overbuild found on the remains of Planet Crux!"
+  },
+  "834": {
+    "accept_chat_bubble": "Look for skunks in the grassy areas of Nimbus Station.",
+    "chat_state_1": "Skunks love to spray, but what if you could spray back? Hmm.",
+    "chat_state_2": "When you find the skunk, be sure you're doing all the spraying!",
+    "chat_state_3": "I smelled your success before you even got here.",
+    "completion_succeed_tip": "Return to Mardolf the Orange in Nimbus Station.",
+    "in_progress": "Use your Water Sprayer on a Skunk and then tame it.",
+    "offer": "You can tame one of those skunks if you can get the stink off first! Try your new Water Sprayer!",
+    "ready_to_complete": "Now it's a stinky wet skunk, but at least you were able to tame it! Look for other ways to use your Water Sprayer!"
+  },
+  "835": {
+    "accept_chat_bubble": "After you smash an Ape or Admiral, look for its Anchor Loot!",
+    "chat_state_1": "How green are you, recruit?",
+    "chat_state_2": "Apes and Admirals are tough, but you can jump away before they attack!",
+    "chat_state_3": "Did you get that darn dirty Ape? Or was it an Admiral?",
+    "completion_succeed_tip": "Return to Nexus Tower and talk to Duke Exeter in the Sentinel Command Center.",
+    "in_progress": "Smash a Stromling Ape or Admiral in Gnarled Forest and bring Duke Exeter its anchor.",
+    "offer": "I need your help on the battlefield below, but I must be sure you're qualified, recruit. Go to Gnarled Forest and bring me an Anchor!",
+    "ready_to_complete": "Good work! A Maelstrom-infested jungle isn't much hassle for the Nexus Force, right?"
+  },
+  "842": {
+    "accept_chat_bubble": "Look all over Pet Cove for the tags, they must be here somewhere.",
+    "chat_state_1": "Oh no, where did I put them?",
+    "chat_state_2": "I use the tags so I remember my dogs' names, isn't that silly?",
+    "chat_state_3": "Did you find them all?",
+    "completion_succeed_tip": "Return to Bella Pepper by the Lighthouse in Pet Cove.",
+    "in_progress": "Find all 5 Dog Tags around Pet Cove for Bella Pepper.",
+    "offer": "Oh no, I've lost all my dog tags! They're somewhere in Pet Cove. Can you find them for me?",
+    "ready_to_complete": "Now I can tell my dogs apart! Thanks! Here, I'll tell you a secret - your Pets can dig up buried treasure!"
+  },
+  "843": {
+    "accept_chat_bubble": "Just keep your eyes peeled for treasure chests poking out of the ground!",
+    "chat_state_1": "Can you dig it?",
+    "chat_state_2": "The best thing about treasure chests is that you never know what's inside!",
+    "chat_state_3": "Pretty cool, huh? Your Pet seems excited too!",
+    "completion_succeed_tip": "Return to Bella Pepper by the Lighthouse in Pet Cove.",
+    "in_progress": "Interact with your Pet while standing next to a buried treasure chest.",
+    "offer": "Okay, now that I've told you my secret, go try it! Find a buried treasure chest and have your Pet dig it up!",
+    "ready_to_complete": "I bet there's buried treasure on every world - and now you've got the perfect treasure hunting companion!"
+  },
+  "845": {
+    "completion_succeed_tip": "Preemptive Strike!",
+    "description": "Smash 100 Stone Ronin Statues before they wake up."
+  },
+  "847": {
+    "completion_succeed_tip": "Bang a Gong!",
+    "description": "Smash 100 Dragon Gongs."
+  },
+  "848": {
+    "completion_succeed_tip": "Friend of the Ninjas!",
+    "description": "Pass through the Ravencloud Gate in Forbidden Valley."
+  },
+  "849": {
+    "completion_succeed_tip": "Gate Crasher!",
+    "description": "Find both ways around the Ravencloud Gate in Forbidden Valley."
+  },
+  "850": {
+    "completion_succeed_tip": "Forbidden Valley Firefighter!",
+    "description": "Extinguish 100 candles in Forbidden Valley."
+  },
+  "851": {
+    "completion_succeed_tip": "The Way of the Hammer!",
+    "description": "Smash 25 glowing anvils, 25 Dragon statues, 25 Horse statues, and 25 Mantis statues."
+  },
+  "852": {
+    "completion_succeed_tip": "Tree Climber!",
+    "description": "Discover Numb Chuck's location in Forbidden Valley."
+  },
+  "854": {
+    "completion_succeed_tip": "Lead the Charge!",
+    "description": "Lead 100 Maelstrom Horsemen to Brick Fury so he can smash them."
+  },
+  "855": {
+    "completion_succeed_tip": "Lights Out!",
+    "description": "Smash 100 ninja lanterns in Forbidden Valley."
+  },
+  "857": {
+    "accept_chat_bubble": "Good luck mate! And remember, I don't want the buried ones!",
+    "chat_state_1": "Alright mate, I got a challenge for ya.",
+    "chat_state_2": "Just keep yer eyes out fer Stromlings, right? Nasty business, them.",
+    "chat_state_3": "You look like you been through the wringer!",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 5 floating treasure chests in Avant Gardens.",
+    "offer": "Lookin' for more treasure, mate? Blast off to Avant Gardens and find yerself some rich stuff!",
+    "ready_to_complete": "That's the trick, mate. Never let a pesky little war zone get between you and your treasure!"
+  },
+  "858": {
+    "accept_chat_bubble": "Good luck mate!  You'll need it!",
+    "chat_state_1": "Ready for some forest trailblazin'?",
+    "chat_state_2": "Still huntin', I hope.",
+    "chat_state_3": "A Pirate without treasure is like a gal without a personally signed picture of Johnny Thunder!",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 5 floating treasure chests in Gnarled Forest.",
+    "offer": "Them Pirates didn't hoard all the treasure in Gnarled Forest. Bet there's more chests waitin' to be found!",
+    "ready_to_complete": "Bet them Pirates never even knew those were there, huh? Good on ya, mate!"
+  },
+  "859": {
+    "accept_chat_bubble": "Get to it, mate!  Those treasure chests won't find themselves!",
+    "chat_state_1": "Alright, this one's a little more relaxin' than the last.",
+    "chat_state_2": "Back already? I think you got more lookin' to do.",
+    "chat_state_3": "Get some sun on ya?",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 5 floating treasure chests in Pet Cove.",
+    "offer": "All them animals in Pet Cove are bound to dig up some treasure chests at some point - better go get 'em first!",
+    "ready_to_complete": "All 5 chests, check. Did you see Coalessa while you were there? Now that's a Minifigure."
+  },
+  "860": {
+    "accept_chat_bubble": "Good luck mate!  You'll need it!",
+    "chat_state_1": "Hope you're ready for this one, mate!",
+    "chat_state_2": "Ninjas, Dark Ronin - all in a day's work, right?",
+    "chat_state_3": "You found them all, you say?",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 5 floating treasure chests in Forbidden Valley.",
+    "offer": "Want to be as great an explorer as the Thunder here? Try to find all the chests in Forbidden Valley!",
+    "ready_to_complete": "Wow. Huh. I think you might be an even better explorer than me. Don't tell no one, right?"
+  },
+  "861": {
+    "completion_succeed_tip": "Vertigo Loop Flag Racer!",
+    "description": "Collect 10 Flags on the Vertigo Loop racetrack."
+  },
+  "863": {
+    "accept_chat_bubble": "Make sure your Maelstrom Hammer is equipped first!",
+    "chat_state_1": "Can you even swing that Hammer? Do you need to do some push-ups first?",
+    "chat_state_2": "Wonder what that thing will rebuild into?",
+    "chat_state_3": "Boo. I was hoping it might turn into a frozen yogurt machine.",
+    "chat_state_4": "Anytime you have Maelstrom bricks, bring them back here and use them on that thing!",
+    "completion_succeed_tip": "Return to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "Use the Maelstrom Hammer on the red glowing anvil in Nimbus Plaza, Quick Build it and interact with the device to get Faction Tokens.",
+    "offer": "Okay, let's see what that anvil really is! Smash the anvil with your Maelstrom Hammer, rebuild it and then interact with whatever you create!",
+    "ready_to_complete": "That thing turns Maelstrom-bricks into Faction Tokens?! Wow, that's handy! And also kind of freaky."
+  },
+  "865": {
+    "accept_chat_bubble": "Look for the Paradox Logo above the vendor huts.",
+    "chat_state_1": "Recruiting is thirsty work!",
+    "chat_state_2": "Smash things to find Faction Tokens!",
+    "chat_state_3": "Did you get the Potion? I'm parched!",
+    "completion_succeed_tip": "Take the Paradox Power Potion back to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "Use Faction Tokens to buy a Paradox Power Potion from your Faction Vendor, then take the Potion back to Nexus Jay.",
+    "offer": "You can now collect Faction Tokens when you smash things. Can you get me a Paradox Power Potion from your Faction vendor?",
+    "ready_to_complete": "Ahh, much better. Use Faction Supplies to replenish your Life, Armor, and Imagination!"
+  },
+  "866": {
+    "accept_chat_bubble": "Look for the Venture Logo above the vendor huts.",
+    "chat_state_1": "You would not believe how many Minifigures I've talked to today!",
+    "chat_state_2": "Smash things to find Faction Tokens!",
+    "chat_state_3": "Did you get the Vial? I could use a boost!",
+    "completion_succeed_tip": "Take the Venture Vitality Vial back to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "Use Faction Tokens to buy a Venture Vitality Vial  from your Faction Vendor, then take the Vial back to Nexus Jay.",
+    "offer": "You can now collect Faction Tokens when you smash things. Can you get me a Venture Vitality Vial from your Faction Vendor?",
+    "ready_to_complete": "Ahh, much better. Use Faction Supplies to replenish your Life, Armor, and Imagination!"
+  },
+  "867": {
+    "accept_chat_bubble": "Look for the Assembly Logo above the vendor huts.",
+    "chat_state_1": "I'm parched! Talking to new recruits all day makes your mouth dry.",
+    "chat_state_2": "Smash things to find Faction Tokens!",
+    "chat_state_3": "Awesome-Ade is made from 100% natural ingredients! That fake stuff makes me hyper.",
+    "completion_succeed_tip": "Take the Assembly Awesome-Ade back to Nexus Jay in Nimbus Plaza.",
+    "in_progress": "Use Faction Tokens to buy some Assembly Awesome-Ade from your Faction Vendor, then take it back to Nexus Jay.",
+    "offer": "You can now collect Faction Tokens when you smash things. Can you get me some Assembly Awesome-Ade from your Faction Vendor?",
+    "ready_to_complete": "Ahh, much better. Use Faction Supplies to replenish your Life, Armor, and Imagination!"
+  },
+  "870": {
+    "accept_chat_bubble": "Claiming a Property is the first step to using your Imagination.",
+    "chat_state_1": "We need to use Imagination to push back the Maelstrom.",
+    "chat_state_2": "Use the console to claim your Property.",
+    "chat_state_3": "I can't wait to see what you build here!",
+    "completion_succeed_tip": "Tell Vance Bulwark that you've claimed the Property!",
+    "in_progress": "<font color='#FF7F00'>Interact with the Property Console</font> to claim this Block Yard Property.",
+    "offer": "Only Imagination can truly clear the Maelstrom from Avant Gardens! <font color='#FF7F00'>Interact with the console</font> to claim this Property!",
+    "ready_to_complete": "Are you ready to start building on your Property? All you need is a Thinking Hat, bricks, models and Imagination!"
+  },
+  "871": {
+    "accept_chat_bubble": "Don't be shy, let's see what you come up with!",
+    "chat_state_1": "So how many models have you collected so far?",
+    "chat_state_2": "Place 4 models on your Property!",
+    "chat_state_3": "That's a huge improvement already. This place is really shaping up.",
+    "completion_succeed_tip": "Click the check in the upper right to exit Build Mode. Then return to Vance Bulwark.",
+    "in_progress": "Find the Models tab in your Backpack and then <font color='#FF7F00'>place 4 models</font> on your Property.",
+    "offer": "To start the flow of Imagination, walk into the Build Area and <font color='#FF7F00'>place 4 models</font>!",
+    "ready_to_complete": "Excellent. Placing models is the first step towards customizing your Property!"
+  },
+  "872": {
+    "accept_chat_bubble": "Smash, build, use your wits -  just get to that Imagination Orb!",
+    "chat_state_1": "This place is overrun with Maelstrom!",
+    "chat_state_2": "If you can clear this Property, it could be yours to build on!",
+    "chat_state_3": "Awesome job! You unlocked more Behaviors!",
+    "completion_succeed_tip": "You cleared the Maelstrom from this Property! Return to the Property Guard.",
+    "in_progress": "Find a way to reach the Imagination Orb and clear the Property.",
+    "offer": "Can you clear this Property? Smash and build until you reach that Imagination Orb!",
+    "ready_to_complete": "You unlocked more Behaviors! You can also claim this Property, but it will cost a monthly fee."
+  },
+  "873": {
+    "accept_chat_bubble": "There's got to be a way to free that Imagination!",
+    "chat_state_1": "The Nexus Force needs your help!",
+    "chat_state_2": "Every Property we clear helps to push back the Maelstrom.",
+    "chat_state_3": "Excellent. You may claim this Property if you like.",
+    "completion_succeed_tip": "You cleared the Maelstrom from this Property! Return to the Property Guard.",
+    "in_progress": "Find a way to reach the Imagination Orb and clear the Property.",
+    "offer": "Help us push back the Maelstrom! Smash and build until you can reach that Imagination Orb!",
+    "ready_to_complete": "You unlocked more Behaviors! Claim this Property if you like. It has a fee, but it's worth it!"
+  },
+  "874": {
+    "accept_chat_bubble": "I'll stay up and here and watch, if you don't mind.",
+    "chat_state_1": "Maelstrom! Maelstrom everywhere!",
+    "chat_state_2": "You may need to find new skills and items to win this battle!",
+    "chat_state_3": "You did it!",
+    "completion_succeed_tip": "You cleared the Maelstrom from this Property! Return to the Property Guard.",
+    "in_progress": "Find a way to reach the Imagination Orb and clear the Property.",
+    "offer": "The Maelstrom must be stopped! Smash and build until you can reach that Imagination Orb!",
+    "ready_to_complete": "You unlocked more Behaviors! Claim this Property and build on it if you like."
+  },
+  "875": {
+    "completion_succeed_tip": "You participated in the LEGO Universe Beta Test",
+    "description": "Awarded for participation in the LEGO Universe Beta Test."
+  },
+  "876": {
+    "completion_succeed_tip": "Nimbus Station Achiever 1!",
+    "description": "Complete 10 Missions or Achievements in Nimbus Station."
+  },
+  "877": {
+    "completion_succeed_tip": "Nimbus Station Achiever 2!",
+    "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 20."
+  },
+  "878": {
+    "completion_succeed_tip": "Nimbus Station Achiever 3!",
+    "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 30."
+  },
+  "879": {
+    "completion_succeed_tip": "Nimbus Station Achiever 4!",
+    "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 40."
+  },
+  "880": {
+    "completion_succeed_tip": "You are able to use Rank 1 Behaviors!",
+    "description": "Complete the introductory Property Missions."
+  },
+  "881": {
+    "completion_succeed_tip": "You are able to use Rank 2 Behaviors!",
+    "description": "Claim a Property on Nimbus Station."
+  },
+  "882": {
+    "completion_succeed_tip": "You are able to use Rank 3 Behaviors!",
+    "description": "Claim a Property in Gnarled Forest."
+  },
+  "883": {
+    "completion_succeed_tip": "You are able to use Rank 4 Behaviors!",
+    "description": "Claim a Property in Forbidden Valley."
+  },
+  "885": {
+    "completion_succeed_tip": "Friend of Bradford Rant!",
+    "description": "Help the Bradford Rant Institute of Cosmic Kinesis uncover the secret of the Pods!"
+  },
+  "889": {
+    "accept_chat_bubble": "Where's the launch pad to Starbase 3001? I ain't tellin'! That's what explorin' is for!",
+    "chat_state_1": "I got one last challenge for you!",
+    "chat_state_2": "You're back here talkin' to me, so you must not have finished up with Starbase 3001, right?",
+    "chat_state_3": "You did it, didn't ya?",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 5 floating treasure chests in Starbase 3001.",
+    "offer": "Alright, if you can find all the treasure in Starbase 3001, I'll shave my mustache. But you won't.",
+    "ready_to_complete": "Now this here is an Explorer!!! By the way, I was kiddin' about that mustache business."
+  },
+  "891": {
+    "accept_chat_bubble": "Let's get to work!",
+    "chat_state_1": "You need to learn the basics about placing and rotating models!",
+    "chat_state_2": "If you master this, you can create tons of amazing Properties!",
+    "chat_state_3": "Good job. I think you've got the hang of it!",
+    "completion_succeed_tip": "Click the check in the upper right to exit Build Mode. Then return to Vance Bulwark.",
+    "in_progress": "<font color='#FF7F00'>Pick up, rotate and put away a model</font> on your Block Yard Property.",
+    "offer": "Let's make sure you're really ready to build. <font color='#FF7F00'>Pick up, rotate and put away a model</font>.",
+    "ready_to_complete": "You can now use <font color='#FF7F00'>Behaviors</font> to bring your creations to life! Go into Build Mode and click the Behaviors Icon to get started!"
+  },
+  "892": {
+    "completion_succeed_tip": "By collecting all of the Backpack flags in Starbase 3001, you've unlocked more Backpack space!",
+    "description": "Collect 5 Backpack Flags in Starbase 3001."
+  },
+  "893": {
+    "completion_succeed_tip": "By collecting all of the Backpack flags in LEGO Club, you've unlocked more Backpack space!",
+    "description": "Collect 5 Backpack Flags in LEGO Club."
+  },
+  "894": {
+    "completion_succeed_tip": "You have mail! Check your mailbox for an important message.",
+    "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
+  },
+  "895": {
+    "completion_succeed_tip": "You have mail! Check your mailbox for an important message.",
+    "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
+  },
+  "896": {
+    "completion_succeed_tip": "You have mail! Check your mailbox for an important message.",
+    "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
+  },
+  "897": {
+    "completion_succeed_tip": "You have mail! Check your mailbox for an important message.",
+    "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
+  },
+  "898": {
+    "completion_succeed_tip": "Starbase 3001 Observer!",
+    "description": "Use both of the Binoculars in Starbase 3001."
+  },
+  "899": {
+    "accept_chat_bubble": "Remember to use your Ninja Hood to pass the Fallen Gate.",
+    "chat_state_1": "Are you ready to take on the Dragons again?",
+    "chat_state_2": "Perhaps you should stock up on consumables? And take some friends?",
+    "chat_state_3": "You look a little crispy. But I see you survived.",
+    "chat_state_4": "Well done, warrior.",
+    "completion_succeed_tip": "Return to Numb Chuck in the Great Tree in Forbidden Valley.",
+    "in_progress": "Return to the Dragons' Lair in Forbidden Valley and defeat 3 Dragons.",
+    "offer": "I see your skills have improved. Are you ready to face all 3 Dragons?",
+    "offer_repeatable": "Care to battle the Dragons again?",
+    "ready_to_complete": "Indeed you are powerful."
+  },
+  "905": {
+    "accept_chat_bubble": "Thank you again Organic!",
+    "chat_state_2": "Take the Welder to Unit 32.",
+    "chat_state_3": "Take the Welder to Unit 32.",
+    "chat_state_4": "Thank you Organic!",
+    "completion_succeed_tip": "Unit 32 was working on the sculpture in the park.",
+    "in_progress": "Unit 32 can't complete the sculpture without a welder!",
+    "offer": "I just gave you a new welder. We are almost done with the sculpture in Central Park, but Unit 32 needs that welder! Will you bring it to him?",
+    "ready_to_complete": "Excellent! I can finish the sculpture. Unit 64 has asked that you see him. I think he needs help with something."
+  },
+  "906": {
+    "accept_chat_bubble": "Thank you Organic!",
+    "chat_state_1": "We need help with the infected citizens!",
+    "chat_state_3": "Have you stopped some of the infected citizens?",
+    "chat_state_4": "Thank you Organic!",
+    "completion_succeed_tip": "Return to Unit 16.",
+    "in_progress": "I hope we can contain the spread of the corruption.",
+    "offer": "The Master NXT has been corrupted by the Maelstrom and is now corrupting Robot Citizens. Will you stop 3 Infected Citizens before it spreads further?",
+    "ready_to_complete": "Thank you! Until we can build a firewall to stop the Master NXT, I'm afraid we're all susceptible. Lucky for you, you're organic. Oh, I almost forgot! I have another task for you!"
+  },
+  "907": {
+    "accept_chat_bubble": "The citizens of Robot City thank you!",
+    "chat_state_1": "Help! Separators are in the park!",
+    "chat_state_3": "Organic, you have stopped the threat - for now!",
+    "chat_state_4": "Organic, you have stopped the threat - for now!",
+    "completion_succeed_tip": "Return to Unit 64.",
+    "in_progress": "Oh dear, the longer it takes to stop the Separators, the more law abiding Citizens will be disassembled!",
+    "offer": "The Separator is a new robot built by the Master NXT to carry out his bidding. It's faster, stronger and it will not stop. There are some running loose in Central Park. Will you protect us?",
+    "ready_to_complete": "Thank you for protecting us! If only it would last. We will eventually need to stop the Master NXT himself before he takes over the whole city."
+  },
+  "908": {
+    "accept_chat_bubble": "Thank you for helping us!",
+    "chat_state_1": "Help! Help!",
+    "chat_state_3": "Hurray, our homes are saved!",
+    "chat_state_4": "Hurray, our homes are saved!",
+    "completion_succeed_tip": "Return to Dee the Chickadee.",
+    "in_progress": "Those Maelstrom Beavers can be difficult sometimes. Watch out, they may bite!",
+    "offer": "Can you help me? The Maelstrom Beavers have chased us out of our home. Can you smash 10 Beavers for us?",
+    "ready_to_complete": "Great! Now my family and I will be able to go home. If only my friend the moose had such luck."
+  },
+  "909": {
+    "accept_chat_bubble": "Thanks eh!",
+    "chat_state_1": "Can you help me?",
+    "chat_state_2": "I wish I had my snowshoes!",
+    "chat_state_3": "Did you find them?!",
+    "chat_state_4": "Thanks!",
+    "completion_succeed_tip": "Return to Chester the Moose.",
+    "in_progress": "Folks here say that it is not usually this cold or snowy, it must be due to lake effect. Any luck finding those snow shoes?",
+    "offer": "The canal has been blocked by all of this snow, now I can't get home. Can you help? Find 4 snow shoes and bring them back to me.",
+    "ready_to_complete": "That's great eh! Soon I will be able to start my trip home."
+  },
+  "910": {
+    "accept_chat_bubble": "Thanks again!",
+    "chat_state_2": "I'm hungry eh!",
+    "chat_state_3": "I'm so hungry...",
+    "chat_state_4": "Thanks!",
+    "completion_succeed_tip": "Return to Chester with the carrots.",
+    "in_progress": "Any luck finding those carrots? I wonder if anyone knows where to find them.",
+    "offer": "Can you help me again? In order to make it back to my home, I will need some food. Can you find 5 carrots for me?",
+    "ready_to_complete": "Thanks! Now I can start my trip back home, thanks again eh. Maybe I will snack on some of these carrots now."
+  },
+  "911": {
+    "accept_chat_bubble": "You should look inside the moonbase. 2by3 was making repairs.",
+    "chat_state_2": "You should look inside the moonbase. 2by3 was making repairs.",
+    "chat_state_3": "Take the circuit board to 2by3!",
+    "chat_state_4": "Thanks!",
+    "completion_succeed_tip": "Find the Robot 2by3.",
+    "in_progress": "Deliver the circuit board to the Robot 2by3.",
+    "offer": "I just gave you a circuit board as well. Please deliver this to 2by3 for another rocket section.",
+    "ready_to_complete": "Thank you for your help with the circuit board. Here is another Moonbase rocket section. The commander has asked to speak with you again."
+  },
+  "913": {
+    "accept_chat_bubble": "Thank you!",
+    "chat_state_1": "Welcome to the Moonbase. We need your help!",
+    "chat_state_3": "I hope you have the Fuel Rods!",
+    "chat_state_4": "Thanks for helping collect the Fuel Rods.",
+    "completion_succeed_tip": "Return to Commander Han Nibble.",
+    "in_progress": "Collect 5 Imaginatium fuel rods for me.",
+    "offer": "The Piratron have attacked and infected the base with Grabbles who are eating our Imaginatium fuel rods. Bring me 5 fuel rods.",
+    "ready_to_complete": "Thank you for recovering the Imaginatium fuel rods. Here is a Moonbase rocket section."
+  },
+  "914": {
+    "accept_chat_bubble": "Our lost brothers must be freed!",
+    "chat_state_1": "Brickmaster Clang is the clever one.",
+    "chat_state_2": "Our lost brothers must be freed!",
+    "chat_state_3": "Can you imagine being stuck in a pirate jail?",
+    "chat_state_4": "Head to Gnarled Forest.",
+    "completion_succeed_tip": "Talk to Brickmaster Clang in Forbidden Valley about freeing the 4 Ninjas from Gnarled Forest.",
+    "in_progress": "Talk to Brickmaster Clang about freeing the 4 Ninjas in Gnarled Forest.",
+    "offer": "Brickmaster Clang has planned the jailbreak. Talk to him for your next task.",
+    "ready_to_complete": "Did Klex build dummies for you? Excellent! Now all you need are heads!"
+  },
+  "915": {
+    "accept_chat_bubble": "Classic Space Command thanks you!",
+    "chat_state_1": "Grabbles are everywhere!",
+    "chat_state_3": "Did you fight off some of the pesky Grabbles?",
+    "chat_state_4": "Classic Space Command is in your debt!",
+    "completion_succeed_tip": "Return to Commander Han Nibble.",
+    "in_progress": "Smash 10 Grabbles.",
+    "offer": "Grabbles are overrunning the base. Please smash 10 Grabbles.",
+    "ready_to_complete": "Thank you for helping eliminate some Grabbles. Those things are trouble. Here is the last section of the Moonbase rocket."
+  },
+  "933": {
+    "completion_succeed_tip": "Gem Collector 1!",
+    "description": "Find 25 Amber Gems."
+  },
+  "934": {
+    "completion_succeed_tip": "Gem Collector 2!",
+    "description": "Find 25 Pink Gems."
+  },
+  "935": {
+    "completion_succeed_tip": "Gem Collector 3!",
+    "description": "Find 20 Light Blue Gems."
+  },
+  "936": {
+    "completion_succeed_tip": "Gem Collector 4!",
+    "description": "Find 10 Green Gems."
+  },
+  "937": {
+    "completion_succeed_tip": "Nexus Force Explorer!",
+    "description": "Discover all locations in the Nimbus System."
+  },
+  "938": {
+    "completion_succeed_tip": "Avant Gardens Explorer!",
+    "description": "Discover all 5 points of interest in Avant Gardens."
+  },
+  "939": {
+    "accept_chat_bubble": "Klaus Zett sells Sentinel Shields. Head up the hill behind me.",
+    "chat_state_1": "You might be Nexus Force material after all!",
+    "chat_state_2": "Buy a Sentinel Shield and bring it back here!",
+    "chat_state_3": "Ready for the next step?",
+    "completion_succeed_tip": "Return to Commander Beck Strongheart at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Buy a Sentinel Shield</font> from Klaus Zett, the Gear Vendor in the Sentinel Base Camp.",
+    "offer": "I'm impressed so far, but you can do more! First <font color='#FF7F00'>buy a Sentinel Shield</font> from the Gear Vendor behind me.",
+    "ready_to_complete": "Excellent. Next you'll need to equip the Sentinel Shield and learn how to use it."
+  },
+  "940": {
+    "accept_chat_bubble": "Equip the Sentinel Shield and trigger its ability!",
+    "chat_state_1": "Ready to use your Sentinel Shield?",
+    "chat_state_2": "Did you notice the new skill on your Action Bar?",
+    "chat_state_3": "We'll make a Nexus Force soldier out of you yet!",
+    "completion_succeed_tip": "Return to Commander Beck Strongheart at the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Equip the Sentinel Shield</font>, then <font color='#FF7F00'>press 3</font> or <font color='#FF7F00'>click on the new skill in your Action Bar</font> to use it.",
+    "offer": "Once you <font color='#FF7F00'>equip the Sentinel Shield</font>, you'll see a new skill on your Action Bar. <font color='#FF7F00'>Click it or press 3</font> to trigger it!",
+    "ready_to_complete": "Well done. Eventually you'll learn to juggle multiple skills in battle!"
+  },
+  "942": {
+    "accept_chat_bubble": "I'm gonna be the best drummer ever! Even better than that guy up there!",
+    "chat_state_1": "I just wanna learn the drums!",
+    "chat_state_2": "Who needs rhythm to drum, anyway?",
+    "chat_state_3": "Quick, come here, I'm ready to play!",
+    "completion_succeed_tip": "Return to Peppy Slapbiscuit at the Red Blocks concert in Nimbus Station.",
+    "in_progress": "Find 2 Drumsticks for Peppy Slapbiscuit at the Red Blocks concert in Nimbus Station.",
+    "offer": "I want to play the drums, but I don't have any Drumsticks! Can you find some for me?",
+    "ready_to_complete": "Yeah, now I'm a real drummer! And a 1, and a 2, and a 3, and a 4! Nom nom nom."
+  },
+  "943": {
+    "accept_chat_bubble": "If you can find a way to make me handsome, maybe the girls will like me!",
+    "chat_state_1": "Is it really that bad?",
+    "chat_state_2": "Funny thing is, I don't even have a mug, so how can it be ugly?",
+    "chat_state_3": "Did you find a way to make me handsome?",
+    "completion_succeed_tip": "Return to Peppy Slapbiscuit at the Red Blocks concert in Nimbus Station.",
+    "in_progress": "Buy a replacement for Peppy's Ugly Mug from a vendor in Avant Gardens.",
+    "offer": "The girls all say I have an Ugly Mug! I heard there's a vendor in Avant Gardens that sells a better looking one.",
+    "ready_to_complete": "Whoa, I feel better looking already! Look out ladies, Peppy's got a Handsome Mug!"
+  },
+  "944": {
+    "accept_chat_bubble": "Nate likes to hide, so look everywhere in Nimbus Plaza!",
+    "chat_state_1": "Nate? Where'd you go?",
+    "chat_state_2": "Check under the benches and in the trash cans.",
+    "chat_state_3": "Did you find Nate?",
+    "chat_state_4": "Thanks for helping me! You're a pal.",
+    "completion_succeed_tip": "Return Nate the Snake to Peppy Slapbiscuit in Nimbus Station.",
+    "in_progress": "Find Nate the Snake in Nimbus Plaza.",
+    "offer": "My pet snake escaped from his cage! I bet he's hiding somewhere in Nimbus Plaza. Please find Nate!",
+    "ready_to_complete": "You found him! Better Nate than lever! Why don't you let him live on your Property?"
+  },
+  "945": {
+    "accept_chat_bubble": "Thanks for your help.",
+    "chat_state_1": "Hi, I'm Draggle!",
+    "chat_state_2": "Find those slugs!",
+    "chat_state_3": "Did you do it?",
+    "chat_state_4": "Thanks for finding those slugs!",
+    "completion_succeed_tip": "Return to Draggle in Portabello.",
+    "in_progress": "It's great that you're helping us. There are still more shells to smash. Look high and low. They are sneaky and shy.",
+    "offer": "Find the slugs who think they are snails. Smash 5 fake shells and return to me for more mission instructions.",
+    "ready_to_complete": "Thank you for helping us this far. Here is your reward. Find my brother Baggle for the next part of this quest."
+  },
+  "946": {
+    "accept_chat_bubble": "I am most gracious for your help.",
+    "chat_state_1": "Hello, I'm Baggle!",
+    "chat_state_2": "Did you smash those bug boxes?",
+    "chat_state_3": "Did you do it?",
+    "chat_state_4": "Thank you for feeding Froy!",
+    "completion_succeed_tip": "Return to Baggle.",
+    "in_progress": "You haven’t found all of the bug boxes yet, keep on looking, they like to hide.",
+    "offer": "I see that you've already met my brother Draggle. Find and smash five bug boxes so that I can feed Froy the Frog.",
+    "ready_to_complete": "Here is a special reward for helping me feed Froy. Hop on Froy's tongue to go for a ride and seek out my brother Zaggle who is expecting you."
+  },
+  "947": {
+    "accept_chat_bubble": "Thank for your help.",
+    "chat_state_1": "Hi, I'm Zaggle!",
+    "chat_state_2": "Look for the Starfly Key.",
+    "chat_state_3": "Did you find it yet?",
+    "chat_state_4": "The Starflies have been released! Thank you!",
+    "completion_succeed_tip": "Climb to the top of Mount Draak and find the Starfly Box!",
+    "in_progress": "Once you have the Starfly key, climb to the top of the mountain and release the Starflies.",
+    "offer": "Climb Mount Draak and find the Starfly key, then release the Starflies on top of the mountain. If you do this, you will receive the final part of your rocket.",
+    "ready_to_complete": "You're a hero! The Starflies and my brothers and I thank you for your help. Here is your final reward so that you can travel safely."
+  },
+  "952": {
+    "completion_succeed_tip": "You can wear Rank 1 Adventurer Gear.",
+    "description": "Learn the secret to wearing Rank 1 Adventurer Gear."
+  },
+  "953": {
+    "completion_succeed_tip": "You can wear Rank 1 Shinobi Gear.",
+    "description": "Learn the secret to wearing Rank 1 Shinobi Gear."
+  },
+  "954": {
+    "completion_succeed_tip": "You can wear Rank 1 Space Ranger Gear.",
+    "description": "Learn the secret to wearing Rank 1 Space Ranger Gear."
+  },
+  "955": {
+    "completion_succeed_tip": "You can wear Rank 1 Inventor Gear.",
+    "description": "Learn the secret to wearing Rank 1 Inventor Gear."
+  },
+  "956": {
+    "accept_chat_bubble": "Enjoy your travels to the World Builder Planets!",
+    "chat_state_1": "Welcome to Starbase 3001!",
+    "chat_state_2": "Thanks for visiting the station.",
+    "chat_state_3": "Enjoy your travels to the World Builder Planets!",
+    "chat_state_4_turnin": "Look for the large yellow and blue rocket launcher.",
+    "completion_succeed_tip": "Find Forge Honcho in Starbase 3001.",
+    "description": "Gain access to the World Builder Planets.",
+    "in_progress": "Talk to Forge Honcho in Starbase 3001.",
+    "offer": "Welcome to Starbase 3001! Here you can travel to far off places created by LEGO fans! Please talk to Forge Honcho before departing.",
+    "ready_to_complete": "Welcome traveler! Sometimes fan created areas require fast computers, so if you have any troubles when traveling to these places you will get returned to the Starbase."
+  },
+  "957": {
+    "accept_chat_bubble": "Buy some Green Imaginite – that’s what you need to compete in mini-games.",
+    "chat_state_1": "Imaginite is made from highly concentrated Imagination.",
+    "chat_state_2": "Klaus Zett sells Green Imaginite. Check his shop behind me.",
+    "chat_state_3": "You need Imaginite to play in mini-games.",
+    "completion_succeed_tip": "Return to Beck Strongheart in the Sentinel Base Camp.",
+    "in_progress": "<font color='#FF7F00'>Buy 10 Green Imaginite</font> for <font color='#FF7F00'>Commander Beck Strongheart</font> in Avant Gardens.",
+    "offer": "You'll need <font color='#FF7F00'>Green Imaginite</font> for your next mission. Go <font color='#FF7F00'>buy 10</font> from the Gear Vendor.",
+    "ready_to_complete": "Thanks! Here are 250 coins to cover those. You'll need them to <font color='#FF7F00'>play mini-games</font> like Survival."
+  },
+  "958": {
+    "completion_succeed_tip": "By collecting all of the Heart Flags on Crux Prime, you've unlocked an extra Life Point!",
+    "description": "Collect 16 Heart Flags on Crux Prime."
+  },
+  "960": {
+    "completion_succeed_tip": "By finding the Imagination Brick on Crux Prime, you've unlocked an extra Imagination Point!",
+    "description": "Collect the Imagination Brick on Crux Prime."
+  },
+  "961": {
+    "accept_chat_bubble": "Good luck on Crux Prime, mate! And watch out for that Maelstrom!",
+    "chat_state_1": "Hope you got some good gear - you're gonna need it for this one.",
+    "chat_state_2": "Alright, go find them treasure chests!",
+    "chat_state_3": "You braved all that action to find these?",
+    "completion_succeed_tip": "Return to Johnny Thunder in Nimbus Station.",
+    "in_progress": "Find all 8 floating treasure chests on Crux Prime.",
+    "offer": "Been to Crux Prime yet? The Thunder has. Been all over that battlefield. And of course, I hid some chests for you to find!",
+    "ready_to_complete": "You ain't just a treasure hunter, mate - you're a regular treasure hero!"
+  },
+  "963": {
+    "accept_chat_bubble": "Talk to Honor Accolade. He's got a vendor kiosk by the Sentinel Combat Challenge.",
+    "chat_state_1": "There’s a new vendor in Nexus Tower.",
+    "chat_state_2": "Honor Accolade specializes in special items you may have disposed of.",
+    "chat_state_3_turnin": "Admiral Honor Accolade, at your service!",
+    "completion_succeed_tip": "Check the Sentinel vendor area of Nexus Tower to find Honor Accolade.",
+    "in_progress": "Talk to Honor Accolade in the Sentinel vendor area of Nexus Tower.",
+    "offer": "Have you lost or sold some of your old reward items? Talk to Honor Accolade in the Sentinel vendor area!",
+    "ready_to_complete": "Rewards are to be kept and treasured, not tossed and forgotten! But if you're missing that special something, see what I've got for sale!"
+  },
+  "964": {
+    "accept_chat_bubble": "Good luck out there, Minifigure. We're counting on you!",
+    "chat_state_1": "Come in Landers, you're breaking up!",
+    "chat_state_2": "Gear up for battle - you'll need it on Crux Prime!",
+    "chat_state_3_turnin": "Spread out! Circle around and keep 'em guessing!",
+    "completion_succeed_tip": "Find the drop-ship door to Crux Prime and travel there, then check in with Sgt. Brannan Landers.",
+    "in_progress": "Go to Crux Prime and check in with Sgt. Brannan Landers.",
+    "offer": "I think you're ready for Crux Prime! Find the drop-ship door just outside the War Room. Fly down and report in with Brannan Landers!",
+    "ready_to_complete": "Welcome to the fight, Minifigure! Hope you're ready to smash some Maelstrom!"
+  },
+  "965": {
+    "accept_chat_bubble": "Head out towards the planet's edge, then look for the Ruins on the horizon!",
+    "chat_state_1": "First Maelstrom, now Skeletons. What's next?!",
+    "chat_state_2": "Don't even try to fight those Skeletons yet - their bones deflected all of my shots!",
+    "chat_state_3_turnin": "Hmm, Sensei Wu said you might be dressed strangely.",
+    "completion_succeed_tip": "Speak to the mysterious Ninja in the Ruins beyond the Skeletons' canyon on Crux Prime.",
+    "in_progress": "Speak to the mysterious Ninja in the Ruins beyond the Skeletons' canyon on Crux Prime.",
+    "offer": "I got attacked by Skeletons! And then a mysterious Ninja turned into a tornado and saved me! Go find out who that was!",
+    "ready_to_complete": "Are you with the Nexus Force? Then I am glad to see you!"
+  },
+  "966": {
+    "accept_chat_bubble": "Equip the Spinjitzu weapon I gave you, charge your power and then release a Spinjitzu attack!",
+    "chat_state_1": "These Skeletons are here for an evil purpose - but what is it?",
+    "chat_state_2": "Show me that you can perform a Spinjitzu charge attack!",
+    "chat_state_3": "Haha! You look a little dizzy!",
+    "completion_succeed_tip": "Speak with Neido again on Crux Prime.",
+    "in_progress": "Hold the attack button to charge your new Spinjitzu weapon - then release to unleash Spinjitzu. Show me now!",
+    "offer": "These fiendish Skeletons must be stopped! Only Spinjitzu can defeat them. Show me!",
+    "ready_to_complete": "This is only the first form of Spinjitzu. You can learn the 4 Elemental Forms by traveling to Ninjago!"
+  },
+  "967": {
+    "accept_chat_bubble": "Use your Spinjitzu to smash 10 of the Skeleton Miners down there!",
+    "chat_state_1": "The Skeletons are very dangerous - but so are Ninjas!",
+    "chat_state_2": "The Skeletons have tried - and failed - to master the Art of Spinjitzu. You must not fail!",
+    "chat_state_3": "How was that for your first spin?",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Use Spinjitzu to smash 10 Skeleton Miners in the Maelstrom Quarry on Crux Prime.",
+    "offer": "Your training has only begun. And what better way to train than by smashing Skeleton Miners? Smash 10 of them!",
+    "ready_to_complete": "No bones about it, you are on the right path! You learn almost as quickly as I once did! Haha!"
+  },
+  "968": {
+    "accept_chat_bubble": "Luckily, the Skeletons cannot read our writing. Sometimes I cannot either!",
+    "chat_state_1": "You made it past the Skeletons?",
+    "chat_state_2": "The missing scrolls have taken to the wind! Search everywhere!",
+    "chat_state_3": "Great knowledge is contained within those scrolls!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Search Crux Prime until you find all 10 of Neido's scrolls.",
+    "offer": "Sensei Wu sent me here to get help from the Nexus Force! But I lost all of my scrolls! Can you find all 10?",
+    "ready_to_complete": "With this knowledge, you will learn the history of my world! The world of Ninjago!"
+  },
+  "969": {
+    "accept_chat_bubble": "Interact with the shrine and then page through the scrolls. Read and learn!",
+    "chat_state_1": "You remind me of my fellow Ninjas. This is good.",
+    "chat_state_2": "Study the scrolls and you will learn of our battle against the Skeletons!",
+    "chat_state_3": "Your head is spinning with all this knowledge, is it not?",
+    "completion_succeed_tip": "Talk to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Interact with Neido's shrine to read his scrolls.",
+    "offer": "I sense that you can be trusted with the secrets of Ninjago. Interact with the shrine to learn more of our world.",
+    "ready_to_complete": "Are you ready to learn Spinjitzu? Take this <font color='#FF7F00'>Double-Bladed Dagger of Spinjitzu!</font>"
+  },
+  "970": {
+    "accept_chat_bubble": "Use your weapons to destroy 10 of those blasting devices - but keep your distance!",
+    "chat_state_1": "Dark energy. What drives the Skeletons to collect it?",
+    "chat_state_2": "If we can smash enough of their destructive devices, perhaps the Skeletons will leave!",
+    "chat_state_3": "KA-BOOM! KA-BOOM! Just like fireworks at the Dragon Festival!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Use a ranged weapon to destroy 10 of the Skeletons' Bone Fracture Bombs in the Maelstrom Quarry.",
+    "offer": "The Skeletons are mining that dark energy from the planet's crust! We must stop them by destroying their bombs!",
+    "ready_to_complete": "You put on quite a show! Yet the Skeletons have barely noticed - we must do more!"
+  },
+  "971": {
+    "accept_chat_bubble": "Rebuild those infernal noisemakers into something more soothing!",
+    "chat_state_1": "How do they listen to that awful noise? They don't even have ears!",
+    "chat_state_2": "If the Skeletons lose their music, perhaps they may lose their will!",
+    "chat_state_3": "A most delightful change.",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash and then rebuild 3 Skeleton Growlspeakers in the Maelstrom Quarry.",
+    "offer": "The Skeletons keep their pace to strange music. Break their focus by changing the channel on those monstrous devices!",
+    "ready_to_complete": "Finally, some peace and quiet!"
+  },
+  "972": {
+    "accept_chat_bubble": "The Skull face might protect a weakness! Then spin to raise the drill and destroy it!",
+    "chat_state_1": "Those spinning contraptions pull the dark energy from the rock!",
+    "chat_state_2": "You cannot attack the machine until you weaken it somehow. There must be a way!",
+    "chat_state_3": "I prefer the ways of peace, but I must say, watching that was quite satisfying!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Smash a Skeleton Drilling Rig in the Maelstrom Quarry. Use Spinjitzu to reveal its weakness!",
+    "offer": "Our efforts are not enough. You must find a way to destroy one of their monstrous drilling machines!",
+    "ready_to_complete": "A Ninja must not only strike hard - but strike in the right places! You are as clever as you are brave!"
+  },
+  "973": {
+    "accept_chat_bubble": "Strike at the Watchtowers' weak spots. Then smash the Watchmen and retrieve those schematic pages!",
+    "chat_state_1": "Those Skeletons keep building demonic contraptions, but how?",
+    "chat_state_2": "Those Watchtowers do not look sturdy - there must be some way of pulling them down!",
+    "chat_state_3": "You certainly know how to put an interesting spin on things!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Topple Skeleton Watchtowers, smash the Skeleton Watchmen that fall out, then collect 6 schematic pages.",
+    "offer": "We may learn about Skeleton technology by reading their schematics! Smash the Skeletons in those Watchtowers and find 6 pages!",
+    "ready_to_complete": "These are not Skeleton schematics, they are pieces to a map! But a map to what?"
+  },
+  "974": {
+    "accept_chat_bubble": "Nuckal is only one of Lord Garmadon's Skeleton Generals - but we must start somewhere!",
+    "chat_state_1": "Now to discover what the Skeletons are really here for!",
+    "chat_state_2": "Nuckal is made of stronger bone than his Skeleton underlings - be wary!",
+    "chat_state_3": "Did you crack that Nuckal? Haha!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Find a Maelstrom Crystal by smashing Nuckal, the Skeleton General on Crux Prime.",
+    "offer": "Nuckal oversees the Skeletons' mining efforts. Smash him and retrieve one of the evil Crystals he is searching for!",
+    "ready_to_complete": "So this is what the Skeletons are mining for. Its dark power is most unnerving."
+  },
+  "976": {
+    "accept_chat_bubble": "Search the rocks of this world for those bright blue flowers - then give them life!",
+    "chat_state_1": "Even the most determined Ninja needs a treat!",
+    "chat_state_2": "Do you have water? You will need them to nourish the blue flowers first.",
+    "chat_state_3": "I can just imagine the tea we will brew with these!",
+    "completion_succeed_tip": "Return to Neido at the Ninjago Ruins on Crux Prime.",
+    "in_progress": "Water 10 Aura Blossoms on Crux Prime and bring the petals to Neido.",
+    "offer": "I miss the most basic comforts of home. Perhaps if you water those small blossoms and collect their petals, I may brew some tea.",
+    "ready_to_complete": "This tea will help you in dark times. Make more at my kettle whenever you like."
+  },
+  "977": {
+    "accept_chat_bubble": "If he's lucky, that pilot might have found higher ground. Search everywhere!",
+    "chat_state_1": "We lost contact with one of our Talons!",
+    "chat_state_2": "The dropship went down to the southeast, but the pilot probably bailed out early!",
+    "chat_state_3_turnin": "Hey! Over here!",
+    "completion_succeed_tip": "Find Sherland Powers by Rivendark Canyon on Crux Prime.",
+    "in_progress": "Find Sherland Powers, the Nexus Force Pilot, somewhere on Crux Prime.",
+    "offer": "A Nexus Force dropship flew too close to the Maelstrom and went down! Search for the pilot out on the battlefield!",
+    "ready_to_complete": "Hey! Am I glad to see you! This place is kinda intense!"
+  },
+  "978": {
+    "accept_chat_bubble": "My head might be rattled from the crash, but I thought I saw a chef out there. And he smelled like BBQ!",
+    "chat_state_1": "Had better days, man. Better days.",
+    "chat_state_2": "I know, where you gonna find BBQ out here, right? But I bet you can!",
+    "chat_state_3": "Oh, I can smell it already. Papa needs some spicy goodness!",
+    "completion_succeed_tip": "Take the BBQ Drumstick back to Sherland Powers on Crux Prime.",
+    "in_progress": "Buy a BBQ Drumstick from the vendor wandering Crux Prime, then take it back to Sherland Powers.",
+    "offer": "I'm not doing so hot, man. Only one thing can heal this hurt - some good ol' BBQ! Can you find some for me?",
+    "ready_to_complete": "Mmm-mmm! You got this from a chef? In a hidden canyon? Sounds like a great place to hide out!"
+  },
+  "979": {
+    "accept_chat_bubble": "Search the edge of the planet for the ship's computer, rebuild it towards the dropship and then retrieve the data.",
+    "chat_state_1": "If the Tower comes down, we did all this for nothing!",
+    "chat_state_2": "Dropship went down out towards the edge of the planet. Search out that way.",
+    "chat_state_3": "How bad is she? Man, I loved that ship.",
+    "completion_succeed_tip": "You've retrieved the Nexus data from the ship's computer.  Now return to Sherland Powers.",
+    "in_progress": "Find the ship's computer and rebuild it until it's back aboard the dropship. Then recover the data.",
+    "offer": "My ship's computer had secret data about the Imagination Nexus. You need to find the computer, rebuild it onto the ship and then get that data!",
+    "ready_to_complete": "You did it! Exeter would've had me flying hot air balloons if this had fallen into the wrong hands!"
+  },
+  "980": {
+    "accept_chat_bubble": "There should still be plenty of those Admirals wandering around. Teach 'em a lesson!",
+    "chat_state_1": "I can't concentrate on this data with those things still out there!",
+    "chat_state_2": "Whole mess of 'em just swarmed me, soon as I hit the ground!",
+    "chat_state_3": "Am I glad to see you again!",
+    "completion_succeed_tip": "The Stromling Admirals have had enough. Return to Sherland Powers on Crux Prime.",
+    "in_progress": "Smash 15 Stromling Admirals on Crux Prime.",
+    "offer": "Since you're armed and all, how 'bout a favor? I got attacked by some Stromling Admirals and I'd like a little payback!",
+    "ready_to_complete": "Wham! Pow! Blammo! Good thing those monsters didn't get a taste of my right hook!"
+  },
+  "987": {
+    "accept_chat_bubble": "You'll have to work together to complete a build that big!",
+    "chat_state_1": "Remember! Short, controlled bursts!",
+    "chat_state_2": "You might want to team up with some other Minifigures to build those Shield Zones.",
+    "chat_state_3": "Fight the Maelstrom with Imagination. That's what it all boils down to.",
+    "completion_succeed_tip": "Return to Brannan Landers at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Quick Build 1 Shield Generator on Crux Prime. Work with other minifigures to complete the build.",
+    "offer": "We've deployed Shield Generators on the battlefield. They take a lot of Imagination, so work with <font color='#FF7F00'>friends.</font> Build one!",
+    "ready_to_complete": "Long as we keep those shields up, all of the Nexus troops coming through here can keep fighting!"
+  },
+  "989": {
+    "accept_chat_bubble": "Head back to Nexus Tower, then to Nimbus Station for the launcher to Avant Gardens!",
+    "chat_state_1": "Come and get some, you purple freakshows!",
+    "chat_state_2": "Anything that halts their advance is worth a try! These things just keep coming!",
+    "chat_state_3_turnin": "Whoa, someone around here smells like Maelstrom!",
+    "completion_succeed_tip": "Talk to Sky Lane at the launch area in Avant Gardens.",
+    "in_progress": "Talk to Sky Lane at the launch area in Avant Gardens.",
+    "offer": "Want some new toys to play with? I hear Venture's developed some new tech that'll stun these monsters! Check with Sky Lane to get the goods!",
+    "ready_to_complete": "You came all the way from Crux Prime? Wow, you've seen a lot of action!"
+  },
+  "990": {
+    "accept_chat_bubble": "Head to Forbidden Valley and look for Echs Ray at the Refinery.",
+    "chat_state_1": "I kind of like these Mermaid songs, you know? Nice and soothing.",
+    "chat_state_2": "Echs Ray is the scientist at the Refinery, just north of Brick Fury's firing zone.",
+    "chat_state_3_turnin": "Sky Lane sent you? Oh, I like her. She's, um, brave.",
+    "completion_succeed_tip": "Talk to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "in_progress": "Talk to Echs Ray at the Paradox Refinery in Forbidden Valley.",
+    "offer": "These Mermaids will work on the Pirates, but you'll need something to keep those Ronin at bay! Check with Echs Rays in Forbidden Valley.",
+    "ready_to_complete": "You've been to Crux Prime? I'd love to study the Maelstrom there, but this place is scary enough!"
+  },
+  "991": {
+    "accept_chat_bubble": "Some of that Imagination Tea will probably work wonders for me!",
+    "chat_state_1": "Don't tell anyone, but I'm ready for a vacation.",
+    "chat_state_2": "Go visit that Ninja and get some more that tea for me, okay?",
+    "chat_state_3": "Just in time, only thing keeping me awake are the explosions!",
+    "completion_succeed_tip": "Return to Brannan Landers at Sentinel Point Zeta on Crux Prime.",
+    "in_progress": "Take some of Neido's Imagination Tea to Brannan Landers on Crux Prime.",
+    "offer": "I've been stationed here for hours. I hear that mysterious Ninja makes a mean Imagination Tea. That might pep me up!",
+    "ready_to_complete": "Whoa, that is powerful stuff! Now I feel like I could take on the whole Maelstrom myself!"
+  },
+  "993": {
+    "accept_chat_bubble": "Search Crux Prime for Bone Digs, then use your Skeleton Pet to dig them up!",
+    "chat_state_1": "Skeletons mining for Maelstrom you say? That does sound ominous.",
+    "chat_state_2": "Search Crux Prime for a bone poking up from the dirt, then call out your little Skeleton Dragon pet!",
+    "chat_state_3": "Skeletons! Burying bones! How perfectly obvious!",
+    "completion_succeed_tip": "You've found enough bones. Now return to Mardolf the Orange in Nimbus Station.",
+    "in_progress": "Use the Skeleton Dragon Pet to dig up 10 Bone Digs on Crux Prime, then take the bones back to Mardolf.",
+    "offer": "I hear there are strange bones buried on Crux Prime. Use your new Skeleton Dragon pet to dig them up. Then bring them back to me!",
+    "ready_to_complete": "These aren't just bones you've found! We can use them to build something strange and ingenious!"
+  },
+  "994": {
+    "accept_chat_bubble": "I'm sure Mardolf will be keenly interested in that Skeleton Pet of yours!",
+    "chat_state_1": "All Pets just need a little love, even the dreadful ones!",
+    "chat_state_2": "Mardolf knows a great many things - about bricks, bones and more!",
+    "chat_state_3_turnin": "What have you brought me, builder? A bony Pet, you say?",
+    "completion_succeed_tip": "Talk to Mardolf the Orange in Nimbus Station.",
+    "in_progress": "Talk to Mardolf the Orange in Nimbus Station.",
+    "offer": "Your new Dragon friend wants to dig, but dig what? Perhaps Mardolf can help. Go and see him!",
+    "ready_to_complete": "What a clever little beast you've found! And it likes to dig you say? I know just the thing!"
+  },
+  "996": {
+    "accept_chat_bubble": "Talli Reeko is out there somewhere!",
+    "chat_state_1": "Who wants a piece of one mean Stromling?",
+    "chat_state_2": "Search the battlefield until you find Talli Reeko!",
+    "chat_state_3": "You made it back!",
+    "completion_succeed_tip": "Smash Talli Reeko!",
+    "description": "Smash Talli Reeko on Crux Prime!",
+    "in_progress": "Smash the Stromling named Talli Reeko on Crux Prime.",
+    "offer": "Stromlings all smell bad, but Talli Reeko is the worst! Go get rid of it!",
+    "ready_to_complete": "Did you get it? More importantly, did you get any on you?"
+  },
+  "999": {
+    "accept_chat_bubble": "I suggest that you check in with your Faction Leader first.",
+    "chat_state_1": "I can tell by your gear and adventurous spirit that you are a member of the Venture League.",
+    "chat_state_2": "Follow the Venture League logos to find Hael Storm's Observatory.",
+    "chat_state_3_turnin": "Hael Storm, in the flesh! Course they're real dreads!",
+    "completion_succeed_tip": "Follow the Venture League logos to find Hael Storm in his Observatory.",
+    "in_progress": "Follow the Venture League logos to find Hael Storm in his Observatory.",
+    "offer": "Venture League members should have no problem navigating Nexus Tower. You will find your leader, Hael Storm, in his Observatory.",
+    "ready_to_complete": "If you found yer way up here, you've got some Venture in you, alright!"
+  }
+}

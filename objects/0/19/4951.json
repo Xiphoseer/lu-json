@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4374,
+    "25": 0,
+    "3": 2255
+  },
+  "description": "Moving Platform Piston Pusher Death Volume for Monument in Scene 2 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4951,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Piston Pusher Death Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

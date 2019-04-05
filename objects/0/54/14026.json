@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tough  Skeleton for Ninjago",
+  "components": {
+    "1": 6966,
+    "17": 534,
+    "2": 13736,
+    "31": 76,
+    "5": 1523,
+    "60": 154,
+    "7": 1912,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Commando",
+  "gate_version": "njhub",
+  "id": 14026,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Commando",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1387
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1388
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4691,
+    "2": 9492,
+    "3": 4203,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Medieval Village Forge Model",
+  "gate_version": null,
+  "id": 9649,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Medieval Village Forge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

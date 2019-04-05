@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12900,
+    "3": 6386,
+    "7": 1821
+  },
+  "description": "Pet Taming Item - chili pepper",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13123,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - chili pepper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

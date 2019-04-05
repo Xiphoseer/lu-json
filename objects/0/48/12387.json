@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Small Stromling spider for SpaceShip Instance",
+  "components": {
+    "1": 6071,
+    "2": 12139,
+    "31": 61,
+    "5": 1347,
+    "60": 96,
+    "7": 1703,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Dark Spiderling",
+  "gate_version": "ventureinstance",
+  "id": 12387,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "VE Instance - Elite Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 490
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

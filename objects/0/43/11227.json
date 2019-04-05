@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10997,
+    "3": 5159,
+    "39": 11227,
+    "5": 1264
+  },
+  "description": "Used to test loot tables - do not delete",
+  "displayName": "Loot Table Testing Object",
+  "gate_version": null,
+  "id": 11227,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Loot Table Testing Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

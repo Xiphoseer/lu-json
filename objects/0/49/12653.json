@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6217,
+    "17": 475,
+    "2": 12442,
+    "31": 51,
+    "5": 1395,
+    "60": 118,
+    "7": 1771,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Hammer Stromling",
+  "gate_version": null,
+  "id": 12653,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Stromling Hammerling Melee",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1013
+    }
+  ],
+  "type": "Enemies"
+}

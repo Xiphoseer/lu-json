@@ -1,0 +1,59 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 565,
+    "2": 15368,
+    "3": 1777,
+    "35": 651,
+    "5": 1732,
+    "7": 305,
+    "73": 182
+  },
+  "description": "__MG__NPC_Town_Crier",
+  "displayName": "Shouty McBullhorn - Nexus Force Barker",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    },
+    {
+      "iconID": 119,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 16589,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NPC Town Crier",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 7469,
+    "2": 14506,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 14819,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninjago Shuriken Projectile 5 / 11",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1451
+    }
+  ],
+  "type": "Shooting Gallery"
+}

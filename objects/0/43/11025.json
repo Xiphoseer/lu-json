@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND use only",
+  "components": {
+    "11": 5365,
+    "2": 10777,
+    "3": 5037,
+    "42": 0
+  },
+  "description": "GF Property Pushback - Platform",
+  "displayName": "GF Property Pushback - Platform",
+  "gate_version": null,
+  "id": 11025,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Property Pushback - Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

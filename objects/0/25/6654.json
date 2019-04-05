@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6201,
+    "3": 2889,
+    "7": 609
+  },
+  "description": "Smashable crate for NS Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6654,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Hanging Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

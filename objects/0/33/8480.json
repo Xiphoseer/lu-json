@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Smashing",
+  "components": {
+    "11": 3779,
+    "2": 8035,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Axe",
+  "gate_version": null,
+  "id": 8480,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 556
+    }
+  ],
+  "type": "Loot"
+}

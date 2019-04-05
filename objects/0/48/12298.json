@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 6042,
+    "2": 12048,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Snowy Tree Shirt",
+  "gate_version": "dec2010content",
+  "id": 12298,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Snowy Tree Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

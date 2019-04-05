@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3617,
+    "2": 7623,
+    "3": 5299,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Birdhouse Model",
+  "gate_version": null,
+  "id": 8077,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Bird House",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

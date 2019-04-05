@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Paradox vendors",
+  "components": {
+    "11": 6512,
+    "2": 12918,
+    "53": 119
+  },
+  "description": "Contains 10 Red Imaginite",
+  "displayName": "Medium Bag of Red Imaginite",
+  "gate_version": "march2011content",
+  "id": 13138,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Medium Red Imaginite Bag - Paradox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

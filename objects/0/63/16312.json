@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15058,
+    "3": 7718
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - LEGO Club",
+  "gate_version": "freetrial",
+  "id": 16312,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - LEGO Club",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3524,
+    "2": 7414,
+    "5": 1039,
+    "7": 758,
+    "9": 0
+  },
+  "description": "Gem is spawned where thrown gem hits. Runs a script that casts the entrancement skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7856,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawned Entrancing Gem rank 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 409
+    }
+  ],
+  "type": "Smashables"
+}

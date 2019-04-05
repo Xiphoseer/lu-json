@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 1 AP",
+  "components": {
+    "11": 5986,
+    "2": 11843,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "White Neckerchief",
+  "gate_version": "nimbusinstance",
+  "id": 12094,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Neckerchief",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

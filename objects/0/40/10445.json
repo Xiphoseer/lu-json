@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For LU internal use only",
+  "components": {
+    "11": 5154,
+    "2": 10288,
+    "3": 4649,
+    "42": 0,
+    "48": 151
+  },
+  "description": "A platform that moves up, spins, smashes and rebuilds",
+  "displayName": "AG Property Pushback Platform 2",
+  "gate_version": null,
+  "id": 10445,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Property Pushback Platform 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

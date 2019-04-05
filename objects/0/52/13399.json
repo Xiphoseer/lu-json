@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 497,
+    "2": 13127,
+    "3": 1777,
+    "35": 589,
+    "7": 307
+  },
+  "description": "Inventor Lvl 2",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13399,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Inventor Lvl 2",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

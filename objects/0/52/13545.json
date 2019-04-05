@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 6689,
+    "2": 13282,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Improved Push Broom",
+  "gate_version": "nexustower",
+  "id": 13545,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Push Broom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 526
+    }
+  ],
+  "type": "Loot"
+}

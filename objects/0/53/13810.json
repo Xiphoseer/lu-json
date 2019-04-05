@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13548,
+    "3": 6818
+  },
+  "description": "fx_nt_war_room_projector",
+  "displayName": "fx_nt_war_room_projector",
+  "gate_version": "auramar",
+  "id": 13810,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "fx_nt_war_room_projector",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

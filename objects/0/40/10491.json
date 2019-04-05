@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 4 Reward Behavior for Achievement 883",
+  "components": {
+    "11": 5184,
+    "2": 10334
+  },
+  "description": "Drains the Life of a player every second while touching the model.",
+  "displayName": "Damage Behavior",
+  "gate_version": null,
+  "id": 10491,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

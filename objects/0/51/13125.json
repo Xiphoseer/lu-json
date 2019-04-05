@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12902,
+    "3": 6485
+  },
+  "description": "",
+  "displayName": "VE Brick C",
+  "gate_version": "nexustower",
+  "id": 13125,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "VE Brick C",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1518,
+    "2": 2687,
+    "5": 356,
+    "7": 244,
+    "9": 0
+  },
+  "description": "For Spike's Peak",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3204,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Yeti",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 106
+    }
+  ],
+  "type": "Enemies"
+}

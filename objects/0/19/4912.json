@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4346,
+    "25": 0,
+    "27": 0,
+    "3": 2230
+  },
+  "description": "Moving Platform Shaft for Monument in Scene 2 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4912,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Platform Shaft",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

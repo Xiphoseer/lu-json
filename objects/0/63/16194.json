@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14913,
+    "40": 7630,
+    "7": 2131,
+    "9": 0
+  },
+  "description": "nj mon - flame jet trigger",
+  "displayName": "nj mon - flame jet trigger",
+  "gate_version": "njhub",
+  "id": 16194,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nj mon - flame jet trigger humans only",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Skeletons on Siege Field, only on mission",
+  "components": {
+    "11": 7119,
+    "2": 14185
+  },
+  "description": "Return this to Jay in the Ninjago Dojo of Lightning.",
+  "displayName": "Finger Nail",
+  "gate_version": "njhub",
+  "id": 14496,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Finger Nail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

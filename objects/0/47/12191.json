@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11940,
+    "3": 5948
+  },
+  "description": "Gauntlet Mod Testing",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12191,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Mod Gauntlet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

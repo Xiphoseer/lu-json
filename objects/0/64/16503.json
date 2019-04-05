@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "1": 7896,
+    "2": 15250,
+    "5": 1715
+  },
+  "description": "Ambient",
+  "displayName": "NJ - Monastery Store Room Rat",
+  "gate_version": "njhub",
+  "id": 16503,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Monastery Store Room Rat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

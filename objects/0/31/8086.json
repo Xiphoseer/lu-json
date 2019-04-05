@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP",
+  "components": {
+    "11": 3532,
+    "2": 7632,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Red Imperial Shirt",
+  "gate_version": null,
+  "id": 8086,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Imperial Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

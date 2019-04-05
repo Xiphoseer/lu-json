@@ -1,0 +1,567 @@
+[
+  {
+    "comp_val": 58,
+    "id": 16476,
+    "name": "NJ - Frakjaw Boss Instance Enter"
+  },
+  {
+    "comp_val": 58,
+    "id": 16486,
+    "name": "NJ -Frakjaw Treasure Chest"
+  },
+  {
+    "comp_val": 58,
+    "id": 16487,
+    "name": "NJ - Frakjaw instance Zone Control Object"
+  },
+  {
+    "comp_val": 0,
+    "id": 3004,
+    "name": "AG - Obstacle Course Starter"
+  },
+  {
+    "comp_val": 0,
+    "id": 3280,
+    "name": "ZP - Fountain Control"
+  },
+  {
+    "comp_val": 102,
+    "id": 3646,
+    "name": "ZP - Flower"
+  },
+  {
+    "comp_val": 0,
+    "id": 3703,
+    "name": "? - Monkey Game Base"
+  },
+  {
+    "comp_val": 0,
+    "id": 4009,
+    "name": "Spaceship Bob"
+  },
+  {
+    "comp_val": 1864,
+    "id": 4860,
+    "name": "Cannon - Shooting Gallery"
+  },
+  {
+    "comp_val": 1,
+    "id": 4967,
+    "name": "AG - Finish Line"
+  },
+  {
+    "comp_val": 5,
+    "id": 6475,
+    "name": "AG - Waves Instancer"
+  },
+  {
+    "comp_val": 0,
+    "id": 6576,
+    "name": "AG - Spaceship Bob 001 DO NOT USE"
+  },
+  {
+    "comp_val": 7583,
+    "id": 6637,
+    "name": "NS - Duck Showcaser"
+  },
+  {
+    "comp_val": 5,
+    "id": 6708,
+    "name": "GF - Skull on Battle Trench"
+  },
+  {
+    "comp_val": 942,
+    "id": 6816,
+    "name": "Activity Timer Test"
+  },
+  {
+    "comp_val": 0,
+    "id": 6890,
+    "name": "RaceController"
+  },
+  {
+    "comp_val": 0,
+    "id": 7902,
+    "name": "Organ Temp"
+  },
+  {
+    "comp_val": 43,
+    "id": 8171,
+    "name": "Test Ryan Zone Control"
+  },
+  {
+    "comp_val": 0,
+    "id": 8205,
+    "name": "NS - Sky Lane"
+  },
+  {
+    "comp_val": 0,
+    "id": 8224,
+    "name": "Ship - Spaceship Bob 2.0"
+  },
+  {
+    "comp_val": 5,
+    "id": 8304,
+    "name": "AG Survival Zone Control Object"
+  },
+  {
+    "comp_val": 41,
+    "id": 8305,
+    "name": "GF Survival Zone Control Object"
+  },
+  {
+    "comp_val": 51,
+    "id": 8435,
+    "name": "mg Spider Boss Activity Object"
+  },
+  {
+    "comp_val": 5,
+    "id": 8561,
+    "name": "Modular Car Race Activator"
+  },
+  {
+    "comp_val": 46,
+    "id": 8663,
+    "name": "FV Ninja Foot Race Starter"
+  },
+  {
+    "comp_val": 47,
+    "id": 9714,
+    "name": "Paradox Foot Race Man"
+  },
+  {
+    "comp_val": 48,
+    "id": 9732,
+    "name": "FV - Panda Block"
+  },
+  {
+    "comp_val": 48,
+    "id": 9777,
+    "name": "FV Ninja Foot Race Starter DUPE"
+  },
+  {
+    "comp_val": 103,
+    "id": 9876,
+    "name": "DPS Dummy"
+  },
+  {
+    "comp_val": 9930,
+    "id": 9930,
+    "name": "FV - Wishing Well Fountain"
+  },
+  {
+    "comp_val": 49,
+    "id": 9983,
+    "name": "Nimbus Racer"
+  },
+  {
+    "comp_val": 53,
+    "id": 10046,
+    "name": "AG Foot Race Strongman"
+  },
+  {
+    "comp_val": 0,
+    "id": 10065,
+    "name": "Battle Activator"
+  },
+  {
+    "comp_val": 39,
+    "id": 10413,
+    "name": "GF - Race Activator"
+  },
+  {
+    "comp_val": 1864,
+    "id": 10421,
+    "name": "SG GF Zone Object"
+  },
+  {
+    "comp_val": 5,
+    "id": 10496,
+    "name": "AG - Survival Activator"
+  },
+  {
+    "comp_val": 55,
+    "id": 11165,
+    "name": "FV Entrance Instance Dragon Statue"
+  },
+  {
+    "comp_val": 54,
+    "id": 11178,
+    "name": "FV - Race Activator"
+  },
+  {
+    "comp_val": 11220,
+    "id": 11220,
+    "name": "AM - Maelstrom Dragon"
+  },
+  {
+    "comp_val": 11227,
+    "id": 11227,
+    "name": "Loot Table Testing Object"
+  },
+  {
+    "comp_val": 55,
+    "id": 11229,
+    "name": "FV - Dragon Treasure Chest"
+  },
+  {
+    "comp_val": 55,
+    "id": 11243,
+    "name": "FV Dragon Zone Control Object"
+  },
+  {
+    "comp_val": 11279,
+    "id": 11279,
+    "name": "GF - Wishing Well Dingy"
+  },
+  {
+    "comp_val": 11280,
+    "id": 11280,
+    "name": "NS - Wishing Well Birdbath"
+  },
+  {
+    "comp_val": 11281,
+    "id": 11281,
+    "name": "AG - Wishing Well Vending Machine"
+  },
+  {
+    "comp_val": 60,
+    "id": 11418,
+    "name": "WT - Race Activator"
+  },
+  {
+    "comp_val": 20000,
+    "id": 11426,
+    "name": "Moonbase-Intro Zone Control Object"
+  },
+  {
+    "comp_val": 61,
+    "id": 11940,
+    "name": "NS Waves Zone Control Object"
+  },
+  {
+    "comp_val": 61,
+    "id": 11941,
+    "name": "NS - Survival Activator"
+  },
+  {
+    "comp_val": 11989,
+    "id": 11989,
+    "name": "AM - Maelstrom Dragon NAMED"
+  },
+  {
+    "comp_val": 103,
+    "id": 12045,
+    "name": "NT Armory Challenge Activator"
+  },
+  {
+    "comp_val": 104,
+    "id": 12055,
+    "name": "Melty Puddles"
+  },
+  {
+    "comp_val": 12199,
+    "id": 12199,
+    "name": "AM - Aura Blossom Flowers"
+  },
+  {
+    "comp_val": 109,
+    "id": 12302,
+    "name": "FB - Winter Flower"
+  },
+  {
+    "comp_val": 108,
+    "id": 12347,
+    "name": "Venture Explorer Foot Race Console"
+  },
+  {
+    "comp_val": 115,
+    "id": 12418,
+    "name": "NJ-Spinner Platform"
+  },
+  {
+    "comp_val": 55,
+    "id": 12423,
+    "name": "MINIGAME - Reward Treasure Chest"
+  },
+  {
+    "comp_val": 103,
+    "id": 12511,
+    "name": "NT Combat Target"
+  },
+  {
+    "comp_val": 12551,
+    "id": 12551,
+    "name": "Venture Explore Invisible Console"
+  },
+  {
+    "comp_val": 54,
+    "id": 12652,
+    "name": "TESTFV - Race Activator"
+  },
+  {
+    "comp_val": 61,
+    "id": 12661,
+    "name": "NS - Waves Activator"
+  },
+  {
+    "comp_val": 62,
+    "id": 12909,
+    "name": "Test Waves Zone Control Object"
+  },
+  {
+    "comp_val": 49,
+    "id": 12916,
+    "name": "Parrot Blue Mission Giver"
+  },
+  {
+    "comp_val": 12287,
+    "id": 13170,
+    "name": "AM - Permanent sheild generator"
+  },
+  {
+    "comp_val": 115,
+    "id": 13184,
+    "name": "NJ-Spinner Platform Short"
+  },
+  {
+    "comp_val": 13385,
+    "id": 13385,
+    "name": "AM - Treasure Chest for AM Maelstrom Dragon Invader"
+  },
+  {
+    "comp_val": 13386,
+    "id": 13386,
+    "name": "AM - Treasure Chest for AM Named Maelstrom Dragon Invader"
+  },
+  {
+    "comp_val": 11282,
+    "id": 14086,
+    "name": "NT - Interactable Console - Wishing Well"
+  },
+  {
+    "comp_val": 13951,
+    "id": 14231,
+    "name": "TEST Kingdoms Zone Control"
+  },
+  {
+    "comp_val": 115,
+    "id": 14247,
+    "name": "NJ-Spinner Platform Simple Mover"
+  },
+  {
+    "comp_val": 115,
+    "id": 14382,
+    "name": "NJ - Imag - High-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 14383,
+    "name": "NJ - Imag - Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 14384,
+    "name": "NJ - Imag - Projectile Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 14385,
+    "name": "NJ - Imag - Elevator Spinner Trap"
+  },
+  {
+    "comp_val": 103,
+    "id": 14576,
+    "name": "DPS NJ Skeleton Dummy"
+  },
+  {
+    "comp_val": 14,
+    "id": 14672,
+    "name": "AG - spider_launcher"
+  },
+  {
+    "comp_val": 14,
+    "id": 16024,
+    "name": "AG Spider Queen Zone Control Object"
+  },
+  {
+    "comp_val": 115,
+    "id": 16152,
+    "name": "NJ - Imag - Spawner Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16153,
+    "name": "NJ - Imag - Switch Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16154,
+    "name": "NJ - Imag - Axe Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16155,
+    "name": "NJ - Imag - Low-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16203,
+    "name": "NJ - Earth - Low-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16213,
+    "name": "NJ - Earth - Axe Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16214,
+    "name": "NJ - Earth - Switch Spinner  Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16215,
+    "name": "NJ - Earth - Spawner Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16216,
+    "name": "NJ - Earth - Elevator Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16217,
+    "name": "NJ - Earth - Projectile Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16218,
+    "name": "NJ - Earth - Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16220,
+    "name": "NJ - Fire - Low-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16221,
+    "name": "NJ - Fire - Axe Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16222,
+    "name": "NJ - Fire - Switch Spinner  Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16223,
+    "name": "NJ - Fire - Spawner Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16224,
+    "name": "NJ - Fire - Elevator Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16225,
+    "name": "NJ - Fire - Projectile Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16226,
+    "name": "NJ - Fire - Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16227,
+    "name": "NJ - Fire - High-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16228,
+    "name": "NJ - Ice - Elevator Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16229,
+    "name": "NJ - Ice - Spawner Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16230,
+    "name": "NJ - Ice - Switch Spinner  Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16231,
+    "name": "NJ - Ice - Projectile Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16232,
+    "name": "NJ - Ice - Low-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16233,
+    "name": "NJ - Ice - Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16234,
+    "name": "NJ - Ice - Axe Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16235,
+    "name": "NJ - Ice - High-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16236,
+    "name": "NJ - Lightning - Elevator Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16237,
+    "name": "NJ - Lightning - Spawner Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16238,
+    "name": "NJ - Lightning - Switch Spinner  Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16239,
+    "name": "NJ - Lightning - Projectile Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16240,
+    "name": "NJ - Lightning - Low-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16241,
+    "name": "NJ - Lightning - Blade Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16242,
+    "name": "NJ - Lightning - Axe Spinner Trap"
+  },
+  {
+    "comp_val": 115,
+    "id": 16243,
+    "name": "NJ - Lightning - High-Blade Spinner Trap"
+  },
+  {
+    "comp_val": 14,
+    "id": 16318,
+    "name": "AG - Spider Boss Treasure Chest"
+  }
+]

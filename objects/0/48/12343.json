@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12094,
+    "3": 6032
+  },
+  "description": "Skeleton tower body",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12343,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Skeleton tower body",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

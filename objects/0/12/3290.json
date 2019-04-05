@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item - Mission ID 236 - Not Hidden",
+  "components": {
+    "11": 3348,
+    "2": 2994
+  },
+  "description": "Return this to Mardolf!",
+  "displayName": "Water Sprayer Module 1",
+  "gate_version": null,
+  "id": 3290,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Water Sprayer Module 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

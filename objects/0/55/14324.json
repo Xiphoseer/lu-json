@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7066,
+    "2": 14013,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Paradox Gear - Space Marauder - weapon proxy",
+  "gate_version": "freetrial",
+  "id": 14324,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Paradox Gear - Space Marauder - weapon proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1629
+    }
+  ],
+  "type": "Loot"
+}

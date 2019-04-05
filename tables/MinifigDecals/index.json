@@ -1,0 +1,47 @@
+{
+  "title": "MinifigDecals",
+  "description": "Resource definitions for part variants of a minifigure",
+  "_links": {
+    "self": { "href": "/lu-json/tables/MinifigDecals/index.json" },
+    "index": { "href": "/lu-json/tables/tables.json" }
+  },
+  "_embedded": {
+    "item": [
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/Eyebrows/index.json" }
+        },
+        "title": "Eyebrows",
+        "description": "Resource for eyebrow variants."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/Eyes/index.json" }
+        },
+        "title": "Eyes",
+        "description": "Resource for eye variants."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/Legs/index.json" }
+        },
+        "title": "Legs",
+        "description": "Resource for leg variants."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/Mouths/index.json" }
+        },
+        "title": "Mouths",
+        "description": "Resource for mouth variants."
+      },
+      {
+        "_links": {
+          "self": { "href": "/lu-json/tables/MinifigDecals/Torsos/index.json" }
+        },
+        "title": "Torsos",
+        "description": "Resource for torso variants."
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7094,
+    "2": 14142,
+    "28": 358,
+    "3": 7255,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Classic Pink Rocket Engine",
+  "gate_version": "freetrial",
+  "id": 14453,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Classic Pink Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

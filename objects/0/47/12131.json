@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6012,
+    "2": 11880
+  },
+  "description": "NPC Wen Whatzit Hat",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12131,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Wen Whatzit Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

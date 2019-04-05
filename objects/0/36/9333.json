@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4421,
+    "2": 9192,
+    "28": 77,
+    "3": 4034,
+    "42": 0,
+    "63": 3
+  },
+  "description": null,
+  "displayName": "Chase Cutter Engine Panel 1",
+  "gate_version": null,
+  "id": 9333,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car1_EnginePanel2_r",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

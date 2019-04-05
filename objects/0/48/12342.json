@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12093,
+    "3": 6031,
+    "5": 1454,
+    "7": 1692
+  },
+  "description": "main Skeleton platform skull smashable",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 120,
+      "iconState": 70
+    }
+  ],
+  "id": 12342,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Drill Skull smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

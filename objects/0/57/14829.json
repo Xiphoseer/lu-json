@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Brown Ninjago Bo Staff 1+2+3 6+6+10",
+  "components": {
+    "11": 7301,
+    "2": 14523,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Training Bo Staff",
+  "gate_version": "njhub",
+  "id": 14829,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Training Bo Stafff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1456
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1545
+    }
+  ],
+  "type": "Loot"
+}

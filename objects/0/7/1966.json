@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 2 LP",
+  "components": {
+    "11": 865,
+    "2": 1910,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Healing Banana",
+  "gate_version": null,
+  "id": 1966,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Health Banana 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 90
+    }
+  ],
+  "type": "Loot"
+}

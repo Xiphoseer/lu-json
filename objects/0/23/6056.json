@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2531,
+    "2": 5463,
+    "3": 2521,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Weapon Rack Model",
+  "gate_version": null,
+  "id": 6056,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Weaponrack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

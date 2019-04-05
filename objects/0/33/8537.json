@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 3826,
+    "2": 8091,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Tech Armor",
+  "gate_version": null,
+  "id": 8537,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tech Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

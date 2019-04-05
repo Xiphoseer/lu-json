@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5067,
+    "2": 10166,
+    "3": 4558,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Classical Corner Model",
+  "gate_version": null,
+  "id": 10318,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Classical Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

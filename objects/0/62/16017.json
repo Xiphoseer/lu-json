@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14718,
+    "23": 70,
+    "40": 7555,
+    "7": 2091
+  },
+  "description": "Collectible Spawner for Johnny Thunder's mission object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16017,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJMON - Johnny Thunder Collectable Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

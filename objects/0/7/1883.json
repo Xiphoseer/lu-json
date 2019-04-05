@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 4 IP",
+  "components": {
+    "11": 852,
+    "2": 6288,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Hot Chocolate",
+  "gate_version": null,
+  "id": 1883,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hot Chocolate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1133
+    }
+  ],
+  "type": "Loot"
+}

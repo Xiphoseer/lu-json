@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13026,
+    "3": 6483
+  },
+  "description": "Burrow Hole Vertical for Earth Spinjitzu",
+  "displayName": "NJ Burrow Hole Vertical",
+  "gate_version": "njhub",
+  "id": 13299,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Burrow Hole Vertical",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant - 4 IP 1 AP",
+  "components": {
+    "11": 6924,
+    "2": 13641,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Hood of the Sage",
+  "gate_version": "communitymissions1.0",
+  "id": 13917,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hood of the Sage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    }
+  ],
+  "type": "Loot"
+}

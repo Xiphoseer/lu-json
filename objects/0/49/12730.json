@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/4/4 Long Piercing",
+  "components": {
+    "11": 6278,
+    "2": 12519,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Fantastic Pilum",
+  "gate_version": "auramar",
+  "id": 12730,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fantastic Pilum",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1140
+    }
+  ],
+  "type": "Loot"
+}

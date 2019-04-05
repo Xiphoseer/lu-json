@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NJ - Frakjaw Instance Exit",
+  "components": {
+    "2": 15223,
+    "3": 7879,
+    "5": 1709
+  },
+  "description": "NJ - Frakjaw Boss Instance Exit",
+  "displayName": "",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 127,
+      "iconState": 69
+    }
+  ],
+  "id": 16477,
+  "interactionDistance": 8.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Frakjaw Boss Instance Exit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

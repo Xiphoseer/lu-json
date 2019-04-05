@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Spawned lego Dice Asset  for Player Emote",
+  "components": {
+    "2": 7777,
+    "3": 4022,
+    "5": 1121,
+    "7": 919
+  },
+  "description": "Spawned lego Dice Asset  for Player Emote",
+  "displayName": "LEGO Dice Asset",
+  "gate_version": null,
+  "id": 8239,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LEGO Dice Asset",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

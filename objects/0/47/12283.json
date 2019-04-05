@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 5 IP",
+  "components": {
+    "11": 6033,
+    "2": 12031,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Jolly Beard",
+  "gate_version": "dec2010content",
+  "id": 12283,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Jolly Beard",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    }
+  ],
+  "type": "Loot"
+}

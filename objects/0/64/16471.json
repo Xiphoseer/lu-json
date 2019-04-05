@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7873,
+    "2": 15217,
+    "31": 97,
+    "5": 1703,
+    "60": 178,
+    "7": 2145,
+    "9": 0
+  },
+  "description": "Named GF enemy",
+  "displayName": "NAMED Stromling Admiral",
+  "gate_version": "1.10_content",
+  "id": 16471,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NAMED Stromling Admiral",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 241
+    }
+  ],
+  "type": "Enemies"
+}

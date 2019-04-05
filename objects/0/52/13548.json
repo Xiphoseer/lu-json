@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Used in Nexus Tower mission chains by paradox to spy",
+  "components": {
+    "11": 6692,
+    "2": 13285,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sentinel Box Disguise",
+  "gate_version": "nexustower",
+  "id": 13548,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Crate Disguise",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1262
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 5,
+      "skillID": 1333
+    }
+  ],
+  "type": "Loot"
+}

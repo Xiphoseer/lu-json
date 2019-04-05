@@ -1,0 +1,29 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE Stun, everlasting",
+  "components": {
+    "11": 3293,
+    "2": 7341,
+    "3": 5156,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Flash Bulb",
+  "gate_version": null,
+  "id": 7785,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flash Bulb",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 610
+    }
+  ],
+  "type": "Loot"
+}

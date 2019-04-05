@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 7/7/8 NJ Smashing M",
+  "components": {
+    "11": 7212,
+    "2": 14403,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cave Diver",
+  "gate_version": "njhub",
+  "id": 14715,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cave Diver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1423
+    }
+  ],
+  "type": "Loot"
+}

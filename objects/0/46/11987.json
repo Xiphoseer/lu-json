@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Uber gorilla",
+  "components": {
+    "1": 5801,
+    "2": 11746,
+    "5": 1314,
+    "60": 84,
+    "7": 1642,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Roo Morgg - Stromling Ape Invader",
+  "gate_version": "auramar",
+  "id": 11987,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Stromling Ape NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 337
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 725
+    }
+  ],
+  "type": "Enemies"
+}

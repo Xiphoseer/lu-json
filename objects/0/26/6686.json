@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6232,
+    "3": 2914,
+    "48": 89,
+    "5": 929,
+    "60": 33,
+    "7": 616,
+    "9": 0
+  },
+  "description": "Quickbuild to a Stromling stunning emmiter",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6686,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Headless Siren",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 499
+    }
+  ],
+  "type": "Rebuildables"
+}

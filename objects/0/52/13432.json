@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward model with Behaviors",
+  "components": {
+    "11": 6643,
+    "2": 13161,
+    "3": 6528,
+    "42": 0
+  },
+  "description": "This model contains behaviors!",
+  "displayName": "Reward Trophy",
+  "gate_version": null,
+  "id": 13432,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Reward Trophy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

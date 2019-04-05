@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "11": 3628,
+    "2": 6125,
+    "30": 13,
+    "5": 948,
+    "61": 5,
+    "7": 725,
+    "74": 0,
+    "9": 0
+  },
+  "description": "Your custom racing car",
+  "displayName": "Custom Racing Car",
+  "gate_version": null,
+  "id": 8092,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Custom Racing Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 583
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 594
+    }
+  ],
+  "type": "Vehicle"
+}

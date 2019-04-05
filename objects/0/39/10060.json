@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Model will build when close, smash when far",
+  "components": {
+    "11": 4884,
+    "2": 9896
+  },
+  "description": "Model will build when close, smash when far",
+  "displayName": "Proximity Build Behavior",
+  "gate_version": null,
+  "id": 10060,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Proximity Build",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

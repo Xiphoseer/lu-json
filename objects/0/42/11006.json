@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Property Pushback Tier 2 Behavior.",
+  "components": {
+    "11": 5358,
+    "2": 10758
+  },
+  "description": "Cage Behavior - For ND use only.",
+  "displayName": "BEHAVIOR - NS Property Pushback - Cage",
+  "gate_version": null,
+  "id": 11006,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BEHAVIOR - NS Property Pushback - Cage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

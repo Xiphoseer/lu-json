@@ -1,0 +1,19 @@
+{
+  "id": 957,
+  "tasks": [
+    {
+      "IconID": 3803,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Mission479_survival_task.DDS",
+      "largeTaskIconID": 3864,
+      "locStatus": 2,
+      "localize": true,
+      "target": 3039,
+      "targetGroup": null,
+      "targetValue": 10,
+      "taskParam1": "1",
+      "taskType": 11,
+      "uid": 1389
+    }
+  ]
+}

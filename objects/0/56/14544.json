@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14227,
+    "40": 7296
+  },
+  "description": "A Shape for Design Prototyping",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14544,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "5 - Spider Target Zone Sense Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

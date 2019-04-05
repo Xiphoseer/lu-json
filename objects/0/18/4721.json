@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2492,
+    "2": 4139,
+    "28": 9,
+    "3": 2556,
+    "42": 0
+  },
+  "description": "Modular Build rocket engine",
+  "displayName": "Pod Rocket Engine",
+  "gate_version": null,
+  "id": 4721,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Pod Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

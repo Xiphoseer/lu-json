@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2515,
+    "2": 5447,
+    "3": 2505,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Crate of Bananas Model",
+  "gate_version": null,
+  "id": 6040,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Banana Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

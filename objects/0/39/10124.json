@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 4936,
+    "2": 9961,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Island Dolphin Shirt",
+  "gate_version": null,
+  "id": 10124,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Island Dolphin Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

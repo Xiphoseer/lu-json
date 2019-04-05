@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2325,
+    "11": 6353,
+    "2": 6112,
+    "26": 2,
+    "42": 0,
+    "7": 388,
+    "9": 0
+  },
+  "description": "Min spec test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6554,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Min Spec Pets",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12171,
+    "25": 0,
+    "27": 0,
+    "3": 6098,
+    "39": 115,
+    "5": 1357,
+    "7": 1725,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ-Spinner Platform",
+  "gate_version": null,
+  "id": 12418,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Spinner Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

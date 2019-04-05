@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13113,
+    "3": 6509,
+    "39": 13385,
+    "5": 1450
+  },
+  "description": "Treasure Chest for AM Maelstrom Dragon Invader",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13385,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - Treasure Chest for AM Maelstrom Dragon Invader",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

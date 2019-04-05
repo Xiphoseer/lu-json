@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "2": 1672,
+    "5": 76,
+    "7": 640,
+    "9": 0
+  },
+  "description": "Do not place - only to be spawned by a generator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1876,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VO - Generated Grumpy Stromling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

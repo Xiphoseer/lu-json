@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "for testing moving skills to faction consumables",
+  "components": {
+    "11": 5062,
+    "2": 10144,
+    "9": 0
+  },
+  "description": "for testing moving skills to faction consumables",
+  "displayName": "Test Faction Consumable",
+  "gate_version": null,
+  "id": 10298,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Faction Consumabe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 448
+    }
+  ],
+  "type": "Loot"
+}

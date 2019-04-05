@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6737,
+    "25": 0,
+    "3": 3196
+  },
+  "description": "bridge trap for the pirates",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7158,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV Siege Bridge Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

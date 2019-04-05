@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6630,
+    "2": 13083,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NPC CheerLeader Pom 2 Vendor",
+  "gate_version": "nexustower",
+  "id": 13355,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC CheerLeader Pom 2 Vendor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

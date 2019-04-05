@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Contains 10 Faction Tokens",
+  "components": {
+    "11": 4918,
+    "2": 9932,
+    "53": 41
+  },
+  "description": "Double-click to get 10 Faction Tokens!",
+  "displayName": "Large Bag of Faction Tokens",
+  "gate_version": null,
+  "id": 10096,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Faction Token Bag - 10 tokens",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

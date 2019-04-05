@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 2583,
+    "2": 5648,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Steampunk Rocket Shirt",
+  "gate_version": null,
+  "id": 6230,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Steampunk Rocket Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

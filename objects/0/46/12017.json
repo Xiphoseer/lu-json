@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11766,
+    "3": 5815
+  },
+  "description": "Rocket Launcher Ramp",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12017,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL_Rocket_Launcher_Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12634,
+    "3": 6260
+  },
+  "description": "",
+  "displayName": "CP Launch Sentinel Platform",
+  "gate_version": null,
+  "id": 12845,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

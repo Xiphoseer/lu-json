@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Brick is too big to be carried!!!",
+  "components": {
+    "11": 3834,
+    "2": 8099,
+    "9": 0
+  },
+  "description": "Brick is too big to be carried!!!",
+  "displayName": "Trophy",
+  "gate_version": null,
+  "id": 8545,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DELETE ME TEST Trophy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

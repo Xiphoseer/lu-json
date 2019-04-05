@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 4935,
+    "2": 9960,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Green Soccer Shirt",
+  "gate_version": null,
+  "id": 10123,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Soccer Shirt 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

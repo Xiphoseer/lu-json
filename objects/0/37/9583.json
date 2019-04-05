@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Model",
+  "components": {
+    "11": 4613,
+    "2": 9434,
+    "3": 4162,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pod 7 Model",
+  "gate_version": null,
+  "id": 9583,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pod Model 7",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

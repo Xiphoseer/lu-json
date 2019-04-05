@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Red Top Hat",
+  "components": {
+    "11": 7762,
+    "2": 15366,
+    "9": 0
+  },
+  "description": "NPC Red Top Hat",
+  "displayName": "NPC Red Top Hat",
+  "gate_version": "njhub",
+  "id": 16587,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Red Top Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

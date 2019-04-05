@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6774,
+    "2": 13402,
+    "3": 6722,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Sloped Outside Corner Fence Model",
+  "gate_version": "april2011content",
+  "id": 13664,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Sloped Corner Outside ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

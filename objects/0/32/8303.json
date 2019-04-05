@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7861,
+    "3": 3871,
+    "7": 866
+  },
+  "description": "Maelstrom infected tree",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property Pine maelstrom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

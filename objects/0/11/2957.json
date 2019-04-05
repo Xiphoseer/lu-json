@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 2 IP",
+  "components": {
+    "11": 994,
+    "2": 2461,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Ninja Gi",
+  "gate_version": null,
+  "id": 2957,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Ninja Gi Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

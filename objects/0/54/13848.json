@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13588,
+    "3": 6856,
+    "7": 1882
+  },
+  "description": "smashable piece hanging on wall entrance",
+  "displayName": "NT-Paradox wall smashable entrance3",
+  "gate_version": null,
+  "id": 13848,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT-Paradox wall smashable entrance3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

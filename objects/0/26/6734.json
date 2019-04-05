@@ -1,0 +1,47 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 213,
+    "2": 6276,
+    "3": 1777,
+    "35": 262,
+    "5": 1024,
+    "7": 305,
+    "73": 41
+  },
+  "description": "__MG__Jailed Ninja",
+  "displayName": "Ninja Prisoner Steve",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 6734,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Ninja Prisoner 04",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

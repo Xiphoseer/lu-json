@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4368,
+    "40": 2248,
+    "5": 671,
+    "7": 464
+  },
+  "description": "Test CTF Flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4820,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CTF Blue Flag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

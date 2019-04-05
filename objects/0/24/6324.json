@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "16": 9,
+    "2": 5762,
+    "35": 204,
+    "7": 306
+  },
+  "description": "template vendor - do not edit!",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6324,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Template vendor",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

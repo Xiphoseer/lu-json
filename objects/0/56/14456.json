@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7097,
+    "2": 14145,
+    "28": 361,
+    "3": 7258,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Classic Yellow Rocket Engine",
+  "gate_version": "freetrial",
+  "id": 14456,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Classic Yellow Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

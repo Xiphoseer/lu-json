@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3003,
+    "2": 6698,
+    "3": 3166,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Candle Holder Model",
+  "gate_version": null,
+  "id": 7122,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Candle Holder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

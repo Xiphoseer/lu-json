@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 42,
+    "17": 316,
+    "2": 9550,
+    "3": 1777,
+    "35": 403,
+    "7": 306
+  },
+  "description": "GF Brick Vendor - Ravine",
+  "displayName": "Burky Urchin - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 9708,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Gear Vendor - Ravine",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,16 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 50,000 coins",
+  "description": "Return this to a vendor to cash it in!",
+  "displayName": "Bank Note II",
+  "gate_version": "njhub",
+  "id": 16657,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Bank Note II",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

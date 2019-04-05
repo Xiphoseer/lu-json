@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4144,
+    "3": 2036,
+    "7": 422
+  },
+  "description": "for testing loot tables",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4725,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Puccio Test Loot Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

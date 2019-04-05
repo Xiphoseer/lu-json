@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP",
+  "components": {
+    "11": 6241,
+    "2": 12482,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Harlequin Shirt",
+  "gate_version": "nexustower",
+  "id": 12693,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Harlequin Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3282,
+    "2": 7329,
+    "3": 3443,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Piano Model",
+  "gate_version": null,
+  "id": 7773,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Keyboards",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

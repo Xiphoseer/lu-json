@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12091,
+    "3": 6029,
+    "5": 1427
+  },
+  "description": "main Skeleton platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12340,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Skeleton Drill platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

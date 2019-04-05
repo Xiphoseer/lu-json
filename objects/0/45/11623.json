@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5674,
+    "2": 11375,
+    "3": 5467,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Barricade 3 Model",
+  "gate_version": "nexustower",
+  "id": 11623,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Barricade 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

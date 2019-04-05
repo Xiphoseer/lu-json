@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13722
+  },
+  "description": "Dr. Overbuild in Nexus Tower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14011,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Dr. Overbuild DO NOT USE",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MissionGiver"
+}

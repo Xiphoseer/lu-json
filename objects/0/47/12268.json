@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12016,
+    "3": 5993,
+    "7": 1687
+  },
+  "description": "Venture Crate for AuraMar",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12268,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Crate Venture Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

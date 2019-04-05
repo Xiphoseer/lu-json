@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP",
+  "components": {
+    "11": 3738,
+    "2": 7983,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Cowboy Hat",
+  "gate_version": null,
+  "id": 8425,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Cowboy Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

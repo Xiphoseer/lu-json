@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11025,
+    "3": 5189
+  },
+  "description": "Block Scale Test for maya matching",
+  "displayName": "10_10_CUBE",
+  "gate_version": null,
+  "id": 11255,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "10_10_CUBE",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

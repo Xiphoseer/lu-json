@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4813,
+    "2": 9773
+  },
+  "description": "NPC Grunt Armor Green",
+  "displayName": "Grunt Armor",
+  "gate_version": null,
+  "id": 9945,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Grunt Armor Green",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

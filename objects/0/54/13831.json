@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9813,
+    "3": 4438,
+    "5": 1475
+  },
+  "description": "Placeable Primitive Volume with attached Force behaviors",
+  "displayName": "Force_Volume",
+  "gate_version": null,
+  "id": 13831,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Force_Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

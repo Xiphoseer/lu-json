@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Skateboard mount part",
+  "components": {
+    "11": 2591,
+    "2": 5664
+  },
+  "description": "Test Skateboard mount part",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6246,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Skateboard Wheels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5939,
+    "2": 11640,
+    "3": 5732,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Snowmobile Model",
+  "gate_version": "dec2010content",
+  "id": 11888,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Snowmobile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Proxy",
+  "components": {
+    "11": 5180,
+    "2": 10330,
+    "9": 0
+  },
+  "description": "Used to fill the hand will using mantis style",
+  "displayName": "Mantis Style- Right Hand Proxy",
+  "gate_version": null,
+  "id": 10487,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy Mantis Style- Right Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 751
+    }
+  ],
+  "type": "Loot"
+}

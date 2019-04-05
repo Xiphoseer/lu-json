@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10774,
+    "20": 5035,
+    "6": 0
+  },
+  "description": "Bouncer for racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11022,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Racing Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

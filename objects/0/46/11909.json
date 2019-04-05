@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Community Reward - 5 IP",
+  "components": {
+    "11": 5945,
+    "2": 11656,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Ribbit's Top Hat",
+  "gate_version": null,
+  "id": 11909,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Frog Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 373
+    }
+  ],
+  "type": "Loot"
+}

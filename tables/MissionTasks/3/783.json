@@ -1,0 +1,19 @@
+{
+  "id": 783,
+  "tasks": [
+    {
+      "IconID": 2827,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Spider_Boss_Task.dds",
+      "largeTaskIconID": 2978,
+      "locStatus": 2,
+      "localize": true,
+      "target": null,
+      "targetGroup": "AG_BOSS_AREA",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 12,
+      "uid": 1142
+    }
+  ]
+}

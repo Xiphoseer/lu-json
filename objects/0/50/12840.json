@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6363,
+    "2": 12630,
+    "28": 268,
+    "3": 6255,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Morbid Orbit Rocket Engine",
+  "gate_version": "auramar",
+  "id": 12840,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Skeleton Engine 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

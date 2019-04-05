@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 long smashing",
+  "components": {
+    "11": 6307,
+    "2": 12549,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Elite Basher",
+  "gate_version": "auramar",
+  "id": 12759,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Basher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 281
+    }
+  ],
+  "type": "Loot"
+}

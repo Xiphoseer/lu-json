@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6540,
+    "2": 12976,
+    "28": 296,
+    "3": 6437,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "TEST ROCKET IHALL Engine",
+  "gate_version": null,
+  "id": 13196,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST MOD ROCKET IHALL Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

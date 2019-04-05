@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10386,
+    "3": 4674
+  },
+  "description": "Converted LUP object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10532,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - 6823 Surface Transport",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/7/9 NJ Slashing",
+  "components": {
+    "11": 7181,
+    "2": 14372,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Flowing Katana",
+  "gate_version": "njhub",
+  "id": 14684,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flowing Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1421
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2262,
+    "3": 1784,
+    "7": 236
+  },
+  "description": "cannon pirates get shot out of",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2650,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Static Pirate Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

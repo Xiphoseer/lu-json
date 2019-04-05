@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10741,
+    "3": 5169
+  },
+  "description": "Ground ambient creature in Jadoria",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11003,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Draggle Ground Ambient",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

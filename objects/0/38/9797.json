@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 325,
+    "2": 9632,
+    "35": 413,
+    "7": 307
+  },
+  "description": "VFX -- test -- Sorcerer Rank1",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9797,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX -- Sorcerer Rank 1",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

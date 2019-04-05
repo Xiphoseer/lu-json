@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5090,
+    "2": 10189,
+    "3": 4581,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Library Model 1",
+  "gate_version": null,
+  "id": 10341,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Library 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

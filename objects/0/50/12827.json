@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6242,
+    "2": 12616,
+    "7": 1781,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "auramar",
+  "id": 12827,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Inventor Beehive 2 Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1047
+    }
+  ],
+  "type": "Shooting Gallery"
+}

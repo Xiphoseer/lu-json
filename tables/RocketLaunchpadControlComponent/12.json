@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": null,
+  "altLandingSpawnPointName": null,
+  "defaultZoneID": 0,
+  "gmLevel": 0,
+  "id": 12,
+  "launchMusic": "Spaceship_Rocket-Launch_Cinematic",
+  "launchPrecondition": null,
+  "playerAnimation": "rocket-launch",
+  "rocketAnimation": "launch",
+  "targetScene": "AGLaunch",
+  "targetZone": 1100,
+  "useAltLandingPrecondition": false,
+  "useLaunchPrecondition": false
+}

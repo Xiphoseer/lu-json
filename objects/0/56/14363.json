@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7080,
+    "2": 14054,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Venture Gear - Daredevil - weapon proxy",
+  "gate_version": "freetrial",
+  "id": 14363,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Venture Gear - Daredevil - offhand proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 700
+    }
+  ],
+  "type": "Loot"
+}

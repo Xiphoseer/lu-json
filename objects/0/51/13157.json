@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6527,
+    "2": 12938,
+    "3": 6404,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Skeleton Small Table Model",
+  "gate_version": "march2011content",
+  "id": 13157,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Skeleton Small Table",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9473,
+    "3": 4190,
+    "36": 0,
+    "65": 0
+  },
+  "description": "This almost-vendor rents property",
+  "displayName": "Property Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 9628,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property Plaque Vendor",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "NPC"
+}

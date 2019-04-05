@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1087,
+    "2": 1672,
+    "5": 11,
+    "7": 360,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 6392,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Grumpy Stromling Survival",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

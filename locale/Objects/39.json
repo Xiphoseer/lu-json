@@ -1,0 +1,442 @@
+{
+  "10012": {
+    "description": "Double-click to get 2 Faction Tokens!",
+    "name": "Small Bag of Faction Tokens"
+  },
+  "10014": {
+    "description": "GF Easy Stromling type",
+    "name": "Stromling Pirate"
+  },
+  "10015": {
+    "description": "Tough GF Enemy",
+    "name": "Stromling Admiral"
+  },
+  "10021": {
+    "description": "Double-click to use!",
+    "name": "Un-Stink Potion"
+  },
+  "10023": {
+    "description": "LUP Station Model Vendor",
+    "name": "Nova Starbeam - Model Vendor"
+  },
+  "10026": {
+    "description": "AG Model Vendor - Picnic",
+    "name": "Brutus Speck - Model Vendor"
+  },
+  "10027": {
+    "description": "NS Model Vendor - Brick Annex",
+    "name": "Autumn Helix - Model Vendor"
+  },
+  "10028": {
+    "description": "FV Model Vendor - ???",
+    "name": "Lotus Firehammer - Model Vendor"
+  },
+  "10029": {
+    "description": "GF Model Vendor - ???",
+    "name": "Squall Aye - Model Vendor"
+  },
+  "10038": {
+    "description": "Double-click to use!",
+    "name": "Cup of Yo"
+  },
+  "10041": {
+    "description": "Uber gorilla",
+    "name": "Stromling Ape"
+  },
+  "10044": {
+    "description": "Smash an object and rebuild it",
+    "name": "Basic Smash Behavior"
+  },
+  "10046": {
+    "description": "NPC for the AG Footrace",
+    "name": "Oliver Sudden - Foot Race Host"
+  },
+  "10048": {
+    "description": "When attacked, drop power-ups",
+    "name": "Drop Power-Ups Behavior"
+  },
+  "10049": {
+    "description": "Plays a sound",
+    "name": "Play Sound Behavior"
+  },
+  "10050": {
+    "description": "Floats up and down",
+    "name": "Elevator Behavior"
+  },
+  "10051": {
+    "description": "Spin completely around",
+    "name": "Spin Around Behavior"
+  },
+  "10056": {
+    "description": "Move Forward and Back",
+    "name": "Move Forward and Back Behavior"
+  },
+  "10057": {
+    "description": "Model will patrol an area",
+    "name": "Patrol Behavior"
+  },
+  "10058": {
+    "description": "Moves model around",
+    "name": "Move Around Behavior"
+  },
+  "10059": {
+    "description": "Alarm sounds when close",
+    "name": "Proximity Alarm Behavior"
+  },
+  "10060": {
+    "description": "Model will build when close, smash when far",
+    "name": "Proximity Build Behavior"
+  },
+  "10061": {
+    "description": "A friendly greeter",
+    "name": "Greeter Behavior"
+  },
+  "10062": {
+    "description": "Auto Elevator",
+    "name": "Auto Elevator Behavior"
+  },
+  "10063": {
+    "description": "Makes model an enemy",
+    "name": "Basic Enemy Behavior"
+  },
+  "10064": {
+    "description": "Plays music",
+    "name": "Juke Box Behavior"
+  },
+  "10069": {
+    "description": "A model for your Property!",
+    "name": "Pirate Captain's Hut Model"
+  },
+  "10070": {
+    "description": "A model for your Property!",
+    "name": "Pirate Tower Model"
+  },
+  "10071": {
+    "description": "A model for your Property!",
+    "name": "Pirate Idol Model"
+  },
+  "10072": {
+    "description": "A model for your Property!",
+    "name": "Palm Tree Model 2"
+  },
+  "10073": {
+    "description": "A model for your Property!",
+    "name": "Pirate Staircase Model"
+  },
+  "10074": {
+    "description": "A model for your Property!",
+    "name": "Pirate Gate Model"
+  },
+  "10075": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall Model 1"
+  },
+  "10076": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall Model 2"
+  },
+  "10077": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall Model 3"
+  },
+  "10078": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall End Model"
+  },
+  "10079": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall With Gunport Model"
+  },
+  "10080": {
+    "description": "A model for your Property!",
+    "name": "Pirate Wall Bridge Model"
+  },
+  "10081": {
+    "description": "A model for your Property!",
+    "name": "Pirate Barrel Hut Model 1"
+  },
+  "10082": {
+    "description": "A model for your Property!",
+    "name": "Pirate Barrel Hut Model 2"
+  },
+  "10083": {
+    "description": "A model for your Property!",
+    "name": "Pirate Barrel Hut Model 3"
+  },
+  "10084": {
+    "description": "A model for your Property!",
+    "name": "Pirate Corner Wall Model"
+  },
+  "10085": {
+    "description": "A model for your Property!",
+    "name": "Pirate Corner Lookout Model"
+  },
+  "10086": {
+    "description": "A model for your Property!",
+    "name": "Pirate Medium Wall Model"
+  },
+  "10087": {
+    "description": "A model for your Property!",
+    "name": "Pirate Small Wall Model"
+  },
+  "10088": {
+    "description": "A model for your Property!",
+    "name": "Pirate T-Wall Model"
+  },
+  "10089": {
+    "description": "A model for your Property!",
+    "name": "Pirate T-Wall With Stairs Model"
+  },
+  "10090": {
+    "description": "A model for your Property!",
+    "name": "Pirate Ship Model 5"
+  },
+  "10091": {
+    "description": "A model for your Property!",
+    "name": "Pirate Ship Model 1"
+  },
+  "10092": {
+    "description": "A model for your Property!",
+    "name": "Pirate Ship Model 3"
+  },
+  "10093": {
+    "description": "A model for your Property!",
+    "name": "Pirate Ship Model 2"
+  },
+  "10094": {
+    "description": "A model for your Property!",
+    "name": "Pirate Ship Model 4"
+  },
+  "10095": {
+    "description": "Double-click to get 5 Faction Tokens!",
+    "name": "Medium Bag of Faction Tokens"
+  },
+  "10096": {
+    "description": "Double-click to get 10 Faction Tokens!",
+    "name": "Large Bag of Faction Tokens"
+  },
+  "10099": {
+    "description": "__MG__LUP Station Mission Giver",
+    "name": "Hess LaCoil - Starbase Technician"
+  },
+  "10100": {
+    "description": "Ambient NPC for LUP Station",
+    "name": "Starbase 3001 Ambient"
+  },
+  "10101": {
+    "description": "__MG__AG LUP Station Mission Giver",
+    "name": "AG Starbase 3001 Mission Giver"
+  },
+  "10121": {
+    "name": "Red Double Breasted Uniform"
+  },
+  "10122": {
+    "name": "Blue Double Breasted Uniform"
+  },
+  "10123": {
+    "name": "Green Soccer Shirt"
+  },
+  "10124": {
+    "name": "Island Dolphin Shirt"
+  },
+  "10125": {
+    "name": "Queen Shirt"
+  },
+  "10127": {
+    "name": "Winged Wrench Shirt"
+  },
+  "10128": {
+    "name": "Vampire Shirt"
+  },
+  "10129": {
+    "name": "Beta Tester Shirt"
+  },
+  "10130": {
+    "name": "Weightlifter Shirt"
+  },
+  "10131": {
+    "name": "Fire Brick Shirt"
+  },
+  "10137": {
+    "description": "Ambient Welder NPC for LUP Station",
+    "name": "Worker"
+  },
+  "10138": {
+    "description": "Ambient Jetpack NPC for Club Station",
+    "name": "Nails Henrik - LEGO Club Technician"
+  },
+  "10139": {
+    "description": "Station NPC",
+    "name": "K-733N - Cleaning Bot"
+  },
+  "10145": {
+    "name": "Boss Burno Large3"
+  },
+  "10164": {
+    "name": "Splendid Pants"
+  },
+  "10165": {
+    "description": "Double-click to open this pack of bricks!",
+    "name": "Mega Brick Booster Pack"
+  },
+  "10167": {
+    "description": "Thanks for your help from the Bradford Rant Institute of Cosmic Kinesis!",
+    "name": "Bradford Rant Shirt"
+  },
+  "10168": {
+    "name": "Pod 1 Captain Shirt"
+  },
+  "10169": {
+    "name": "Pod 2 Captain Shirt"
+  },
+  "10170": {
+    "name": "Pod 3 Captain Shirt"
+  },
+  "10171": {
+    "name": "Pod 4 Captain Shirt"
+  },
+  "10172": {
+    "name": "Pod 5 Captain Shirt"
+  },
+  "10173": {
+    "name": "Pod 6 Captain Shirt"
+  },
+  "10174": {
+    "name": "Pod 7 Captain Shirt"
+  },
+  "10175": {
+    "name": "Forklift with Vertical Fork"
+  },
+  "10176": {
+    "name": "Technic Turntable"
+  },
+  "10177": {
+    "name": "Technic Arrow Gun 6x2x2"
+  },
+  "10178": {
+    "name": "Snake Tail Piece"
+  },
+  "10179": {
+    "name": "Dragon's Head"
+  },
+  "10180": {
+    "name": "Armored Dragon's Head"
+  },
+  "10181": {
+    "name": "Technic Universal Joint"
+  },
+  "10182": {
+    "name": "Mindstorms Linear Actuator 10-15 M"
+  },
+  "10183": {
+    "name": "Shark 8x16"
+  },
+  "10184": {
+    "name": "Minifigure Torso with Right Arm Prosthesis"
+  },
+  "10185": {
+    "name": "Train Buffer 1"
+  },
+  "10186": {
+    "name": "Train Buffer 2"
+  },
+  "10187": {
+    "name": "Cow"
+  },
+  "10188": {
+    "name": "Mini Rock Monster 1"
+  },
+  "10189": {
+    "name": "Tile 1x2 with Steering Wheel"
+  },
+  "10190": {
+    "name": "Minifigure Legs"
+  },
+  "10191": {
+    "name": "Mini Bicycle"
+  },
+  "10192": {
+    "name": "Control Stick with Base"
+  },
+  "10193": {
+    "name": "Turntable 4x4"
+  },
+  "10194": {
+    "name": "Hinge Plate 1x2 1x2 Complete"
+  },
+  "10195": {
+    "name": "Turntable 2x2"
+  },
+  "10196": {
+    "name": "Monkey"
+  },
+  "10197": {
+    "name": "Window with Frame 2x6x6"
+  },
+  "10198": {
+    "name": "Horse"
+  },
+  "10199": {
+    "name": "Polar Bear"
+  },
+  "10200": {
+    "name": "Minifigure Torso"
+  },
+  "10201": {
+    "name": "Tabletop Soccer Minifigure Socket "
+  },
+  "10202": {
+    "name": "Click-Turntable 4x4 with Sliding Block"
+  },
+  "10203": {
+    "name": "Technic Shock Absorber, Extra Hard"
+  },
+  "10204": {
+    "name": "Minifigure Legs with Right Wooden Leg"
+  },
+  "10205": {
+    "name": "Minifigure Torso with Left Hook Prosthesis"
+  },
+  "10206": {
+    "name": "Cannon"
+  },
+  "10207": {
+    "name": "Rock Monster 1, Medium Large"
+  },
+  "10208": {
+    "name": "Mini Rock Monster 2"
+  },
+  "10209": {
+    "name": "Rock Monster 2, Medium Large"
+  },
+  "10228": {
+    "name": "Drum Holder 2x2"
+  },
+  "10229": {
+    "name": "Drum Ø11"
+  },
+  "10230": {
+    "name": "Tire Ø14 Smooth"
+  },
+  "10231": {
+    "name": "Brick 1x2 with Vertical Pin Top Part"
+  },
+  "10232": {
+    "name": "Brick 1x2 with Vertical Pin Hole Bottom Part"
+  },
+  "10233": {
+    "name": "Treasure chest 2x4 Bottom Part"
+  },
+  "10234": {
+    "name": "Treasure chest 2x4 Lid"
+  },
+  "10236": {
+    "name": "Crocodile, Body"
+  },
+  "10237": {
+    "name": "Crocodile/Dragon Top Jaw"
+  },
+  "10238": {
+    "name": "Crocodile/Dragon Tail"
+  }
+}

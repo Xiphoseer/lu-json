@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6868,
+    "3": 3294
+  },
+  "description": "Starting mesh for pet rock area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PROTO-PR-Start",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

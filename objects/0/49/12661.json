@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12450,
+    "3": 6220,
+    "39": 61,
+    "5": 1304
+  },
+  "description": "model that puts player in an instance for NS Waves",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12661,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Waves Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

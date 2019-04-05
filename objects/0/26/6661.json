@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6207,
+    "3": 2894,
+    "5": 926,
+    "7": 610
+  },
+  "description": "Testing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6661,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Race Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

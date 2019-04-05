@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12418,
+    "3": 6210
+  },
+  "description": "",
+  "displayName": "Nimbus Instance Time Travel Cinematic Camera",
+  "gate_version": null,
+  "id": 12628,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Nimbus Instance Cinematic Camera",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

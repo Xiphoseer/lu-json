@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6098,
+    "2": 12205
+  },
+  "description": "NPC Skeleton Engineer Flame Thrower",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 12450,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skeleton Engineer Flame Thrower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

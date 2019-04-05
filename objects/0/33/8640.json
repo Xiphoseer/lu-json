@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 3892,
+    "2": 8195,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bell Bottoms",
+  "gate_version": null,
+  "id": 8640,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bell Bottoms",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

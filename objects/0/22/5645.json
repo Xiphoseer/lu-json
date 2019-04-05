@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Flag waved by obstacle course flag waver",
+  "components": {
+    "11": 2347,
+    "2": 5066
+  },
+  "description": "Flag waved by obstacle course flag waver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5645,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Flagwaver Flag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

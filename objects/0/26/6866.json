@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 500 coins",
+  "components": {
+    "11": 2888,
+    "2": 6421
+  },
+  "description": "A gem that can be sold!",
+  "displayName": "Pink Gem",
+  "gate_version": null,
+  "id": 6866,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pink Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

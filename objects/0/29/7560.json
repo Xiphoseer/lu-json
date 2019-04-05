@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3327,
+    "2": 7124,
+    "7": 693,
+    "9": 0
+  },
+  "description": "Boulder that Stromling Ape Throws",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7560,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Throwing Boulder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 336
+    }
+  ],
+  "type": "Shooting Gallery"
+}

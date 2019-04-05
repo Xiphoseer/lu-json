@@ -1,0 +1,29 @@
+{
+  "currencyIndex": 4,
+  "currency_table": [
+    {
+      "id": 66,
+      "maxvalue": 20,
+      "minvalue": 12,
+      "npcminlevel": 1
+    },
+    {
+      "id": 67,
+      "maxvalue": 33,
+      "minvalue": 18,
+      "npcminlevel": 2
+    },
+    {
+      "id": 68,
+      "maxvalue": 65,
+      "minvalue": 39,
+      "npcminlevel": 3
+    },
+    {
+      "id": 69,
+      "maxvalue": 1024,
+      "minvalue": 768,
+      "npcminlevel": 4
+    }
+  ]
+}

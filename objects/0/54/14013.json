@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13723,
+    "3": 6963,
+    "5": 1519
+  },
+  "description": null,
+  "displayName": "Porthole for NT Cannon",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 156,
+      "iconState": 69
+    }
+  ],
+  "id": 14013,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Porthole for NT Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

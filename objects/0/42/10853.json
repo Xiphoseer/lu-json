@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5309,
+    "2": 10700,
+    "3": 4974,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Crane Game Model",
+  "gate_version": null,
+  "id": 10853,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward CraneGame",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

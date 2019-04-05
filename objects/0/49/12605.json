@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6197,
+    "2": 12398,
+    "31": 47,
+    "5": 1388,
+    "60": 111,
+    "7": 1759,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Dark Spiderling",
+  "gate_version": "nimbusinstance",
+  "id": 12605,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Elite Dark Spiderling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 40,
+      "castOnType": 0,
+      "skillID": 833
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 933
+    }
+  ],
+  "type": "Enemies"
+}

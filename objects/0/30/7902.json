@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7463,
+    "3": 3398,
+    "39": 0,
+    "5": 1043
+  },
+  "description": "Organ test assets",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7902,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Organ Temp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

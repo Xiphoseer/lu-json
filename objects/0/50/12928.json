@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12713,
+    "3": 6282
+  },
+  "description": "Pipes in Nexus Tower",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12928,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "nt_pipeholder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

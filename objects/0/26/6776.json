@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2816,
+    "2": 6315,
+    "3": 2985,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Small Cannon Model",
+  "gate_version": null,
+  "id": 6776,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Small Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12758,
+    "40": 6302,
+    "5": 1421
+  },
+  "description": "Volume that fits the zipper  area in Crux Prime",
+  "displayName": "zipper Area Trigger Volume",
+  "gate_version": "auramar",
+  "id": 12973,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "CP - zipper Area Trigger Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

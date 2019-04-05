@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14024,
+    "3": 7156,
+    "67": 31,
+    "78": 36,
+    "97": 0
+  },
+  "description": "Launch pad in the Starbase 3001",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 86,
+      "iconState": 69
+    }
+  ],
+  "id": 14333,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Rocket launch Pad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

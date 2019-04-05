@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Short Slashing. ",
+  "components": {
+    "11": 6266,
+    "2": 12507,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Elite Broadsword",
+  "gate_version": "auramar",
+  "id": 12718,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Broadsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 278
+    }
+  ],
+  "type": "Loot"
+}

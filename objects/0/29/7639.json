@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7208,
+    "3": 3378
+  },
+  "description": "background cards for pet rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7639,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR -distance rock cards",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6246,
+    "2": 12620,
+    "9": 0
+  },
+  "description": "1 dmg projectile arrow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12831,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "1 Dmg Projectile Arrow Adventurer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1062
+    }
+  ],
+  "type": "Shooting Gallery"
+}

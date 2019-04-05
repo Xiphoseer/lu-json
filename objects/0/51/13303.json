@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13030,
+    "25": 0,
+    "27": 0,
+    "3": 6486
+  },
+  "description": "Moving Platform for NJ Ice Dungeon",
+  "displayName": "NJ Frozen Water Platform",
+  "gate_version": "njhub",
+  "id": 13303,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Frozen Water Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3065,
+    "3": 1772,
+    "5": 551,
+    "7": 261
+  },
+  "description": "YRK TB maze foundation piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3663,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - maze foundation piece",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Interactives"
+}

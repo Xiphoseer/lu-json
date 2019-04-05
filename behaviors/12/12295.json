@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/12/12295.json"
+    }
+  },
+  "behaviorID": 12295,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "behavior 1": 16089.0,
+    "behavior 2": 12296.0,
+    "charge_time": 1.0,
+    "distance_to_target": 0.0,
+    "value 1": 1.600000023841858,
+    "value 2": 17.0
+  },
+  "templateID": 44
+}

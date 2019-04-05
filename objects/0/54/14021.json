@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6964,
+    "2": 13731
+  },
+  "description": "Small maelstrom helmet Head for NJ Skeleton",
+  "displayName": "NPC Skeleton Maelstrom helmet Head Small 1",
+  "gate_version": "njhub",
+  "id": 14021,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Skeleton Maelstrom helmet Head Small 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11148,
+    "3": 5274
+  },
+  "description": "RACE-FVTrack04_WALLS_FVLair",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11375,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack04_WALLS_FVLair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

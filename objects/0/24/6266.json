@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5685,
+    "3": 2590,
+    "5": 791,
+    "7": 507
+  },
+  "description": "Crate holding peanuts for elephant mission in Gnarled Forest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6266,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Peanut Crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

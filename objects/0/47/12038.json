@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5980,
+    "2": 11787,
+    "28": 261,
+    "3": 5836,
+    "42": 0,
+    "63": 6,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Mach Lava Side Panels",
+  "gate_version": "FVracetrack",
+  "id": 12038,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarFV2_SidePanels_p",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

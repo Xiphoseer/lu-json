@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7493,
+    "3": 3603,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Cat House With Scratching Post",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7947,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming -Cat House",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 3,
+  "id": 296,
+  "partCode": 2,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"13196\" name=\"TEST ROCKET IHALL Engine\"><PlacementRotation x=\"0.5\" y=\"0.5\" z=\"-0.5\" w=\"0.5\" /><BuildingPosition x=\"0\" y=\"-9.978\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" />      <connection name=\"CP_A1\">          <translation x=\"0\" y=\"5.2096\" z=\"0\" />      </connection>  </ModuleInfo>"
+}

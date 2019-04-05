@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15233,
+    "3": 7888,
+    "39": 58,
+    "5": 1701
+  },
+  "description": "NJ - Frakjaw instance Zone Control Object",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16487,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Frakjaw instance Zone Control Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

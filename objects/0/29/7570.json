@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 3213,
+    "2": 7133,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Red Shoulder Parrot",
+  "gate_version": null,
+  "id": 7570,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shoulder Parrot Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

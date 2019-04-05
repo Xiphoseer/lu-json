@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP",
+  "components": {
+    "11": 949,
+    "2": 2200,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Baseball Cap",
+  "gate_version": null,
+  "id": 2587,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Baseball Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

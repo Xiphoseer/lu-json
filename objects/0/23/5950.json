@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "hat/helmet for item set test",
+  "components": {
+    "11": 3460,
+    "2": 2495
+  },
+  "description": "hat/helmet for item set test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5950,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Set ninja1 - Head",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 4 IP Speed Heroic",
+  "components": {
+    "11": 6280,
+    "2": 12521,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Massive Spear",
+  "gate_version": "nexustower",
+  "id": 12732,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Massive Spear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1233
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1274
+    }
+  ],
+  "type": "Loot"
+}

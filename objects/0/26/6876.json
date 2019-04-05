@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 218,
+    "2": 6431,
+    "3": 3021,
+    "35": 270,
+    "7": 307
+  },
+  "description": "Ambient scared pirate in sinking ship.",
+  "displayName": "Wally Hornswaggle - Scared Pirate",
+  "gate_version": null,
+  "id": 6876,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Scared Pirate",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "value 100 coins",
+  "components": {
+    "11": 6910,
+    "2": 13608
+  },
+  "description": "A gem that can be sold!",
+  "displayName": "Amber Gem",
+  "gate_version": "LIVE",
+  "id": 2097196,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Amber Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8001,
+    "3": 3926
+  },
+  "description": "Second iteration of the LUP Station",
+  "displayName": "LUP Station Mock 2",
+  "gate_version": null,
+  "id": 8446,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Mock 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

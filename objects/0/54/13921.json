@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant",
+  "components": {
+    "11": 6928,
+    "2": 13645,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Superior Crossbow of Blasting",
+  "gate_version": "communitymissions1.0",
+  "id": 13921,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Crossbow of Blasting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 862
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "components": {
+    "11": 6494,
+    "2": 12873,
+    "53": 109
+  },
+  "description": "Double-click to use!",
+  "displayName": "Premium Surprise Pack",
+  "gate_version": "auramar",
+  "id": 13097,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CP Loot Surprise Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

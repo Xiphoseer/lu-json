@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7976,
+    "20": 3900,
+    "5": 1411
+  },
+  "description": "TEST king of the hill volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12811,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST KOTH volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

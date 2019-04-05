@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "needs icon",
+  "components": {
+    "11": 2366,
+    "2": 5132
+  },
+  "description": "needs icon",
+  "displayName": "NPC Western Cap",
+  "gate_version": null,
+  "id": 5711,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Western Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

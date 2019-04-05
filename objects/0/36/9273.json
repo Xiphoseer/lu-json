@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9317,
+    "3": 4000
+  },
+  "description": "Prototype medium property asset from Nimbus station -main feature",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9273,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proto-FV_PP_02_MediumProperty",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

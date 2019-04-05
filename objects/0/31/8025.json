@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2327,
+    "2": 2722
+  },
+  "description": "Test Skunk",
+  "displayName": "Test Skunk",
+  "gate_version": null,
+  "id": 8025,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST SKUNK",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

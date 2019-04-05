@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "FV race track",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/545.json"
+    }
+  },
+  "clientPhysicsFramerate": "high",
+  "disableSaveLoc": false,
+  "fZoneWeight": 0.25,
+  "gate_version": null,
+  "ghostdistance": 1500.0,
+  "ghostdistance_min": 800.0,
+  "heightInChunks": 99,
+  "locStatus": 0,
+  "localize": true,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": false,
+  "population_hard_cap": 8,
+  "population_soft_cap": 6,
+  "scriptID": -1,
+  "serverPhysicsFramerate": "high",
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": 99,
+  "zoneControlTemplate": null,
+  "zoneID": 545,
+  "zoneName": "01_Live_Maps/Forbidden_Valley/Racetrack/fv_racetrack.luz"
+}

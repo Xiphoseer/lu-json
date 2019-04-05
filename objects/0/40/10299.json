@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 377,
+    "2": 10145,
+    "3": 1777,
+    "35": 470,
+    "5": 1253,
+    "7": 1538,
+    "73": 86
+  },
+  "description": "__MG__Property Mission Giver 1",
+  "displayName": "Kendrix Starfish - Property Guard",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 116,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 10299,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Property Guard 1",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1646,
+    "3": 820,
+    "48": 54
+  },
+  "description": "Prototype",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4833,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Arch Build",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

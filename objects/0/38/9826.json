@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9663,
+    "3": 4309
+  },
+  "description": "Spaceship Explosion FX",
+  "displayName": "Ship FX Explosion",
+  "gate_version": null,
+  "id": 9826,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ship FX - Explosion",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

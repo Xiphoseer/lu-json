@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7236,
+    "2": 14433,
+    "28": 389,
+    "3": 7432,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Racemaster  Side Panels",
+  "gate_version": "ftcommunityitems",
+  "id": 14746,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Red Indy Car Side Panels",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

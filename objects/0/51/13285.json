@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Space Marauder Valiant Weapon Proxy",
+  "components": {
+    "11": 6576,
+    "2": 13015,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Space Marauder Valiant Weapon Proxy",
+  "gate_version": "valiantweapons",
+  "id": 13285,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Space Marauder Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1028
+    }
+  ],
+  "type": "Loot"
+}

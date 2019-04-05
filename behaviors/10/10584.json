@@ -1,0 +1,30 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/10/10584.json"
+    }
+  },
+  "behaviorID": 10584,
+  "effectHandle": "",
+  "effectID": 2693,
+  "parameters": {
+    "LOT_ID": 14045.0,
+    "clear_provided_target": 0.0,
+    "max_distance": 100.0,
+    "offset_x": -1.0,
+    "offset_y": 2.5,
+    "offset_z": 0.0,
+    "projectile_speed": 100.0,
+    "projectile_type": 2.0,
+    "rotate_x_degrees": 0.0,
+    "spread_angle": 0.0,
+    "spread_count": 0.0,
+    "spread_z_load_fudge": 0.0,
+    "track_radius": 5.0,
+    "track_target": 0.0,
+    "use_high_arc": 0.0,
+    "use_mouseposit": 0.0,
+    "use_prediction": 0.0
+  },
+  "templateID": 4
+}

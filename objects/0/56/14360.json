@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7077,
+    "2": 14051,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Venture Gear - Daredevil - chest proxy",
+  "gate_version": "freetrial",
+  "id": 14360,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Venture Gear - Daredevil - chest proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 828
+    }
+  ],
+  "type": "Loot"
+}

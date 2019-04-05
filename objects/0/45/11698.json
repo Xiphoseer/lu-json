@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5749,
+    "2": 11450,
+    "3": 5542,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Chicken Model",
+  "gate_version": "march2011content",
+  "id": 11698,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Chicken",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

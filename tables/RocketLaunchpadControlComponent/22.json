@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": null,
+  "altLandingSpawnPointName": null,
+  "defaultZoneID": 1200,
+  "gmLevel": 0,
+  "id": 22,
+  "launchMusic": null,
+  "launchPrecondition": null,
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-property",
+  "targetScene": "MedPropLand",
+  "targetZone": 1250,
+  "useAltLandingPrecondition": false,
+  "useLaunchPrecondition": false
+}

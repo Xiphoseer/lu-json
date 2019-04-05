@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9813,
+    "40": 7899,
+    "9": 0
+  },
+  "description": "A Primitive Shape for Design Prototyping",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16506,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PrimitiveModel phantom w/skill component (humans only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "PrimitiveModels"
+}

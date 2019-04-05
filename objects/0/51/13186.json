@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12968,
+    "3": 6429,
+    "7": 2151
+  },
+  "description": "Ice wall used to block player from views of other scenes and getting out of world",
+  "displayName": "NJ - Ice wall Mod_2",
+  "gate_version": "njhub",
+  "id": 13186,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Wall Mod_2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

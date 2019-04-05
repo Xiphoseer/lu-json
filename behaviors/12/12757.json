@@ -1,0 +1,20 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/12/12757.json"
+    }
+  },
+  "behaviorID": 12757,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "goto_target": 0.0,
+    "gravity_scale": 0.0,
+    "ground_action": 12758.0,
+    "hit_action": 12758.0,
+    "x_velocity": 0.0,
+    "y_velocity": -50.0,
+    "z_velocity": 0.0
+  },
+  "templateID": 56
+}

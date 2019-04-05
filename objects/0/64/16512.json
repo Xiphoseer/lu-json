@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "116": 0,
+    "2": 15261,
+    "3": 7904
+  },
+  "description": "These planes occlude objects behind them [DNL]",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16512,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Culling Plane",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

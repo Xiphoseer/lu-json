@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item",
+  "components": {
+    "11": 7106,
+    "2": 14162
+  },
+  "description": "Return this to Jay in the Ninjago Dojo of Lightning.",
+  "displayName": "Bone Bucket Building Instructions",
+  "gate_version": "njhub",
+  "id": 14473,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bone Bucket Building Instructions",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

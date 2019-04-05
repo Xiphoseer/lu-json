@@ -1,0 +1,436 @@
+{
+  "_embedded": {
+    "LevelProgressionLookup": [
+      {
+        "BehaviorEffect": null,
+        "id": 1,
+        "requiredUScore": 0
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 2,
+        "requiredUScore": 35
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 3,
+        "requiredUScore": 195
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 4,
+        "requiredUScore": 270
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 5,
+        "requiredUScore": 390
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 6,
+        "requiredUScore": 570
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 7,
+        "requiredUScore": 820
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 8,
+        "requiredUScore": 1170
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 9,
+        "requiredUScore": 1620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 10,
+        "requiredUScore": 2170
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 11,
+        "requiredUScore": 2820
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 12,
+        "requiredUScore": 3570
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 13,
+        "requiredUScore": 4420
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 14,
+        "requiredUScore": 5370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 15,
+        "requiredUScore": 6420
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 16,
+        "requiredUScore": 7570
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 17,
+        "requiredUScore": 8820
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 18,
+        "requiredUScore": 10170
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 19,
+        "requiredUScore": 11620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 20,
+        "requiredUScore": 13270
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 21,
+        "requiredUScore": 15120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 22,
+        "requiredUScore": 17170
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 23,
+        "requiredUScore": 19420
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 24,
+        "requiredUScore": 21870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 25,
+        "requiredUScore": 24520
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 26,
+        "requiredUScore": 27370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 27,
+        "requiredUScore": 30420
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 28,
+        "requiredUScore": 33670
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 29,
+        "requiredUScore": 37120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 30,
+        "requiredUScore": 40870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 31,
+        "requiredUScore": 44870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 32,
+        "requiredUScore": 49120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 33,
+        "requiredUScore": 53620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 34,
+        "requiredUScore": 58370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 35,
+        "requiredUScore": 63370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 36,
+        "requiredUScore": 68620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 37,
+        "requiredUScore": 74120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 38,
+        "requiredUScore": 79870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 39,
+        "requiredUScore": 85870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 40,
+        "requiredUScore": 92120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 41,
+        "requiredUScore": 98370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 42,
+        "requiredUScore": 104670
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 43,
+        "requiredUScore": 111070
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 44,
+        "requiredUScore": 117620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 45,
+        "requiredUScore": 124370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 46,
+        "requiredUScore": 131370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 47,
+        "requiredUScore": 138620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 48,
+        "requiredUScore": 146120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 49,
+        "requiredUScore": 153870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 50,
+        "requiredUScore": 161870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 51,
+        "requiredUScore": 170120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 52,
+        "requiredUScore": 178620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 53,
+        "requiredUScore": 187370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 54,
+        "requiredUScore": 196370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 55,
+        "requiredUScore": 205620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 56,
+        "requiredUScore": 215120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 57,
+        "requiredUScore": 224870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 58,
+        "requiredUScore": 234870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 59,
+        "requiredUScore": 245120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 60,
+        "requiredUScore": 255620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 61,
+        "requiredUScore": 266370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 62,
+        "requiredUScore": 277370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 63,
+        "requiredUScore": 288620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 64,
+        "requiredUScore": 300120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 65,
+        "requiredUScore": 311870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 66,
+        "requiredUScore": 323870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 67,
+        "requiredUScore": 336120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 68,
+        "requiredUScore": 348620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 69,
+        "requiredUScore": 361370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 70,
+        "requiredUScore": 374370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 71,
+        "requiredUScore": 387620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 72,
+        "requiredUScore": 401120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 73,
+        "requiredUScore": 414870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 74,
+        "requiredUScore": 428870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 75,
+        "requiredUScore": 443120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 76,
+        "requiredUScore": 457620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 77,
+        "requiredUScore": 472370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 78,
+        "requiredUScore": 487370
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 79,
+        "requiredUScore": 502620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 80,
+        "requiredUScore": 518120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 81,
+        "requiredUScore": 533870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 82,
+        "requiredUScore": 549870
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 83,
+        "requiredUScore": 566120
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 84,
+        "requiredUScore": 582620
+      },
+      {
+        "BehaviorEffect": null,
+        "id": 85,
+        "requiredUScore": 599370
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/LevelProgressionLookup/index.json"
+    }
+  }
+}

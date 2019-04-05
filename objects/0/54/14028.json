@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ranged Skeleton for Ninjago",
+  "components": {
+    "1": 6968,
+    "17": 536,
+    "2": 13738,
+    "31": 78,
+    "5": 1525,
+    "60": 156,
+    "7": 1914,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Marksman",
+  "gate_version": "njhub",
+  "id": 14028,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Marksman",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1122
+    },
+    {
+      "AICombatWeight": 60,
+      "castOnType": 0,
+      "skillID": 1378
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 1380
+    }
+  ],
+  "type": "Enemies"
+}

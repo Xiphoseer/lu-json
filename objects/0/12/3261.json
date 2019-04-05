@@ -1,0 +1,44 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6905,
+    "11": 6882,
+    "2": 7592,
+    "26": 6,
+    "42": 0,
+    "5": 1049,
+    "60": 31,
+    "7": 852,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 3261,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skunk Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 1,
+      "skillID": 772
+    }
+  ],
+  "type": "NPC"
+}

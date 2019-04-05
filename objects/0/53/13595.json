@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 6720,
+    "2": 13332,
+    "28": 346,
+    "3": 6671,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Nexus Tower Rocket Engine",
+  "gate_version": "nexustower",
+  "id": 13595,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Nexus Tower Rocket Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

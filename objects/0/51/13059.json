@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "CP Mission Item",
+  "components": {
+    "11": 6484,
+    "2": 12843
+  },
+  "description": "Return this to Duke Exeter in Nexus Tower!",
+  "displayName": "Splintered Horseman's Lance",
+  "gate_version": "auramar",
+  "id": 13059,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Splintered Horseman's Lance",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

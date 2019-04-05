@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10448,
+    "3": 4736
+  },
+  "description": "Converted LUP object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10594,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Int_ComputerTerminal01",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "LUP"
+}

@@ -1,0 +1,53 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2624,
+    "2": 5850,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "GM Only - Hat of Pwnage",
+  "gate_version": null,
+  "id": 6407,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GM Only - Hat of Pwnage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 10
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 195
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 196
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 197
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 198
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 199
+    }
+  ],
+  "type": "Loot"
+}

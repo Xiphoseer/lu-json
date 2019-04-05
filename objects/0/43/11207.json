@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "2 IP 2 AP",
+  "components": {
+    "11": 5489,
+    "2": 10976,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "White Owl Backpack",
+  "gate_version": null,
+  "id": 11207,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Owl on a Perch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Make it rain",
+  "components": {
+    "11": 3687,
+    "2": 7924,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Cloud Burst",
+  "gate_version": null,
+  "id": 8366,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cloud Burst",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 837
+    }
+  ],
+  "type": "Loot"
+}

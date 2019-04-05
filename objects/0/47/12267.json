@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12015,
+    "23": 42,
+    "40": 5992,
+    "7": 1673
+  },
+  "description": "Collectible Spawner for Backpack flag",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12267,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Winter 2010 Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

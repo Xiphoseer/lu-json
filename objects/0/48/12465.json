@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 6108,
+    "2": 12228
+  },
+  "description": "Return this to Dr. Overbuild.",
+  "displayName": "Safe Lock",
+  "gate_version": "nexustower",
+  "id": 12465,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bank - Safe Lock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

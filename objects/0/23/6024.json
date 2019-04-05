@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3653,
+    "2": 5483,
+    "3": 1229,
+    "42": 0
+  },
+  "description": "DO NOT DELETE",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6024,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PERF MON Polys",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Perf Mon"
+}

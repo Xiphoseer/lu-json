@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5559,
+    "2": 11256,
+    "28": 239,
+    "3": 5352,
+    "42": 0,
+    "63": 7
+  },
+  "description": "",
+  "displayName": "Choo-Choo Charger Rear Bumper",
+  "gate_version": "dec2010content",
+  "id": 11508,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarH2_RearBumper1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

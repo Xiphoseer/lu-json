@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7745,
+    "2": 15309,
+    "3": 7921,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Monastery Screen Model",
+  "gate_version": "njhub",
+  "id": 16531,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Monastery Screen",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

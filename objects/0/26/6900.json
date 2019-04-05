@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6460,
+    "3": 3033,
+    "5": 950
+  },
+  "description": "This is for modular build",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6900,
+  "interactionDistance": 12.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rocket Nose Cone Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

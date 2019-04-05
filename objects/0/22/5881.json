@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5280,
+    "3": 2429,
+    "40": 2421,
+    "5": 769
+  },
+  "description": "A test object for AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5881,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sean's Bouncepad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

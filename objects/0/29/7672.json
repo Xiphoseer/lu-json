@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5304,
+    "2": 7235,
+    "5": 1431,
+    "60": 24,
+    "7": 714,
+    "9": 0
+  },
+  "description": "LUPS bot",
+  "displayName": "Seperator",
+  "gate_version": null,
+  "id": 7672,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Seperator",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

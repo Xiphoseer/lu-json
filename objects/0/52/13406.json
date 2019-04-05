@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13135,
+    "23": 55,
+    "40": 6511,
+    "7": 1829
+  },
+  "description": "Sentinel Logo for Breadcrumb",
+  "displayName": "NT - Sentinel Logo Breadcrumb",
+  "gate_version": "nexustower",
+  "id": 13406,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Sentinel Logo Breadcrumb",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

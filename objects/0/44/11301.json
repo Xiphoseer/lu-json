@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11078,
+    "3": 5220
+  },
+  "description": "fx_brick_fury_HUD_arm",
+  "displayName": "fx_brick_fury_HUD_arm",
+  "gate_version": null,
+  "id": 11301,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_brick_fury_HUD_arm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

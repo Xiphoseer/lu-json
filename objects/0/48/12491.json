@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing Buc Valiant offhand skill",
+  "components": {
+    "11": 6125,
+    "2": 12256,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "valiantweapons",
+  "id": 12491,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 980
+    }
+  ],
+  "type": "Loot"
+}

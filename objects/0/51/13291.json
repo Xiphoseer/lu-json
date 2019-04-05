@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Inventor Valiant Weapon Proxy",
+  "components": {
+    "11": 6582,
+    "2": 13021
+  },
+  "description": "",
+  "displayName": "Inventor Valiant Weapon Proxy",
+  "gate_version": "factionkit2",
+  "id": 13291,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Inventor Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

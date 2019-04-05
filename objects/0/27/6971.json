@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For Nic to test the skill",
+  "components": {
+    "11": 2952,
+    "2": 6550,
+    "9": 0
+  },
+  "description": "For Nic to test the skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6971,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hat of Damage Buff for Nic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 268
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7253,
+    "2": 14450,
+    "28": 406,
+    "3": 7449,
+    "42": 0,
+    "63": 37
+  },
+  "description": null,
+  "displayName": "LEGO Club Rear Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14763,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car LEGO Club Car Rear Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

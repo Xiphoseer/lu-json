@@ -1,0 +1,19 @@
+{
+  "id": 2018,
+  "tasks": [
+    {
+      "IconID": 4603,
+      "gate_version": "njhub",
+      "largeTaskIcon": null,
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 14502,
+      "targetGroup": "14503,14504,14506,14507,14509,14511",
+      "targetValue": 15,
+      "taskParam1": "5",
+      "taskType": 11,
+      "uid": 2828
+    }
+  ]
+}

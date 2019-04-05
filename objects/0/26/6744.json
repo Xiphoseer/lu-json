@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6285,
+    "3": 2951,
+    "48": 95,
+    "57": 0,
+    "7": 628
+  },
+  "description": "shell to be built around the barrels",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6744,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Siege-Defender Brig",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7500,
+    "2": 14852
+  },
+  "description": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "displayName": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "gate_version": null,
+  "id": 16134,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proxy imagination Ninjago Ninja Hood - Back/Neck Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

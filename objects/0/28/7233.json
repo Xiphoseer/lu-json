@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6810,
+    "35": 290,
+    "7": 307
+  },
+  "description": "Racefans",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7233,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp4",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

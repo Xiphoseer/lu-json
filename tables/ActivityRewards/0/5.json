@@ -1,0 +1,101 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 25,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 57,
+      "LootMatrixIndex": 209,
+      "activityRating": -1,
+      "description": "AG Survival Instance Default"
+    },
+    {
+      "ActivityRewardIndex": 33,
+      "ChallengeRating": 2,
+      "CurrencyIndex": 39,
+      "LootMatrixIndex": 210,
+      "activityRating": 60,
+      "description": "AG Survival Instance 1 minute"
+    },
+    {
+      "ActivityRewardIndex": 34,
+      "ChallengeRating": 3,
+      "CurrencyIndex": 40,
+      "LootMatrixIndex": 211,
+      "activityRating": 120,
+      "description": "AG Survival Instance 2 minutes"
+    },
+    {
+      "ActivityRewardIndex": 35,
+      "ChallengeRating": 4,
+      "CurrencyIndex": 41,
+      "LootMatrixIndex": 212,
+      "activityRating": 180,
+      "description": "AG Survival Instance 3 minutes"
+    },
+    {
+      "ActivityRewardIndex": 36,
+      "ChallengeRating": 5,
+      "CurrencyIndex": 42,
+      "LootMatrixIndex": 213,
+      "activityRating": 240,
+      "description": "AG Survival Instance 4 minutes"
+    },
+    {
+      "ActivityRewardIndex": 37,
+      "ChallengeRating": 6,
+      "CurrencyIndex": 43,
+      "LootMatrixIndex": 214,
+      "activityRating": 300,
+      "description": "AG Survival Instance 5 minutes"
+    },
+    {
+      "ActivityRewardIndex": 38,
+      "ChallengeRating": 7,
+      "CurrencyIndex": 44,
+      "LootMatrixIndex": 413,
+      "activityRating": 360,
+      "description": "AG Survival Instance 6 minutes"
+    },
+    {
+      "ActivityRewardIndex": 71,
+      "ChallengeRating": 8,
+      "CurrencyIndex": 45,
+      "LootMatrixIndex": 449,
+      "activityRating": 420,
+      "description": "AG Survival Instance 7 minutes"
+    },
+    {
+      "ActivityRewardIndex": 130,
+      "ChallengeRating": 9,
+      "CurrencyIndex": 46,
+      "LootMatrixIndex": 455,
+      "activityRating": 480,
+      "description": "AG Survival Instance 8 minutes"
+    },
+    {
+      "ActivityRewardIndex": 131,
+      "ChallengeRating": 10,
+      "CurrencyIndex": 47,
+      "LootMatrixIndex": 456,
+      "activityRating": 540,
+      "description": "AG Survival Instance 9 minutes"
+    },
+    {
+      "ActivityRewardIndex": 132,
+      "ChallengeRating": 11,
+      "CurrencyIndex": 48,
+      "LootMatrixIndex": 457,
+      "activityRating": 600,
+      "description": "AG Survival Instance 10 minutes"
+    },
+    {
+      "ActivityRewardIndex": 133,
+      "ChallengeRating": 12,
+      "CurrencyIndex": 49,
+      "LootMatrixIndex": 458,
+      "activityRating": 660,
+      "description": "AG Survival Instance 11 minutes"
+    }
+  ],
+  "objectTemplate": 5
+}

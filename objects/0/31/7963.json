@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3375,
+    "2": 7509
+  },
+  "description": "Test Behavior Object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7963,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Behavior Prototype 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Behavior"
+}

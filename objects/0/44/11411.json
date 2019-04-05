@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11104,
+    "25": 0,
+    "27": 0,
+    "3": 5230
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 11411,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Snail - Grumpy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

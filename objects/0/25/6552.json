@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 6112,
+    "5": 675,
+    "7": 642,
+    "9": 0
+  },
+  "description": "Min spec test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6552,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Min Spec Enemies",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

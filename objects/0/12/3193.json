@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "no longer used",
+  "components": {
+    "11": 1050,
+    "2": 2654
+  },
+  "description": "no longer used",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3193,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Reindeer Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

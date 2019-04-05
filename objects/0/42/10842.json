@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 5298,
+    "2": 10689,
+    "3": 4963,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fruit Cart Model",
+  "gate_version": null,
+  "id": 10842,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward FruitCart",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

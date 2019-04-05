@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 4 AP",
+  "components": {
+    "11": 6255,
+    "2": 12496,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Blacktron Shirt",
+  "gate_version": "auramar",
+  "id": 12707,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blacktron Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

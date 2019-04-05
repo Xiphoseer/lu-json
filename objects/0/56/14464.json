@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 119,
+    "2": 14153,
+    "3": 1777,
+    "35": 627,
+    "7": 306
+  },
+  "description": "nics post mission vendor",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 62,
+      "iconState": 66
+    }
+  ],
+  "id": 14464,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Nics post mission vendor",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

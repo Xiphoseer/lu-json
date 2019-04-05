@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5284,
+    "3": 2420,
+    "7": 495
+  },
+  "description": "GF rope bridge that can be destroyed",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5857,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Smashable - Bridge - Rope",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

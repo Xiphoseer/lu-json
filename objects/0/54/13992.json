@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "For Ian to test kit bonuses",
+  "components": {
+    "11": 6955,
+    "2": 13701,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Test Rank 3 Hat",
+  "gate_version": "auramar",
+  "id": 13992,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Rank 3 Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

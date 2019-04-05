@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5073,
+    "2": 10172,
+    "3": 4564,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Classical Short Wall Model 3",
+  "gate_version": null,
+  "id": 10324,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Classical Short Wall 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

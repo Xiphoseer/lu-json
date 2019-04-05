@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Skylane Helm in hand",
+  "components": {
+    "11": 2735,
+    "2": 6068
+  },
+  "description": "NPC Skylane Helm in hand",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6501,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skylane Helm In Hand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

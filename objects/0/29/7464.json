@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 2 Specialty Kit Item",
+  "components": {
+    "11": 3119,
+    "2": 7029,
+    "9": 0
+  },
+  "description": "Rank 2 Specialty Kit Item",
+  "displayName": "Daredevil Helmet 2",
+  "gate_version": null,
+  "id": 7464,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Daredevil Head 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 449
+    }
+  ],
+  "type": "Loot"
+}

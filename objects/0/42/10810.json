@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5266,
+    "2": 10657,
+    "3": 4931,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Bathtub Model",
+  "gate_version": null,
+  "id": 10810,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Bathtub",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

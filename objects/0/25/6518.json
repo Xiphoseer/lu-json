@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2755,
+    "2": 6089,
+    "3": 2819,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Island Jail Model",
+  "gate_version": null,
+  "id": 6518,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Jail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

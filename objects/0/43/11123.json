@@ -1,0 +1,34 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5075,
+    "40": 2351,
+    "5": 1246,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 11123,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Trigger Cube (GF Parrot Crash Only)",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 795
+    },
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 796
+    }
+  ],
+  "type": "Environmental"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 198,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 521,
+      "activityRating": 1,
+      "description": "AM Dragon Named - 1 Player"
+    },
+    {
+      "ActivityRewardIndex": 199,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 680,
+      "activityRating": 2,
+      "description": "AM Dragon Named - 2 Player"
+    },
+    {
+      "ActivityRewardIndex": 200,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 681,
+      "activityRating": 3,
+      "description": "AM Dragon Named - 3 Player"
+    },
+    {
+      "ActivityRewardIndex": 201,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 52,
+      "LootMatrixIndex": 682,
+      "activityRating": 4,
+      "description": "AM Dragon Named - 4 Player"
+    }
+  ],
+  "objectTemplate": 13386
+}

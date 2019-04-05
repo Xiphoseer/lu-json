@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14267,
+    "3": 7313,
+    "7": 2036
+  },
+  "description": "",
+  "displayName": "NJ - Ice Elemental Lantern Smashable",
+  "gate_version": "njhub",
+  "id": 14584,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Pole Lantern Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

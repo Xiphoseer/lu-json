@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Ice Kit 2 DX 2 AP 3 IP",
+  "components": {
+    "11": 7825,
+    "2": 15420,
+    "9": 0
+  },
+  "description": "Wear this to look like ZaneDX !",
+  "displayName": "Zane's DX Pants of Frost",
+  "gate_version": "njhub",
+  "id": 16636,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Spinjitzu Pants Zane's DX Pants of Frost",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

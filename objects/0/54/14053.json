@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13767,
+    "3": 6997,
+    "5": 1062
+  },
+  "description": "New Nexus Tower rocket launcher",
+  "displayName": null,
+  "gate_version": null,
+  "id": 14053,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Planet rocket launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

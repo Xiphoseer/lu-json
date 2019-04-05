@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3 dmg bullet laser",
+  "components": {
+    "18": 6678,
+    "2": 13339,
+    "9": 0
+  },
+  "description": "Projectile spawned by bounce blaster explosion",
+  "displayName": null,
+  "gate_version": "auramar",
+  "id": 13602,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bounce Blaster Shard Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1236
+    }
+  ],
+  "type": "Shooting Gallery"
+}

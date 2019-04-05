@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For testing only",
+  "components": {
+    "11": 3378,
+    "2": 7516,
+    "3": 3621,
+    "42": 0
+  },
+  "description": "For testing only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7970,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test UGC Model - Café Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

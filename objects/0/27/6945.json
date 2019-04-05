@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6507,
+    "3": 3054
+  },
+  "description": "Circular border for spaceship build",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6945,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Build Border",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

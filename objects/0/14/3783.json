@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3185,
+    "3": 895,
+    "5": 577
+  },
+  "description": "Shoots fireworks on the client",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3783,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Fireworks Cannon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

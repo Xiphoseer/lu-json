@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 166,
+    "2": 5709,
+    "3": 2318,
+    "35": 200,
+    "5": 1271,
+    "7": 305,
+    "73": 24
+  },
+  "description": "__MG__AG Mission Giver",
+  "displayName": "Theo Balfour - Sentinel Faction Grunt",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 6289,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Sentinel Grunt",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

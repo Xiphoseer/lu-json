@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 474 - Hidden",
+  "components": {
+    "11": 2981,
+    "2": 6666
+  },
+  "description": null,
+  "displayName": "Paradox Approval",
+  "gate_version": null,
+  "id": 7092,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Paradox Badge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

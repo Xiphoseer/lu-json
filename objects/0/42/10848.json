@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5304,
+    "2": 10695,
+    "3": 4969,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Drinking Fountain Model 2",
+  "gate_version": null,
+  "id": 10848,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward DrinkingFountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5273,
+    "3": 2301,
+    "48": 62,
+    "5": 849,
+    "7": 494
+  },
+  "description": "A quickbuild for the concert choicebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5846,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Choicebuild Lasers",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

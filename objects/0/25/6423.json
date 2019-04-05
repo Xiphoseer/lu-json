@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5868,
+    "3": 2695
+  },
+  "description": "cave to transition from the battle scene to the monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6423,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Transition Cave",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

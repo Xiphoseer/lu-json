@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TEST Tower Grid Shoulder A",
+  "components": {
+    "11": 6935,
+    "2": 13677,
+    "9": 0
+  },
+  "description": "TEST Tower Grid Shoulder A",
+  "displayName": "TEST Tower Grid Shoulder A",
+  "gate_version": null,
+  "id": 13965,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Tower Grid Shoulder A",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1291
+    }
+  ],
+  "type": "Loot"
+}

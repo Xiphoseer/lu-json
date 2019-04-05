@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13951,
+    "3": 7095,
+    "7": 2029
+  },
+  "description": null,
+  "displayName": "NJ Fire Flower smashable",
+  "gate_version": "njhub",
+  "id": 14261,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Fire Flower smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

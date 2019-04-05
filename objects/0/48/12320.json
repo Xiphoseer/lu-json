@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6060,
+    "2": 12070
+  },
+  "description": "",
+  "displayName": "Sherland Powers' Property Warp",
+  "gate_version": "auramar",
+  "id": 12320,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pilot's Property Warp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NJ Mission Item",
+  "components": {
+    "11": 7833,
+    "2": 15435
+  },
+  "description": "Return this to Urufu in the Ninjago Monastery.",
+  "displayName": "Urufu's Treasure",
+  "gate_version": "njhub",
+  "id": 16651,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Urufu's Treasure 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 772 - Hidden",
+  "components": {
+    "11": 4756,
+    "2": 9636
+  },
+  "description": "A signed photo of Johnny Thunder!",
+  "displayName": "Johnny Thunder's Autograph",
+  "gate_version": null,
+  "id": 9595,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Johnny Thunder's Autograph",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15040,
+    "3": 7704
+  },
+  "description": "Bot to project coming content - Ninjago",
+  "displayName": "AG - Projector Cam Bot",
+  "gate_version": "freetrial",
+  "id": 16294,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Projector Cam Bot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

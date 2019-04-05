@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 6960,
+    "17": 530,
+    "2": 13719,
+    "31": 72,
+    "5": 1517,
+    "60": 150,
+    "7": 1908,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Marksman",
+  "gate_version": "njhub",
+  "id": 14008,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJD - Skeleton Marksman - Frakjaw instance",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1122
+    },
+    {
+      "AICombatWeight": 60,
+      "castOnType": 0,
+      "skillID": 1378
+    },
+    {
+      "AICombatWeight": 30,
+      "castOnType": 0,
+      "skillID": 1380
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for brett",
+  "components": {
+    "11": 3406,
+    "2": 7544
+  },
+  "description": "Test object for brett",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7998,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test_Acc_ProxyArmor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

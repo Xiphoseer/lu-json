@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 LP 3 IP 3 AP",
+  "components": {
+    "11": 4774,
+    "2": 9688,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Nexus Force Cape",
+  "gate_version": "levelprogression",
+  "id": 9856,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gray Cape with Nexus Force Logo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    }
+  ],
+  "type": "Loot"
+}

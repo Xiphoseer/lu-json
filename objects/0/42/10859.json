@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5315,
+    "2": 10706,
+    "3": 4980,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fridge Model",
+  "gate_version": null,
+  "id": 10859,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Fridge",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

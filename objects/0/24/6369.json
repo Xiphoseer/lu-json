@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 178,
+    "2": 5817,
+    "35": 217,
+    "5": 553,
+    "7": 302,
+    "9": 0
+  },
+  "description": "orange - enemy - crateicon - swordattackanim - stink skill - hoodhooksword",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6369,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "rafOrangeEnemy2",
+  "nametag": false,
+  "npcTemplateID": 12,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 772
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

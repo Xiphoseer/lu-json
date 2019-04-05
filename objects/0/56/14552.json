@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Monestary Mission Item",
+  "components": {
+    "11": 7144,
+    "2": 14235
+  },
+  "description": "Return this to Cole in the Monastery.",
+  "displayName": "Earth Ninja Kit",
+  "gate_version": "njhub",
+  "id": 14552,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Acolyte Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

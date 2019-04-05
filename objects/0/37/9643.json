@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9488,
+    "20": 4198
+  },
+  "description": "GFTrack_DeathVol2_RoadGaps",
+  "displayName": "GFTrack_DeathVol2_RoadGaps",
+  "gate_version": null,
+  "id": 9643,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GFTrack_DeathVol2_RoadGaps",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Client Blaster",
+  "components": {
+    "11": 3468,
+    "2": 4185,
+    "9": 0
+  },
+  "description": "Test Client Blaster",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6328,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Client Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 192
+    }
+  ],
+  "type": "Loot"
+}

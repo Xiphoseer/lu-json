@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13233,
+    "40": 6606,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Imagination Beam Trigger",
+  "gate_version": "nexustower",
+  "id": 13499,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Imagination Beam Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 129
+    }
+  ],
+  "type": "Environmental"
+}

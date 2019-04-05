@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9618,
+    "3": 4289,
+    "7": 600
+  },
+  "description": "Pet Taming Item - Crown",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9782,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Taming - Crown",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

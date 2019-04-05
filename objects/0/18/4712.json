@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 4103,
+    "31": 26,
+    "5": 675,
+    "60": 23,
+    "7": 489,
+    "9": 0
+  },
+  "description": "Basic Stromling",
+  "displayName": "Stromling",
+  "gate_version": null,
+  "id": 4712,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Stromling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

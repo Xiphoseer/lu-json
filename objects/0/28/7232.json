@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 236,
+    "2": 6809,
+    "35": 289,
+    "5": 999,
+    "7": 307
+  },
+  "description": "Flagger",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7232,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

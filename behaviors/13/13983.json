@@ -1,0 +1,21 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/13/13983.json"
+    }
+  },
+  "behaviorID": 13983,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action": 13984.0,
+    "max targets": 5.0,
+    "radius": 5.0,
+    "target_enemy": 1.0,
+    "target_friend": 0.0,
+    "target_self": 0.0,
+    "use_target_as_caster": 0.0,
+    "use_target_position": 0.0
+  },
+  "templateID": 7
+}

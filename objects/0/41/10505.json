@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10358,
+    "3": 4659
+  },
+  "description": "Halfpipe shape for NT Battlefireld",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10505,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ_Halfpipe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

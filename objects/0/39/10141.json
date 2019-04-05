@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9981,
+    "3": 4494
+  },
+  "description": "Station Ambient Felix",
+  "displayName": "Felix",
+  "gate_version": null,
+  "id": 10141,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Station Friendly Felix",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

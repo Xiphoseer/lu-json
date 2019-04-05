@@ -1,0 +1,378 @@
+{
+  "256": {
+    "descriptionUI": "Restores 2 Life to nearby characters",
+    "name": "Hood of Healing 2"
+  },
+  "259": {
+    "descriptionUI": "Does 2 damage and slows an enemy",
+    "name": "Freeze Ray 2"
+  },
+  "262": {
+    "descriptionUI": "Restores 6 Armor to nearby characters",
+    "name": "Auto Repair 1"
+  },
+  "264": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Knocks back enemies ",
+    "name": "Drumstick of Repulsion 2"
+  },
+  "265": {
+    "descriptionUI": "Boosts your Life by 2 for 120 seconds",
+    "name": "Life Boost 2"
+  },
+  "266": {
+    "descriptionUI": "Knocks back enemies",
+    "name": "Flash Bang"
+  },
+  "269": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Slows enemies",
+    "name": "Exceptional Attack with Freezing"
+  },
+  "276": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Slashes enemies",
+    "name": "Great Attack"
+  },
+  "277": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Slashes enemies",
+    "name": "Super Attack"
+  },
+  "278": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Slashes enemies",
+    "name": "Elite Attack"
+  },
+  "279": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Smashes enemies",
+    "name": "Great Attack"
+  },
+  "280": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Smashes enemies",
+    "name": "Super Attack"
+  },
+  "281": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Smashes enemies",
+    "name": "Elite Attack"
+  },
+  "282": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Pokes enemies",
+    "name": "Great Attack"
+  },
+  "283": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Pokes enemies",
+    "name": "Super Attack"
+  },
+  "284": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Pokes enemies",
+    "name": "Elite Attack"
+  },
+  "285": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Slashes enemies",
+    "name": "Great Attack"
+  },
+  "286": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Slashes enemies",
+    "name": "Super Attack"
+  },
+  "287": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Slashes enemies",
+    "name": "Elite Attack"
+  },
+  "288": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Smashes enemies",
+    "name": "Great Attack"
+  },
+  "289": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Smashes enemies",
+    "name": "Super Attack"
+  },
+  "290": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Smashes enemies",
+    "name": "Elite Attack"
+  },
+  "291": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Pokes enemies",
+    "name": "Great Attack"
+  },
+  "292": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(Description)Pokes enemies",
+    "name": "Super Attack"
+  },
+  "293": {
+    "descriptionUI": "%(DamageCombo) 3+3+3 %(Description)Pokes enemies",
+    "name": "Elite Attack"
+  },
+  "296": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Stuns enemies",
+    "name": "Super Attack with Stun"
+  },
+  "298": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Stun"
+  },
+  "304": {
+    "descriptionUI": "Creates a Quick Build trap that does 5 damage to an enemy",
+    "name": "Summon Boom Trap"
+  },
+  "308": {
+    "descriptionUI": "Restores 10 Armor to nearby characters",
+    "name": "Auto Repair 2"
+  },
+  "314": {
+    "descriptionUI": "Restores up to 6 Life to nearby characters over time",
+    "name": "Team Heal 1"
+  },
+  "315": {
+    "descriptionUI": "Restores up to 6 Life to nearby characters over time",
+    "name": "Team Heal 2"
+  },
+  "321": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Yar Har Har"
+  },
+  "325": {
+    "descriptionUI": "Shields you from up to 10 damage for 30 seconds",
+    "name": "Shielding 2"
+  },
+  "330": {
+    "descriptionUI": "Attracts coins and other rewards towards you",
+    "name": "Money Magnet"
+  },
+  "335": {
+    "descriptionUI": "Gives a speed boost for 15 seconds",
+    "name": "Speed Boost"
+  },
+  "338": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Makes you spin around and do 10 damage to enemies",
+    "name": "Roundhouse"
+  },
+  "342": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Makes you rush forward, doing 5 damage and knocking down the enemy that you strike",
+    "name": "Shield Slam 1"
+  },
+  "345": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Knocks back enemies",
+    "name": "Dark Thunder 1"
+  },
+  "346": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Breath a cone of Maelstrom energy that does up to 8 damage to enemies over time",
+    "name": "Maelstrom Breath 1"
+  },
+  "353": {
+    "descriptionUI": "Stuns enemies",
+    "name": "Maelstrom Vortex 1"
+  },
+  "355": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
+    "name": "Wand Mastery 1"
+  },
+  "358": {
+    "descriptionUI": "Lifts enemies into the air",
+    "name": "Magnetize 1"
+  },
+  "360": {
+    "descriptionUI": "+1 AP",
+    "name": "Armor Boost 1"
+  },
+  "361": {
+    "descriptionUI": "+2 AP",
+    "name": "Armor Boost 2"
+  },
+  "362": {
+    "descriptionUI": "+3 AP",
+    "name": "Armor Boost 3"
+  },
+  "363": {
+    "descriptionUI": "+4 AP",
+    "name": "Armor Boost 4"
+  },
+  "364": {
+    "descriptionUI": "+5 AP",
+    "name": "Armor Boost 5"
+  },
+  "365": {
+    "descriptionUI": "+6 AP",
+    "name": "Armor Boost 6"
+  },
+  "366": {
+    "descriptionUI": "+7 AP",
+    "name": "Armor Boost 7"
+  },
+  "367": {
+    "descriptionUI": "+8 AP",
+    "name": "Armor Boost 8"
+  },
+  "368": {
+    "descriptionUI": "+9 AP",
+    "name": "Armor Boost 9"
+  },
+  "369": {
+    "descriptionUI": "+1 IP",
+    "name": "Imagination Boost 1"
+  },
+  "370": {
+    "descriptionUI": "+2 IP",
+    "name": "Imagination Boost 2"
+  },
+  "371": {
+    "descriptionUI": "+3 IP",
+    "name": "Imagination Boost 3"
+  },
+  "372": {
+    "descriptionUI": "+4 IP",
+    "name": "Imagination Boost 4"
+  },
+  "373": {
+    "descriptionUI": "+5 IP",
+    "name": "Imagination Boost 5"
+  },
+  "374": {
+    "descriptionUI": "+6 IP",
+    "name": "Imagination Boost 6"
+  },
+  "375": {
+    "descriptionUI": "+7 IP",
+    "name": "Imagination Boost 7"
+  },
+  "376": {
+    "descriptionUI": "+8 IP",
+    "name": "Imagination Boost 8"
+  },
+  "377": {
+    "descriptionUI": "+9 IP",
+    "name": "Imagination Boost 9"
+  },
+  "378": {
+    "descriptionUI": "+1 LP",
+    "name": "Life Boost 1"
+  },
+  "379": {
+    "descriptionUI": "+2 LP",
+    "name": "Life Boost 2"
+  },
+  "380": {
+    "descriptionUI": "+3 LP",
+    "name": "Life Boost 3"
+  },
+  "381": {
+    "descriptionUI": "+4 LP",
+    "name": "Life Boost 4"
+  },
+  "382": {
+    "descriptionUI": "+5 LP",
+    "name": "Life Boost 5"
+  },
+  "383": {
+    "descriptionUI": "%(DamageCombo) 5 %(Description)Releases a monkey who mesmerizes enemies",
+    "name": "Funky Monkey 1"
+  },
+  "402": {
+    "descriptionUI": "Attracts coins and other rewards towards you",
+    "name": "Lucky"
+  },
+  "426": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(Description)Smashes glowing Maelstrom objects",
+    "name": "Great Attack"
+  },
+  "431": {
+    "descriptionUI": "Restores 1 Armor every time you smash an enemy",
+    "name": "Juggernaut 1"
+  },
+  "433": {
+    "descriptionUI": "%(DamageCombo) 2+2+2 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Wand Mastery 2"
+  },
+  "434": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 11 Imagination for nearby characters - charge longer for more Imagination",
+    "name": "Wand Mastery 3"
+  },
+  "441": {
+    "descriptionUI": " %(ChargeUp)Restores up to 2 Imagination to nearby characters",
+    "name": "Convert Maelstrom 1"
+  },
+  "442": {
+    "descriptionUI": " %(ChargeUp)Restores up to 5 Imagination to nearby characters - charge longer for more Imagination",
+    "name": "Convert Maelstrom 2"
+  },
+  "443": {
+    "descriptionUI": " %(ChargeUp)Restores up to 11 Imagination to nearby characters - charge longer for more Imagination",
+    "name": "Convert Maelstrom 3"
+  },
+  "444": {
+    "descriptionUI": "%(DamageCombo) 1 %(Description)Body slam enemies for N damage",
+    "name": "Body Slam"
+  },
+  "445": {
+    "descriptionUI": "%(DamageCombo) 4 %(Description)Makes you leap on enemies, doing 4 damage",
+    "name": "Super Jump 1"
+  },
+  "448": {
+    "descriptionUI": "Makes you dig up a chest full of Power-ups",
+    "name": "X-Marks-the-Spot 1"
+  },
+  "449": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Makes you leap on enemies, doing 6 damage",
+    "name": "Super Jump 2"
+  },
+  "450": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Makes you leap on enemies, doing 8 damage",
+    "name": "Super Jump 3"
+  },
+  "451": {
+    "descriptionUI": "%(DamageCombo) 1+2+2+3 %(ChargeUp)Fires a 5 damage projectile",
+    "name": "Cutlass and Pistol 1"
+  },
+  "452": {
+    "descriptionUI": "Makes you dig up a chest full of Power-ups",
+    "name": "X-Marks-the-Spot 2"
+  },
+  "453": {
+    "descriptionUI": "Makes you dig up a chest full of Power-ups",
+    "name": "X-Marks-the-Spot 3"
+  },
+  "458": {
+    "descriptionUI": "%(DamageCombo) 6 %(Description)Tosses an energy sphere that does 6 damage to enemies",
+    "name": "Plasma Ball 1"
+  },
+  "459": {
+    "descriptionUI": "%(DamageCombo) 8 %(Description)Tosses an energy sphere that does 8 damage to enemies",
+    "name": "Plasma Ball 2"
+  },
+  "460": {
+    "descriptionUI": "%(DamageCombo) 10 %(Description)Tosses an energy sphere that does 10 damage to enemies",
+    "name": "Plasma Ball 3"
+  },
+  "469": {
+    "descriptionUI": "Restores 3 Life",
+    "name": "Heal Life 3"
+  },
+  "470": {
+    "descriptionUI": "Restores 4 Imagination and 4 Life",
+    "name": "Restore Minifigure"
+  },
+  "471": {
+    "descriptionUI": "Tosses a firecracker that does 3 damage to enemies",
+    "name": "Throw Firecracker"
+  },
+  "475": {
+    "descriptionUI": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores up to 2 Armor to nearby characters",
+    "name": "Wrench Wrecker 1"
+  },
+  "476": {
+    "descriptionUI": "%(DamageCombo) 1+2+3 %(ChargeUp)Blocks 4 attacks while charged",
+    "name": "Knight's Blade 1"
+  },
+  "477": {
+    "descriptionUI": "%(DamageCombo) 2+2+3 %(ChargeUp)Blocks 6 attacks while charged",
+    "name": "Knight's Blade 2"
+  },
+  "478": {
+    "descriptionUI": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 8 attacks while charged",
+    "name": "Knight's Blade 3"
+  },
+  "481": {
+    "descriptionUI": "%(DamageCombo) 3 %(Description)Throws shuriken that do 3 damage to enemies",
+    "name": "Shuriken Throw"
+  },
+  "482": {
+    "descriptionUI": "%(DamageCombo) 12 %(Description)Throws shuriken that do 12 damage to enemies",
+    "name": "Shuriken Barrage"
+  }
+}

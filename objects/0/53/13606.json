@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6727,
+    "2": 13343
+  },
+  "description": "Used with the Imagination Backpack",
+  "displayName": "Imagination Backpack Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 13606,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Imagination Backpack Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 183,
+    "2": 5852,
+    "3": 1777,
+    "35": 229,
+    "7": 305
+  },
+  "description": "__MG__This is the first run at a directed exhibit related mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6409,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DuckBuild Mission Giver - 1",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

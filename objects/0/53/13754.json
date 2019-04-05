@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6861,
+    "2": 13494
+  },
+  "description": "Used with the nexus tower mission chains",
+  "displayName": "Dragon Disguise Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 13754,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Dragon Disguise Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11176,
+    "20": 5301,
+    "5": 1324,
+    "7": 1617
+  },
+  "description": "Standard Crate used for racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11424,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS-Snowman_bucket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

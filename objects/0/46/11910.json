@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11658,
+    "3": 5744
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11910,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Imagination Powerup 3 points",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 2,
+      "skillID": 906
+    }
+  ],
+  "type": "Powerup"
+}

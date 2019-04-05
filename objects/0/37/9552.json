@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4582,
+    "2": 9403,
+    "3": 4131,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Zen Bamboo Large Model",
+  "gate_version": null,
+  "id": 9552,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zen Bamboo Large",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Read this to learn the secrets of being a Rank 3 Adventurer!",
+  "components": {
+    "11": 5954,
+    "2": 11679,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": null,
+  "gate_version": "factionkit2",
+  "id": 11931,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 3 Adventurer Book",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 921
+    }
+  ],
+  "type": "Loot"
+}

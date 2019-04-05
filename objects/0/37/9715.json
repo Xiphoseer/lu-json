@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID ??? - Hidden",
+  "components": {
+    "11": 4738,
+    "2": 9555
+  },
+  "description": "Return this to Epsilon Starcracker!",
+  "displayName": "Maelstrom Goo",
+  "gate_version": null,
+  "id": 9715,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Goo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

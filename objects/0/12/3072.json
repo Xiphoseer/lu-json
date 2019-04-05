@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 2542,
+    "5": 352
+  },
+  "description": "Ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3072,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

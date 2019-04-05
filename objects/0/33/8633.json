@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8189,
+    "3": 3968
+  },
+  "description": "Build and close buttons for build experiences",
+  "displayName": "3d Build UI",
+  "gate_version": null,
+  "id": 8633,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "3D Build UI",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

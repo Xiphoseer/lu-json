@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4274,
+    "3": 1757
+  },
+  "description": "Test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4840,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Land Test Asset for Cameras",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

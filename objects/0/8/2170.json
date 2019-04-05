@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1888,
+    "25": 0,
+    "3": 998,
+    "5": 179,
+    "7": 119
+  },
+  "description": "Shooting Gallery Target",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2170,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Target Sub Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5477,
+    "2": 10958,
+    "28": 218,
+    "3": 5118,
+    "42": 0
+  },
+  "description": "Robot City Modular Build Rocket Nose Cone",
+  "displayName": "Robot City Rocket Nose Cone",
+  "gate_version": null,
+  "id": 11189,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket LUP Dearbite Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

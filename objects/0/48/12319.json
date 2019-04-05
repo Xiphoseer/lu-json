@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Heal 6 Life and 18 Armor over 12 seconds",
+  "components": {
+    "11": 6059,
+    "2": 12069,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Doc in a Box",
+  "gate_version": "auramar",
+  "id": 12319,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Doc in a Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1146
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 2 IP +Emote +Secret Passage",
+  "components": {
+    "11": 966,
+    "2": 2487,
+    "9": 0
+  },
+  "description": "Wear this in Nimbus Station to launch your rocket to the Pirate Camp",
+  "displayName": "Black Pirate Hat",
+  "gate_version": null,
+  "id": 2633,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Pirate Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 248
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

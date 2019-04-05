@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5231,
+    "2": 10618,
+    "3": 4894,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Watch Tower Model",
+  "gate_version": null,
+  "id": 10771,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Watch Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

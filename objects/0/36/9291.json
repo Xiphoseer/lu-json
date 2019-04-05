@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 293,
+    "2": 8744,
+    "35": 375,
+    "7": 307
+  },
+  "description": " Samurai Lvl 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9291,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Samurai Lvl 2",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

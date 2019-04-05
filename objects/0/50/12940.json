@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12724,
+    "3": 6293,
+    "5": 1419,
+    "7": 471
+  },
+  "description": "Picnic blanket full of food for AG paths",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12940,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Water Fountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

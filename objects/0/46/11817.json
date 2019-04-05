@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5868,
+    "2": 11569,
+    "3": 5661,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Shed Window Model 1",
+  "gate_version": "march2011content",
+  "id": 11817,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Shed Window 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

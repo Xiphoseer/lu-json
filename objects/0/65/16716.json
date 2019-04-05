@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 8044,
+    "2": 15504,
+    "9": 0
+  },
+  "description": "does damage to players only",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16716,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ Spinner ONLY projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1672
+    }
+  ],
+  "type": "Shooting Gallery"
+}

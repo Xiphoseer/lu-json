@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3074,
+    "2": 6961,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Sorcerer Wand 1",
+  "gate_version": null,
+  "id": 7397,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sorcerer Weapon 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 355
+    }
+  ],
+  "type": "Loot"
+}

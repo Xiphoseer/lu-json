@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6174,
+    "2": 12364,
+    "9": 0
+  },
+  "description": "Use this to test new skills",
+  "displayName": "Test Wand of Skill Testing",
+  "gate_version": null,
+  "id": 12574,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Wand of Skill Testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1412
+    }
+  ],
+  "type": "Loot"
+}

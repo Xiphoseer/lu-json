@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5675,
+    "2": 11376,
+    "3": 5468,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Compactor Model",
+  "gate_version": "nexustower",
+  "id": 11624,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Compactor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

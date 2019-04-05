@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Makes treasure show up in",
+  "components": {
+    "11": 7024,
+    "2": 13878,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Treasure Finder",
+  "gate_version": "nexustower",
+  "id": 14169,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Treasure Finder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1347
+    }
+  ],
+  "type": "Loot"
+}

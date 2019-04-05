@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by the skeleton enemy",
+  "components": {
+    "1": 6639,
+    "17": 508,
+    "2": 13275,
+    "5": 1462,
+    "60": 134,
+    "7": 1842,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bone Daddy",
+  "gate_version": "nexustower",
+  "id": 13539,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bone Daddy",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "NPC"
+}

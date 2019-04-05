@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item given by Vanda",
+  "components": {
+    "11": 7116,
+    "2": 14182
+  },
+  "description": "Return this to Jay in the Ninjago Dojo of Lightning.",
+  "displayName": "Chaos Cleaner Instructions",
+  "gate_version": "njhub",
+  "id": 14493,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Chaos Cleaner Instructions",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

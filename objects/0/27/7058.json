@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6635,
+    "3": 3061
+  },
+  "description": "Default overhead icon above interactions",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7058,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Default Interaction Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Icon"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7803,
+    "3": 3850
+  },
+  "description": "Tester object for the artist Evan Williams",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8266,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test-Object1_EvanW",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

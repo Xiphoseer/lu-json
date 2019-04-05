@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2943,
+    "2": 6316,
+    "3": 2984,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Box of Cups Model",
+  "gate_version": null,
+  "id": 6778,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Box of cups",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

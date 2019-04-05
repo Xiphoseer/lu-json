@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 2582,
+    "2": 5647,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Classic Rocket Shirt",
+  "gate_version": null,
+  "id": 6229,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Classic Rocket Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

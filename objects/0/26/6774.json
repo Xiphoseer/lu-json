@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2814,
+    "2": 6313,
+    "3": 2983,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Box of Pistols Model",
+  "gate_version": null,
+  "id": 6774,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Box of pistols",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

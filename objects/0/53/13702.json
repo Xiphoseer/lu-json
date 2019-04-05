@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6812,
+    "2": 13440,
+    "3": 6760,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Aviary Wall Corner Model ",
+  "gate_version": "april2011content",
+  "id": 13702,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Aviary Wall Corner ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

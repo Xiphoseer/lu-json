@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4325,
+    "3": 2211,
+    "7": 456
+  },
+  "description": "Boom Box for AG areas",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4887,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Boom Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

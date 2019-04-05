@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Belt piece",
+  "components": {
+    "11": 2997,
+    "2": 6693,
+    "9": 0
+  },
+  "description": "NPC Belt piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7116,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Renee Belt Breastplate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

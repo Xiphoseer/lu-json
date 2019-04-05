@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13684,
+    "3": 6943
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 13972,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Dropship leaving Nexus Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

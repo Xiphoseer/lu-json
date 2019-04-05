@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Savage Club Proxy Item. Automatically equips when club is equiped. No Skills",
+  "components": {
+    "11": 6425,
+    "2": 12711
+  },
+  "description": null,
+  "displayName": "Savage Club Proxy",
+  "gate_version": "nimbusinstance",
+  "id": 12926,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Savage Club Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

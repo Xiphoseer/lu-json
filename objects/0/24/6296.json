@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5731,
+    "23": 22,
+    "40": 2203,
+    "7": 64
+  },
+  "description": "Collectible Spawner for GF pirate flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6296,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

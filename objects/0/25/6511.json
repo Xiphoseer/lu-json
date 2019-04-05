@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6082,
+    "3": 2802,
+    "5": 946,
+    "7": 689
+  },
+  "description": "GF tiki torch used to guide players",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 68,
+      "iconState": 69
+    }
+  ],
+  "id": 6511,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Tiki Torch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

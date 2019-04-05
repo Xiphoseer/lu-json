@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4657,
+    "2": 10342,
+    "5": 1229,
+    "60": 65,
+    "7": 1562,
+    "9": 0
+  },
+  "description": "Enemy spawned by behavior",
+  "displayName": "Stromling Pirate",
+  "gate_version": null,
+  "id": 10497,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior Spawn - Stromling Pirate",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 239
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 240
+    }
+  ],
+  "type": "Enemies"
+}

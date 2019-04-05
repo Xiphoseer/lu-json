@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14717,
+    "23": 69,
+    "40": 7554,
+    "7": 2090
+  },
+  "description": "Collectible Spawner for Ninjago Monastary imagination brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 16016,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJMON - Imagination Brick Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

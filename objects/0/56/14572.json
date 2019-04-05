@@ -1,0 +1,42 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 7304,
+    "2": 14257,
+    "31": 81,
+    "5": 1571,
+    "60": 161,
+    "7": 2032,
+    "9": 0
+  },
+  "description": "Small Stromling for spider cave",
+  "displayName": "Dark Spiderling",
+  "gate_version": "freetrial",
+  "id": 14572,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Dark Spiderling - Spider Cave only",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 833
+    }
+  ],
+  "type": "Enemies"
+}

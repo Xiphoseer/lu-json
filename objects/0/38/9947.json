@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4815,
+    "2": 9775
+  },
+  "description": "NPC Grunt Helmet",
+  "displayName": "Grunt Helmet",
+  "gate_version": null,
+  "id": 9947,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Grunt Helmet Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

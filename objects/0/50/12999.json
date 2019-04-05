@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 480,
+    "2": 12784,
+    "3": 1777,
+    "35": 569,
+    "7": 307
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 12999,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Phil",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

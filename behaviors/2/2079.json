@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/2/2079.json"
+    }
+  },
+  "behaviorID": 2079,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action": 175.0,
+    "max targets": 5.0,
+    "radius": 40.0
+  },
+  "templateID": 7
+}

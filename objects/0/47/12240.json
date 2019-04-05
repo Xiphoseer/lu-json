@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6027,
+    "2": 11987,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Gingerbread Cookie",
+  "gate_version": "dec2010content",
+  "id": 12240,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gingerbread Cookie",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 951
+    }
+  ],
+  "type": "Loot"
+}

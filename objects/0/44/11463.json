@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Rank 3 Specialty Kit Item - Proxy",
+  "components": {
+    "11": 5551,
+    "2": 11211,
+    "9": 0
+  },
+  "description": "Rank 3 Specialty Kit Item. Tied to Shinobi Weapon 3",
+  "displayName": "Shinobi Offhand 3 - Proxy",
+  "gate_version": "factionkit2",
+  "id": 11463,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shinobi Offhand 3 - Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1079
+    }
+  ],
+  "type": "Loot"
+}

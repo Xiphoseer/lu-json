@@ -1,0 +1,34 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "104": 6,
+    "2": 14117,
+    "3": 7232,
+    "48": 212,
+    "5": 1620,
+    "7": 1971
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "njhub",
+  "icons": [
+    {
+      "iconID": 117,
+      "iconState": 69
+    },
+    {
+      "iconID": 176,
+      "iconState": 70
+    }
+  ],
+  "id": 14425,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - QB Railpost Large Earth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

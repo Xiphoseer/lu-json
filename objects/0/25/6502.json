@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Skylane shoulder pieces",
+  "components": {
+    "11": 2736,
+    "2": 6069
+  },
+  "description": "NPC Skylane shoulder pieces",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6502,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Skylane Shoulders",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

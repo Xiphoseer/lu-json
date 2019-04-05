@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 7555,
+    "2": 15010,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 16262,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ice Shuriken Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1574
+    }
+  ],
+  "type": "Loot"
+}

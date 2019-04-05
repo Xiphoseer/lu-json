@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 7 AP",
+  "components": {
+    "11": 1008,
+    "2": 2502,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Armor Shine",
+  "gate_version": null,
+  "id": 2996,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Armor Polish 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 221
+    }
+  ],
+  "type": "Loot"
+}

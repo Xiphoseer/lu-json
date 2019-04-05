@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2291,
+    "2": 4428,
+    "5": 713,
+    "7": 476
+  },
+  "description": "for transition scenes",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5011,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ambient Robotanist",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

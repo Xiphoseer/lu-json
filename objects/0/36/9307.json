@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3418,
+    "40": 1704,
+    "5": 452,
+    "7": 924
+  },
+  "description": "pet dig that is only visible if playe is on a specific mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9307,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Pet Dig Node mission specific",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

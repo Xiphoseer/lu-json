@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6200,
+    "2": 12401,
+    "31": 50,
+    "5": 1390,
+    "60": 114,
+    "7": 1762,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Maelstrom Horseman",
+  "gate_version": "nimbusinstance",
+  "id": 12611,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NSI - Maelstrom Horseman",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 498
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 589
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission item, not a weapon. Chests need precondition w/ this item.",
+  "components": {
+    "11": 7113,
+    "2": 14177
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Ice.",
+  "displayName": "Ice Key",
+  "gate_version": "njhub",
+  "id": 14488,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

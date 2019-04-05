@@ -1,0 +1,966 @@
+[
+  {
+    "id": 16715,
+    "name": "NJ - Spinner Elevator Moving Plat"
+  },
+  {
+    "id": 2349,
+    "name": "GF - Dirt Clod Moving Platform"
+  },
+  {
+    "id": 2503,
+    "name": "GF - ninja moving platform"
+  },
+  {
+    "id": 2571,
+    "name": "GF - Obstacle - Test only"
+  },
+  {
+    "id": 2572,
+    "name": "GF - Moving Obstacle - Cube"
+  },
+  {
+    "id": 2573,
+    "name": "GF - Moving Obstacle - Rectangle"
+  },
+  {
+    "id": 2714,
+    "name": "Contest - Roller Cylinder"
+  },
+  {
+    "id": 2721,
+    "name": "Contest Platform 1 Plain"
+  },
+  {
+    "id": 2722,
+    "name": "Contest Platform 2 Plain"
+  },
+  {
+    "id": 2723,
+    "name": "Contest Platform 2 Tree"
+  },
+  {
+    "id": 2724,
+    "name": "Contest Platform 3 Tree"
+  },
+  {
+    "id": 2725,
+    "name": "Contest Platform Angelo 1"
+  },
+  {
+    "id": 2726,
+    "name": "Contest Clod Tuft 1"
+  },
+  {
+    "id": 2727,
+    "name": "Contest Clod Tuft 2"
+  },
+  {
+    "id": 2728,
+    "name": "Contest Clod Tuft 3"
+  },
+  {
+    "id": 2729,
+    "name": "Contest Clod Mini 1"
+  },
+  {
+    "id": 2730,
+    "name": "Contest Clod Mini Pine 1"
+  },
+  {
+    "id": 2731,
+    "name": "Contest Clod Mini Pine 2"
+  },
+  {
+    "id": 2732,
+    "name": "Contest Dinghy Platform"
+  },
+  {
+    "id": 2733,
+    "name": "Contest Vendor Table Platform"
+  },
+  {
+    "id": 2734,
+    "name": "Contest Log Tree Platform"
+  },
+  {
+    "id": 2735,
+    "name": "Contest Pine Tree Platform 1"
+  },
+  {
+    "id": 2736,
+    "name": "Contest Pine Tree Platform 2"
+  },
+  {
+    "id": 2737,
+    "name": "Contest Gnarled Tree Platform"
+  },
+  {
+    "id": 2738,
+    "name": "Contest Tree Branch 3 Platform"
+  },
+  {
+    "id": 2739,
+    "name": "Contest Tree Branch 4 Platform"
+  },
+  {
+    "id": 2740,
+    "name": "Contest Large Rocks Platform"
+  },
+  {
+    "id": 2741,
+    "name": "Contest Vendor Cart Platform"
+  },
+  {
+    "id": 2742,
+    "name": "Contest Crows Nest Platform"
+  },
+  {
+    "id": 2744,
+    "name": "Contest Tree Grill Platform"
+  },
+  {
+    "id": 2745,
+    "name": "Contest Barrel Platform"
+  },
+  {
+    "id": 2774,
+    "name": "Infinity - Crusher"
+  },
+  {
+    "id": 2787,
+    "name": "Contest Meteor Platform 2"
+  },
+  {
+    "id": 2789,
+    "name": "Contest Meteor Platform 4"
+  },
+  {
+    "id": 2800,
+    "name": "Challenge Moving Platform Team 1"
+  },
+  {
+    "id": 2840,
+    "name": "Content - Cow"
+  },
+  {
+    "id": 2842,
+    "name": "Contest - Roller Bricks"
+  },
+  {
+    "id": 2857,
+    "name": "Contest Yellow Brick Plat"
+  },
+  {
+    "id": 2860,
+    "name": "Contest Red Brick Plat"
+  },
+  {
+    "id": 2922,
+    "name": "Infinity - Moving Platform"
+  },
+  {
+    "id": 3146,
+    "name": "Cinematic Camera"
+  },
+  {
+    "id": 3274,
+    "name": "PR - Pelican"
+  },
+  {
+    "id": 3413,
+    "name": "AG - Triggered Moving Platform"
+  },
+  {
+    "id": 3433,
+    "name": "ZP - Inventors Balloon"
+  },
+  {
+    "id": 3491,
+    "name": "AG - Moving Piston 1"
+  },
+  {
+    "id": 3492,
+    "name": "AG - Moving Piston 2"
+  },
+  {
+    "id": 3493,
+    "name": "AG - Moving Large Piston"
+  },
+  {
+    "id": 3496,
+    "name": "AG - Rotating Platform"
+  },
+  {
+    "id": 3497,
+    "name": "AG - Rotating Sidegear"
+  },
+  {
+    "id": 3498,
+    "name": "AG - Rotating Gear3"
+  },
+  {
+    "id": 3499,
+    "name": "AG - Rotating Gear2"
+  },
+  {
+    "id": 3500,
+    "name": "AG - Rotating Gear1"
+  },
+  {
+    "id": 3501,
+    "name": "AG - Rotating Disk"
+  },
+  {
+    "id": 3502,
+    "name": "AG - Rotating Ring"
+  },
+  {
+    "id": 3604,
+    "name": "AG - Scripted Camera"
+  },
+  {
+    "id": 3733,
+    "name": "AG - Flying Burno"
+  },
+  {
+    "id": 3775,
+    "name": "AG - Elevator Moving Platform Scenery 1"
+  },
+  {
+    "id": 3776,
+    "name": "AG - Elevator Moving Platform Scenery 2"
+  },
+  {
+    "id": 3777,
+    "name": "AG - Elevator Moving Platform Scenery 3"
+  },
+  {
+    "id": 3778,
+    "name": "AG - Elevator Inside Platform"
+  },
+  {
+    "id": 3974,
+    "name": "Wing Walking Plane"
+  },
+  {
+    "id": 4650,
+    "name": "Test - Large Mover"
+  },
+  {
+    "id": 4722,
+    "name": "TestMovingPlatform16x16"
+  },
+  {
+    "id": 4733,
+    "name": "Wing walking bierdeckel"
+  },
+  {
+    "id": 4778,
+    "name": "AG - Ship Piston"
+  },
+  {
+    "id": 4869,
+    "name": "AG - Crane Platform"
+  },
+  {
+    "id": 4871,
+    "name": "Test - Quickbuild Moving Platform"
+  },
+  {
+    "id": 4882,
+    "name": "AG - Steam Roller"
+  },
+  {
+    "id": 4910,
+    "name": "Test - Moving obstacle bouncer"
+  },
+  {
+    "id": 4911,
+    "name": "AG - Monument Platform"
+  },
+  {
+    "id": 4912,
+    "name": "AG - Monument Platform Shaft"
+  },
+  {
+    "id": 4922,
+    "name": "DMB - Dinghy"
+  },
+  {
+    "id": 4931,
+    "name": "AG - Monument Platform QuickBuild"
+  },
+  {
+    "id": 4948,
+    "name": "AG - Monument Piston Pusher"
+  },
+  {
+    "id": 4951,
+    "name": "AG - Monument Piston Pusher Death Volume"
+  },
+  {
+    "id": 4955,
+    "name": "AG - Monument Platform Quick Build"
+  },
+  {
+    "id": 4962,
+    "name": "DMB - Bone Platform"
+  },
+  {
+    "id": 4974,
+    "name": "AG - Monument Piston Pusher 2"
+  },
+  {
+    "id": 4987,
+    "name": "DMB - Skull Jaw Platform"
+  },
+  {
+    "id": 5027,
+    "name": "AG - Concert Platform 1"
+  },
+  {
+    "id": 5028,
+    "name": "AG - Concert Platform 2"
+  },
+  {
+    "id": 5664,
+    "name": "AG - Steam Roller Death Volume"
+  },
+  {
+    "id": 5683,
+    "name": "MG - PlatFrom Bouncer Blue"
+  },
+  {
+    "id": 5684,
+    "name": "MG - PlatFrom Bouncer Red"
+  },
+  {
+    "id": 5882,
+    "name": "Water Plane Moving Platform"
+  },
+  {
+    "id": 5902,
+    "name": "AG - Monument Platform Blue"
+  },
+  {
+    "id": 5903,
+    "name": "AG - Monument Platform Blue QuickBuild"
+  },
+  {
+    "id": 5934,
+    "name": "AG - Ship Piston 02"
+  },
+  {
+    "id": 5953,
+    "name": "AG - Ship Piston 03"
+  },
+  {
+    "id": 5999,
+    "name": "GF - Dirt Clod Moving Platform"
+  },
+  {
+    "id": 6255,
+    "name": "PROTOTYPE GF wall platform 1"
+  },
+  {
+    "id": 6256,
+    "name": "PROTOTYPE GF wall platform 2"
+  },
+  {
+    "id": 6257,
+    "name": "PROTOTYPE GF wall platform 3"
+  },
+  {
+    "id": 6258,
+    "name": "PROTOTYPE GF wall platform 4"
+  },
+  {
+    "id": 6259,
+    "name": "PROTOTYPE GF Waterfall platform 1"
+  },
+  {
+    "id": 6260,
+    "name": "PROTOTYPE GF Waterfall platform 2"
+  },
+  {
+    "id": 6261,
+    "name": "PROTOTYPE GF Waterfall platform 3"
+  },
+  {
+    "id": 6267,
+    "name": "AG - Moving Tour Bus"
+  },
+  {
+    "id": 6341,
+    "name": "Test - Moving Platform Springpad"
+  },
+  {
+    "id": 6386,
+    "name": "Broken street moving platform"
+  },
+  {
+    "id": 6484,
+    "name": "Test2 - Large Mover"
+  },
+  {
+    "id": 6514,
+    "name": "Boulder Moving Platform QB"
+  },
+  {
+    "id": 6819,
+    "name": "GF - Pirate Moving Platform"
+  },
+  {
+    "id": 7053,
+    "name": "Spider Cave Teleporter Destination"
+  },
+  {
+    "id": 7071,
+    "name": "Sub Transparency Test"
+  },
+  {
+    "id": 7073,
+    "name": "Spider Cave Falling Rock"
+  },
+  {
+    "id": 7155,
+    "name": "NS Racetrack Asteroid"
+  },
+  {
+    "id": 7158,
+    "name": "FV Siege Bridge Trap"
+  },
+  {
+    "id": 7288,
+    "name": "Spider Cave Fuse Object"
+  },
+  {
+    "id": 7940,
+    "name": "GF - Proto Type Kraken Moving Platform"
+  },
+  {
+    "id": 8314,
+    "name": "SC - Rotating Platform"
+  },
+  {
+    "id": 8323,
+    "name": "FV - Paradox Facility Platform"
+  },
+  {
+    "id": 8429,
+    "name": "WBL - Crater Moving Platform"
+  },
+  {
+    "id": 9265,
+    "name": "FV - Entrance Gate - Platform 1"
+  },
+  {
+    "id": 9266,
+    "name": "FV - Entrance Gate - Platform 2"
+  },
+  {
+    "id": 9267,
+    "name": "FV - Entrance Gate - Platform 3"
+  },
+  {
+    "id": 9268,
+    "name": "FV - Entrance Gate - Platform 4"
+  },
+  {
+    "id": 9269,
+    "name": "FV - Entrance Gate - Platform 5"
+  },
+  {
+    "id": 9462,
+    "name": "FV - Moving Imagination Brick Collectible Spawner"
+  },
+  {
+    "id": 9483,
+    "name": "FV - Tree Platform Quick Build"
+  },
+  {
+    "id": 9952,
+    "name": "Test_NexusTower_1"
+  },
+  {
+    "id": 10004,
+    "name": "FV - Flying Dragon"
+  },
+  {
+    "id": 10225,
+    "name": "GF Racing Cave Ramp Moving Platform"
+  },
+  {
+    "id": 10278,
+    "name": "WBL - Mini Monorail"
+  },
+  {
+    "id": 10703,
+    "name": "pink and purple moving platform"
+  },
+  {
+    "id": 10733,
+    "name": "WBL - Firefly"
+  },
+  {
+    "id": 10734,
+    "name": "WBL - Frog Tongue"
+  },
+  {
+    "id": 10735,
+    "name": "WBL - Zamboni"
+  },
+  {
+    "id": 11305,
+    "name": "FV Track Columns Lap 2 Columns"
+  },
+  {
+    "id": 11306,
+    "name": "FV Track Columns Lap 2 Ramp"
+  },
+  {
+    "id": 11307,
+    "name": "FV Track Columns Lap 3 Columns"
+  },
+  {
+    "id": 11308,
+    "name": "FV Track Columns Lap 3 Ramp"
+  },
+  {
+    "id": 11401,
+    "name": "WBL - Squnkey - final"
+  },
+  {
+    "id": 11403,
+    "name": "WBL - Snail - pink"
+  },
+  {
+    "id": 11404,
+    "name": "WBL - Snail - Green - Large"
+  },
+  {
+    "id": 11408,
+    "name": "WBL - Snail - Rasta"
+  },
+  {
+    "id": 11409,
+    "name": "WBL - Snail - Blue"
+  },
+  {
+    "id": 11410,
+    "name": "WBL - Snail - Guy - Snail"
+  },
+  {
+    "id": 11411,
+    "name": "WBL - Snail - Grumpy"
+  },
+  {
+    "id": 11412,
+    "name": "WBL - Slug - Bannana"
+  },
+  {
+    "id": 11413,
+    "name": "WBL - Slug - Old"
+  },
+  {
+    "id": 11414,
+    "name": "WBL - Slug - Shades"
+  },
+  {
+    "id": 11415,
+    "name": "WBL - Slug - Brown"
+  },
+  {
+    "id": 11428,
+    "name": "WBL - PiratronScoutShip"
+  },
+  {
+    "id": 11430,
+    "name": "NJ- Dragracer moving platform"
+  },
+  {
+    "id": 11938,
+    "name": "NT Venture Stairs Low"
+  },
+  {
+    "id": 11939,
+    "name": "NT Venture Stairs High"
+  },
+  {
+    "id": 11950,
+    "name": "NT Beam Room Mover 1"
+  },
+  {
+    "id": 11952,
+    "name": "NT Beam Room Mover 2"
+  },
+  {
+    "id": 11953,
+    "name": "NT Beam Room Mover 3"
+  },
+  {
+    "id": 11975,
+    "name": "NT Beam Room Mover 4"
+  },
+  {
+    "id": 12047,
+    "name": "AM - Center draw bridge"
+  },
+  {
+    "id": 12088,
+    "name": "NEX -  Rock shard cluster Mover"
+  },
+  {
+    "id": 12127,
+    "name": "NEX -  Rock clump Mover"
+  },
+  {
+    "id": 12157,
+    "name": "NT Bank Mover 1"
+  },
+  {
+    "id": 12158,
+    "name": "NT Bank Mover 2"
+  },
+  {
+    "id": 12246,
+    "name": "AM - Moving Platform"
+  },
+  {
+    "id": 12273,
+    "name": "AM - Sentinel QB moving platform"
+  },
+  {
+    "id": 12275,
+    "name": "AM - Venture QB moving platform"
+  },
+  {
+    "id": 12277,
+    "name": "AM - Venture Moving Platform"
+  },
+  {
+    "id": 12341,
+    "name": "AM - Skeleton Drill Center Moving platform"
+  },
+  {
+    "id": 12344,
+    "name": "AM - Skeleton tower body mover"
+  },
+  {
+    "id": 12418,
+    "name": "NJ-Spinner Platform"
+  },
+  {
+    "id": 12421,
+    "name": "Melee Spinner Prototype"
+  },
+  {
+    "id": 12534,
+    "name": "NT-SmashTargetOne"
+  },
+  {
+    "id": 12535,
+    "name": "NT-SmashTargetFive"
+  },
+  {
+    "id": 12536,
+    "name": "NT-SmashTargetTen"
+  },
+  {
+    "id": 12537,
+    "name": "NT-SmashTargetTwenty"
+  },
+  {
+    "id": 12556,
+    "name": "NT-SmashTargetOneFifty"
+  },
+  {
+    "id": 12843,
+    "name": "NJ - Spinner (mover only)"
+  },
+  {
+    "id": 12998,
+    "name": "NT Claw Platform 2"
+  },
+  {
+    "id": 13104,
+    "name": "NT-SmashTargetOne"
+  },
+  {
+    "id": 13184,
+    "name": "NJ-Spinner Platform Short"
+  },
+  {
+    "id": 13303,
+    "name": "NJ - Frozen Water Platform"
+  },
+  {
+    "id": 13421,
+    "name": "NJ - Broken Rock Filler"
+  },
+  {
+    "id": 13884,
+    "name": "NJ - Spinner Short (mover only)"
+  },
+  {
+    "id": 14133,
+    "name": "Proto - NJ moving platform"
+  },
+  {
+    "id": 14134,
+    "name": "proto - NJ rotating gear platform"
+  },
+  {
+    "id": 14154,
+    "name": "Proto - Chase Lightning Moving Platform"
+  },
+  {
+    "id": 14176,
+    "name": "NJ - Small Lantern"
+  },
+  {
+    "id": 14233,
+    "name": "NJ-Mon Rock Moving Platform"
+  },
+  {
+    "id": 14234,
+    "name": "NJ-Mon Rock Moving Platform 2"
+  },
+  {
+    "id": 14235,
+    "name": "NJ-Mon Rock Moving Platform 3"
+  },
+  {
+    "id": 14236,
+    "name": "NJ-Mon Rock Moving Platform 4"
+  },
+  {
+    "id": 14247,
+    "name": "NJ-Spinner Platform Simple Mover"
+  },
+  {
+    "id": 14351,
+    "name": "AG - Ship Piston 03 - Railings"
+  },
+  {
+    "id": 14376,
+    "name": "NG - Gate Chamber Puzzle Lantern Moving Platform"
+  },
+  {
+    "id": 14382,
+    "name": "NJ - Imag - High-Blade Spinner Trap"
+  },
+  {
+    "id": 14383,
+    "name": "NJ - Imag - Blade Spinner Trap"
+  },
+  {
+    "id": 14384,
+    "name": "NJ - Imag - Projectile Spinner Trap"
+  },
+  {
+    "id": 14385,
+    "name": "NJ - Imag - Elevator Spinner Trap"
+  },
+  {
+    "id": 14402,
+    "name": "NJ - Ninjago Platform 10 x 10 Moving"
+  },
+  {
+    "id": 14404,
+    "name": "NJ - Ninjago Platform 20 x 20 Moving"
+  },
+  {
+    "id": 14406,
+    "name": "NJ - Ninjago Platform 20 x 40 Moving"
+  },
+  {
+    "id": 14408,
+    "name": "NJ - Ninjago Platform 30 x 30 Moving"
+  },
+  {
+    "id": 14410,
+    "name": "NJ - Ninjago Platform 40 x 40 Moving"
+  },
+  {
+    "id": 14447,
+    "name": "NJ - Ninjago Mon Rock Pillar 01"
+  },
+  {
+    "id": 14448,
+    "name": "NJ - Ninjago Mon Rock Pillar 02"
+  },
+  {
+    "id": 14449,
+    "name": "NJ - Ninjago Mon Rock Pillar 03"
+  },
+  {
+    "id": 14450,
+    "name": "NJ - Ninjago Mon Rock Pillar 04"
+  },
+  {
+    "id": 14533,
+    "name": "NJ - QB Ninjago Platform 10 x 10 Moving"
+  },
+  {
+    "id": 14539,
+    "name": "NJ - MP Gate Chamber Puzzle Platform Angled"
+  },
+  {
+    "id": 15953,
+    "name": "NJ Mon - Skeleton tower body mover"
+  },
+  {
+    "id": 16141,
+    "name": "NJ mon - QB skull counterweight"
+  },
+  {
+    "id": 16152,
+    "name": "NJ - Imag - Spawner Spinner Trap"
+  },
+  {
+    "id": 16153,
+    "name": "NJ - Imag - Switch Spinner Trap"
+  },
+  {
+    "id": 16154,
+    "name": "NJ - Imag - Axe Spinner Trap"
+  },
+  {
+    "id": 16155,
+    "name": "NJ - Imag - Low-Blade Spinner Trap"
+  },
+  {
+    "id": 16203,
+    "name": "NJ - Earth - Low-Blade Spinner Trap"
+  },
+  {
+    "id": 16213,
+    "name": "NJ - Earth - Axe Spinner Trap"
+  },
+  {
+    "id": 16214,
+    "name": "NJ - Earth - Switch Spinner  Trap"
+  },
+  {
+    "id": 16215,
+    "name": "NJ - Earth - Spawner Spinner Trap"
+  },
+  {
+    "id": 16216,
+    "name": "NJ - Earth - Elevator Spinner Trap"
+  },
+  {
+    "id": 16217,
+    "name": "NJ - Earth - Projectile Spinner Trap"
+  },
+  {
+    "id": 16218,
+    "name": "NJ - Earth - Blade Spinner Trap"
+  },
+  {
+    "id": 16219,
+    "name": "NJ - Earth - High-Blade Spinner Trap"
+  },
+  {
+    "id": 16220,
+    "name": "NJ - Fire - Low-Blade Spinner Trap"
+  },
+  {
+    "id": 16221,
+    "name": "NJ - Fire - Axe Spinner Trap"
+  },
+  {
+    "id": 16222,
+    "name": "NJ - Fire - Switch Spinner  Trap"
+  },
+  {
+    "id": 16223,
+    "name": "NJ - Fire - Spawner Spinner Trap"
+  },
+  {
+    "id": 16224,
+    "name": "NJ - Fire - Elevator Spinner Trap"
+  },
+  {
+    "id": 16225,
+    "name": "NJ - Fire - Projectile Spinner Trap"
+  },
+  {
+    "id": 16226,
+    "name": "NJ - Fire - Blade Spinner Trap"
+  },
+  {
+    "id": 16227,
+    "name": "NJ - Fire - High-Blade Spinner Trap"
+  },
+  {
+    "id": 16228,
+    "name": "NJ - Ice - Elevator Spinner Trap"
+  },
+  {
+    "id": 16229,
+    "name": "NJ - Ice - Spawner Spinner Trap"
+  },
+  {
+    "id": 16230,
+    "name": "NJ - Ice - Switch Spinner  Trap"
+  },
+  {
+    "id": 16231,
+    "name": "NJ - Ice - Projectile Spinner Trap"
+  },
+  {
+    "id": 16232,
+    "name": "NJ - Ice - Low-Blade Spinner Trap"
+  },
+  {
+    "id": 16233,
+    "name": "NJ - Ice - Blade Spinner Trap"
+  },
+  {
+    "id": 16234,
+    "name": "NJ - Ice - Axe Spinner Trap"
+  },
+  {
+    "id": 16235,
+    "name": "NJ - Ice - High-Blade Spinner Trap"
+  },
+  {
+    "id": 16236,
+    "name": "NJ - Lightning - Elevator Spinner Trap"
+  },
+  {
+    "id": 16237,
+    "name": "NJ - Lightning - Spawner Spinner Trap"
+  },
+  {
+    "id": 16238,
+    "name": "NJ - Lightning - Switch Spinner  Trap"
+  },
+  {
+    "id": 16239,
+    "name": "NJ - Lightning - Projectile Spinner Trap"
+  },
+  {
+    "id": 16240,
+    "name": "NJ - Lightning - Low-Blade Spinner Trap"
+  },
+  {
+    "id": 16241,
+    "name": "NJ - Lightning - Blade Spinner Trap"
+  },
+  {
+    "id": 16242,
+    "name": "NJ - Lightning - Axe Spinner Trap"
+  },
+  {
+    "id": 16243,
+    "name": "NJ - Lightning - High-Blade Spinner Trap"
+  },
+  {
+    "id": 16264,
+    "name": "NJ mon - Prisoner Cage"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Summoned pet from sorcerer Valiant weapon",
+  "components": {
+    "1": 6226,
+    "2": 13599,
+    "5": 1595,
+    "60": 121,
+    "7": 1774,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "[DNL] Valiant Spiderling",
+  "gate_version": "valiantweapons",
+  "id": 12804,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "[DNL] Valiant Spiderling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 80,
+      "castOnType": 0,
+      "skillID": 229
+    },
+    {
+      "AICombatWeight": 20,
+      "castOnType": 0,
+      "skillID": 230
+    }
+  ],
+  "type": "NPC"
+}

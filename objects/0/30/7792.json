@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP + Water Effect",
+  "components": {
+    "11": 3300,
+    "2": 7348,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Fish Hat",
+  "gate_version": null,
+  "id": 7792,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fish Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 839
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2942,
+    "2": 6546,
+    "3": 3079,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Mini Windrunner Model",
+  "gate_version": null,
+  "id": 6782,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Micro Ship Windrunner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

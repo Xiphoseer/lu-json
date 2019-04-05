@@ -1,0 +1,19 @@
+{
+  "id": 317,
+  "tasks": [
+    {
+      "IconID": 2911,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Assembly_guy_Task.dds",
+      "largeTaskIconID": 2911,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6011,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": "",
+      "taskType": 4,
+      "uid": 478
+    }
+  ]
+}

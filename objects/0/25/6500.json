@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Sentinel Scout Helm",
+  "components": {
+    "11": 2734,
+    "2": 6067
+  },
+  "description": "NPC Sentinel Scout Helm",
+  "displayName": "NPC Sentinel Scout Helmet",
+  "gate_version": null,
+  "id": 6500,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Sentinel Scout Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

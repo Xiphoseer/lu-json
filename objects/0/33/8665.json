@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4010,
+    "2": 8740,
+    "35": 371,
+    "5": 1213,
+    "60": 8,
+    "7": 909,
+    "9": 0
+  },
+  "description": "FV Brick Fury",
+  "displayName": "Brick Fury - Paradox Super Soldier",
+  "gate_version": null,
+  "id": 8665,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV - Brick Fury",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 864
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

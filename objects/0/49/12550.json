@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 95,
+    "2": 12341,
+    "3": 6177,
+    "7": 306
+  },
+  "description": null,
+  "displayName": "Model Vending Machine",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 12550,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Model Vending Machine",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

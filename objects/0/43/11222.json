@@ -1,0 +1,57 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 408,
+    "2": 10994,
+    "3": 1777,
+    "35": 502,
+    "7": 305,
+    "9": 0
+  },
+  "description": "__MG__none",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 11222,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Newtestdude",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 53
+    }
+  ],
+  "type": "NPC"
+}

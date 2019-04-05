@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Generic Bouncer for AM AuraMar Skullkin Area",
+  "components": {
+    "2": 13715,
+    "3": 6956,
+    "40": 6957,
+    "6": 0
+  },
+  "description": "NT - Venture Cannon Bouncer",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 14004,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Venture Cannon Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

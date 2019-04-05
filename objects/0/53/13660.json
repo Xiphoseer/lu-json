@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6770,
+    "2": 13398,
+    "3": 6718,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Wooden Fence Corner Model",
+  "gate_version": "april2011content",
+  "id": 13660,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Wooden Corner ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

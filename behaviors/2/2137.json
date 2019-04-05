@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/2/2137.json"
+    }
+  },
+  "behaviorID": 2137,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "armor": 0.0,
+    "attack_speed": 0.0,
+    "brain": 0.0,
+    "imag": 2.0,
+    "life": 0.0,
+    "run_speed": 0.0
+  },
+  "templateID": 30
+}

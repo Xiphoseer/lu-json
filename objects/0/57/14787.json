@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7459,
+    "2": 14477,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Black Cat Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14787,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Black Cat Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13630,
+    "3": 6910
+  },
+  "description": "Assembly teleporter signage for Paradox area in Nexus Tower",
+  "displayName": "NT - Portal - Assembly",
+  "gate_version": "nexustower",
+  "id": 13906,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Portal - Assembly",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

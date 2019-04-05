@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item. Drops from rocks in Caverns.",
+  "components": {
+    "11": 7133,
+    "2": 14199
+  },
+  "description": "A gem that can be sold!",
+  "displayName": "Onyx Gem",
+  "gate_version": "njhub",
+  "id": 14512,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Onyx Gem",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test rock",
+  "components": {
+    "2": 13367,
+    "3": 6690,
+    "73": 146
+  },
+  "description": "Test",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 13631,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST - Rock QG",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

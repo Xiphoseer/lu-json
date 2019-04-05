@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12319,
+    "3": 6172
+  },
+  "description": "Am nav blocker for design",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12539,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - finger_navblockers",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

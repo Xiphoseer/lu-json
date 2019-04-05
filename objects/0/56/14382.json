@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Imagination element high-blade spinner trap",
+  "components": {
+    "2": 14073,
+    "25": 1,
+    "3": 7189,
+    "39": 115,
+    "5": 1560,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Imag - High-Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 14382,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Imag - High-Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

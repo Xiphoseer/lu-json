@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Skeleton Lieutenant",
+  "components": {
+    "1": 7577,
+    "17": 555,
+    "2": 14769,
+    "31": 86,
+    "5": 1610,
+    "60": 168,
+    "7": 2104,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bonezai - Skeleton of Ice",
+  "gate_version": "njhub",
+  "id": 16050,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Bonezai Skeleton Lieutenant",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1527
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1532
+    }
+  ],
+  "type": "Enemies"
+}

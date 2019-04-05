@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP",
+  "components": {
+    "11": 6050,
+    "2": 12060,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Ogre Buckler",
+  "gate_version": "ventureinstance",
+  "id": 12310,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ogre Buckler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

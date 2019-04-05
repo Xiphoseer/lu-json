@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4073,
+    "47": 2009
+  },
+  "description": "CafeCorner model with physics from LUAPI",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4653,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - CafeCorner LUAPI",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

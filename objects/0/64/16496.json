@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Monestary Mission Item",
+  "components": {
+    "11": 7723,
+    "2": 15242
+  },
+  "description": "Return this to Jay in the Monastery.",
+  "displayName": "Lightning Ninja Kit",
+  "gate_version": "njhub",
+  "id": 16496,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Acolyte Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

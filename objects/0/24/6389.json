@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 180,
+    "2": 5836,
+    "35": 225,
+    "5": 862,
+    "7": 307
+  },
+  "description": "Ambient Soldier",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6389,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Help Soldier",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

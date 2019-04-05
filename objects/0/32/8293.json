@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7240,
+    "20": 3859,
+    "5": 1018,
+    "7": 26,
+    "9": 0
+  },
+  "description": "TEST",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8293,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - rigid body phantom object3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,26 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/28/29453.json"
+    }
+  },
+  "behaviorID": 29453,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "action": 29454.0,
+    "angle": 360.0,
+    "angle_weight": 0.0,
+    "check_env": 0.0,
+    "distance_weight": 0.0,
+    "far_height": 0.0,
+    "far_width": 0.0,
+    "height": 2.200000047683716,
+    "lower_bound": -15.0,
+    "max range": 5.0,
+    "max targets": 1.0,
+    "method": 1.0,
+    "min range": 0.0
+  },
+  "templateID": 2
+}

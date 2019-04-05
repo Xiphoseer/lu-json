@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 980,
+    "2": 2446,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Monument Shirt",
+  "gate_version": null,
+  "id": 2942,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Monument Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

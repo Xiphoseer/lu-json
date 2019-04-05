@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2553,
+    "3": 1243,
+    "5": 4
+  },
+  "description": "Base to Mech Rebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3086,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Mech Base",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

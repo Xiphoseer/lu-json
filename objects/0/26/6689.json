@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6235,
+    "3": 2917,
+    "48": 90,
+    "7": 617
+  },
+  "description": "QB that starts the maelstrom collection event.",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6689,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - PH Maelstrom Collector Machine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

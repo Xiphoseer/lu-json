@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 506,
+    "2": 13138,
+    "3": 1777,
+    "35": 598,
+    "7": 307
+  },
+  "description": "VFX -- test -- Shinobi Rank3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13409,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "VFX -- Shinobi Rank 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

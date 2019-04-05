@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9670,
+    "3": 4313
+  },
+  "description": "RACE-NSTrack03_TRACK_Landing",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9838,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-NSTrack03_TRACK_Landing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

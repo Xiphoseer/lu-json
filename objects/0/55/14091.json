@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP 3 AP",
+  "components": {
+    "11": 6969,
+    "2": 13803,
+    "9": 0
+  },
+  "description": "For Gold Trophy Winners!",
+  "displayName": "Snazzy Pants",
+  "gate_version": "nexustower",
+  "id": 14091,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Gold Trophy Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

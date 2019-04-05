@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 1087,
+    "2": 3258,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Double Striped Skunk Shirt",
+  "gate_version": null,
+  "id": 3862,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skunk Shirt 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

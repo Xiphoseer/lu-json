@@ -1,0 +1,22 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/2/2083.json"
+    }
+  },
+  "behaviorID": 2083,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "LOT_ID": 6297.0,
+    "max_distance": 1000.0,
+    "offset_z": 5.0,
+    "projectile_speed": 129.0,
+    "projectile_type": 1.0,
+    "unauth_impact": 1.0,
+    "use_high_arc": 0.0,
+    "use_mouseposit": 1.0,
+    "use_prediction": 0.0
+  },
+  "templateID": 4
+}

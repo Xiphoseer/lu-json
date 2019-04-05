@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2147,
+    "2": 2607,
+    "5": 661,
+    "7": 435
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4774,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GOL Sheep",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

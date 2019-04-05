@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Short Slashing. Heals allies armor when they are struck",
+  "components": {
+    "11": 6322,
+    "2": 12564,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Super Frankfurter",
+  "gate_version": "nexustower",
+  "id": 12774,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Frankfurter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 277
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4032,
+    "2": 8765,
+    "5": 1268,
+    "60": 48,
+    "7": 921,
+    "9": 0
+  },
+  "description": "Level 2 Summon",
+  "displayName": "Bulper",
+  "gate_version": null,
+  "id": 9315,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bulper Rank 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 629
+    }
+  ],
+  "type": "NPC"
+}

@@ -1,0 +1,35 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3188,
+    "2": 6731,
+    "60": 21,
+    "7": 680,
+    "9": 0
+  },
+  "description": "Spider boss for second room of the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7151,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 312
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 322
+    }
+  ],
+  "type": "Enemies"
+}

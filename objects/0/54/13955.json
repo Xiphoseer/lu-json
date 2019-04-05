@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6932,
+    "2": 13668,
+    "7": 1894,
+    "9": 0
+  },
+  "description": "TEST Grid Tower 2 Bullet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13955,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Grid Tower 2 Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1285
+    }
+  ],
+  "type": "Shooting Gallery"
+}

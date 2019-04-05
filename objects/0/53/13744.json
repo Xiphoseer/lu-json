@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used with the nexus tower mission chains",
+  "components": {
+    "11": 6847,
+    "2": 13483
+  },
+  "description": null,
+  "displayName": "Crate Disguise Head Proxy",
+  "gate_version": "nexustower",
+  "id": 13744,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Crate Disguise Head Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

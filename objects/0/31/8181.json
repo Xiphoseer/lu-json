@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7724,
+    "40": 3790,
+    "5": 1062
+  },
+  "description": "Sign that pops up on proxmity of the Pet Rock launch pad",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8181,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Rock Rocket Signage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

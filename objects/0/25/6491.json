@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6054,
+    "3": 2645,
+    "48": 74,
+    "5": 880,
+    "7": 494
+  },
+  "description": "Small Tiki Choicebuild",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6491,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Choicebuild Small Tiki",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

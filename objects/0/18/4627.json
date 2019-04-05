@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4079,
+    "46": 0,
+    "5": 325,
+    "50": 0
+  },
+  "description": "Flyable vehicle",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4627,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bi-plane vehicle test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Vehicles"
+}

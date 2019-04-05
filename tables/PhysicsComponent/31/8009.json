@@ -1,0 +1,18 @@
+{
+  "airSpeed": 30.0,
+  "boundaryAsset": null,
+  "collisionGroup": 10,
+  "doublejump": 3.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 8009,
+  "jump": 5.0,
+  "jumpAirSpeed": 35.0,
+  "pcShapeType": 0,
+  "physics_asset": "minifig\\minifig_physics.hkx",
+  "playerHeight": 4.0,
+  "playerRadius": 2.0,
+  "rotSpeed": 0.006500000134110451,
+  "speed": 30.0,
+  "static": 0.0
+}

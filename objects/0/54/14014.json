@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For skeleton enemies",
+  "components": {
+    "11": 6957,
+    "2": 13724
+  },
+  "description": "",
+  "displayName": "NPC Maelstrom Katana",
+  "gate_version": "njhub",
+  "id": 14014,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Maelstrom Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

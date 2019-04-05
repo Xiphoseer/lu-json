@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5732,
+    "3": 2562
+  },
+  "description": "A completed Version of the beacon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6298,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ambient Beacon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 866,
+    "2": 1837,
+    "3": 961
+  },
+  "description": "Vendor Only This item can be placed on private property after purchase",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2122,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Bench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

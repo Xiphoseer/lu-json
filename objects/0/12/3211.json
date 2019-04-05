@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2693,
+    "3": 1682,
+    "5": 364
+  },
+  "description": "First Juggler",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3211,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Juggler 01",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

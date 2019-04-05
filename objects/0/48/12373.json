@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6062,
+    "2": 12124,
+    "5": 1341
+  },
+  "description": "Portabello Citizen",
+  "displayName": "Portabello Citizen",
+  "gate_version": null,
+  "id": 12373,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Portabello Citizen",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

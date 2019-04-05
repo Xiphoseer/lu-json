@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 7531,
+    "2": 14966,
+    "3": 7674,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Castle Ramp Model",
+  "gate_version": "freetrial",
+  "id": 16250,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Castle Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

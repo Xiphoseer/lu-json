@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7238,
+    "3": 3391,
+    "5": 1062
+  },
+  "description": "launch pad for player property area",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 82,
+      "iconState": 69
+    }
+  ],
+  "id": 7678,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

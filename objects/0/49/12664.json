@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Laser that Valiant Mech fires",
+  "components": {
+    "18": 6224,
+    "2": 12453,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "valiantweapons",
+  "id": 12664,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Valiant Mech's Bullet laser Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1027
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Imagination element elevator spinner trap",
+  "components": {
+    "2": 14076,
+    "25": 5,
+    "3": 7192,
+    "39": 115,
+    "5": 1563
+  },
+  "description": "",
+  "displayName": "NJ - Imag - Elevator Spinner Trap",
+  "gate_version": "njhub",
+  "id": 14385,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Imag - Elevator Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

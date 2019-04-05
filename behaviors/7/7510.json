@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/7/7510.json"
+    }
+  },
+  "behaviorID": 7510,
+  "effectHandle": null,
+  "effectID": 1789,
+  "parameters": {
+    "dir_angle_xz": -25.0,
+    "dir_angle_y": 0.0,
+    "dir_force": 12.0,
+    "on_success": 7511.0
+  },
+  "templateID": 1
+}

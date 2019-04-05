@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15056,
+    "3": 7716,
+    "40": 3758,
+    "5": 1056
+  },
+  "description": "Signage for NS transitions",
+  "displayName": "NS - Signage - Gnarled Forest",
+  "gate_version": "freetrial",
+  "id": 16310,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Signage - Gnarled Forest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

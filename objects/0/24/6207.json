@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 4 LP",
+  "components": {
+    "11": 2562,
+    "2": 5608,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Nexus Force Healing Kit",
+  "gate_version": null,
+  "id": 6207,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Force Healing Kit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1134
+    }
+  ],
+  "type": "Loot"
+}

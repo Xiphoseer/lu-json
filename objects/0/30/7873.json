@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3539,
+    "2": 7431,
+    "5": 675,
+    "60": 7,
+    "7": 489,
+    "9": 0
+  },
+  "description": "Snake Test to prove dragon concept",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7873,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Snake",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 214
+    },
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 215
+    }
+  ],
+  "type": "Enemies"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11896,
+    "3": 5905
+  },
+  "description": "Nexus Tower G16-Shell",
+  "displayName": "NT G16-Shell",
+  "gate_version": null,
+  "id": 12147,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G16-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

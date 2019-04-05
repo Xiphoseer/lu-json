@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 90,
+    "17": 435,
+    "2": 11870,
+    "3": 1777,
+    "35": 535,
+    "7": 306
+  },
+  "description": "Winter Vendor",
+  "displayName": "Hansel Tinsel - Frostivus Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 96,
+      "iconState": 66
+    }
+  ],
+  "id": 12121,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FB - Toy Assembler Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

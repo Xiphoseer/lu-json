@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1466,
+    "3": 1777,
+    "5": 81
+  },
+  "description": "Team 8",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 2797,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Infinity - Sgt. Maxx",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

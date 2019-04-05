@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 3 LP",
+  "components": {
+    "11": 7424,
+    "2": 14758,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Old Sushi",
+  "gate_version": "njhub",
+  "id": 16037,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Old Sushi",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1518
+    }
+  ],
+  "type": "Loot"
+}

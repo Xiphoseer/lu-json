@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2110,
+    "3": 1158,
+    "39": 9930,
+    "5": 1195
+  },
+  "description": "Wishing Well",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 142,
+      "iconState": 69
+    },
+    {
+      "iconID": 163,
+      "iconState": 70
+    }
+  ],
+  "id": 9930,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Wishing Well Fountain",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

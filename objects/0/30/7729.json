@@ -1,0 +1,27 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3243,
+    "2": 7285
+  },
+  "description": null,
+  "displayName": "Viking Helm",
+  "gate_version": null,
+  "id": 7729,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Viking Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

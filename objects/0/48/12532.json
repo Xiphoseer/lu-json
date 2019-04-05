@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12304,
+    "3": 6166,
+    "7": 1738
+  },
+  "description": "Green color variant of Graphical representation of destructible obstacle forFrostburgh",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12532,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WH - Winter Fan Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

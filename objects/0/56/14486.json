@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission item, not a weapon. Chests need precondition w/ this item.",
+  "components": {
+    "11": 7111,
+    "2": 14175
+  },
+  "description": "Use this to open the treasure chest in the Dojo of Earth.",
+  "displayName": "Earth Key",
+  "gate_version": "njhub",
+  "id": 14486,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Key",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

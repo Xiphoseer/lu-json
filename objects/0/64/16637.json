@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Lightning Kit 2 DX 4 AP 3 IP",
+  "components": {
+    "11": 7826,
+    "2": 15421,
+    "9": 0
+  },
+  "description": "Wear this to look like Jay DX!",
+  "displayName": "Jay's DX Gi of Storms",
+  "gate_version": "njhub",
+  "id": 16637,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Spinjitzu Gi Jay's DX Gi of Storms",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

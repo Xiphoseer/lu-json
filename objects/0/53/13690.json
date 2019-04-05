@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6800,
+    "2": 13428,
+    "3": 6748,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Straight Courtyard Edge Model Short",
+  "gate_version": "april2011content",
+  "id": 13690,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Courtyard Edge Straight Short",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

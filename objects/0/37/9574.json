@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4604,
+    "2": 9425,
+    "3": 4153,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Mailbox Model",
+  "gate_version": null,
+  "id": 9574,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mailbox",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

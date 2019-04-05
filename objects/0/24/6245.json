@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Skateboard mount",
+  "components": {
+    "1": 7681,
+    "108": 10,
+    "11": 2590,
+    "2": 15003,
+    "7": 2046,
+    "95": 0
+  },
+  "description": "Test Skateboard mount",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6245,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Skateboard",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

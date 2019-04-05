@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Piercing",
+  "components": {
+    "11": 3776,
+    "2": 8032,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Dirk",
+  "gate_version": null,
+  "id": 8477,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Dirk",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 283
+    }
+  ],
+  "type": "Loot"
+}

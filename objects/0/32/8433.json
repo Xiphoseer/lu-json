@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Elite mech that turns to a rebuild upon smashing, for SpaceShip Instance",
+  "components": {
+    "1": 2581,
+    "2": 5669,
+    "31": 60,
+    "5": 1075,
+    "60": 36,
+    "7": 886,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Corrupted Sentry",
+  "gate_version": "ventureinstance",
+  "id": 8433,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "VE Instance - Stromling Mech 2",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 214
+    },
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 215
+    }
+  ],
+  "type": "Enemies"
+}

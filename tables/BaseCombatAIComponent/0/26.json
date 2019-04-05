@@ -1,0 +1,19 @@
+{
+  "aggroRadius": 102.0,
+  "behaviorType": 3,
+  "combatRole": 10,
+  "combatRoundLength": 2.0,
+  "combatStartDelay": 0.10000000149011612,
+  "hardTetherRadius": 135.0,
+  "id": 26,
+  "ignoreMediator": true,
+  "ignoreParent": false,
+  "ignoreStatReset": false,
+  "maxRoundLength": 3.0,
+  "minRoundLength": 3.0,
+  "pursuitSpeed": 0.0,
+  "softTetherRadius": 102.0,
+  "spawnTimer": 2.0999999046325684,
+  "tetherEffectID": 6270,
+  "tetherSpeed": 0.0
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 3 IP",
+  "components": {
+    "11": 2481,
+    "2": 5272,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Defeater Shirt",
+  "gate_version": null,
+  "id": 5844,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Stromling Defeater Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

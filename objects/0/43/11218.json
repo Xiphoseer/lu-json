@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "minion for FV",
+  "components": {
+    "1": 5149,
+    "2": 10988,
+    "31": 8,
+    "5": 1261,
+    "60": 75,
+    "7": 1600,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Ronin Invader",
+  "gate_version": "auramar",
+  "id": 11218,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Dark Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

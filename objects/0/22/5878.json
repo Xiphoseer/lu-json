@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5344,
+    "3": 2419,
+    "5": 766
+  },
+  "description": "A top secret object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5878,
+  "interactionDistance": 500.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test GP - Play Button 01",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

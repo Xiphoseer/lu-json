@@ -1,0 +1,39 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "use for team Luptario",
+  "components": {
+    "2": 11002,
+    "3": 5174,
+    "73": 93
+  },
+  "description": "__MG__ambient chickadee for Luptario  (mission giver)",
+  "displayName": "Dee the Chickadee",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 149,
+      "iconState": 1
+    },
+    {
+      "iconID": 150,
+      "iconState": 2
+    },
+    {
+      "iconID": 151,
+      "iconState": 4
+    },
+    {
+      "iconID": 152,
+      "iconState": 69
+    }
+  ],
+  "id": 11237,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Chickadee - mission giver",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

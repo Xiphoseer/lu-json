@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5148,
+    "3": 2407
+  },
+  "description": "Path Transition 2-3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5719,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Path transition 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 574
+    }
+  ],
+  "type": "Environmental"
+}

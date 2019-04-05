@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11686,
+    "3": 5758
+  },
+  "description": "NT Faux Beam",
+  "displayName": "NT_Faux_Paradox Entry",
+  "gate_version": null,
+  "id": 11936,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT_Faux_Paradox Entry",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

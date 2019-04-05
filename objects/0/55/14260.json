@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13950,
+    "3": 7088,
+    "7": 1936
+  },
+  "description": null,
+  "displayName": "NJ Earth Flower smashable",
+  "gate_version": "njhub",
+  "id": 14260,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Earth Flower smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

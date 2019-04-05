@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3IP + AoE Stun",
+  "components": {
+    "11": 1024,
+    "2": 2535,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Yar Har Har Sextant",
+  "gate_version": null,
+  "id": 3066,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Yar Har Har Sextant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 321
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

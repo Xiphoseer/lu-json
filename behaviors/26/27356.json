@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/26/27356.json"
+    }
+  },
+  "behaviorID": 27356,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action": 27357.0,
+    "max targets": 100.0,
+    "radius": 150.0,
+    "target_enemy": 1.0
+  },
+  "templateID": 7
+}

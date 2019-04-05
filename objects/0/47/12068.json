@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11817,
+    "3": 5862
+  },
+  "description": "Test of the Mine Section B of Aura Mar",
+  "displayName": "AM Mine Section B",
+  "gate_version": null,
+  "id": 12068,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Mining Section B",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10728,
+    "3": 5002,
+    "39": 11281,
+    "5": 1195
+  },
+  "description": "Wishing Well",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11281,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Wishing Well Vending Machine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

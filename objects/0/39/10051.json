@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Spin completely around",
+  "components": {
+    "11": 4876,
+    "2": 9887
+  },
+  "description": "Spin completely around",
+  "displayName": "Spin Around Behavior",
+  "gate_version": null,
+  "id": 10051,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Spin Around",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

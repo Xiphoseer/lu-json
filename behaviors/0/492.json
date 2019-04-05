@@ -1,0 +1,24 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/0/492.json"
+    }
+  },
+  "behaviorID": 492,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "action": 496.0,
+    "angle": 25.0,
+    "clear_provided_target": 1.0,
+    "first_within_range": 7.0,
+    "max range": 80.0,
+    "max targets": 1.0,
+    "min range": 0.0,
+    "miss action": 496.0,
+    "target_enemy": 1.0,
+    "use_attack_priority": 1.0,
+    "use_picked_target": 1.0
+  },
+  "templateID": 2
+}

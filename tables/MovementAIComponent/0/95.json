@@ -1,0 +1,10 @@
+{
+  "MovementType": "Wander",
+  "WanderChance": 100.0,
+  "WanderDelayMax": 9.999999747378752e-05,
+  "WanderDelayMin": 0.0,
+  "WanderRadius": 6.0,
+  "WanderSpeed": 0.25,
+  "attachedPath": null,
+  "id": 95
+}

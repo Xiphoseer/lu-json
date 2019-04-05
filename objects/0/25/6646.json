@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Gives 30 points of imagination",
+  "components": {
+    "11": 3459,
+    "2": 3256,
+    "9": 0
+  },
+  "description": "Gives 30 points of imagination",
+  "displayName": "30 pts imagination hat",
+  "gate_version": null,
+  "id": 6646,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hat of Uber Imagination - 30 pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 223
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 227
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7435,
+    "2": 14774
+  },
+  "description": "NPC Skeleton Head Bonezai",
+  "displayName": "NPC Skeleton Head Bonezai",
+  "gate_version": "njhub",
+  "id": 16055,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Skeleton Head Bonezai",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

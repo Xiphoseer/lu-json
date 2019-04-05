@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6283,
+    "3": 2949,
+    "48": 93,
+    "57": 0,
+    "7": 627
+  },
+  "description": "test ramp for attackers",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6741,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Siege-Attacker Ramp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

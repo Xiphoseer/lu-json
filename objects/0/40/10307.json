@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10153,
+    "3": 4546,
+    "5": 1219,
+    "7": 1547
+  },
+  "description": "Spawned by the Spring skill",
+  "displayName": "Fountain of Imagination",
+  "gate_version": null,
+  "id": 10307,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Fountain of Imagination - mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

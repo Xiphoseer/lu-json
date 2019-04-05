@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3928,
+    "2": 8065,
+    "7": 888,
+    "9": 0
+  },
+  "description": "Flaming arrow for samurai skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8510,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Samurai Flaming Arrow 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 570
+    }
+  ],
+  "type": "Shooting Gallery"
+}

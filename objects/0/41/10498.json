@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4658,
+    "2": 10343,
+    "5": 1230,
+    "60": 66,
+    "7": 1563,
+    "9": 0
+  },
+  "description": "Spawned from behavior",
+  "displayName": "Dark Ronin",
+  "gate_version": null,
+  "id": 10498,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior Spawn - Dark Ronin",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 494
+    }
+  ],
+  "type": "Enemies"
+}

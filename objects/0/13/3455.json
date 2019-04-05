@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2880,
+    "3": 1674
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3455,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GEN - Sign - To Directrons",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Slashing",
+  "components": {
+    "11": 3771,
+    "2": 8027,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Elite Katana",
+  "gate_version": null,
+  "id": 8472,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 287
+    }
+  ],
+  "type": "Loot"
+}

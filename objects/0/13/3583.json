@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2961,
+    "3": 1732,
+    "5": 507
+  },
+  "description": "Drum Test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3583,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "On Button 11",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

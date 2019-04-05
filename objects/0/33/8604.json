@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 3860,
+    "2": 8161
+  },
+  "description": "",
+  "displayName": "Black Soccer Shirt",
+  "gate_version": null,
+  "id": 8604,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Soccer Shirt 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

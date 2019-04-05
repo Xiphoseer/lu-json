@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12021,
+    "25": 0,
+    "27": 0,
+    "3": 5998,
+    "48": 164,
+    "7": 1677
+  },
+  "description": "Moving Platform for AM AuraMar sentinel quickbuild",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12273,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Sentinel QB moving platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

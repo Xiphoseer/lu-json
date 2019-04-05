@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 6 LP",
+  "components": {
+    "11": 1007,
+    "2": 2501,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Healing Apple",
+  "gate_version": null,
+  "id": 2995,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Health Apple 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 892
+    }
+  ],
+  "type": "Loot"
+}

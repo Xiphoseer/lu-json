@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12014,
+    "3": 5991,
+    "48": 187
+  },
+  "description": "crate that is rebuilt in a different location from the smashed version",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13070,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Sentinel Crate Rebuildable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

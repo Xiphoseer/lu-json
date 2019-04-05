@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2641,
+    "3": 1942,
+    "5": 426
+  },
+  "description": "animated lamp/alarm",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3180,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Streetlight 1 - single",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

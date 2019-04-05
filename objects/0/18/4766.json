@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3590,
+    "2": 4182,
+    "42": 0,
+    "5": 657
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4766,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test LUP Reward Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

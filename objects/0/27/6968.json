@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6547,
+    "3": 3080,
+    "66": 0
+  },
+  "description": "HF gadget for setting the environmental light direction",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6968,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "HF Light Direction Gadget",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "HF Gadgets"
+}

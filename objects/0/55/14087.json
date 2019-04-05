@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13800,
+    "3": 7023,
+    "5": 1537
+  },
+  "description": "interactable console that converts Maelstrom bricks into faction tokens",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 157,
+      "iconState": 69
+    },
+    {
+      "iconID": 158,
+      "iconState": 70
+    }
+  ],
+  "id": 14087,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Interactable Console - Maelstrom Converter",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

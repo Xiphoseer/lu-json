@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Interact location",
+  "components": {
+    "2": 13721,
+    "3": 6962,
+    "5": 1519
+  },
+  "description": "NT - Venture Cannon Interact",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 154,
+      "iconState": 69
+    }
+  ],
+  "id": 14010,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Venture Cannon Interact",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

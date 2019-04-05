@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4314,
+    "23": 12,
+    "40": 2203,
+    "7": 64
+  },
+  "description": "Collectible Spawner for GF pirate flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2210,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Pirate Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

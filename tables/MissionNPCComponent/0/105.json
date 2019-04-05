@@ -1,0 +1,47 @@
+{
+  "id": 105,
+  "missions": [
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 964,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 965,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 977,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 987,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "auramar",
+      "missionID": 989,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 991,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "auramar",
+      "missionID": 992,
+      "offersMission": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15427,
+    "3": 7984,
+    "5": 1735
+  },
+  "description": "NJ - Lightning Property",
+  "displayName": "NJ - Lightning Property",
+  "gate_version": "njhub",
+  "id": 16643,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NJ - Lightning Property",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

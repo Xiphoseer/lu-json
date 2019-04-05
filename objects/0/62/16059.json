@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "explodes doing 8/25 dmg ninjago",
+  "components": {
+    "11": 7437,
+    "2": 14778,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Exploding Ninjago Kunai",
+  "gate_version": "njhub",
+  "id": 16059,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exploding Ninjago Kunai",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1535
+    }
+  ],
+  "type": "Loot"
+}

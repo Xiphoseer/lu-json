@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP 3 IP",
+  "components": {
+    "11": 7441,
+    "2": 14784,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Murasaki Gi",
+  "gate_version": "njhub",
+  "id": 16065,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Murasaki Gi",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

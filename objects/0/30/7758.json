@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3267,
+    "2": 7314,
+    "3": 3428,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Picnic Table Model",
+  "gate_version": null,
+  "id": 7758,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Picnic Table",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Imagination element Spawner spinner trap",
+  "components": {
+    "2": 14870,
+    "25": 6,
+    "3": 7603,
+    "39": 115,
+    "5": 1633
+  },
+  "description": "",
+  "displayName": "NJ - Imag - Spawner Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16152,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Imag - Spawner Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

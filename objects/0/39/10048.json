@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "When attacked, drop power-ups",
+  "components": {
+    "11": 4873,
+    "2": 9884
+  },
+  "description": "When attacked, drop power-ups",
+  "displayName": "Drop Power-Ups Behavior",
+  "gate_version": null,
+  "id": 10048,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Drop Power-Ups",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

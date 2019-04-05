@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "12 dmg Offhand skill",
+  "components": {
+    "11": 6180,
+    "2": 12387,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Impact Wrench",
+  "gate_version": "nimbusinstance",
+  "id": 12597,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Impact Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1005
+    }
+  ],
+  "type": "Loot"
+}

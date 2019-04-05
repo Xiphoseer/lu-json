@@ -1,0 +1,23 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/6/6234.json"
+    }
+  },
+  "behaviorID": 6234,
+  "effectHandle": "",
+  "effectID": 4022,
+  "parameters": {
+    "action": 6233.0,
+    "ignore_faction": 6.0,
+    "max targets": 20.0,
+    "radius": 8.0,
+    "target_enemy": 1.0,
+    "target_friend": 0.0,
+    "target_self": 0.0,
+    "target_team": 0.0,
+    "use_target_as_caster": 0.0,
+    "use_target_position": 0.0
+  },
+  "templateID": 7
+}

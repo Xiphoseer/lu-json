@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5833,
+    "2": 11534,
+    "3": 5626,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Desk 1 Model",
+  "gate_version": "nexustower",
+  "id": 11782,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Office Desk 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

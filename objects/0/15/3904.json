@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3301,
+    "40": 1041,
+    "5": 437,
+    "7": 385
+  },
+  "description": "testing reverb for coin spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3904,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST AUDIO coin spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

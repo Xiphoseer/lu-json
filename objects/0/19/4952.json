@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4375,
+    "3": 2256,
+    "7": 465
+  },
+  "description": "Wagon smashable for scene 4 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4952,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Wagon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Rusty Steele Belt",
+  "components": {
+    "11": 3644,
+    "2": 7846
+  },
+  "description": "NPC Rusty Steele Belt",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8286,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Rusty Steele Belt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

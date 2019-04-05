@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/3 6/6/9 NJ Slashing M",
+  "components": {
+    "11": 7789,
+    "2": 15377,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Forged Katana",
+  "gate_version": "njhub",
+  "id": 16597,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Forged Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1420
+    }
+  ],
+  "type": "Loot"
+}

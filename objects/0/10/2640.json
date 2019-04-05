@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1884,
+    "25": 0,
+    "3": 1226,
+    "5": 179,
+    "7": 119
+  },
+  "description": "Moving platform target for shooting gallery",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2640,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG Floating Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

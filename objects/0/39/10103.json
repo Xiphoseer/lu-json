@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1,
+    "17": 0,
+    "2": 9940,
+    "4": 0,
+    "55": 0,
+    "68": 0,
+    "7": 4,
+    "9": 0
+  },
+  "description": "By switching a player to this LOT, he looks like the Mythran NPC",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 62,
+      "iconState": 66
+    }
+  ],
+  "id": 10103,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Mythran Minifig",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "UserGeneratedNPCs"
+}

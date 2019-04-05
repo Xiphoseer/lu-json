@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Animated Giant Eating Plant",
+  "components": {
+    "1": 7889,
+    "2": 13258,
+    "5": 1461,
+    "60": 133,
+    "7": 1841,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Fig-Eating Plant",
+  "gate_version": "nexustower",
+  "id": 13297,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fig-Eating Plant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1225
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1226
+    }
+  ],
+  "type": "NPC"
+}

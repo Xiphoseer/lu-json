@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE IP restore up to 20 pts",
+  "components": {
+    "11": 894,
+    "2": 1917,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Ninja Flag",
+  "gate_version": null,
+  "id": 2209,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninja Flag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 756
+    }
+  ],
+  "type": "Loot"
+}

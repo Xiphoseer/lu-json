@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; needs custom mesh?",
+  "components": {
+    "11": 7122,
+    "2": 14188,
+    "9": 0
+  },
+  "description": "A most mysterious Mask!",
+  "displayName": "Dragon Mask",
+  "gate_version": "njhub",
+  "id": 14499,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Mask",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1542
+    }
+  ],
+  "type": "Loot"
+}

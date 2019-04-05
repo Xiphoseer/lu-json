@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2997,
+    "3": 1757,
+    "7": 314
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3716,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - Destrructible 2X4 Brick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

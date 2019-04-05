@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 15,
+    "17": 1,
+    "2": 2062,
+    "5": 303,
+    "7": 420,
+    "9": 0
+  },
+  "description": "Team 2",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2902,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC Hyper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Enemies"
+}

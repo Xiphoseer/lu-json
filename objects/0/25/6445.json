@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5398,
+    "3": 873,
+    "48": 36,
+    "5": 875,
+    "7": 502
+  },
+  "description": "test asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6445,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "QB - Bear Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

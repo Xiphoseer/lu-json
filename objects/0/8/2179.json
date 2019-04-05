@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1744,
+    "3": 1010,
+    "5": 81,
+    "9": 0
+  },
+  "description": "not in use",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2179,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "First Mate Sweettooth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "NPC"
+}

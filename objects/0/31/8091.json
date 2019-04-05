@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4863,
+    "2": 7637,
+    "31": 37,
+    "5": 901,
+    "60": 16,
+    "7": 856,
+    "9": 0
+  },
+  "description": "survival mech",
+  "displayName": "Stromling Mech",
+  "gate_version": null,
+  "id": 8091,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AG - Stromling Mech Survival Lvl 3",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 214
+    },
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 938
+    }
+  ],
+  "type": "Enemies"
+}

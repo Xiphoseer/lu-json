@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Prototype asset for Spider Boss Shield",
+  "components": {
+    "11": 4642,
+    "2": 9383,
+    "3": 4113
+  },
+  "description": "Prototype asset for Spider Boss Shield",
+  "displayName": "Test Spider Boss Shield",
+  "gate_version": null,
+  "id": 9531,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proto - Spider Boss Shield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13590,
+    "3": 6858,
+    "7": 1874
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "icons": [
+    {
+      "iconID": 104,
+      "iconState": 65
+    }
+  ],
+  "id": 13850,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Smashable for Nic",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

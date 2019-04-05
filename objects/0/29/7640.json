@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7209,
+    "3": 3380
+  },
+  "description": "Visual Connector for partner Bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7640,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Partner Bouncer Connector",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

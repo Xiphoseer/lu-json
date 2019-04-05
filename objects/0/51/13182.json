@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12964,
+    "3": 6426
+  },
+  "description": null,
+  "displayName": "CP Launcher",
+  "gate_version": "njhub",
+  "id": 13182,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Crux Prime Launch Platform",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

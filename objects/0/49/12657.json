@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Fire SJ tornado skill",
+  "components": {
+    "11": 6210,
+    "2": 12446,
+    "9": 0
+  },
+  "description": "Equip this to unleash Fire Spinjitzu and rocket directly to the Ninjago Caves!",
+  "displayName": "The Sword of Fire",
+  "gate_version": "njhub",
+  "id": 12657,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fire Spinjitzu The Sword of Fire",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1567
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1646
+    }
+  ],
+  "type": "Loot"
+}

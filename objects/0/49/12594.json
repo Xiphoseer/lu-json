@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 2 IP per sec for 10 sec",
+  "components": {
+    "11": 6177,
+    "2": 12384,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Flowin' MC",
+  "gate_version": "nimbusinstance",
+  "id": 12594,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Flowin' MC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 992
+    }
+  ],
+  "type": "Loot"
+}

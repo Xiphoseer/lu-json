@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Ranged + 3 chargeup",
+  "components": {
+    "11": 2946,
+    "2": 6526,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Exceptional Flintlock Rifle of Blasting",
+  "gate_version": null,
+  "id": 1891,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Flintlock Rifle of Blasting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 898
+    }
+  ],
+  "type": "Loot"
+}

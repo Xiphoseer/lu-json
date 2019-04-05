@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; drops from Skeletons on Siege Field, only on mission",
+  "components": {
+    "11": 7117,
+    "2": 14183
+  },
+  "description": "Return this to Jay in the Ninjago Dojo of Lightning.",
+  "displayName": "Shoulder Socket Wrench",
+  "gate_version": "njhub",
+  "id": 14494,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shoulder Socket Wrench",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

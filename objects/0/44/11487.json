@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11235,
+    "3": 5333
+  },
+  "description": "Sentinel Armory Room",
+  "displayName": "NT Glom_S_Armory (No Detail)",
+  "gate_version": null,
+  "id": 11487,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Glom_S_Armory",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

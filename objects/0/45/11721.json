@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5772,
+    "2": 11473,
+    "3": 5565,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Mech Bay Ball-Bot Base Corner Model",
+  "gate_version": "march2011content",
+  "id": 11721,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mechbay Ball Bot Base Corner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

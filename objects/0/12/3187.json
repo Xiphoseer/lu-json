@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3069,
+    "3": 1511,
+    "5": 552
+  },
+  "description": "BtBM puts unmoderated blueprints into the external blueprint moderation queue, and charges you money",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 3187,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Maude the Moderator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2546,
+    "2": 5478,
+    "3": 2536,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Fence Model",
+  "gate_version": null,
+  "id": 6071,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fence",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

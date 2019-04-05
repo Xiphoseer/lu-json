@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6103,
+    "35": 238,
+    "5": 863,
+    "7": 305
+  },
+  "description": "__MG__Test Mission Giver Ian Hall",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6535,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DJ Rock Sollid",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

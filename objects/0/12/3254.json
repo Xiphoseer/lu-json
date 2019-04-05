@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6906,
+    "11": 6881,
+    "2": 2721,
+    "26": 11,
+    "42": 0,
+    "7": 390,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 24,
+      "iconState": 100
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    },
+    {
+      "iconID": 69,
+      "iconState": 111
+    }
+  ],
+  "id": 3254,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Terrier Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

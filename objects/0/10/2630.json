@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Slashing",
+  "components": {
+    "11": 963,
+    "2": 2243,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Cutlass",
+  "gate_version": null,
+  "id": 2630,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Cutlass",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 544
+    }
+  ],
+  "type": "Loot"
+}

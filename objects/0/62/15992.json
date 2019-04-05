@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 7402,
+    "2": 14693,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dark Defense",
+  "gate_version": "njhub",
+  "id": 15992,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dark Defense",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

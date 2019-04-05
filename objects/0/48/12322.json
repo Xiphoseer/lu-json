@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item",
+  "components": {
+    "11": 6062,
+    "2": 12072
+  },
+  "description": "Return this to Mardolf in Nimbus Station!",
+  "displayName": "Skeleton Bone",
+  "gate_version": "auramar",
+  "id": 12322,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skeleton Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

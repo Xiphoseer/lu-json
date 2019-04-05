@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6568,
+    "3": 1009,
+    "5": 969,
+    "7": 661,
+    "9": 0
+  },
+  "description": "An explosion burst that hops around a lot",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6988,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Explosion Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 271
+    }
+  ],
+  "type": "Environmental"
+}

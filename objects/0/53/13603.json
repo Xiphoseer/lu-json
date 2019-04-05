@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Used to test non main hand skills",
+  "components": {
+    "11": 6724,
+    "2": 13340,
+    "9": 0
+  },
+  "description": "Used to test non main hand skills",
+  "displayName": "Test Hat of Skill Testing",
+  "gate_version": null,
+  "id": 13603,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Hat of Skill Testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1434
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4400,
+    "2": 9321,
+    "53": 20
+  },
+  "description": "Double-click to get the yellow Hyperstarter Car modules!",
+  "displayName": "Yellow Hyperstarter Package",
+  "gate_version": null,
+  "id": 9467,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tyro Car 1 Package Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

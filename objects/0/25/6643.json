@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Restores 4 points of Imagination",
+  "components": {
+    "11": 3343,
+    "2": 2504,
+    "9": 0
+  },
+  "description": "Restores 4 points of Imagination",
+  "displayName": "4 pt Restoration Kit",
+  "gate_version": null,
+  "id": 6643,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Imagination Kit - 4 pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 220
+    }
+  ],
+  "type": "Loot"
+}

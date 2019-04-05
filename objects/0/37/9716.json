@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9556,
+    "3": 4241
+  },
+  "description": "Placeholder for 3D Build Buttons",
+  "displayName": "HF 3D Build Buttons Indicator",
+  "gate_version": null,
+  "id": 9716,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Happy Flower 3D Build Buttons Indicator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "HF Marker"
+}

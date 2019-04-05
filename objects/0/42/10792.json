@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5248,
+    "2": 10639,
+    "3": 4913,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Brown Couch Model",
+  "gate_version": null,
+  "id": 10792,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward BrownCouch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 3 IP",
+  "components": {
+    "11": 6253,
+    "2": 12494,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cool Car Euro Shirt",
+  "gate_version": "nexustower",
+  "id": 12705,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cool Car Euro Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

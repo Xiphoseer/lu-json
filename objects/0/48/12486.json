@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6123,
+    "2": 12250,
+    "9": 0
+  },
+  "description": "Two-Handed Weapon",
+  "displayName": "Scarlet Scythe",
+  "gate_version": "nexustower",
+  "id": 12486,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Red Scythe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 979
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1327
+    }
+  ],
+  "type": "Loot"
+}

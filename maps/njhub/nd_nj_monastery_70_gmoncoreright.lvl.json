@@ -1,0 +1,100 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 2,
+      "value_2": 64,
+      "value_3": 352,
+      "value_4": 0,
+      "version": 47
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.549019992351532,
+        0.6274510025978088,
+        0.800000011920929,
+        0.0,
+        0.0,
+        0.0,
+        0.21176500618457794,
+        0.7137259840965271,
+        1.0,
+        0.0,
+        -270.0,
+        -180.0,
+        100.0,
+        900.0,
+        3500.0,
+        4000.0,
+        8000.0,
+        8000.0,
+        100.0,
+        900.0,
+        3500.0,
+        4000.0,
+        8000.0,
+        8000.0
+      ],
+      "ids": [],
+      "sky": [
+        "mesh\\env\\NG_NinjaGo\\env_nj_mon_sky.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 19241453486081,
+          "lot": 14733,
+          "pos": {
+            "pos": {
+              "x": -30.68000030517578,
+              "y": 200.0,
+              "z": 211.49000549316406
+            },
+            "rot": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "scale": 1.0,
+          "settings": {
+            "CheckPrecondition": "",
+            "add_to_navmesh": true,
+            "bounding_radius_override": 0.0,
+            "camGradSnap": false,
+            "camPrefersToFadeObject": true,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "",
+            "friction": 10.0,
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "sceneIDOverride": 70,
+            "sceneIDOverrideEnabled": true,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 1,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

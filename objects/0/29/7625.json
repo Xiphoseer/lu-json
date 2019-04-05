@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7194,
+    "3": 3374,
+    "40": 3377,
+    "6": 0,
+    "7": 869
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7625,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Pet Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

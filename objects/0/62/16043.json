@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14764,
+    "3": 7571,
+    "48": 232,
+    "5": 1604,
+    "7": 2099,
+    "9": 0
+  },
+  "description": "nj mon - qb dragon in a box",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16043,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "nj mon - qb dragon in a box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1517
+    }
+  ],
+  "type": "Rebuildables"
+}

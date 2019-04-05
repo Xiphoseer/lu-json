@@ -1,0 +1,34 @@
+{
+  "DisplayDescription": "Nexus Tower Battlefield Crater",
+  "PlayerLoseCoinsOnDeath": true,
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/1801.json"
+    }
+  },
+  "clientPhysicsFramerate": null,
+  "disableSaveLoc": false,
+  "fZoneWeight": 1.0,
+  "gate_version": null,
+  "ghostdistance": 400.0,
+  "ghostdistance_min": 300.0,
+  "heightInChunks": null,
+  "locStatus": 0,
+  "localize": false,
+  "mapFolder": null,
+  "mixerProgram": null,
+  "mountsAllowed": true,
+  "petsAllowed": true,
+  "population_hard_cap": 120,
+  "population_soft_cap": 80,
+  "scriptID": -1,
+  "serverPhysicsFramerate": null,
+  "smashableMaxDistance": null,
+  "smashableMinDistance": null,
+  "teamRadius": null,
+  "thumbnail": null,
+  "widthInChunks": null,
+  "zoneControlTemplate": null,
+  "zoneID": 1801,
+  "zoneName": "2011_Live_Maps/Aura_Mar_Crater/nd_aura_mar_crater.luz"
+}

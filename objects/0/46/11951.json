@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11702,
+    "20": 5766,
+    "5": 1353,
+    "7": 1714
+  },
+  "description": "Forbidden Valley racetrack -- ghost smashable -- EVIL",
+  "displayName": "FV racetrack -- ghost smashable -- EVIL",
+  "gate_version": null,
+  "id": 11951,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV racetrack -- ghost smashable -- EVIL",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

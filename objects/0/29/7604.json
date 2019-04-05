@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3355,
+    "2": 7167,
+    "9": 0
+  },
+  "description": "combo starter projectile on wand",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7604,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "sorcerer Wand Bullet - small 1 damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 356
+    }
+  ],
+  "type": "Shooting Gallery"
+}

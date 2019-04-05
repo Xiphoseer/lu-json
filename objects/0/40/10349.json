@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5098,
+    "2": 10197,
+    "3": 4589,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Vanity Model 4",
+  "gate_version": null,
+  "id": 10349,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Vanity 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

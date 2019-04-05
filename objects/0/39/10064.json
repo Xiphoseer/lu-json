@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Plays music",
+  "components": {
+    "11": 4888,
+    "2": 9900
+  },
+  "description": "Plays music",
+  "displayName": "Juke Box Behavior",
+  "gate_version": null,
+  "id": 10064,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Juke Box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

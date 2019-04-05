@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3251,
+    "3": 1885,
+    "5": 590,
+    "7": 316
+  },
+  "description": "Cloud of stink spawned during skunk event",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3851,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Stink Cloud",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

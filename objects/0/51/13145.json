@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Sold at Venture vendors",
+  "components": {
+    "11": 6518,
+    "2": 12925,
+    "53": 120
+  },
+  "description": "Contains 5 Blue Imaginite",
+  "displayName": "Small Bag of Blue Imaginite",
+  "gate_version": "march2011content",
+  "id": 13145,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Small Blue Imaginite Bag - Venture",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11919,
+    "3": 5927,
+    "7": 1663
+  },
+  "description": "Amp blasting music that the Skeleton mine to",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12171,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Skeleton Growlspeaker Amp Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

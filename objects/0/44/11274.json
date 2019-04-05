@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11045,
+    "3": 5206,
+    "5": 1276
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 92,
+      "iconState": 69
+    }
+  ],
+  "id": 11274,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NS - LUP Gateway",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4155,
+    "25": 0,
+    "27": 0,
+    "3": 2053
+  },
+  "description": "Wing walking platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4733,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Wing walking bierdeckel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

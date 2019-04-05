@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10901,
+    "3": 5061
+  },
+  "description": "ns_racing_spot_light",
+  "displayName": "ns_racing_fireworks",
+  "gate_version": null,
+  "id": 11151,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ns_racing_cannon_fire",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

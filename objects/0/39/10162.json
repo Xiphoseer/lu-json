@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 374,
+    "2": 10001,
+    "3": 1777,
+    "35": 467,
+    "7": 307
+  },
+  "description": "Temp for Frontend Character",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10162,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "frontendtemp",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

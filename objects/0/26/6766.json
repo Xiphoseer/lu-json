@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2807,
+    "2": 6306,
+    "28": 43,
+    "3": 2970,
+    "42": 0,
+    "63": 33
+  },
+  "description": "Modular Car R Bumper",
+  "displayName": "Modular Car Rear Bumper #2",
+  "gate_version": null,
+  "id": 6766,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car R Bumper 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14107,
+    "3": 7223,
+    "7": 1962
+  },
+  "description": "",
+  "displayName": "NJ - Skullkin Siege Shield Smashable",
+  "gate_version": "njhub",
+  "id": 14416,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Skullkin Siege Shield Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7272,
+    "3": 3418,
+    "5": 950
+  },
+  "description": "Car modular build chassis equipped volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10386,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume Chassis Equipped",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

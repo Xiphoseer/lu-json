@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5166,
+    "2": 10305
+  },
+  "description": null,
+  "displayName": "Strombie Chainsaw",
+  "gate_version": null,
+  "id": 10462,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Strombie Chainsaw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

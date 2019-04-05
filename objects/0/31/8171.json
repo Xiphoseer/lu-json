@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "39": 43,
+    "5": 1057
+  },
+  "description": "test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8171,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Ryan Zone Control",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control"
+}

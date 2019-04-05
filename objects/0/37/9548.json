@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4578,
+    "2": 9399,
+    "3": 4127,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Blue Ninja Fence Model",
+  "gate_version": null,
+  "id": 9548,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ninja Fence Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

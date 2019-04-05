@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2910,
+    "25": 0,
+    "27": 0,
+    "3": 1707,
+    "48": 72
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3498,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Rotating Gear3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "19": 0,
+    "2": 1759,
+    "3": 895,
+    "5": 322
+  },
+  "description": "FlashTest",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2938,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RandallFlashTester",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

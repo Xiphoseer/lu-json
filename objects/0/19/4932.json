@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4362,
+    "3": 2245
+  },
+  "description": "EFFECTS TEST: carving machine",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4932,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - water_laser_carver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

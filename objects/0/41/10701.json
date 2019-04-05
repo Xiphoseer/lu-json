@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Proxy",
+  "components": {
+    "11": 5202,
+    "2": 10552
+  },
+  "description": "Pants object created dynamically by lot:9875",
+  "displayName": "LEGO Club Proxy Pants",
+  "gate_version": null,
+  "id": 10701,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Lego Club Proxy Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

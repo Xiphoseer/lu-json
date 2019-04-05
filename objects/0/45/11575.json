@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5626,
+    "2": 11327,
+    "3": 5419,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Tower Model",
+  "gate_version": null,
+  "id": 11575,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Tower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

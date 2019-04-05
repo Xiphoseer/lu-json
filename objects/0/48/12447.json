@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6095,
+    "2": 12201
+  },
+  "description": "NPC Bone Axe",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12447,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Bone Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

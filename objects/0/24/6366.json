@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2659,
+    "17": 176,
+    "2": 5814,
+    "35": 215,
+    "5": 851,
+    "60": 8,
+    "7": 519,
+    "9": 0
+  },
+  "description": "__MG__Guard for Sentinels",
+  "displayName": "Sentinel Faction Guard",
+  "gate_version": null,
+  "id": 6366,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sentinel Guard",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 329
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

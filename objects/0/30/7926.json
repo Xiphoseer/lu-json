@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7472,
+    "3": 3583
+  },
+  "description": "Concert stage base",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7926,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Concert Stage base",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 2840,
+    "2": 6336,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blue Captain Shirt",
+  "gate_version": null,
+  "id": 6802,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Captains Shirt 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

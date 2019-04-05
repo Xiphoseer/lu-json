@@ -1,0 +1,19 @@
+{
+  "id": 314,
+  "tasks": [
+    {
+      "IconID": 2909,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Sentinel_Commander_Task.dds",
+      "largeTaskIconID": 2909,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6008,
+      "targetGroup": "",
+      "targetValue": 1,
+      "taskParam1": null,
+      "taskType": 4,
+      "uid": 475
+    }
+  ]
+}

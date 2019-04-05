@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5887,
+    "2": 11588,
+    "3": 5680,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Space Fort Barricade Door Model",
+  "gate_version": null,
+  "id": 11836,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Spacefort Door Barred",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

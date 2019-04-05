@@ -1,0 +1,41 @@
+{
+  "id": 27,
+  "missions": [
+    {
+      "acceptsMission": false,
+      "gate_version": null,
+      "missionID": 377,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": null,
+      "missionID": 633,
+      "offersMission": false
+    },
+    {
+      "acceptsMission": true,
+      "gate_version": "march2011content",
+      "missionID": 1194,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "dec2010content",
+      "missionID": 1250,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "dec2010content",
+      "missionID": 1251,
+      "offersMission": true
+    },
+    {
+      "acceptsMission": false,
+      "gate_version": "dec2010content",
+      "missionID": 1252,
+      "offersMission": true
+    }
+  ]
+}

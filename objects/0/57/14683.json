@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/6/7 NJ Slashing M",
+  "components": {
+    "11": 7180,
+    "2": 14371,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Fury Katana",
+  "gate_version": "njhub",
+  "id": 14683,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Fury Katana",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1421
+    }
+  ],
+  "type": "Loot"
+}

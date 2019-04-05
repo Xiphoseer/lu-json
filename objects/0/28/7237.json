@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 6814,
+    "35": 293,
+    "5": 999,
+    "7": 307
+  },
+  "description": "Crowd NPC 3 Stand",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7237,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp7",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

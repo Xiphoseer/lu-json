@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Ranged + 3 chargeup",
+  "components": {
+    "11": 3807,
+    "2": 8063,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Pneumatic Drill of Blasting",
+  "gate_version": null,
+  "id": 8508,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pneumatic Drill of Blasting",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 900
+    }
+  ],
+  "type": "Loot"
+}

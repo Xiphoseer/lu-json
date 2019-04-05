@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7067,
+    "2": 14014,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Paradox Gear - Space Marauder - offhand proxy",
+  "gate_version": "freetrial",
+  "id": 14325,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Paradox Gear - Space Marauder - offhand proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 609
+    }
+  ],
+  "type": "Loot"
+}

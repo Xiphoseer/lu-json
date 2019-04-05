@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 8103,
+    "35": 362,
+    "7": 307
+  },
+  "description": "Test new animation column3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8549,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test new animation column",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

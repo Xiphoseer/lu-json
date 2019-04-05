@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3446,
+    "2": 7573,
+    "53": 11
+  },
+  "description": "Double-click to get the Rank 1 Space Ranger Specialty Gear!",
+  "displayName": "Rank 1 Space Ranger Kit Package",
+  "gate_version": "factionkit2",
+  "id": 8027,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rank 1 Space Ranger Kit Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

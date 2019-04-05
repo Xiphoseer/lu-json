@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 280,
+    "2": 7748,
+    "3": 3795,
+    "35": 354,
+    "39": 0,
+    "7": 866
+  },
+  "description": "__MG__NS Race Mission Giver",
+  "displayName": "Sky Lane - Venture League Explorer",
+  "gate_version": null,
+  "id": 8205,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS - Sky Lane",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6677,
+    "2": 13338,
+    "7": 1852,
+    "9": 0
+  },
+  "description": "Explosive used by bounce blaster",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13601,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Bounce Blaster Charge-up Projectile",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1250
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 8107,
+    "3": 3941,
+    "7": 894
+  },
+  "description": "Lionhead Smashable for tamming Lion in game mission",
+  "displayName": "",
+  "gate_version": null,
+  "id": 8553,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV-LionHead statue Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5886,
+    "3": 2710
+  },
+  "description": "Battlefield Bunker for new AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6441,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Battlefield Bunker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

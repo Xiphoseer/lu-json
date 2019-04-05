@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5930,
+    "2": 11631,
+    "3": 5723,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Winter Gingerbread House Window Model 1",
+  "gate_version": "dec2010content",
+  "id": 11879,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Gingerbread House Window 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

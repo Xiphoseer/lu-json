@@ -1,0 +1,55 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 87,
+    "17": 352,
+    "2": 9862,
+    "3": 1777,
+    "35": 445,
+    "7": 306,
+    "73": 174
+  },
+  "description": "NS Assembly Faction Vendor - Plaza",
+  "displayName": "Meldric Steamvalve - Assembly Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 121,
+      "iconState": 1
+    },
+    {
+      "iconID": 122,
+      "iconState": 2
+    },
+    {
+      "iconID": 123,
+      "iconState": 4
+    },
+    {
+      "iconID": 129,
+      "iconState": 9
+    },
+    {
+      "iconID": 130,
+      "iconState": 10
+    },
+    {
+      "iconID": 72,
+      "iconState": 69
+    },
+    {
+      "iconID": 178,
+      "iconState": 70
+    }
+  ],
+  "id": 6633,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Assembly Faction Vendor - Plaza",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

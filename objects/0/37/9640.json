@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 770 - Hidden",
+  "components": {
+    "11": 4653,
+    "2": 9483
+  },
+  "description": null,
+  "displayName": "Broken Pirate Rocket Nose Cone",
+  "gate_version": null,
+  "id": 9640,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Broken Pirate Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

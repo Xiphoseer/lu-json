@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6923,
+    "2": 13657,
+    "7": 1884,
+    "9": 0
+  },
+  "description": "For testing Spawn on grid stuff",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13941,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Spawn Message Projectile 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 399
+    }
+  ],
+  "type": "Shooting Gallery"
+}

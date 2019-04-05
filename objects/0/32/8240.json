@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7778,
+    "3": 3825
+  },
+  "description": "Dragon area scene glom part for Global scene placement",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8240,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Dragon Scene Glom for Global",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

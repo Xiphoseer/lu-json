@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ice SJ tornado skill",
+  "components": {
+    "11": 6212,
+    "2": 12448,
+    "9": 0
+  },
+  "description": "Equip these to unleash Ice Spinjitzu and rocket directly to the Ninjago Caves!",
+  "displayName": "The Shurikens of Ice",
+  "gate_version": "njhub",
+  "id": 12659,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Spinjitzu The Shurikens of Ice",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1565
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1645
+    }
+  ],
+  "type": "Loot"
+}

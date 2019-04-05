@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10881,
+    "3": 5055,
+    "5": 1062
+  },
+  "description": "New Venture rocket launcher",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11131,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 rocket launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For LU internal use only",
+  "components": {
+    "11": 5153,
+    "2": 10287
+  },
+  "description": "A platform that moves up, spins, smashes and rebuilds",
+  "displayName": "AG Property Pushback Platform - Touch Behavior",
+  "gate_version": null,
+  "id": 10444,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - AG Property Pushback Platform - Touch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

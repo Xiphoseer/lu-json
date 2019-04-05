@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7710,
+    "20": 3778,
+    "5": 1080,
+    "7": 863
+  },
+  "description": "Mealstrom chest that explodes when player smashes",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8166,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Racing Maelstrom chest",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

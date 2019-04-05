@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7354,
+    "3": 3468
+  },
+  "description": "light object for NS",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7798,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Cliff Upper Cap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

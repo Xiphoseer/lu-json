@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6703,
+    "40": 3171,
+    "5": 1100
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 8661,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss Pickup",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

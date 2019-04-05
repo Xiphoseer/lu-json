@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 AP",
+  "components": {
+    "11": 3862,
+    "2": 8163,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Shabby Ninja Shirt",
+  "gate_version": null,
+  "id": 8606,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shabby Ninja Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

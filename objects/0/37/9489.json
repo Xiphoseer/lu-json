@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4552,
+    "2": 9342,
+    "3": 5072,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Pavilion Model",
+  "gate_version": null,
+  "id": 9489,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pavalion",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

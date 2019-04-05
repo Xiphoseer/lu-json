@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5592,
+    "2": 11293,
+    "3": 5385,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Raised Cargo Lift Model 1",
+  "gate_version": null,
+  "id": 11541,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Cargo Lift 1 Raised",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

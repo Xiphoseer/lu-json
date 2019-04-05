@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3412,
+    "2": 11074,
+    "7": 718,
+    "9": 0
+  },
+  "description": "Thrown Monkey that spawns the Funky Monkey on impact",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7700,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Funky Monkey Projectile Rank 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 399
+    }
+  ],
+  "type": "Shooting Gallery"
+}

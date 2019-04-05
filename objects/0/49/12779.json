@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP + Dance emote",
+  "components": {
+    "11": 6327,
+    "2": 12569,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Dancin' Hat",
+  "gate_version": "auramar",
+  "id": 12779,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cowboy Hat of Line Dancing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1108
+    }
+  ],
+  "type": "Loot"
+}

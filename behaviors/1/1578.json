@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/1/1578.json"
+    }
+  },
+  "behaviorID": 1578,
+  "effectHandle": null,
+  "effectID": 324,
+  "parameters": {
+    "affects_caster": 0.0,
+    "attack_speed": 0.0,
+    "run_speed": 1000.0
+  },
+  "templateID": 23
+}

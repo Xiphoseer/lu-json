@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6064,
+    "2": 12132,
+    "5": 1343,
+    "60": 24,
+    "7": 1701,
+    "9": 0
+  },
+  "description": "Darkling for Portabello",
+  "displayName": "Dark One",
+  "gate_version": null,
+  "id": 12379,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Dark One",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "Enemies"
+}

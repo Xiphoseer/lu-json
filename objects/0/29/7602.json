@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7166,
+    "3": 3353
+  },
+  "description": "The reusable tree glom for megan's partial-glom testing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7602,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Megan Reusable Tree Glom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

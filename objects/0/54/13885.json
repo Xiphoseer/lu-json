@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13607,
+    "3": 6872
+  },
+  "description": "NJ - Fire Hole",
+  "displayName": "NJ - Fire Hole",
+  "gate_version": "njhub",
+  "id": 13885,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - fire_hole",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

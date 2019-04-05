@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4615,
+    "2": 9436,
+    "3": 4164,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Space Command Center Model",
+  "gate_version": null,
+  "id": 9585,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Space Command Center",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

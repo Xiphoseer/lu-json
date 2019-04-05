@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 7733,
+    "2": 15297,
+    "3": 7909,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Monastery Drum Model",
+  "gate_version": "njhub",
+  "id": 16519,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Monastery Drum",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

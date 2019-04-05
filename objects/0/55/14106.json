@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP",
+  "components": {
+    "11": 6983,
+    "2": 13817,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Stromling Shirt",
+  "gate_version": "nexustower",
+  "id": 14106,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Stromling Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

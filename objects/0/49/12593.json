@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 3 AP",
+  "components": {
+    "11": 6176,
+    "2": 12383,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Rugby Shirt",
+  "gate_version": "nimbusinstance",
+  "id": 12593,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rugby Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

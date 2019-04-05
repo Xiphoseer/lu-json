@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2758,
+    "3": 1080
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3300,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet State Hungry",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Icon"
+}

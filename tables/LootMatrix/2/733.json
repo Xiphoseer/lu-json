@@ -1,0 +1,25 @@
+{
+  "LootMatrixIndex": 733,
+  "elements": [
+    {
+      "LootTableIndex": 694,
+      "RarityTableIndex": 25,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3958,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 697,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": "nexustower",
+      "id": 3962,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    }
+  ]
+}

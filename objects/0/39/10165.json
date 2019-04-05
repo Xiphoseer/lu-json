@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4952,
+    "2": 10004,
+    "53": 42
+  },
+  "description": "Double-click to open this pack of bricks!",
+  "displayName": "Mega Brick Booster Pack",
+  "gate_version": null,
+  "id": 10165,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mega Brick Booster Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

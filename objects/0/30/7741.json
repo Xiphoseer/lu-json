@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 3255,
+    "2": 7297,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Wolves Shirt",
+  "gate_version": null,
+  "id": 7741,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Howling at the moon Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6521,
+    "3": 3062
+  },
+  "description": "Jails slide used in Jail area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6950,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Jail Slide",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

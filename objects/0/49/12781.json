@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 IP 5 AP",
+  "components": {
+    "11": 6329,
+    "2": 12571,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Bat Lord Helmet",
+  "gate_version": "auramar",
+  "id": 12781,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bat Lord Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 126
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 378
+    }
+  ],
+  "type": "Loot"
+}

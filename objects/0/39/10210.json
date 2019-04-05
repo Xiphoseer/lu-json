@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10051,
+    "3": 4505
+  },
+  "description": "Ramp in front of Skull on GF Track",
+  "displayName": "GFSkullRamp",
+  "gate_version": null,
+  "id": 10210,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GFSkullRamp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

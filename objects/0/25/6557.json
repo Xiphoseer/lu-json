@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 196,
+    "2": 6115,
+    "35": 242,
+    "7": 307
+  },
+  "description": "DO NOT PLACE IN GAME DO NOT MODIFY Template general ambient NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6557,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test8675309",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

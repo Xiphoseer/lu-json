@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 7291,
+    "2": 14504,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Shoulder Owl",
+  "gate_version": "levelprogression",
+  "id": 14817,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shoulder Owl White",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

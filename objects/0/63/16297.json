@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ninjago Mission Item",
+  "components": {
+    "11": 7570,
+    "2": 15043
+  },
+  "description": "Return this to <name> in the Ninjago Monastery.",
+  "displayName": "Ice Spinjitzu Scroll",
+  "gate_version": "njhub",
+  "id": 16297,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Ice Spinjitzu Scroll",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

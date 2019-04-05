@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test object for brett",
+  "components": {
+    "11": 3407,
+    "2": 7545
+  },
+  "description": "Test object for brett",
+  "displayName": "Test_Acc_ProxyHelmet",
+  "gate_version": null,
+  "id": 7999,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test_Acc_ProxyHelmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

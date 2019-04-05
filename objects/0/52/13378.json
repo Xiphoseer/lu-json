@@ -1,0 +1,38 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 103,
+    "17": 487,
+    "2": 13106,
+    "3": 1777,
+    "35": 575,
+    "7": 306
+  },
+  "description": "Paradox Faction Kit Vendor",
+  "displayName": "Sutoro Hatto - Paradox Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    },
+    {
+      "iconID": 176,
+      "iconState": 70
+    }
+  ],
+  "id": 13378,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NT Paradox Faction Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

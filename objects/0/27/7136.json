@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 181,
+    "2": 5867,
+    "3": 2318,
+    "35": 178,
+    "7": 305
+  },
+  "description": "__MG__Test for overhead icons on a mission giver",
+  "displayName": "Wisp - Testing Only",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 65
+    },
+    {
+      "iconID": 67,
+      "iconState": 69
+    }
+  ],
+  "id": 7136,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Wisp Mission Giver",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

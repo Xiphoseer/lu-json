@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6488,
+    "2": 13034,
+    "5": 1452,
+    "7": 1827
+  },
+  "description": "TEST Passive  Stromling",
+  "displayName": "Passive Stromling",
+  "gate_version": null,
+  "id": 13306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - Passive Stromling",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Enemies"
+}

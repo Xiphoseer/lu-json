@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "102": 0,
+    "2": 13376,
+    "3": 1777,
+    "35": 601,
+    "7": 306
+  },
+  "description": null,
+  "displayName": "Test Commendation Vendor",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    }
+  ],
+  "id": 13732,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Commendation Vendor",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

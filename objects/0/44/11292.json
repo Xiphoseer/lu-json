@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 5519,
+    "2": 11069
+  },
+  "description": "NPC Grunt Red",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11292,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NPC Grunt Helmet Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

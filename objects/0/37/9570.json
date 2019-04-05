@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4600,
+    "2": 9421,
+    "3": 4149,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "BBQ Grill Model",
+  "gate_version": null,
+  "id": 9570,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward BBQ Grill",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

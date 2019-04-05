@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2760,
+    "2": 6129,
+    "28": 18,
+    "3": 2836,
+    "42": 0,
+    "63": 2
+  },
+  "description": "Modular Car Engine",
+  "displayName": "Modular Car Engine #1",
+  "gate_version": null,
+  "id": 6582,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old MOD Car Engine 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

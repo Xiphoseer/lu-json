@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11876,
+    "25": 0,
+    "27": 0,
+    "3": 5889
+  },
+  "description": "Nexus Battlefield Rock clump moving platform",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12127,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NEX -  Rock clump Mover",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "2": 7546,
+    "30": 13,
+    "5": 948,
+    "7": 722,
+    "9": 0
+  },
+  "description": "animated vehicle for design - old path animations\\\\mounts\\\\mou_racecar.kfm",
+  "displayName": "Design Test Car 2",
+  "gate_version": null,
+  "id": 7997,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Design Test Vehicle 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 583
+    }
+  ],
+  "type": "Vehicle"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Charging Rhino model",
+  "components": {
+    "11": 6646,
+    "2": 13170
+  },
+  "description": "A behavior that causes a model to charge when a player gets close.",
+  "displayName": "Charging Rhino Behavior",
+  "gate_version": null,
+  "id": 13449,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Charging Rhino Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

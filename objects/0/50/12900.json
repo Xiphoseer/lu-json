@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6269,
+    "2": 12684,
+    "48": 183,
+    "5": 1410,
+    "7": 1789
+  },
+  "description": "QB spawned by NSI Stromling Ape",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12900,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NSI Ape Smashing Anchor QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

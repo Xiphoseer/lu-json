@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item; write text of note in description field?",
+  "components": {
+    "11": 7123,
+    "2": 14189
+  },
+  "description": "Take this to Nya in the Ninjago Monastery!",
+  "displayName": "Cringe Lo's Love Note",
+  "gate_version": "njhub",
+  "id": 14500,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cringe Lo's Love Note",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Restores 3 point of Health",
+  "components": {
+    "11": 3342,
+    "2": 5608,
+    "9": 0
+  },
+  "description": "Restores 3 point of Health",
+  "displayName": "3 pt Healing Kit",
+  "gate_version": null,
+  "id": 6642,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Healing Kit - 3 pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 219
+    }
+  ],
+  "type": "Loot"
+}

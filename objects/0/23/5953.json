@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5349,
+    "25": 0,
+    "3": 2468
+  },
+  "description": "Version 3 of ship piston - 6 sided",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5953,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Ship Piston 03",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 2 IP",
+  "components": {
+    "11": 7487,
+    "2": 14837,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Common Kosode Pants",
+  "gate_version": "njhub",
+  "id": 16118,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Common Kosode Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

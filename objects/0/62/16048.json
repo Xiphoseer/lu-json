@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Skeleton Lieutenant",
+  "components": {
+    "1": 7575,
+    "17": 553,
+    "2": 14767,
+    "31": 84,
+    "5": 1608,
+    "60": 166,
+    "7": 2102,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Frakjaw - Skeleton of Fire",
+  "gate_version": "njhub",
+  "id": 16048,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Frakjaw Skeleton Lieutenant",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1525
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1530
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1651
+    }
+  ],
+  "type": "Enemies"
+}

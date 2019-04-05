@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND Use only",
+  "components": {
+    "11": 5355,
+    "2": 10754,
+    "3": 5020,
+    "42": 0,
+    "48": 156
+  },
+  "description": "GF Property Pushback Model - Tombstone",
+  "displayName": "GF Property Pushback Model - Tombstone",
+  "gate_version": null,
+  "id": 11001,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Property Pushback Model - Tombstone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

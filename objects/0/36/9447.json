@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4535,
+    "2": 9306,
+    "28": 191,
+    "3": 4070,
+    "42": 0,
+    "63": 7
+  },
+  "description": null,
+  "displayName": "Burst Tamale Rear Bumper",
+  "gate_version": null,
+  "id": 9447,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car4_RearBumper1_y",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

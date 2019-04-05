@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4251,
+    "2": 8117,
+    "5": 1268,
+    "60": 51,
+    "7": 957,
+    "9": 0
+  },
+  "description": "Level 1 Summon",
+  "displayName": "Thwok",
+  "gate_version": null,
+  "id": 8564,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Thwok Rank 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 274
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 688
+    }
+  ],
+  "type": "NPC"
+}

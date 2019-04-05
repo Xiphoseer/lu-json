@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ice element blade spinner trap",
+  "components": {
+    "2": 14949,
+    "25": 31,
+    "27": 0,
+    "3": 7660,
+    "39": 115,
+    "5": 1668,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Ice - Blade Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16233,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice - Blade Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

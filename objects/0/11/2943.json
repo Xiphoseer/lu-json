@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "no stats",
+  "components": {
+    "11": 981,
+    "2": 2447,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Musical Notes Shirt",
+  "gate_version": null,
+  "id": 2943,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Musical Notes Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

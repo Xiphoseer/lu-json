@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Bank Object",
+  "components": {
+    "2": 13278,
+    "3": 6642,
+    "5": 1480
+  },
+  "description": "Allows interactions with the bank UI",
+  "displayName": "ATM Machine",
+  "gate_version": "bank",
+  "icons": [
+    {
+      "iconID": 142,
+      "iconState": 69
+    }
+  ],
+  "id": 13538,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "ATM Machine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

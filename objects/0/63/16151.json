@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 7/8/11 NJ Smashing",
+  "components": {
+    "11": 7506,
+    "2": 14869,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Battle Mace",
+  "gate_version": "njhub",
+  "id": 16151,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Mace",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1639
+    }
+  ],
+  "type": "Loot"
+}

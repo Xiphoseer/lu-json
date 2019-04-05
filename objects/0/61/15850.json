@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14543,
+    "40": 7492,
+    "7": 2083,
+    "9": 0
+  },
+  "description": "for the rain of arrows skill",
+  "displayName": "Rain of arrows mesh",
+  "gate_version": "njhub",
+  "id": 15850,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Rain of arrows mesh for vfx",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

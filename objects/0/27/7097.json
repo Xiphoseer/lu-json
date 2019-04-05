@@ -1,0 +1,51 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 225,
+    "2": 6671,
+    "3": 1777,
+    "35": 278,
+    "5": 1151,
+    "7": 305,
+    "73": 47
+  },
+  "description": "__MG__Mission Giver for AG battle scene",
+  "displayName": "DNL - Silas Penumbra - Paradox Rep",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 7097,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Paradox Rep",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

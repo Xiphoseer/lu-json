@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item for PreOrders",
+  "components": {
+    "11": 4732,
+    "2": 9538,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Nexus Astronaut Shirt",
+  "gate_version": null,
+  "id": 9696,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Astronaut Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

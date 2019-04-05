@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "1": 7048,
+    "2": 13891,
+    "31": 77,
+    "5": 1546,
+    "7": 1930
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 14182,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Proto - Chase Lightning follower",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

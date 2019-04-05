@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5290,
+    "2": 10681,
+    "3": 4955,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Sofa Table Model",
+  "gate_version": null,
+  "id": 10834,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward SofaTable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

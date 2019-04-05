@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "4 IP",
+  "components": {
+    "11": 6288,
+    "2": 12529,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Plunger Hat",
+  "gate_version": "auramar",
+  "id": 12740,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Plunger Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 987
+    }
+  ],
+  "type": "Loot"
+}

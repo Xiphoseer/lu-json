@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 835,
+    "2": 1533,
+    "48": 5,
+    "5": 62
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1798,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Moving Tesla Coil Solo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

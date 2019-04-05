@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1814,
+    "3": 1278
+  },
+  "description": "The object that the cannon uses to aim at",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1906,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Cannon Targeting Reticle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 36
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1565,
+    "2": 2526,
+    "5": 408,
+    "7": 402
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3389,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PR - Sign YRK",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

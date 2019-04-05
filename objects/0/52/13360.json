@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13088,
+    "3": 6494
+  },
+  "description": "Main Cavern Room for Ice boss and Beacon",
+  "displayName": "NJ - Ice Boss Cavern",
+  "gate_version": "njhub",
+  "id": 13360,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ice Boss Cavern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

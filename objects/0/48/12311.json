@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 1 IP",
+  "components": {
+    "11": 6051,
+    "2": 12061,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bowling Shirt",
+  "gate_version": "ventureinstance",
+  "id": 12311,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bowling Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

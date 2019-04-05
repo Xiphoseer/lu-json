@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2486,
+    "2": 4133,
+    "28": 7,
+    "3": 2553,
+    "42": 0,
+    "9": 0
+  },
+  "description": "Modular Build rocket engine",
+  "displayName": "Classic Rocket Engine",
+  "gate_version": null,
+  "id": 4715,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Classic Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

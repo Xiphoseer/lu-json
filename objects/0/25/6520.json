@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2748,
+    "2": 6091,
+    "3": 2821,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Island Fort Model",
+  "gate_version": null,
+  "id": 6520,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mini Fort",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

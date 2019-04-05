@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3909,
+    "2": 8219,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Jodhpurs",
+  "gate_version": null,
+  "id": 8664,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Jodhpurs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

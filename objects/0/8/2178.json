@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1009,
+    "2": 1861,
+    "5": 131
+  },
+  "description": "Ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2178,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Forest Snail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

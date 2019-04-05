@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission item",
+  "components": {
+    "11": 2620,
+    "2": 5772
+  },
+  "description": "Collectible in Pet Rock to build a bridge",
+  "displayName": "Pet Rock Bridge Part 2",
+  "gate_version": null,
+  "id": 6333,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pet Rock Bridge Part 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

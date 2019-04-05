@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Avant Gardens Mission Item",
+  "components": {
+    "11": 7147,
+    "2": 14238
+  },
+  "description": "Return this to Rusty Steele in Avant Gardens",
+  "displayName": "Hamster Wheel",
+  "gate_version": "freetrial",
+  "id": 14555,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rusty Steel Macguffin - fan",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

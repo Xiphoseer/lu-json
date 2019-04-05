@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1893,
+    "25": 0,
+    "27": 0,
+    "3": 2237
+  },
+  "description": "Design Challenge - Puccio & Kidd",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4922,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DMB - Dinghy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

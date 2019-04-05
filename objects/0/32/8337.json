@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 3661,
+    "2": 7895,
+    "28": 61,
+    "3": 3892,
+    "42": 0
+  },
+  "description": "Promo Modular Build rocket Nose Cone",
+  "displayName": "Nexus Force Rocket Nose Cone",
+  "gate_version": null,
+  "id": 8337,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Promo Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

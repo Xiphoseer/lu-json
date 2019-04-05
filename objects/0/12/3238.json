@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1980,
+    "3": 2081,
+    "7": 249
+  },
+  "description": "NP- Mission target scene 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3238,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Fiber Crates",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

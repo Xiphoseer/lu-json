@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2659,
+    "17": 146,
+    "2": 6112,
+    "35": 179,
+    "5": 854,
+    "7": 522
+  },
+  "description": "Min spec test",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6553,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Min Spec MGs",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

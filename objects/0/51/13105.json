@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12881,
+    "40": 6373,
+    "5": 1438,
+    "7": 1817
+  },
+  "description": "Skill Check Cylinder for Sensei Wu",
+  "displayName": "",
+  "gate_version": "auramar",
+  "id": 13105,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - Skill Check Cylinder for Sensei Wu",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

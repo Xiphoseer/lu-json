@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 2559,
+    "2": 5671,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Pith Helmet",
+  "gate_version": null,
+  "id": 6199,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pith Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

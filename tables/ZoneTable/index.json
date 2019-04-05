@@ -1,0 +1,635 @@
+{
+  "_embedded": {
+    "ZoneTable": [
+      {
+        "DisplayDescription": "Old Avant Gardens",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/134.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/134.json"
+          }
+        },
+        "zoneID": 134,
+        "zoneName": "Old/nimbus park/nimbus_park.luz"
+      },
+      {
+        "DisplayDescription": "Dev YRK SG",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/336.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/336.json"
+          }
+        },
+        "zoneID": 336,
+        "zoneName": "Old/yrk devsg/YRK_DevSG.luz"
+      },
+      {
+        "DisplayDescription": "Gnarled Forest Deep Dive Map",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/375.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/375.json"
+          }
+        },
+        "zoneID": 375,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/nd_gnarled_forest.luz"
+      },
+      {
+        "DisplayDescription": "Dead Man's Bluff",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/396.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/396.json"
+          }
+        },
+        "zoneID": 396,
+        "zoneName": "Game Challenge/DMB/test_deadmansbluff.luz"
+      },
+      {
+        "DisplayDescription": "Forbidden Valley",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/530.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/530.json"
+          }
+        },
+        "zoneID": 530,
+        "zoneName": "Forbidden Valley/media/warrenfv.luz"
+      },
+      {
+        "DisplayDescription": "FV race track",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/545.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/545.json"
+          }
+        },
+        "zoneID": 545,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/Racetrack/fv_racetrack.luz"
+      },
+      {
+        "DisplayDescription": "Winter Racetrack",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/556.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/556.json"
+          }
+        },
+        "zoneID": 556,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Winter_Racetrack/nd_nimbus_station_winter-racetrack.luz"
+      },
+      {
+        "DisplayDescription": "TEST",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/58003.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/58003.json"
+          }
+        },
+        "zoneID": 58003,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/Racetrack/test.luz"
+      },
+      {
+        "DisplayDescription": "Venture Explorer",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1000.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1000.json"
+          }
+        },
+        "zoneID": 1000,
+        "zoneName": "01_Live_Maps/Space_Ship/nd_space_ship.luz"
+      },
+      {
+        "DisplayDescription": "Return to the Venture Explorer",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1001.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1001.json"
+          }
+        },
+        "zoneID": 1001,
+        "zoneName": "01_Live_Maps/Space_Ship/Battle_Instance/nd_space_ship_battle_instance.luz"
+      },
+      {
+        "DisplayDescription": "Avant Gardens",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1100.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1100.json"
+          }
+        },
+        "zoneID": 1100,
+        "zoneName": "01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz"
+      },
+      {
+        "DisplayDescription": "Avant Gardens Survival",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1101.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1101.json"
+          }
+        },
+        "zoneID": 1101,
+        "zoneName": "01_Live_Maps/Avant_Gardens/Survival/nd_ag_survival_battlefield.luz"
+      },
+      {
+        "DisplayDescription": "Spider Queen Battle",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1102.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1102.json"
+          }
+        },
+        "zoneID": 1102,
+        "zoneName": "01_Live_Maps/Avant_Gardens/Property/Small/nd_ag_property_small.luz"
+      },
+      {
+        "DisplayDescription": "Block Yard",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1150.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1150.json"
+          }
+        },
+        "zoneID": 1150,
+        "zoneName": "01_Live_Maps/Avant_Gardens/Property/Small/nd_ag_property_small.luz"
+      },
+      {
+        "DisplayDescription": "Avant Grove",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1151.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1151.json"
+          }
+        },
+        "zoneID": 1151,
+        "zoneName": "01_Live_Maps/Avant_Gardens/Property/Medium/nd_ag_property_medium.luz"
+      },
+      {
+        "DisplayDescription": "Avant Gardens Large Property",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1152.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1152.json"
+          }
+        },
+        "zoneID": 1152,
+        "zoneName": "2011_Live_Maps/PP_AG_Large/nd_ag_property_large.luz"
+      },
+      {
+        "DisplayDescription": "Nimbus Station",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1200.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1200.json"
+          }
+        },
+        "zoneID": 1200,
+        "zoneName": "01_Live_Maps/Nimbus_Station/nd_nimbus_station.luz"
+      },
+      {
+        "DisplayDescription": "Pet Cove",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1201.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1201.json"
+          }
+        },
+        "zoneID": 1201,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Pet_Ranch/nd_ns_pet_ranch.luz"
+      },
+      {
+        "DisplayDescription": "NS Shooting Gallery",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1202.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1202.json"
+          }
+        },
+        "zoneID": 1202,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Shooting_Gallery/nd_ns_sg_ducks.luz"
+      },
+      {
+        "DisplayDescription": "Vertigo Loop Racetrack",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1203.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1203.json"
+          }
+        },
+        "zoneID": 1203,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz"
+      },
+      {
+        "DisplayDescription": "The Battle of Nimbus Station",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1204.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1204.json"
+          }
+        },
+        "zoneID": 1204,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Waves/nd_ns_waves.luz"
+      },
+      {
+        "DisplayDescription": "Nimbus Rock",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1250.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1250.json"
+          }
+        },
+        "zoneID": 1250,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Property/Small/nd_ns_property_small.luz"
+      },
+      {
+        "DisplayDescription": "Nimbus Isle",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1251.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1251.json"
+          }
+        },
+        "zoneID": 1251,
+        "zoneName": "nsmed/nd_ns_property_medium.luz"
+      },
+      {
+        "DisplayDescription": "Nimbus Station Large Property",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1252.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1252.json"
+          }
+        },
+        "zoneID": 1252,
+        "zoneName": "01_Live_Maps/Nimbus_Station/Property/Large/nd_ns_property_large.luz"
+      },
+      {
+        "DisplayDescription": "Gnarled Forest",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1300.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1300.json"
+          }
+        },
+        "zoneID": 1300,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/nd_gnarled_forest.luz"
+      },
+      {
+        "DisplayDescription": "Gnarled Forest Survival",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1301.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1301.json"
+          }
+        },
+        "zoneID": 1301,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/Survival/nd_gf_survival_battle.luz"
+      },
+      {
+        "DisplayDescription": "Cannon Cove Shooting Gallery",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1302.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1302.json"
+          }
+        },
+        "zoneID": 1302,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/shooting_gallery/nd_gf_sg_ships.luz"
+      },
+      {
+        "DisplayDescription": "Keelhaul Canyon Racetrack",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1303.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1303.json"
+          }
+        },
+        "zoneID": 1303,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz"
+      },
+      {
+        "DisplayDescription": "Chantey Shanty",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1350.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1350.json"
+          }
+        },
+        "zoneID": 1350,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/Property/Small/nd_gf_property_small.luz"
+      },
+      {
+        "DisplayDescription": "Gnarled Forest Large Property",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1352.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1352.json"
+          }
+        },
+        "zoneID": 1352,
+        "zoneName": "01_Live_Maps/Gnarled_Forest/Property/Large/nd_gf_property_large.luz"
+      },
+      {
+        "DisplayDescription": "Forbidden Valley",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1400.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1400.json"
+          }
+        },
+        "zoneID": 1400,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.luz"
+      },
+      {
+        "DisplayDescription": "Forbidden Valley Siege",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1401.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1401.json"
+          }
+        },
+        "zoneID": 1401,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/siege/nd_fv_siege.luz"
+      },
+      {
+        "DisplayDescription": "Forbidden Valley Dragon Battle",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1402.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1402.json"
+          }
+        },
+        "zoneID": 1402,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/Dragon_Battle/nd_fv_dragon_crevice.luz"
+      },
+      {
+        "DisplayDescription": "Dragonmaw Chasm Racetrack",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1403.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1403.json"
+          }
+        },
+        "zoneID": 1403,
+        "zoneName": "FVracetrack/fv_racetrack.luz"
+      },
+      {
+        "DisplayDescription": "Raven Bluff",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1450.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1450.json"
+          }
+        },
+        "zoneID": 1450,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/Property/Small/nd_fv_property_small.luz"
+      },
+      {
+        "DisplayDescription": "Craggle Rock",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1452.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1452.json"
+          }
+        },
+        "zoneID": 1452,
+        "zoneName": "01_Live_Maps/Forbidden_Valley/Property/Large/nd_fv_property_large.luz"
+      },
+      {
+        "DisplayDescription": "LUP Station",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1500.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1500.json"
+          }
+        },
+        "zoneID": 1500,
+        "zoneName": "01_Live_Maps/LUP_Station/nd_lup_station.luz"
+      },
+      {
+        "DisplayDescription": "Starbase 3001",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1600.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1600.json"
+          }
+        },
+        "zoneID": 1600,
+        "zoneName": "01_Live_Maps/LUP_Station/nd_starbase3001.luz"
+      },
+      {
+        "DisplayDescription": "DeepFreeze",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1601.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1601.json"
+          }
+        },
+        "zoneID": 1601,
+        "zoneName": "01_Live_Maps/WBL/Deep_Freeze_Intro/wbl_deep_freeze_intro.luz"
+      },
+      {
+        "DisplayDescription": "Robot City",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1602.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1602.json"
+          }
+        },
+        "zoneID": 1602,
+        "zoneName": "01_Live_Maps/WBL/Robot_City_Intro/wbl_robot_city_intro.luz"
+      },
+      {
+        "DisplayDescription": "MoonBase",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1603.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1603.json"
+          }
+        },
+        "zoneID": 1603,
+        "zoneName": "01_Live_Maps/WBL/Moon_Base_Intro/wbl_moon_base_intro.luz"
+      },
+      {
+        "DisplayDescription": "Portabello",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1604.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1604.json"
+          }
+        },
+        "zoneID": 1604,
+        "zoneName": "01_Live_Maps/WBL/Portabello/wbl_portabello.luz"
+      },
+      {
+        "DisplayDescription": "LEGO Club",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1700.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1700.json"
+          }
+        },
+        "zoneID": 1700,
+        "zoneName": "01_Live_Maps/LEGO_Club/nd_lego_club.luz"
+      },
+      {
+        "DisplayDescription": "Crux Prime",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1800.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1800.json"
+          }
+        },
+        "zoneID": 1800,
+        "zoneName": "2011_Live_Maps/Aura_Mar/nd_Aura_Mar.luz"
+      },
+      {
+        "DisplayDescription": "Nexus Tower Battlefield Crater",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1801.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1801.json"
+          }
+        },
+        "zoneID": 1801,
+        "zoneName": "2011_Live_Maps/Aura_Mar_Crater/nd_aura_mar_crater.luz"
+      },
+      {
+        "DisplayDescription": "Nexus Tower",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/1900.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/1900.json"
+          }
+        },
+        "zoneID": 1900,
+        "zoneName": "nexustower/nd_nexus_tower.luz"
+      },
+      {
+        "DisplayDescription": "Ninjago Monastery",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/2000.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/2000.json"
+          }
+        },
+        "zoneID": 2000,
+        "zoneName": "njhub/nd_nj_Monastery.luz"
+      },
+      {
+        "DisplayDescription": "Battle Against Frakjaw!",
+        "_links": {
+          "level": {
+            "href": "/lu-json/zones/2001.json"
+          },
+          "self": {
+            "href": "/lu-json/tables/ZoneTable/2001.json"
+          }
+        },
+        "zoneID": 2001,
+        "zoneName": "njhub/Cave_Instance/monastery_cave_instance.luz"
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/lu-json/tables/ZoneTable/index.json"
+    }
+  }
+}

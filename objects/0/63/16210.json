@@ -1,0 +1,26 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Ninjago tamable Pet",
+  "components": {
+    "1": 7637,
+    "11": 7524,
+    "2": 14926,
+    "26": 36,
+    "42": 0,
+    "5": 1698,
+    "7": 2133,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": "Earth Dragon Pet",
+  "gate_version": "njhub",
+  "id": 16210,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ninjago Earth Dragon Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

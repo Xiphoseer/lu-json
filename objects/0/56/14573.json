@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14255,
+    "3": 7301
+  },
+  "description": "Test Maelstrom Creature",
+  "displayName": "Test Maelstrom Creature",
+  "gate_version": "auramar",
+  "id": 14573,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Maelstrom Creature",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

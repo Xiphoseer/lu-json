@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 3753,
+    "2": 8009,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Hairbrush",
+  "gate_version": null,
+  "id": 8454,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Hairbrush",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 280
+    }
+  ],
+  "type": "Loot"
+}

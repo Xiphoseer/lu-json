@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Gives NT conversion reward (hidden achievement for extra bank slots)",
+  "components": {
+    "11": 7032,
+    "2": 13894,
+    "9": 0
+  },
+  "description": "Double-click to unlock 8 additional Vault slots!",
+  "displayName": "Journal of the Founders",
+  "gate_version": "nexustower",
+  "id": 14186,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Journal of the Founders",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1340
+    }
+  ],
+  "type": "Loot"
+}

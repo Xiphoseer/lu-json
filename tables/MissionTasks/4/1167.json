@@ -1,0 +1,19 @@
+{
+  "id": 1167,
+  "tasks": [
+    {
+      "IconID": 3063,
+      "gate_version": "FVracetrack",
+      "largeTaskIcon": null,
+      "largeTaskIconID": null,
+      "locStatus": 2,
+      "localize": true,
+      "target": 0,
+      "targetGroup": "11405,11406",
+      "targetValue": 200,
+      "taskParam1": "17",
+      "taskType": 23,
+      "uid": 1620
+    }
+  ]
+}

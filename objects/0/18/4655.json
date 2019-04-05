@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4073,
+    "47": 2011
+  },
+  "description": "CafeCorner model with a physics box shape per brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4655,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - CafeCorner Box Per Brick",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

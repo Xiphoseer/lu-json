@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11997
+  },
+  "description": "Test for animation mech effects Change the render as needed for testing purposes",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12250,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST animated FX mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

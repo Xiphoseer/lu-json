@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11156,
+    "3": 5282
+  },
+  "description": "RACE-FVTrack09_WALLS_FVTree",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11383,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack09_WALLS_FVTree",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

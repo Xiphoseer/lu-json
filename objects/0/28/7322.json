@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6888,
+    "3": 3302
+  },
+  "description": "Wall section for Entrance to FV from Nimbus",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7322,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Nimb Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7976,
+    "20": 3900
+  },
+  "description": "Death Plane over water at Cave Exit ramp",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8418,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GFTrack_CavesExitDeathPlane",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

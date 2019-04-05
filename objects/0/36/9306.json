@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "5": 1118,
+    "71": 42
+  },
+  "description": "Zone control object for racing on the NS track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS Racing zone control object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

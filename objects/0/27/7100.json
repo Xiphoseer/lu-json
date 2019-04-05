@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12190,
+    "3": 3157,
+    "48": 112,
+    "7": 679
+  },
+  "description": "Wall the player builds to trap Maelstrom Pirates",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7100,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Rebuildable Jail Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

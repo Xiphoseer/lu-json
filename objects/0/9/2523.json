@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "CC pants",
+  "components": {
+    "11": 921,
+    "2": 3350
+  },
+  "description": null,
+  "displayName": "White Pants",
+  "gate_version": null,
+  "id": 2523,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Pants",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

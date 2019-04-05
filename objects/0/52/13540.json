@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Brick Donation Object",
+  "components": {
+    "100": 0,
+    "2": 13280,
+    "3": 6644,
+    "5": 1468
+  },
+  "description": "Allows interactions with brick donation UI",
+  "displayName": "DELETE ME Brick Donation Machine",
+  "gate_version": "nexustower",
+  "id": 13540,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "DELETE ME Brick Donation Machine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

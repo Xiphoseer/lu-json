@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9690,
+    "3": 3659
+  },
+  "description": "Displays requirements above an object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9858,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Requirements Overhead Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Icon"
+}

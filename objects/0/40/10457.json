@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 4650,
+    "11": 5163,
+    "2": 10300,
+    "42": 0,
+    "7": 1559
+  },
+  "description": "TEST Property Terrier",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10457,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Terrier Property Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

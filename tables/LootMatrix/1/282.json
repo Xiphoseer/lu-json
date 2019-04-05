@@ -1,0 +1,25 @@
+{
+  "LootMatrixIndex": 282,
+  "elements": [
+    {
+      "LootTableIndex": 187,
+      "RarityTableIndex": 16,
+      "flagID": null,
+      "gate_version": null,
+      "id": 668,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 1.0
+    },
+    {
+      "LootTableIndex": 670,
+      "RarityTableIndex": 23,
+      "flagID": null,
+      "gate_version": null,
+      "id": 925,
+      "maxToDrop": 4,
+      "minToDrop": 3,
+      "percent": 1.0
+    }
+  ]
+}

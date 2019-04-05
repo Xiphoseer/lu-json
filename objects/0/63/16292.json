@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 15033,
+    "3": 7702
+  },
+  "description": null,
+  "displayName": "NJ mon - Ice Flag",
+  "gate_version": "njhub",
+  "id": 16292,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ mon - Ice Flag",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

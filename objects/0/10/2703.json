@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1344,
+    "2": 2333,
+    "5": 249,
+    "7": 200,
+    "9": 0
+  },
+  "description": "Wocka Wocka (based on 2268)",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2703,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC11 - Wocka Blonky Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Enemies"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 96,
+    "2": 4188,
+    "3": 2318,
+    "35": 127,
+    "5": 662
+  },
+  "description": "having a duel in Avant Gardens scene 2, based on old kipper commercial",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4777,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Paradox Greeter",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

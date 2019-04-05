@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5107,
+    "25": 0,
+    "3": 894,
+    "6": 0
+  },
+  "description": "Test for moving obstacle bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5683,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "MG - PlatFrom Bouncer Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

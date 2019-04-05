@@ -1,0 +1,57 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 560,
+    "2": 15124,
+    "3": 1777,
+    "35": 641,
+    "7": 305,
+    "9": 0
+  },
+  "description": "__MG__This is a test NPC.",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 7,
+      "iconState": 12
+    }
+  ],
+  "id": 16378,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TestingNPC",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 52
+    }
+  ],
+  "type": "NPC"
+}

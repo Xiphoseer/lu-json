@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5052,
+    "20": 3982,
+    "5": 1105
+  },
+  "description": "test death volume with camera script",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9252,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST GF-race death volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

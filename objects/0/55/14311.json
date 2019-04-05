@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7054,
+    "2": 14000,
+    "28": 351,
+    "3": 7144,
+    "42": 0
+  },
+  "description": "Designed by Gotheria!",
+  "displayName": "Musclenaut GT Rocket Cockpit",
+  "gate_version": "ftcommunityitems",
+  "id": 14311,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Muscle Car Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

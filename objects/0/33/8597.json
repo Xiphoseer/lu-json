@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 3853,
+    "2": 8154,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Card Shark Shirt",
+  "gate_version": null,
+  "id": 8597,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Card Shark Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

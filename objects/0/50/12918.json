@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 2 AP + Spinjitzu Armor",
+  "components": {
+    "11": 6418,
+    "2": 12704,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Imagination Spinjitzu Hood",
+  "gate_version": "auramar",
+  "id": 12918,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ SJ Imagination Hood",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    }
+  ],
+  "type": "Loot"
+}

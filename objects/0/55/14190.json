@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Summoner Valiant",
+  "components": {
+    "11": 7034,
+    "2": 13898
+  },
+  "description": "",
+  "displayName": "Test Summoner Valiant",
+  "gate_version": "buildNexusTower",
+  "id": 14190,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Test Summoner Valiant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

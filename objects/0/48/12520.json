@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Like Portable Drumset. Stat restoration",
+  "components": {
+    "11": 6147,
+    "2": 12292,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Rockin' Keyboards",
+  "gate_version": "auramar",
+  "id": 12520,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rockin' Keyboards",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 986
+    }
+  ],
+  "type": "Loot"
+}

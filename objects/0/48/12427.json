@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6089,
+    "2": 12180,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "PaperFigShield",
+  "gate_version": null,
+  "id": 12427,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "PaperFigShield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    }
+  ],
+  "type": "Loot"
+}

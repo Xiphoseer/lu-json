@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5965,
+    "2": 11772,
+    "28": 246,
+    "3": 5821,
+    "42": 0,
+    "63": 6
+  },
+  "description": null,
+  "displayName": "Fire Brawl Engine Panel",
+  "gate_version": "FVracetrack",
+  "id": 12023,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarFV1_FrontPanel_r",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

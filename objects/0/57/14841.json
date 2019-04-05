@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Superior Black heavy Spear Proxy",
+  "components": {
+    "11": 7313,
+    "2": 14535,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Superior Black heavy Spear Proxy",
+  "gate_version": "njhub",
+  "id": 14841,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Superior Black heavy Spear Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1454
+    }
+  ],
+  "type": "Loot"
+}

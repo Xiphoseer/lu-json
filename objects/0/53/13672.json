@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6782,
+    "2": 13410,
+    "3": 6730,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Petting Zoo Fence with Open Gate Model",
+  "gate_version": "april2011content",
+  "id": 13672,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence PettingZoo Gate Open ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4357,
+    "3": 2249,
+    "49": 0,
+    "5": 695
+  },
+  "description": "switch for design challenge",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4926,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "DMB - Ship Wheel Switch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

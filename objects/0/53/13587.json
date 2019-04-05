@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Used to make soap for the soap gun",
+  "components": {
+    "11": 6714,
+    "2": 13324,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Bottled Water",
+  "gate_version": "nexustower",
+  "id": 13587,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Bottled Water",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 1255
+    }
+  ],
+  "type": "Loot"
+}

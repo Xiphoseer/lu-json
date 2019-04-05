@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Like Portable Drumset. Stat restoration",
+  "components": {
+    "11": 6146,
+    "2": 12289,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Riffin' Guitar",
+  "gate_version": "auramar",
+  "id": 12518,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Riffin' Guitar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 985
+    }
+  ],
+  "type": "Loot"
+}

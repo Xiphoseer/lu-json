@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "This item costs faction currency",
+  "components": {
+    "11": 3647,
+    "2": 7851,
+    "9": 0
+  },
+  "description": "This item costs faction currency",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8291,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Faction Currency Item",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

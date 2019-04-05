@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Ranged Laser",
+  "components": {
+    "11": 6277,
+    "2": 12518,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Elite Long Barrel Blaster",
+  "gate_version": "auramar",
+  "id": 12729,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Elite Long Barrel Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1112
+    }
+  ],
+  "type": "Loot"
+}

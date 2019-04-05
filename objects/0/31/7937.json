@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3593,
+    "2": 7483,
+    "9": 0
+  },
+  "description": "combo starter projectile on wand",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7937,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "sorcerer Wand Bullet - medium 2 damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 454
+    }
+  ],
+  "type": "Shooting Gallery"
+}

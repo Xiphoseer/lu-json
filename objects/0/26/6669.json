@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6214,
+    "3": 2901,
+    "5": 928,
+    "7": 612
+  },
+  "description": "Simple object for testing scripts",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6669,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LuaTestBlock",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

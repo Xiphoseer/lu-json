@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 395,
+    "2": 10891,
+    "3": 5058,
+    "35": 494,
+    "5": 1250,
+    "7": 1587
+  },
+  "description": "Ambient Jetpack NPC for LUP Station",
+  "displayName": "Otto Matic - Starbase Technician",
+  "gate_version": null,
+  "id": 11142,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Starbase 3001 Jetpack Ambient NPC",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

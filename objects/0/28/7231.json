@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 235,
+    "2": 6808,
+    "35": 288,
+    "7": 307
+  },
+  "description": "Wall Soldier",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7231,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambtemp2",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Unused Mission Item - Hidden",
+  "components": {
+    "11": 1064,
+    "2": 83
+  },
+  "description": "Mission Item - Unused",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3478,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "unused Quest Brick - Plate 1x1 round",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

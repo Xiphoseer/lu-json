@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7184,
+    "3": 3368
+  },
+  "description": "Animated LOC5 for seagull FX",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7623,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FX_env_seagulls",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

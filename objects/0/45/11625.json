@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5676,
+    "2": 11377,
+    "3": 5469,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Construction Cone Model",
+  "gate_version": "nexustower",
+  "id": 11625,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Construction Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

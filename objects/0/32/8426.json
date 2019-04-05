@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 3 IP",
+  "components": {
+    "11": 3739,
+    "2": 7984,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Tan Cowboy Hat",
+  "gate_version": null,
+  "id": 8426,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Tan Cowboy Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,15 @@
+{
+  "altLandingPrecondition": "336",
+  "altLandingSpawnPointName": "NJHidden",
+  "defaultZoneID": 0,
+  "gmLevel": 0,
+  "id": 38,
+  "launchMusic": null,
+  "launchPrecondition": null,
+  "playerAnimation": "rocket-launch-AG",
+  "rocketAnimation": "launch-AG",
+  "targetScene": "NJHubLanding",
+  "targetZone": 2000,
+  "useAltLandingPrecondition": true,
+  "useLaunchPrecondition": false
+}

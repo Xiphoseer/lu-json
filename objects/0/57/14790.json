@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "spawned by marketing reward item",
+  "components": {
+    "1": 7462,
+    "2": 14468,
+    "5": 334
+  },
+  "description": null,
+  "displayName": "Red Dog Hatchling",
+  "gate_version": "ftcommunityitems",
+  "id": 14790,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Red Dog Hatchling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

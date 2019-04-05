@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4450,
+    "3": 2307
+  },
+  "description": "AG Rack of T-shirts and pants for sale",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5029,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Vendor Rack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

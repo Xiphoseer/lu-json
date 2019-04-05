@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "components": {
+    "11": 6501,
+    "2": 12888,
+    "53": 115
+  },
+  "description": "Double-click to use!",
+  "displayName": "Quality Gem Pack",
+  "gate_version": "auramar",
+  "id": 13112,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF Gem Surprise Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

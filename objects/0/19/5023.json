@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4443,
+    "3": 2300,
+    "5": 629,
+    "7": 348
+  },
+  "description": "Choice Build of rocket scene 3 AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5023,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Stage Rocket",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

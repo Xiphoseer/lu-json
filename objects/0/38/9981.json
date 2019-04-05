@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9809,
+    "20": 4409,
+    "23": 27,
+    "7": 984
+  },
+  "description": "Collectible Spawner for NS Racing Collectible Flag",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9981,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Racing Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

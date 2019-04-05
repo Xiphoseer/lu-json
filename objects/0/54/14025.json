@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Elite Basic Skeleton for Nijago",
+  "components": {
+    "1": 6965,
+    "17": 533,
+    "2": 13735,
+    "31": 75,
+    "5": 1522,
+    "60": 153,
+    "7": 1911,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Skeleton Raider",
+  "gate_version": "njhub",
+  "id": 14025,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NJ - Skeleton Raider",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1383
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1386
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1391
+    }
+  ],
+  "type": "Enemies"
+}

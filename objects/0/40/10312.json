@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Promo Item for PreOrders - Contains Helmet, Shirt, and Pants",
+  "components": {
+    "11": 5064,
+    "2": 10158,
+    "53": 43
+  },
+  "description": "Double-click to open!",
+  "displayName": "Pre-Order Astronaut Pack",
+  "gate_version": null,
+  "id": 10312,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pre-Order Astronaut Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "TEST Chest piece",
+  "components": {
+    "11": 3020,
+    "2": 6730,
+    "9": 0
+  },
+  "description": "TEST Chest piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7150,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Breastplate of Gravity",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 311
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

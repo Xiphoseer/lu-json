@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 309,
+    "2": 9367,
+    "35": 393,
+    "7": 307
+  },
+  "description": "Bucaneer 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9515,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Bucaneer Rank 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

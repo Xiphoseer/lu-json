@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Short Piercing",
+  "components": {
+    "11": 6326,
+    "2": 12568,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Carrot of Courage",
+  "gate_version": "auramar",
+  "id": 12778,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Carrot of Courage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 805
+    }
+  ],
+  "type": "Loot"
+}

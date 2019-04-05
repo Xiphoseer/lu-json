@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Move Forward and Back",
+  "components": {
+    "11": 4880,
+    "2": 9892
+  },
+  "description": "Move Forward and Back",
+  "displayName": "Move Forward and Back Behavior",
+  "gate_version": null,
+  "id": 10056,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Move Forward and Back",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

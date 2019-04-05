@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4315,
+    "23": 13,
+    "40": 2204,
+    "7": 215
+  },
+  "description": "Collectible Spawner for FV ninja flag",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2211,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Ninja Flag Collectible Spawner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

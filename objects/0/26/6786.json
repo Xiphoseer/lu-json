@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2827,
+    "2": 6319,
+    "28": 51,
+    "3": 2989,
+    "42": 0,
+    "63": 41
+  },
+  "description": "don't use",
+  "displayName": "Modular Car Wheels #1",
+  "gate_version": null,
+  "id": 6786,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old MOD Car Wheels 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 855
+    }
+  ],
+  "type": "Rebuildables"
+}

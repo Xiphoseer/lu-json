@@ -1,0 +1,35 @@
+{
+  "LootTableIndex": 615,
+  "elements": [
+    {
+      "MissionDrop": false,
+      "id": 18559,
+      "itemid": 13505,
+      "sortPriority": 8000
+    },
+    {
+      "MissionDrop": false,
+      "id": 18560,
+      "itemid": 13506,
+      "sortPriority": 8010
+    },
+    {
+      "MissionDrop": false,
+      "id": 18561,
+      "itemid": 13507,
+      "sortPriority": 8020
+    },
+    {
+      "MissionDrop": false,
+      "id": 18562,
+      "itemid": 13508,
+      "sortPriority": 8030
+    },
+    {
+      "MissionDrop": false,
+      "id": 18563,
+      "itemid": 13509,
+      "sortPriority": 8040
+    }
+  ]
+}

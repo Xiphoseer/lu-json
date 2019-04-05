@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3952,
+    "2": 8121,
+    "48": 133,
+    "5": 1092,
+    "60": 39,
+    "7": 896,
+    "9": 0
+  },
+  "description": "Buildable turret",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8568,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Survival Choice Build Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 216
+    }
+  ],
+  "type": "Rebuildables"
+}

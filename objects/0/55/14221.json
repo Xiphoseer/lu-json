@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 7047,
+    "2": 13921
+  },
+  "description": "Return this to Gwen Tweenbangle in Nexus Tower.",
+  "displayName": "Gwen's Smoke Machine",
+  "gate_version": "nexustower",
+  "id": 14221,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

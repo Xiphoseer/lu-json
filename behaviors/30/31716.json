@@ -1,0 +1,24 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/30/31716.json"
+    }
+  },
+  "behaviorID": 31716,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "add_immunity": 0.0,
+    "buff_id": 15.0,
+    "cancel_on_damaged": 0.0,
+    "cancel_on_death": 1.0,
+    "cancel_on_logout": 0.0,
+    "cancel_on_remove_buff": 1.0,
+    "cancel_on_ui": 0.0,
+    "cancel_on_unequip": 0.0,
+    "cancel_on_zone": 0.0,
+    "duration_secs": 120.0,
+    "target_caster": 1.0
+  },
+  "templateID": 37
+}

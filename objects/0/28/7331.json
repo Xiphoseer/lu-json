@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6897,
+    "3": 3309
+  },
+  "description": "Rail used to stop player from jumping off cliffs in pet rock",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7331,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pet Rock Rail",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

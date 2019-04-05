@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3/3/3 Projectile",
+  "components": {
+    "11": 6178,
+    "2": 12385,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Blaster",
+  "gate_version": "nimbusinstance",
+  "id": 12595,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Blaster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1003
+    }
+  ],
+  "type": "Loot"
+}

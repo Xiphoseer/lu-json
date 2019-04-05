@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6585,
+    "3": 3100,
+    "5": 973,
+    "52": 4
+  },
+  "description": "Choice build activator",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7002,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Pillars Choicebuild Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

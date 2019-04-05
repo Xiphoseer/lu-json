@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/6/7 NJ Smashing",
+  "components": {
+    "11": 7227,
+    "2": 14420,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Blacksmith's Hammer",
+  "gate_version": "njhub",
+  "id": 14736,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Blacksmith's Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1427
+    }
+  ],
+  "type": "Loot"
+}

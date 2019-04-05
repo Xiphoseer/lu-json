@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5333,
+    "2": 10724,
+    "3": 4998,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Toy Duck Model",
+  "gate_version": null,
+  "id": 10877,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward ToyDuck",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4477,
+    "2": 9248,
+    "28": 133,
+    "3": 4052,
+    "42": 0,
+    "63": 5
+  },
+  "description": null,
+  "displayName": "Thrust Bucket Side Panels",
+  "gate_version": null,
+  "id": 9389,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car2_SidePanels1_w",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

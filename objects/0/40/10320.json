@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5069,
+    "2": 10168,
+    "3": 4560,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Classical Exterior Gate Model",
+  "gate_version": null,
+  "id": 10320,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Classical Exterior Gate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

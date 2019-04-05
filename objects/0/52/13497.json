@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Pteranodon model",
+  "components": {
+    "11": 6652,
+    "2": 13231
+  },
+  "description": "A behavior that causes a model to move up and fly in circles.",
+  "displayName": "Pteranodon Behavior",
+  "gate_version": null,
+  "id": 13497,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pteranodon Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

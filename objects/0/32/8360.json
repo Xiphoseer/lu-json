@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 3681,
+    "2": 7918,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Sensei Shirt",
+  "gate_version": null,
+  "id": 8360,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Sensei Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

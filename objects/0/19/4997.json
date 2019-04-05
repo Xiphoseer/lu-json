@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 100,
+    "2": 5054,
+    "3": 2318,
+    "35": 130,
+    "5": 721
+  },
+  "description": "AG - Race Course NPC",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4997,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Obstacle Course Finish Line Flagger",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

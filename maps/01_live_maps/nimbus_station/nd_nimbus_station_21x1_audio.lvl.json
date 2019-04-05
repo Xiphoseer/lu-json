@@ -1,0 +1,92 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 1,
+      "value_2": 0,
+      "value_3": 64,
+      "value_4": 0,
+      "version": 47
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 5773509787650,
+          "lot": 9741,
+          "pos": {
+            "pos": {
+              "x": 58.60997772216797,
+              "y": 326.85577392578125,
+              "z": 53.74814224243164
+            },
+            "rot": {
+              "w": 0.8424504399299622,
+              "x": 0.0,
+              "y": -0.5387738347053528,
+              "z": 0.0
+            }
+          },
+          "scale": 46.40996551513672,
+          "settings": {
+            "Ambient3DSoundGroup_Name": "",
+            "CamRlBiasAmt": 0.0,
+            "CamRlBiasBi": false,
+            "CamRlBiasFwd": false,
+            "CamRlBiasRet": false,
+            "CamRlCamPath": "",
+            "CamRlCamRetPath": "",
+            "CamRlFaceTgt": true,
+            "CamRlPosPath": "",
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "NDAudioEventGUID": "{5d0d9fe9-55b2-4a6e-9f6a-14d0ea0817c4}",
+            "NDAudioEventGUID2": "{00000000-0000-0000-0000-000000000000}",
+            "NDAudioMixerProgram_Name": "",
+            "NDAudioMusicCue_BoredomTime": -1.0,
+            "NDAudioMusicCue_Name": "Nimbus_Station_Walks",
+            "NDAudioMusicParameter_Name": "",
+            "NDAudioMusicParameter_Value": 0.0,
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camDir": "",
+            "camGradSnap": false,
+            "camLkDir": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "renderDisabled",
+            "fxpriority": 0,
+            "ignoreCameraCollision": false,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": true,
+            "loadSrvrOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "respawnVol": false,
+            "respawnVolName": "",
+            "rlLeadIn": 1.0,
+            "rlLeadOut": -1.0,
+            "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+            "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+            "sceneIDOverride": 1,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "setsRailCam": false,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 0,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

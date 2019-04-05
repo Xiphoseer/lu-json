@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6907,
+    "2": 13581
+  },
+  "description": "Used in nexus tower missions",
+  "displayName": "Janitor Left Hand Proxy",
+  "gate_version": "nexustower",
+  "id": 13841,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Janitor Left Hand Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

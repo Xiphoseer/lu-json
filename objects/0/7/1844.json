@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1721,
+    "3": 867
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1844,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Error Marker - Missing physics_asset",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "HF Error Marker"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Marketing Reward - Retailer 4 Month 2",
+  "components": {
+    "11": 7265,
+    "2": 14463,
+    "53": 148
+  },
+  "description": "Double-click to open!",
+  "displayName": "Game Card Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 14776,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Game Card Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

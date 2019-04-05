@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/3 Piercing",
+  "components": {
+    "11": 2974,
+    "2": 6653,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Worthy Javelin",
+  "gate_version": null,
+  "id": 7079,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Worthy Javelin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 538
+    }
+  ],
+  "type": "Loot"
+}

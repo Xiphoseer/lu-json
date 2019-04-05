@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Bot summoned by the Inventor to fight",
+  "components": {
+    "1": 6245,
+    "2": 12619,
+    "5": 1407,
+    "60": 125,
+    "7": 1784,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Make-Shift Buddy 3",
+  "gate_version": "auramar",
+  "id": 12830,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "Make-Shift Buddy 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1054
+    },
+    {
+      "AICombatWeight": 50,
+      "castOnType": 0,
+      "skillID": 1369
+    }
+  ],
+  "type": "NPC"
+}

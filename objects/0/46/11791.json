@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5842,
+    "2": 11543,
+    "3": 5635,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Office Partition 2 Model",
+  "gate_version": "nexustower",
+  "id": 11791,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Office Partition 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

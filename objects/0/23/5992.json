@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 139,
+    "2": 5386,
+    "35": 170,
+    "7": 307,
+    "9": 0
+  },
+  "description": "testing create npc update _01117",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5992,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "raf_test_01117",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 43
+    }
+  ],
+  "type": "UserGeneratedNPCs"
+}

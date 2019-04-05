@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2905,
+    "25": 0,
+    "27": 0,
+    "3": 1699,
+    "7": 445
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3493,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Moving Large Piston",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

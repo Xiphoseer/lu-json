@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 4896,
+    "2": 9910,
+    "3": 4448,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Pirate Gate Model",
+  "gate_version": null,
+  "id": 10074,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Pirate Gate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

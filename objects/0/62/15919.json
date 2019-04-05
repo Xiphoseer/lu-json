@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 3 IP repairs caster for 3 armor",
+  "components": {
+    "11": 7330,
+    "2": 14611,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Workman's Rice Hat",
+  "gate_version": "njhub",
+  "id": 15919,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Workman's Rice Hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1463
+    }
+  ],
+  "type": "Loot"
+}

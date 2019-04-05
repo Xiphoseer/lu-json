@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 3337,
+    "2": 2512,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Dragon Style Maelstrom Hammer",
+  "gate_version": null,
+  "id": 3015,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dragon Hammer 3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 426
+    }
+  ],
+  "type": "Loot"
+}

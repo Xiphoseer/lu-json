@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 2 IP",
+  "components": {
+    "11": 6992,
+    "2": 13826,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Peg-Leg's Shirt",
+  "gate_version": "nexustower",
+  "id": 14115,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Peg-Leg's Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

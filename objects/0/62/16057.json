@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14776,
+    "3": 7578,
+    "7": 2105
+  },
+  "description": "",
+  "displayName": "NJ -  Skulken Weapon Crate Smashable",
+  "gate_version": "njhub",
+  "id": 16057,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ -  Skulken Weapon Crate Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

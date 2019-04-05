@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7230,
+    "2": 14427,
+    "28": 383,
+    "3": 7426,
+    "42": 0,
+    "63": 34
+  },
+  "description": null,
+  "displayName": "Dune Buggy Engine Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14740,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Dune Buggy Engine Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

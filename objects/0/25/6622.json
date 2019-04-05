@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test for turrets",
+  "components": {
+    "11": 3478,
+    "2": 6113,
+    "5": 921,
+    "7": 604,
+    "9": 0
+  },
+  "description": "Test for turrets",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6622,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Equippable Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 209
+    }
+  ],
+  "type": "Loot"
+}

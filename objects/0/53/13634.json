@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13368,
+    "3": 6693
+  },
+  "description": "Used with the player's make balloon animals animation",
+  "displayName": null,
+  "gate_version": "nexustower",
+  "id": 13634,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Balloon Animal Mesh Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

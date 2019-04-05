@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4503,
+    "2": 9274,
+    "28": 159,
+    "3": 4056,
+    "42": 0,
+    "63": 3
+  },
+  "description": null,
+  "displayName": "Paragon Warp Engine Panel 3",
+  "gate_version": null,
+  "id": 9415,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car3_EnginePanel3_g",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

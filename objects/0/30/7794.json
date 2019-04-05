@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Emote, AoE IP restore, everlasting",
+  "components": {
+    "11": 3302,
+    "2": 7350,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Portable Drumset",
+  "gate_version": null,
+  "id": 7794,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Portable Drumset",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 856
+    }
+  ],
+  "type": "Loot"
+}

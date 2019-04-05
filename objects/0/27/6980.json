@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Return this to your Faction Representative to get your first Specialty Kit",
+  "components": {
+    "11": 2957,
+    "2": 6560
+  },
+  "description": "Return this to your Faction Representative to get a Specialty Kit",
+  "displayName": "Nexus Force Commendation",
+  "gate_version": null,
+  "id": 6980,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Nexus Force Commendation - Venture",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

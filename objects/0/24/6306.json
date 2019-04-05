@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Car Stuff",
+  "components": {
+    "11": 2617,
+    "2": 5746
+  },
+  "description": null,
+  "displayName": "Front Left Wheel",
+  "gate_version": null,
+  "id": 6306,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Front Left Wheel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

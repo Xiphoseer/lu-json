@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12166,
+    "3": 6093,
+    "48": 177,
+    "7": 1799
+  },
+  "description": "NT - Pipe Rebuild3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12413,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Pipe Rebuild3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

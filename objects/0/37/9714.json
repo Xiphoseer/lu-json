@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 317,
+    "2": 9554,
+    "3": 1777,
+    "35": 404,
+    "39": 47,
+    "5": 1160,
+    "7": 307
+  },
+  "description": "Paradox Foot Race Man",
+  "displayName": "Boris Toobsox - Foot Race Host",
+  "gate_version": null,
+  "id": 9714,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Paradox Foot Race Man",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Hidden",
+  "components": {
+    "11": 5189,
+    "2": 10360
+  },
+  "description": "Carrot",
+  "displayName": "Carrot",
+  "gate_version": null,
+  "id": 10507,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Quest - Carrot",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

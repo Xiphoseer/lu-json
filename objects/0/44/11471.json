@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11220,
+    "20": 5318,
+    "5": 1295,
+    "7": 1622
+  },
+  "description": "Standard Crate used for racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11471,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Racing start_broken_track",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

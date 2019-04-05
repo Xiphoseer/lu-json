@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "components": {
+    "11": 6502,
+    "2": 12889,
+    "53": 116
+  },
+  "description": "Double-click to use!",
+  "displayName": "Superior Gem Pack",
+  "gate_version": "auramar",
+  "id": 13113,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "FV Gem Surprise Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

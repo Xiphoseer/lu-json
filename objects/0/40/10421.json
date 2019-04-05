@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "39": 1864,
+    "5": 232
+  },
+  "description": "Zone control object for racing on the NS track",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10421,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "SG GF Zone Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

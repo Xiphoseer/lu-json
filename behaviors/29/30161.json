@@ -1,0 +1,14 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/29/30161.json"
+    }
+  },
+  "behaviorID": 30161,
+  "effectHandle": "NinjagoSpinEvent",
+  "effectID": 0,
+  "parameters": {
+    "target_caster": 0.0
+  },
+  "templateID": 32
+}

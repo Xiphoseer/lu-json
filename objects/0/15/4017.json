@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2358,
+    "3": 1777,
+    "5": 81
+  },
+  "description": "Avant Gardens gardener - mission giver in maelstrom spike scene",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4017,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Gardener Mission Giver",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

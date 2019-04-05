@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2490,
+    "2": 4137,
+    "28": 3,
+    "3": 2554,
+    "42": 0
+  },
+  "description": "Modular Build rocket Nose Cone",
+  "displayName": "Pod Rocket Nose Cone",
+  "gate_version": null,
+  "id": 4719,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Pod Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

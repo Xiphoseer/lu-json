@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6065,
+    "2": 12035,
+    "5": 1376,
+    "60": 95,
+    "7": 1702,
+    "9": 0
+  },
+  "description": "Static Platform for AM AuraMar",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12286,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM- Auto Turret",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 958
+    }
+  ],
+  "type": "Environmental"
+}

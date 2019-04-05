@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7869,
+    "40": 3873,
+    "7": 866
+  },
+  "description": "testing maelstrom fx removal from property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8310,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "test - maelstrom terrain fx",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Gives 15 points of armor",
+  "components": {
+    "11": 3457,
+    "2": 2458,
+    "9": 0
+  },
+  "description": "Gives 15 points of armor",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6645,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Shirt of Uber Armor - 15pts",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 368
+    }
+  ],
+  "type": "Loot"
+}

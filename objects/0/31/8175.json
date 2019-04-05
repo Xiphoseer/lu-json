@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7718,
+    "40": 3784,
+    "5": 1059
+  },
+  "description": "Trigger Volume with a Script attached used for the Foot Race",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8175,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Foot Race Goal Trigger Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

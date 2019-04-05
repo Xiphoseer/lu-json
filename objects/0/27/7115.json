@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Chest piece",
+  "components": {
+    "11": 2999,
+    "2": 6692,
+    "9": 0
+  },
+  "description": "NPC Chest piece",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7115,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Beck Breastplate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

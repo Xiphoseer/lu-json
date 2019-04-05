@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 3,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 6092,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "env\\nexustower\\rebuild_nt_rebuildpipe.hkx",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": 0.0,
+  "speed": 0.0,
+  "static": 1.0
+}

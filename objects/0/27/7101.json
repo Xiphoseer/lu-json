@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test Whirlwind Asset",
+  "components": {
+    "11": 2984,
+    "2": 6678
+  },
+  "description": "Test Whirlwind Asset",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7101,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Whirlwind 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 1 IP",
+  "components": {
+    "11": 4934,
+    "2": 9959,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Blue Double Breasted Uniform",
+  "gate_version": null,
+  "id": 10122,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Double Breasted Uniform Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

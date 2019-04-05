@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 406,
+    "2": 1966,
+    "3": 1777,
+    "35": 478,
+    "5": 561,
+    "7": 305
+  },
+  "description": "GF ambient 4",
+  "displayName": "Enrique Tharshebloze - Pirate Lookout",
+  "gate_version": null,
+  "id": 2279,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Ambient 4",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5217,
+    "2": 10604,
+    "3": 4880,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Elevator Model",
+  "gate_version": null,
+  "id": 10757,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Elevator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

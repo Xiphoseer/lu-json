@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Sky Lane ShoulderPads",
+  "components": {
+    "11": 3514,
+    "2": 7601
+  },
+  "description": "NPC Sky Lane ShoulderPads",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8057,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Sky Lane ShoulderPads",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

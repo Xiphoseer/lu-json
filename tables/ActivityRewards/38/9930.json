@@ -1,0 +1,69 @@
+{
+  "activity_rewards": [
+    {
+      "ActivityRewardIndex": 63,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 80,
+      "LootMatrixIndex": 309,
+      "activityRating": -1,
+      "description": "FV Wishing Well 1"
+    },
+    {
+      "ActivityRewardIndex": 64,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 81,
+      "LootMatrixIndex": 393,
+      "activityRating": 500,
+      "description": "FV Wishing Well 2"
+    },
+    {
+      "ActivityRewardIndex": 65,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 82,
+      "LootMatrixIndex": 394,
+      "activityRating": 750,
+      "description": "FV Wishing Well 3"
+    },
+    {
+      "ActivityRewardIndex": 66,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 83,
+      "LootMatrixIndex": 395,
+      "activityRating": 900,
+      "description": "FV Wishing Well 4"
+    },
+    {
+      "ActivityRewardIndex": 67,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 84,
+      "LootMatrixIndex": 396,
+      "activityRating": 950,
+      "description": "FV Wishing Well 5"
+    },
+    {
+      "ActivityRewardIndex": 68,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 85,
+      "LootMatrixIndex": 397,
+      "activityRating": 975,
+      "description": "FV Wishing Well 6"
+    },
+    {
+      "ActivityRewardIndex": 69,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 86,
+      "LootMatrixIndex": 398,
+      "activityRating": 998,
+      "description": "FV Wishing Well 7"
+    },
+    {
+      "ActivityRewardIndex": 70,
+      "ChallengeRating": 1,
+      "CurrencyIndex": 87,
+      "LootMatrixIndex": 399,
+      "activityRating": 999,
+      "description": "FV Wishing Well 8"
+    }
+  ],
+  "objectTemplate": 9930
+}

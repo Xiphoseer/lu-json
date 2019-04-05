@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11242,
+    "3": 5340
+  },
+  "description": "Assembly to Paradox Hallway 2  No Detail",
+  "displayName": "NT Glom_A_Hallway3 (No Details)",
+  "gate_version": null,
+  "id": 11494,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Glom_A_Hallway3",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

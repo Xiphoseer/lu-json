@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14027,
+    "3": 7159,
+    "40": 7548,
+    "5": 1596,
+    "7": 2086,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14336,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Gate Chamber Puzzle Ceiling Tile Fire",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

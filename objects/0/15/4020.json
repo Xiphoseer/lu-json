@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1477,
+    "2": 2743,
+    "5": 700,
+    "7": 349,
+    "9": 0
+  },
+  "description": "Avant Gardens aggressive robotonist corrupted by maelstrom spike",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4020,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Robotanist",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "NPC"
+}

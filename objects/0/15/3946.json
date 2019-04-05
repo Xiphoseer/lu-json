@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1824,
+    "3": 949,
+    "48": 35
+  },
+  "description": "Rebuild that spawns Imagination",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3946,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "IMG Water Cooler",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

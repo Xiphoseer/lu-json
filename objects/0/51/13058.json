@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "CP Mission Item",
+  "components": {
+    "11": 6483,
+    "2": 12842
+  },
+  "description": "Return this to Duke Exeter in Nexus Tower!",
+  "displayName": "Cracked Ronin's Helm",
+  "gate_version": "auramar",
+  "id": 13058,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cracked Ronin's Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

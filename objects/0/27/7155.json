@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6735,
+    "25": 0,
+    "27": 0,
+    "3": 3192
+  },
+  "description": "Floats out in space",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7155,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS Racetrack Asteroid",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

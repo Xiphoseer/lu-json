@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5613,
+    "3": 2564
+  },
+  "description": "Blue barrier for previs on the Monument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6215,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Barrier Blue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

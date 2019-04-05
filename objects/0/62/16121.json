@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 7490,
+    "2": 14840,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Kuro Hakama",
+  "gate_version": "njhub",
+  "id": 16121,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Kuro Hakama",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

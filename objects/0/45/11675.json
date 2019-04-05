@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5726,
+    "2": 11427,
+    "3": 5519,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Doom Star Module Model 9",
+  "gate_version": "jan2011content",
+  "id": 11675,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Doom Star Module 9",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 297,
+    "2": 9352,
+    "3": 1777,
+    "35": 381,
+    "7": 307
+  },
+  "description": "Melodie Foxtrot",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9499,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VFX Melodie",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

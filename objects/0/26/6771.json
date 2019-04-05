@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2812,
+    "2": 6311,
+    "28": 48,
+    "3": 2975,
+    "42": 0,
+    "63": 38
+  },
+  "description": "Modular Car Spoiler",
+  "displayName": "Modular Car Spoiler #4",
+  "gate_version": null,
+  "id": 6771,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Spoiler 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

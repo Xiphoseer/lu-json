@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 1 IP",
+  "components": {
+    "11": 3253,
+    "2": 7295,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Target Duck Shirt",
+  "gate_version": null,
+  "id": 7739,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Rubber Ducky Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10152,
+    "3": 4545,
+    "5": 1218,
+    "7": 1546
+  },
+  "description": "Spawned by the anvil skill",
+  "displayName": "Anvil of Armor",
+  "gate_version": null,
+  "id": 10306,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Anvil of Armor - mesh",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

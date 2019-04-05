@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Tier 1 Reward Behavior for Achievement 880",
+  "components": {
+    "11": 5155,
+    "2": 10289
+  },
+  "description": "When attacked, model will smash, wait 10 seconds, then rebuild.",
+  "displayName": "Basic Smash Behavior",
+  "gate_version": null,
+  "id": 10446,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Basic Smash",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12001,
+    "3": 5988,
+    "40": 5989,
+    "6": 0
+  },
+  "description": "Generic Bouncer for AM AuraMar Venture",
+  "displayName": "AM Bouncer Venture",
+  "gate_version": null,
+  "id": 12254,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Bouncer Venture",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

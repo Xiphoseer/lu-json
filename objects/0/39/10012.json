@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Contains 2 Faction Tokens",
+  "components": {
+    "11": 4850,
+    "2": 9838,
+    "53": 39
+  },
+  "description": "Double-click to get 2 Faction Tokens!",
+  "displayName": "Small Bag of Faction Tokens",
+  "gate_version": null,
+  "id": 10012,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Faction Token Bag - 2 tokens",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

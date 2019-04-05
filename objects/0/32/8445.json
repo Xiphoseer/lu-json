@@ -1,0 +1,37 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 3933,
+    "17": 310,
+    "2": 5747,
+    "5": 892,
+    "60": 50,
+    "7": 890,
+    "9": 0
+  },
+  "description": "Boss for the last room of the spider cave",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8445,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Boss Activity",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 95,
+      "castOnType": 0,
+      "skillID": 274
+    },
+    {
+      "AICombatWeight": 5,
+      "castOnType": 0,
+      "skillID": 322
+    }
+  ],
+  "type": "Enemies"
+}

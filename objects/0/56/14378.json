@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7082,
+    "2": 14069,
+    "9": 0
+  },
+  "description": "Shoot targets around Avant Gardens with this here gizmo!",
+  "displayName": "Plunger Gun",
+  "gate_version": "freetrial",
+  "id": 14378,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Plunger Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1366
+    }
+  ],
+  "type": "Loot"
+}

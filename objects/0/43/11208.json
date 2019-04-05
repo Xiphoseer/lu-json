@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 5140,
+    "2": 10977,
+    "9": 0
+  },
+  "description": "2 dmg projectile bullet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11208,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "2 Dmg Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 770
+    }
+  ],
+  "type": "Shooting Gallery"
+}

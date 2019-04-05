@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2750,
+    "2": 6093,
+    "3": 2823,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Volley Gun Model",
+  "gate_version": null,
+  "id": 6522,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Volley Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

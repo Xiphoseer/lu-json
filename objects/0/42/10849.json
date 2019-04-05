@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5305,
+    "2": 10696,
+    "3": 4970,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Dumpster Model",
+  "gate_version": null,
+  "id": 10849,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Dumpster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

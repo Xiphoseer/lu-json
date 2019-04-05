@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/2 Piercing",
+  "components": {
+    "11": 3786,
+    "2": 8042,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Exceptional Spear",
+  "gate_version": null,
+  "id": 8487,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Spear",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 555
+    }
+  ],
+  "type": "Loot"
+}

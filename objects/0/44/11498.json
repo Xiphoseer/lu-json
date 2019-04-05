@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 5552,
+    "2": 11246,
+    "28": 236,
+    "3": 5344,
+    "42": 0,
+    "63": 3
+  },
+  "description": "",
+  "displayName": "Jingle Blazer Engine Panel",
+  "gate_version": "dec2010content",
+  "id": 11498,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarH1_EnginePanel1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

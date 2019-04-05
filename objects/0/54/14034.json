@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13745,
+    "3": 6973,
+    "48": 196,
+    "7": 1916
+  },
+  "description": "Venture Crate Quickbuild",
+  "displayName": "Venture Crate Quickbuild",
+  "gate_version": "nexustower",
+  "id": 14034,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Venture Crate Quickbuild",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

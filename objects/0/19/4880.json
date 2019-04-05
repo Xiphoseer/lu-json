@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Slashing",
+  "components": {
+    "11": 1731,
+    "2": 4313,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Basic Shortsword",
+  "gate_version": null,
+  "id": 4880,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Shortsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 148
+    }
+  ],
+  "type": "Loot"
+}

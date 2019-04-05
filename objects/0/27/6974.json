@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 6553,
+    "5": 955,
+    "60": 30,
+    "7": 657,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Stromling Pirate",
+  "gate_version": null,
+  "id": 6974,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "GF - Stromling Pirate Survival",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 67,
+      "castOnType": 0,
+      "skillID": 239
+    },
+    {
+      "AICombatWeight": 33,
+      "castOnType": 0,
+      "skillID": 240
+    }
+  ],
+  "type": "Enemies"
+}

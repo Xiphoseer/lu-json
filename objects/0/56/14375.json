@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14066,
+    "3": 7184,
+    "5": 1559,
+    "7": 1938
+  },
+  "description": "Egg smashable for the Spider Boss arena",
+  "displayName": "FT - Spider Boss Arena Egg",
+  "gate_version": null,
+  "id": 14375,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FT - Spider Boss Arena Egg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

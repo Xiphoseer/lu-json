@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 454,
+    "2": 12077,
+    "3": 1777,
+    "35": 550,
+    "7": 305,
+    "73": 139
+  },
+  "description": "__MG__NT Mission Giver",
+  "displayName": "[DNL] Temp Bank Guard - NOT NEEDED",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12327,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Temp_BankGuard",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

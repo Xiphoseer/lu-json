@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5089,
+    "2": 10188,
+    "3": 4580,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Laundry Model 2",
+  "gate_version": null,
+  "id": 10340,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Laundry 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

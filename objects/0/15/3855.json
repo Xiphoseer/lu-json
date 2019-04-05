@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 1080,
+    "2": 3271,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Bobbejaan Spanner",
+  "gate_version": null,
+  "id": 3855,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Bobbejaan Spanner",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 289
+    }
+  ],
+  "type": "Loot"
+}

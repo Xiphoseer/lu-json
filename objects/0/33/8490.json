@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Smashing",
+  "components": {
+    "11": 3789,
+    "2": 8045,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Halberd",
+  "gate_version": null,
+  "id": 8490,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Halberd",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 549
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2173,
+    "3": 1777,
+    "5": 230
+  },
+  "description": "FV script director",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2501,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Ninja Student Master",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

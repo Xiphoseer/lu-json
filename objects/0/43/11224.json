@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10996,
+    "3": 5158
+  },
+  "description": "Used in flash camera",
+  "displayName": "Camera Mesh Effect",
+  "gate_version": null,
+  "id": 11224,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Camera Mesh Effect",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}

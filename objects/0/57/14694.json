@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 7191,
+    "2": 14382,
+    "28": 367,
+    "3": 7405,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "Shark Rocket Engine",
+  "gate_version": "ftcommunityitems",
+  "id": 14694,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Shark Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 836
+    }
+  ],
+  "type": "Rebuildables"
+}

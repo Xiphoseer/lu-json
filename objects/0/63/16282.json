@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Named Mech for AG",
+  "components": {
+    "1": 7692,
+    "17": 556,
+    "2": 15028,
+    "31": 93,
+    "5": 1692,
+    "60": 175,
+    "7": 2136,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "NAMED STROMLING",
+  "gate_version": "freetrial",
+  "id": 16282,
+  "interactionDistance": null,
+  "locStatus": 1,
+  "localize": true,
+  "name": "AG - Stromling NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 1013
+    }
+  ],
+  "type": "Enemies"
+}

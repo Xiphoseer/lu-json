@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10880,
+    "3": 5054,
+    "5": 1248
+  },
+  "description": "Force Field for LUP Station",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11130,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Forcefield",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3891,
+    "2": 8194,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Obsidian Armor",
+  "gate_version": null,
+  "id": 8639,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Obsidian Armor",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

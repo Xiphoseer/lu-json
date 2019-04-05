@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Wisp Lee Scarf",
+  "components": {
+    "11": 3645,
+    "2": 7847
+  },
+  "description": "NPC Wisp Lee Scarf",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8287,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC Wisp Lee Scarf",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

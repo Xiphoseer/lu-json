@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Slashing + stun chargeup",
+  "components": {
+    "11": 2494,
+    "2": 5348,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Longsword of Stunning",
+  "gate_version": null,
+  "id": 5952,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Longsword of Stunning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 176
+    }
+  ],
+  "type": "Loot"
+}

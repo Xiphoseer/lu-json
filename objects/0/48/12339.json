@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6068,
+    "2": 12090,
+    "53": 84
+  },
+  "description": "Double-click to use!",
+  "displayName": "Large Candy Cane Giftbox",
+  "gate_version": "dec2010content",
+  "id": 12339,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Winter Candycane Giftbox 10",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

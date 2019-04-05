@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "For ND Use only",
+  "components": {
+    "11": 5361,
+    "2": 10761,
+    "3": 5023,
+    "42": 0,
+    "48": 155
+  },
+  "description": "NS Property Pushback Model - Rhino - REBUILD password 1n0R1n0",
+  "displayName": "NS Property Pushback Model - Rhino",
+  "gate_version": null,
+  "id": 11009,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS Property Pushback Model - Rhino",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

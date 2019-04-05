@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Earth element elevator spinner trap",
+  "components": {
+    "2": 14932,
+    "25": 13,
+    "3": 7643,
+    "39": 115,
+    "5": 1651,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "NJ - Earth  - Elevator Spinner Trap",
+  "gate_version": "njhub",
+  "id": 16216,
+  "interactionDistance": 4.0,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Earth - Elevator Spinner Trap",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

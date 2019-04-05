@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3557,
+    "2": 7773,
+    "28": 52,
+    "3": 3765,
+    "42": 0,
+    "63": 1
+  },
+  "description": "Don't use this - no one knows what its for",
+  "displayName": "Car Chassis",
+  "gate_version": null,
+  "id": 8230,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Oddball Car Module - Chassis",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 848
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/11/11669.json"
+    }
+  },
+  "behaviorID": 11669,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "show_collectibles": 0.0,
+    "show_minibosses": 1.0,
+    "show_pet_digs": 0.0
+  },
+  "templateID": 26
+}

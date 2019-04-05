@@ -1,0 +1,43 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Basic Skeleton",
+  "components": {
+    "1": 5808,
+    "17": 453,
+    "2": 11753,
+    "31": 18,
+    "5": 1321,
+    "60": 98,
+    "7": 1649,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Blackmarrow - Skeleton Engineer",
+  "gate_version": "auramar",
+  "id": 12003,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "AM - Skeleton Engineer NAMED",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 90,
+      "castOnType": 0,
+      "skillID": 948
+    },
+    {
+      "AICombatWeight": 5,
+      "castOnType": 0,
+      "skillID": 950
+    },
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 1123
+    }
+  ],
+  "type": "Enemies"
+}

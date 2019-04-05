@@ -1,0 +1,19 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12362
+  },
+  "description": "",
+  "displayName": "Counter:Zero",
+  "gate_version": null,
+  "id": 12572,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Counter:Zero",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "10 pt Heal 4 IP 1 AP",
+  "components": {
+    "11": 6183,
+    "2": 12391,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Padded Toque of Healing",
+  "gate_version": "nimbusinstance",
+  "id": 12601,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Padded Toque of Healing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1006
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3641,
+    "2": 11690,
+    "39": 61,
+    "5": 1302,
+    "9": 0
+  },
+  "description": "NS Zone Control Object for Waves",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11940,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS Waves Zone Control Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Zone Control Object"
+}

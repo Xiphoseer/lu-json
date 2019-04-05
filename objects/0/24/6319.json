@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5757,
+    "3": 2621,
+    "48": 110,
+    "7": 508
+  },
+  "description": "Wall the player builds for AG Mission",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6319,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Rebuildable Wall",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

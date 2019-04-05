@@ -1,0 +1,19 @@
+{
+  "id": 1155,
+  "tasks": [
+    {
+      "IconID": 2926,
+      "gate_version": "auramar",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 0,
+      "locStatus": 2,
+      "localize": true,
+      "target": 6194,
+      "targetGroup": null,
+      "targetValue": 250,
+      "taskParam1": "5",
+      "taskType": 11,
+      "uid": 1608
+    }
+  ]
+}

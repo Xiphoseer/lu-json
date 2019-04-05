@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4102,
+    "3": 2017
+  },
+  "description": "BBB Table 01",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4711,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "BBB Table 01",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

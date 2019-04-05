@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2377,
+    "2": 4103,
+    "5": 675,
+    "60": 11,
+    "7": 641,
+    "9": 0
+  },
+  "description": "Test Strombie",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6716,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Stromling",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 100,
+      "castOnType": 0,
+      "skillID": 238
+    }
+  ],
+  "type": "Enemies"
+}

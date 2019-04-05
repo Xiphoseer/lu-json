@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6175,
+    "25": 0,
+    "3": 2562,
+    "48": 66,
+    "7": 575
+  },
+  "description": "temporary turret for the rail that's also a moving platform",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6528,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Rail Turret QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

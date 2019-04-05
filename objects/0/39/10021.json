@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Removes Skunks Stink",
+  "components": {
+    "11": 4854,
+    "2": 9848,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Un-Stink Potion",
+  "gate_version": null,
+  "id": 10021,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Anti-Stink Potion",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 773
+    }
+  ],
+  "type": "Loot"
+}

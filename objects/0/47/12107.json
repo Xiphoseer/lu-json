@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "7 Damage AOE ballistics",
+  "components": {
+    "11": 5999,
+    "2": 11856,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Massive Firecracker",
+  "gate_version": "auramar",
+  "id": 12107,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Massive Firecracker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 994
+    }
+  ],
+  "type": "Loot"
+}

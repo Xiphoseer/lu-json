@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 383,
+    "2": 1970,
+    "3": 1777,
+    "35": 481,
+    "7": 305
+  },
+  "description": "GF ambient 6",
+  "displayName": "Simon Soupspoon - Pirate Cook",
+  "gate_version": null,
+  "id": 2281,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Pirate Ambient 6",
+  "nametag": true,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

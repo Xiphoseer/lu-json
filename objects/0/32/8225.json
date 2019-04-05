@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2745,
+    "20": 3927,
+    "5": 1068,
+    "7": 26,
+    "9": 0
+  },
+  "description": "TEST",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8225,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - vehicle boost trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

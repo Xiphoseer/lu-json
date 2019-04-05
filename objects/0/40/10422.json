@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Reward Behavior for Tier 4",
+  "components": {
+    "11": 5142,
+    "2": 10265
+  },
+  "description": "Turn robot on and off.  Robot will move forward until it encounters an obstacle.",
+  "displayName": "Toy Robot Behavior",
+  "gate_version": null,
+  "id": 10422,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Toy Robot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

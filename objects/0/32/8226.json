@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7765,
+    "3": 3813,
+    "7": 869
+  },
+  "description": "Smashable barrier for gauntlet",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8226,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Gauntlet Arch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

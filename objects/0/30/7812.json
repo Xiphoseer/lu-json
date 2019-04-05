@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3309,
+    "2": 7367,
+    "3": 3479,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Duck Model",
+  "gate_version": null,
+  "id": 7812,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Bad Ducky",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

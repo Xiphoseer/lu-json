@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2360,
+    "3": 1368,
+    "41": 0,
+    "48": 54
+  },
+  "description": "Test for quickbuildable springpad",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4839,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Quickbuild Springpad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Spring-Pads"
+}

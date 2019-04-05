@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11062,
+    "3": 5214
+  },
+  "description": "Test object for VFX",
+  "displayName": "fx_shader_19_test",
+  "gate_version": null,
+  "id": 11285,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_shader_19_test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

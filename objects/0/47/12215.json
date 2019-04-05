@@ -1,0 +1,35 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 5990,
+    "16": 92,
+    "17": 437,
+    "2": 11964,
+    "35": 539,
+    "5": 1332,
+    "7": 306
+  },
+  "description": "wandering AM vendor",
+  "displayName": "Heimlich Stewblaster - Supplies Vendor",
+  "gate_version": "auramar",
+  "icons": [
+    {
+      "iconID": 5,
+      "iconState": 66
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 12215,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Heimlich Stewblaster",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

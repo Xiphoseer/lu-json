@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 7071,
+    "2": 14045,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Assenbly Gear - Summoner - chest proxy",
+  "gate_version": "freetrial",
+  "id": 14354,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Assembly Gear - Summoner - chest proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 830
+    }
+  ],
+  "type": "Loot"
+}

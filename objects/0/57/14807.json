@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 IP 2 AP",
+  "components": {
+    "11": 7280,
+    "2": 14494,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Cape",
+  "gate_version": "levelprogression",
+  "id": 14807,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Cape",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

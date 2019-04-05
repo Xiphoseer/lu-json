@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4360,
+    "3": 2241,
+    "40": 2441,
+    "6": 0,
+    "78": 3
+  },
+  "description": "TEST ONLY (Nic)",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9830,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Proximity Icon Test Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

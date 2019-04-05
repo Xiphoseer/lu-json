@@ -1,0 +1,38 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Ice Kit",
+  "components": {
+    "11": 7561,
+    "2": 15016,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Ice and rocket directly to the Ninjago Caves!",
+  "displayName": "Pants of Frost",
+  "gate_version": "njhub",
+  "id": 16270,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ice Spinjitzu Pants Pants of Frost",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    }
+  ],
+  "type": "Loot"
+}

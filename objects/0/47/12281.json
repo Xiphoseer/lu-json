@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 6031,
+    "2": 12029,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Snow Storm",
+  "gate_version": "dec2010content",
+  "id": 12281,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Snow Storm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 940
+    }
+  ],
+  "type": "Loot"
+}

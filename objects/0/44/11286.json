@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "3 AP",
+  "components": {
+    "11": 5515,
+    "2": 11063,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Dino-Pack",
+  "gate_version": null,
+  "id": 11286,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Green Dino Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

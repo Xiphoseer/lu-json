@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4280,
+    "3": 4344,
+    "40": 318,
+    "5": 1130
+  },
+  "description": "spawns a null object for playing FX",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9482,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NULL FX SPAWNER",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 12 IP over time",
+  "components": {
+    "11": 2628,
+    "2": 5874,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Thirst Quencher",
+  "gate_version": null,
+  "id": 6201,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Thirst Quencher Consumable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 183
+    }
+  ],
+  "type": "Loot"
+}

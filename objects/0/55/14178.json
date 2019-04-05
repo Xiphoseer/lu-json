@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13887,
+    "3": 7045,
+    "48": 199,
+    "5": 1545
+  },
+  "description": "NT - Mounting base for the completed Imagimeter",
+  "displayName": "Imagimeter Plinth",
+  "gate_version": "nexustower",
+  "id": 14178,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Imagimeter Plinth",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

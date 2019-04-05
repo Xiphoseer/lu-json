@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9814,
+    "3": 4412
+  },
+  "description": "Overhead indicator for racing",
+  "displayName": "Racing Overhead Icon",
+  "gate_version": null,
+  "id": 9986,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Racing Overhead Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Icon"
+}

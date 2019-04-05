@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1918,
+    "40": 1034,
+    "5": 379
+  },
+  "description": "AG trigger that cancels timed challenge on course",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3297,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Course Cancel Trigger",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

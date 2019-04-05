@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3321,
+    "2": 7380,
+    "3": 3492,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Oil Drum Model",
+  "gate_version": null,
+  "id": 7826,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Barrel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

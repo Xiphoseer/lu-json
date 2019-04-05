@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 305,
+    "2": 9363,
+    "35": 389,
+    "7": 307
+  },
+  "description": " Engineer Lvl 3",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9511,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST Engineer Lvl 3",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11053,
+    "3": 5213
+  },
+  "description": "Battle Instance version of Venture Explorer spaceship",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11284,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Space Ship Battle Instance",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

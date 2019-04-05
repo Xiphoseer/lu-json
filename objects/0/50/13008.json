@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Charged Laser",
+  "components": {
+    "18": 6312,
+    "2": 12792,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "auramar",
+  "id": 13008,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Charged Laser 9 dmg",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1138
+    }
+  ],
+  "type": "Shooting Gallery"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4227,
+    "3": 2174,
+    "48": 49
+  },
+  "description": "Prototype quick build pathway section",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4825,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Path - rebuild section 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

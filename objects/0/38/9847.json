@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9679,
+    "3": 4322
+  },
+  "description": "RACE-NSTrack02_WALLS_Dropoff",
+  "displayName": "",
+  "gate_version": null,
+  "id": 9847,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-NSTrack02_WALLS_Dropoff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/27/28015.json"
+    }
+  },
+  "behaviorID": 28015,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "cant_attack": 0.0,
+    "cant_equip": 0.0,
+    "cant_interact": 0.0,
+    "cant_move": 1.0,
+    "cant_turn": 1.0,
+    "stun_caster": 1.0
+  },
+  "templateID": 15
+}

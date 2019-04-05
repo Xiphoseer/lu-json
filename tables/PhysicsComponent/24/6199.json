@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 12,
+  "doublejump": 0.0,
+  "friction": null,
+  "gravityVolumeAsset": null,
+  "id": 6199,
+  "jump": 4.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "miscellaneous\\standard_enemy.hkx",
+  "playerHeight": 4.400000095367432,
+  "playerRadius": 1.7000000476837158,
+  "rotSpeed": 720.0,
+  "speed": 8.0,
+  "static": 0.0
+}

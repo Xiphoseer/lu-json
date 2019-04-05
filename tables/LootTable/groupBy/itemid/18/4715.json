@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "LootTableIndex": 95,
+      "MissionDrop": false,
+      "id": 5573,
+      "sortPriority": 0
+    },
+    {
+      "LootTableIndex": 283,
+      "MissionDrop": false,
+      "id": 13987,
+      "sortPriority": 12
+    },
+    {
+      "LootTableIndex": 85,
+      "MissionDrop": true,
+      "id": 19502,
+      "sortPriority": 0
+    },
+    {
+      "LootTableIndex": 776,
+      "MissionDrop": false,
+      "id": 19578,
+      "sortPriority": 0
+    }
+  ],
+  "itemid": 4715
+}

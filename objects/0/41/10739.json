@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10588,
+    "3": 4860,
+    "7": 1580
+  },
+  "description": "Use this as a template for making new smashables",
+  "displayName": "",
+  "gate_version": null,
+  "id": 10739,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Equip Crate 06",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

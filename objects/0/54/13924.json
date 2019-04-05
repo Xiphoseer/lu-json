@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13648,
+    "3": 6910
+  },
+  "description": "Sentinel signage for Paradox area in Nexus Tower",
+  "displayName": "NT - Portal - Sentinel",
+  "gate_version": "nexustower",
+  "id": 13924,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Portal - Sentinel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

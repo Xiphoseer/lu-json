@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12017,
+    "3": 1035
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": "nexustower",
+  "id": 12269,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Maelstrom Ocean",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1202
+    }
+  ],
+  "type": "Environmental"
+}

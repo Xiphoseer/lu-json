@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "NPC Coolie hat",
+  "components": {
+    "11": 7277,
+    "2": 14491,
+    "9": 0
+  },
+  "description": "NPC Coolie hat",
+  "displayName": "NPC Coolie hat",
+  "gate_version": "njhub",
+  "id": 14804,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NPC Coolie hat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Mission Item - Mission ID - Not Hidden",
+  "components": {
+    "11": 3838,
+    "2": 8119
+  },
+  "description": "Jailed Ninjas may want this!",
+  "displayName": "Headless Mannequin",
+  "gate_version": null,
+  "id": 8566,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Headless Mannequin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

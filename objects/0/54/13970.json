@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Testing quicksand prototype",
+  "components": {
+    "2": 13682,
+    "3": 6941
+  },
+  "description": "A render plane that looks like quicksand",
+  "displayName": "TEST Quicksand Plane",
+  "gate_version": null,
+  "id": 13970,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "TEST Quicksand Plane",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

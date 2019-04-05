@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5663,
+    "2": 11364,
+    "3": 5456,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Farm Barn Window Model 1",
+  "gate_version": "march2011content",
+  "id": 11612,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Farm Barn Window 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

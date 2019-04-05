@@ -1,0 +1,30 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Rank 1 Specialty Kit Item",
+  "components": {
+    "11": 3109,
+    "2": 7019,
+    "5": 1415,
+    "72": 0,
+    "9": 0
+  },
+  "description": "Rank 1 Specialty Kit Item",
+  "displayName": "Inventor Goggles 1",
+  "gate_version": "factionkit2",
+  "id": 7454,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Inventor Head 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1055
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Ninjago Mission Item, drops from Bone Wolves, only on mission",
+  "components": {
+    "11": 7124,
+    "2": 14190
+  },
+  "description": "Return this to Cringe Lo in the Ninjago Monastery!",
+  "displayName": "Lucky Wolf's Paw",
+  "gate_version": "njhub",
+  "id": 14501,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lucky Wolf's Paw",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "108": 1,
+    "2": 6457,
+    "30": 21,
+    "5": 948,
+    "7": 725,
+    "9": 0
+  },
+  "description": "this is a test vehicle to see if they can be used for snowboarding or sledding",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8670,
+  "interactionDistance": 20.0,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST vehicle for board/sled testing",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Vehicle"
+}

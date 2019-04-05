@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 2487,
+    "2": 4134,
+    "28": 2,
+    "3": 2557,
+    "42": 0
+  },
+  "description": "Modular Build rocket Nose Cone",
+  "displayName": "Steampunk Rocket Nose Cone",
+  "gate_version": null,
+  "id": 4716,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Steampunk Nose Cone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 834
+    }
+  ],
+  "type": "Rebuildables"
+}

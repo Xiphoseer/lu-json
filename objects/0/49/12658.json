@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Lightning SJ tornado skill",
+  "components": {
+    "11": 6211,
+    "2": 12447,
+    "9": 0
+  },
+  "description": "Equip these to unleash Lightning Spinjitzu and rocket directly to the Ninjago Caves!",
+  "displayName": "The Nunchuks of Lightning",
+  "gate_version": "njhub",
+  "id": 12658,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Lightning Spinjitzu The Nunchuks of Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1560
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1644
+    }
+  ],
+  "type": "Loot"
+}

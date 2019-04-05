@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP 4 AP",
+  "components": {
+    "11": 6332,
+    "2": 12574,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Iron Barbute",
+  "gate_version": "auramar",
+  "id": 12784,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Iron Barbute",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 363
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

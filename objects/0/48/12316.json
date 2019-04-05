@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 + Block",
+  "components": {
+    "11": 6056,
+    "2": 12066,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Cutlass of Blocking",
+  "gate_version": "ventureinstance",
+  "id": 12316,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cutlass of Blocking",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 970
+    }
+  ],
+  "type": "Loot"
+}

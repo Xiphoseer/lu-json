@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "11": 6858,
+    "2": 13491
+  },
+  "description": "Usedin Nexus Tower Mission Chains",
+  "displayName": "Skeleton Disguise Shirt Proxy",
+  "gate_version": "nexustower",
+  "id": 13751,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Skeleton Disguise Shirt Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

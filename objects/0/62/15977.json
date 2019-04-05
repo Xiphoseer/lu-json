@@ -1,0 +1,21 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 09 2011",
+  "components": {
+    "11": 7391,
+    "2": 14678,
+    "53": 152
+  },
+  "description": "Double-click to open!",
+  "displayName": "Shark Rocket Reward Pack",
+  "gate_version": "ftcommunityitems",
+  "id": 15977,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Shark Rocket Reward Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

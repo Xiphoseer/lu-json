@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 119,
+    "2": 4425,
+    "3": 2318,
+    "35": 150,
+    "5": 740
+  },
+  "description": "GF ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5008,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Sleepy Knight",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

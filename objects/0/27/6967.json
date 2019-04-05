@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "gun only for gf monkey",
+  "components": {
+    "11": 2948,
+    "2": 6544
+  },
+  "description": "gun only for gf monkey",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6967,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NPC GF Monkey Pistol",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

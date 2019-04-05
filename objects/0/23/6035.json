@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2510,
+    "2": 5442,
+    "3": 2500,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Wooden Barrel Model",
+  "gate_version": null,
+  "id": 6035,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Barrel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

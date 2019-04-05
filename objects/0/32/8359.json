@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP - Promo Item",
+  "components": {
+    "11": 3680,
+    "2": 7917,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Referee Shirt",
+  "gate_version": null,
+  "id": 8359,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Referee Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

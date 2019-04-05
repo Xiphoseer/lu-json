@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Smashing + knockback chargeup",
+  "components": {
+    "11": 2566,
+    "2": 5631,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Halberd of Knockback",
+  "gate_version": null,
+  "id": 6205,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Halberd of Knockback",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 766
+    }
+  ],
+  "type": "Loot"
+}

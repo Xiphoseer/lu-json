@@ -1,0 +1,57 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 2659,
+    "17": 146,
+    "2": 5402,
+    "35": 179,
+    "5": 854,
+    "60": 8,
+    "7": 522,
+    "73": 122,
+    "9": 0
+  },
+  "description": "__MG__SpaceShip battle scene mission giver",
+  "displayName": "Epsilon Starcracker - Nexus Force Scout",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 112,
+      "iconState": 1
+    },
+    {
+      "iconID": 113,
+      "iconState": 2
+    },
+    {
+      "iconID": 114,
+      "iconState": 4
+    },
+    {
+      "iconID": 115,
+      "iconState": 9
+    },
+    {
+      "iconID": 113,
+      "iconState": 10
+    },
+    {
+      "iconID": 165,
+      "iconState": 12
+    },
+    {
+      "iconID": 117,
+      "iconState": 69
+    }
+  ],
+  "id": 8223,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Ship - Epsilon - Sentinel Scout",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

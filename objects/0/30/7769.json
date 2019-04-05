@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3278,
+    "2": 7325,
+    "3": 3439,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Computer Model",
+  "gate_version": null,
+  "id": 7769,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Racer Computer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

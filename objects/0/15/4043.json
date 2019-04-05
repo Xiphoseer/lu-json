@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1866,
+    "3": 2318,
+    "5": 743
+  },
+  "description": "AG Version of Felix",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4043,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Friendly Felix",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5328,
+    "3": 2455
+  },
+  "description": "End bumper for moving platform object for previs on the monument in scene 2 of AG",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5930,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Monument Platform End",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

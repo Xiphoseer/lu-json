@@ -1,0 +1,2442 @@
+[
+  {
+    "comp_val": 648,
+    "id": 16499,
+    "name": "NJ Temple Clothing Vendor"
+  },
+  {
+    "comp_val": 649,
+    "id": 16500,
+    "name": "NJ Mon- Ninjago Guard 3"
+  },
+  {
+    "comp_val": 650,
+    "id": 16501,
+    "name": "NJ Mon- Ninjago Guard 4 Podo Pandaheart - Ninjago Monastery Guard"
+  },
+  {
+    "comp_val": 651,
+    "id": 16589,
+    "name": "NPC Town Crier"
+  },
+  {
+    "comp_val": 467,
+    "id": 1627,
+    "name": "Login Vignette Knight"
+  },
+  {
+    "comp_val": 450,
+    "id": 1867,
+    "name": "GF Gear Vendor - Pirate Camp"
+  },
+  {
+    "comp_val": 475,
+    "id": 1933,
+    "name": "Pirate Ambient 1"
+  },
+  {
+    "comp_val": 474,
+    "id": 1934,
+    "name": "Pirate Ambient 2"
+  },
+  {
+    "comp_val": 476,
+    "id": 1935,
+    "name": "Pirate Ambient 3"
+  },
+  {
+    "comp_val": 482,
+    "id": 1936,
+    "name": "Sleepy Pirate"
+  },
+  {
+    "comp_val": 395,
+    "id": 1938,
+    "name": "Captain Jack Knife"
+  },
+  {
+    "comp_val": 551,
+    "id": 2183,
+    "name": "Pirate Technician"
+  },
+  {
+    "comp_val": 477,
+    "id": 2240,
+    "name": "Pirate First Mate"
+  },
+  {
+    "comp_val": 451,
+    "id": 2264,
+    "name": "GF Brick Vendor - Race Scene"
+  },
+  {
+    "comp_val": 478,
+    "id": 2279,
+    "name": "Pirate Ambient 4"
+  },
+  {
+    "comp_val": 479,
+    "id": 2280,
+    "name": "Pirate Ambient 5"
+  },
+  {
+    "comp_val": 481,
+    "id": 2281,
+    "name": "Pirate Ambient 6"
+  },
+  {
+    "comp_val": 454,
+    "id": 2414,
+    "name": "FV Gear Vendor - Great Tree"
+  },
+  {
+    "comp_val": 452,
+    "id": 2419,
+    "name": "FV Gear Vendor - Mantis Shrine"
+  },
+  {
+    "comp_val": 120,
+    "id": 3002,
+    "name": "AG - Concert Fan A"
+  },
+  {
+    "comp_val": 142,
+    "id": 3004,
+    "name": "AG - Obstacle Course Starter"
+  },
+  {
+    "comp_val": 40,
+    "id": 3069,
+    "name": "Test - NPCMinifigureTemplate"
+  },
+  {
+    "comp_val": 480,
+    "id": 3095,
+    "name": "Pirate Cannoneer"
+  },
+  {
+    "comp_val": 483,
+    "id": 3110,
+    "name": "Pirate Worker"
+  },
+  {
+    "comp_val": 356,
+    "id": 3189,
+    "name": "Guy the Land Agent"
+  },
+  {
+    "comp_val": 345,
+    "id": 3257,
+    "name": "PR - Coalessa"
+  },
+  {
+    "comp_val": 469,
+    "id": 3385,
+    "name": "PR - Wally Radish"
+  },
+  {
+    "comp_val": 468,
+    "id": 3386,
+    "name": "PR - Bella Pepper"
+  },
+  {
+    "comp_val": 122,
+    "id": 3723,
+    "name": "AG - Ninja Picnicker"
+  },
+  {
+    "comp_val": 125,
+    "id": 3724,
+    "name": "AG - Pirate Picnicker"
+  },
+  {
+    "comp_val": 39,
+    "id": 3755,
+    "name": "RAF - NPCtest2"
+  },
+  {
+    "comp_val": 84,
+    "id": 3917,
+    "name": "NS Clothing Vendor - Race Place"
+  },
+  {
+    "comp_val": 85,
+    "id": 3918,
+    "name": "NS Consumable Vendor - Race Place"
+  },
+  {
+    "comp_val": 86,
+    "id": 3921,
+    "name": "NS Brick Vendor - Brick Annex"
+  },
+  {
+    "comp_val": 87,
+    "id": 3925,
+    "name": "NS Gear Vendor - Race Place"
+  },
+  {
+    "comp_val": 246,
+    "id": 4009,
+    "name": "Spaceship Bob"
+  },
+  {
+    "comp_val": 132,
+    "id": 4026,
+    "name": "AG - Concert Fireman"
+  },
+  {
+    "comp_val": 552,
+    "id": 4027,
+    "name": "AG - Beastie Brick A"
+  },
+  {
+    "comp_val": 147,
+    "id": 4028,
+    "name": "AG - Concert Dwarf"
+  },
+  {
+    "comp_val": 96,
+    "id": 4037,
+    "name": "AG - Gardener_"
+  },
+  {
+    "comp_val": 99,
+    "id": 4676,
+    "name": "Dirtnap Phil"
+  },
+  {
+    "comp_val": 100,
+    "id": 4679,
+    "name": "Dirtnap Barski"
+  },
+  {
+    "comp_val": 101,
+    "id": 4683,
+    "name": "TestMission0"
+  },
+  {
+    "comp_val": 126,
+    "id": 4776,
+    "name": "AG - Sentinel Greeter"
+  },
+  {
+    "comp_val": 127,
+    "id": 4777,
+    "name": "AG - Paradox Greeter"
+  },
+  {
+    "comp_val": 128,
+    "id": 4790,
+    "name": "AG - Assembly Faction Greeter"
+  },
+  {
+    "comp_val": 129,
+    "id": 4791,
+    "name": "AG - Venture Faction Greeter"
+  },
+  {
+    "comp_val": 103,
+    "id": 4801,
+    "name": "RafTestMG"
+  },
+  {
+    "comp_val": 109,
+    "id": 4917,
+    "name": "Blocked Headed Geoff"
+  },
+  {
+    "comp_val": 110,
+    "id": 4937,
+    "name": "Bobeus"
+  },
+  {
+    "comp_val": 111,
+    "id": 4938,
+    "name": "Bobeus'"
+  },
+  {
+    "comp_val": 146,
+    "id": 4968,
+    "name": "NS Gear Vendor - Concert"
+  },
+  {
+    "comp_val": 130,
+    "id": 4997,
+    "name": "AG - Obstacle Course Finish Line Flagger"
+  },
+  {
+    "comp_val": 131,
+    "id": 4998,
+    "name": "AG - Obstacle Course Photographer"
+  },
+  {
+    "comp_val": 123,
+    "id": 4999,
+    "name": "AG - Obstacle Course Fan Male"
+  },
+  {
+    "comp_val": 124,
+    "id": 5005,
+    "name": "AG - Obstacle Course Fan Female"
+  },
+  {
+    "comp_val": 118,
+    "id": 5006,
+    "name": "AG - Concert Fan B"
+  },
+  {
+    "comp_val": 119,
+    "id": 5007,
+    "name": "AG - Concert Fan C"
+  },
+  {
+    "comp_val": 150,
+    "id": 5008,
+    "name": "GF - Sleepy Knight"
+  },
+  {
+    "comp_val": 133,
+    "id": 5009,
+    "name": "AG - Cowboy Picnicker"
+  },
+  {
+    "comp_val": 134,
+    "id": 5010,
+    "name": "AG - Astronaut Picnicker"
+  },
+  {
+    "comp_val": 136,
+    "id": 5660,
+    "name": "raf_mg_accessories_edittest"
+  },
+  {
+    "comp_val": 148,
+    "id": 5697,
+    "name": "Bobby"
+  },
+  {
+    "comp_val": 149,
+    "id": 5698,
+    "name": "rafReviewTestReddish"
+  },
+  {
+    "comp_val": 152,
+    "id": 5717,
+    "name": "AG - Welder"
+  },
+  {
+    "comp_val": 153,
+    "id": 5723,
+    "name": "AG - Jackhammerer"
+  },
+  {
+    "comp_val": 163,
+    "id": 5956,
+    "name": "reddie"
+  },
+  {
+    "comp_val": 164,
+    "id": 5957,
+    "name": "blue"
+  },
+  {
+    "comp_val": 170,
+    "id": 5992,
+    "name": "raf_test_01117"
+  },
+  {
+    "comp_val": 174,
+    "id": 5996,
+    "name": "template Minifigure mission giver mg"
+  },
+  {
+    "comp_val": 175,
+    "id": 5997,
+    "name": "AG - Skylane - Venture Ship Captain"
+  },
+  {
+    "comp_val": 176,
+    "id": 5998,
+    "name": "raf_test_template Minifigure mission giver mg"
+  },
+  {
+    "comp_val": 178,
+    "id": 6006,
+    "name": "AG - Wisp - Paradox Scientist"
+  },
+  {
+    "comp_val": 179,
+    "id": 6007,
+    "name": "AG - Epsilon - Sentinel Scout"
+  },
+  {
+    "comp_val": 180,
+    "id": 6008,
+    "name": "AG - Beck - Sentinel Commander"
+  },
+  {
+    "comp_val": 181,
+    "id": 6010,
+    "name": "AG - Sentinel Engineer"
+  },
+  {
+    "comp_val": 182,
+    "id": 6011,
+    "name": "AG - Rusty -  Assembly Foreman"
+  },
+  {
+    "comp_val": 184,
+    "id": 6012,
+    "name": "AG - Venture Scout"
+  },
+  {
+    "comp_val": 183,
+    "id": 6013,
+    "name": "AG - Assembly Surveyor"
+  },
+  {
+    "comp_val": 185,
+    "id": 6014,
+    "name": "AG - Skylane - Venture Explorer"
+  },
+  {
+    "comp_val": 189,
+    "id": 6018,
+    "name": "Template General Ambient NPC"
+  },
+  {
+    "comp_val": 190,
+    "id": 6019,
+    "name": "Venture Ship Greeter"
+  },
+  {
+    "comp_val": 191,
+    "id": 6090,
+    "name": "Ben Aaar"
+  },
+  {
+    "comp_val": 195,
+    "id": 6223,
+    "name": "Test Ian H"
+  },
+  {
+    "comp_val": 196,
+    "id": 6224,
+    "name": "GF - Edison2"
+  },
+  {
+    "comp_val": 197,
+    "id": 6227,
+    "name": "GF - first venture mission giver"
+  },
+  {
+    "comp_val": 198,
+    "id": 6236,
+    "name": "GF - Renee"
+  },
+  {
+    "comp_val": 199,
+    "id": 6237,
+    "name": "GF - Chuck"
+  },
+  {
+    "comp_val": 200,
+    "id": 6289,
+    "name": "AG - Sentinel Grunt"
+  },
+  {
+    "comp_val": 201,
+    "id": 6320,
+    "name": "review demo fig"
+  },
+  {
+    "comp_val": 202,
+    "id": 6321,
+    "name": "testfigfordemo"
+  },
+  {
+    "comp_val": 204,
+    "id": 6324,
+    "name": "Template vendor"
+  },
+  {
+    "comp_val": 206,
+    "id": 6338,
+    "name": "AG Gear Vendor - Picnic"
+  },
+  {
+    "comp_val": 215,
+    "id": 6366,
+    "name": "Sentinel Guard"
+  },
+  {
+    "comp_val": 217,
+    "id": 6369,
+    "name": "rafOrangeEnemy2"
+  },
+  {
+    "comp_val": 218,
+    "id": 6370,
+    "name": "AG - Wisp - Maelstrom Collector"
+  },
+  {
+    "comp_val": 219,
+    "id": 6372,
+    "name": "grunt\rgrunt"
+  },
+  {
+    "comp_val": 220,
+    "id": 6373,
+    "name": "grunt\rgrunt"
+  },
+  {
+    "comp_val": 221,
+    "id": 6374,
+    "name": "AG - Property Launch Pad Guard"
+  },
+  {
+    "comp_val": 223,
+    "id": 6376,
+    "name": "AG - Concert Fan2 B"
+  },
+  {
+    "comp_val": 224,
+    "id": 6384,
+    "name": "Waver"
+  },
+  {
+    "comp_val": 225,
+    "id": 6389,
+    "name": "Help Soldier"
+  },
+  {
+    "comp_val": 226,
+    "id": 6390,
+    "name": "GF - Pirate Mission Giver"
+  },
+  {
+    "comp_val": 227,
+    "id": 6391,
+    "name": "GF - Temp FV Mission Giver"
+  },
+  {
+    "comp_val": 229,
+    "id": 6409,
+    "name": "DuckBuild Mission Giver - 1"
+  },
+  {
+    "comp_val": 230,
+    "id": 6410,
+    "name": "DuckBuild Mission Giver - 2"
+  },
+  {
+    "comp_val": 231,
+    "id": 6482,
+    "name": "AG Wall Guard"
+  },
+  {
+    "comp_val": 232,
+    "id": 6507,
+    "name": "test-texture"
+  },
+  {
+    "comp_val": 233,
+    "id": 6513,
+    "name": "Sentinel Brawler"
+  },
+  {
+    "comp_val": 191,
+    "id": 6529,
+    "name": "Ben Aarrr"
+  },
+  {
+    "comp_val": 234,
+    "id": 6531,
+    "name": "DJ Rock Solid"
+  },
+  {
+    "comp_val": 235,
+    "id": 6532,
+    "name": "DJ Rock Solid"
+  },
+  {
+    "comp_val": 236,
+    "id": 6533,
+    "name": "DJ Rock Solid"
+  },
+  {
+    "comp_val": 237,
+    "id": 6534,
+    "name": "DJ Rock Solid"
+  },
+  {
+    "comp_val": 238,
+    "id": 6535,
+    "name": "DJ Rock Sollid"
+  },
+  {
+    "comp_val": 239,
+    "id": 6536,
+    "name": "IansMissionGiver"
+  },
+  {
+    "comp_val": 240,
+    "id": 6542,
+    "name": "Randall_TestWithNewShowcaseVals"
+  },
+  {
+    "comp_val": 241,
+    "id": 6545,
+    "name": "Randall_TestWithNewShowcaseVals2"
+  },
+  {
+    "comp_val": 179,
+    "id": 6553,
+    "name": "AG - Min Spec MGs"
+  },
+  {
+    "comp_val": 242,
+    "id": 6557,
+    "name": "Test8675309"
+  },
+  {
+    "comp_val": 244,
+    "id": 6558,
+    "name": "Bunny Front"
+  },
+  {
+    "comp_val": 245,
+    "id": 6559,
+    "name": "Bunny Back"
+  },
+  {
+    "comp_val": 246,
+    "id": 6576,
+    "name": "AG - Spaceship Bob 001 DO NOT USE"
+  },
+  {
+    "comp_val": 247,
+    "id": 6610,
+    "name": "CWF generic NPC"
+  },
+  {
+    "comp_val": 248,
+    "id": 6630,
+    "name": "NS - Johnny Thunder"
+  },
+  {
+    "comp_val": 439,
+    "id": 6631,
+    "name": "NS Sentinel Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 444,
+    "id": 6632,
+    "name": "NS Paradox Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 445,
+    "id": 6633,
+    "name": "NS Assembly Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 443,
+    "id": 6634,
+    "name": "NS Venture Faction Vendor - Plaza"
+  },
+  {
+    "comp_val": 253,
+    "id": 6635,
+    "name": "NS - Mardolf"
+  },
+  {
+    "comp_val": 254,
+    "id": 6636,
+    "name": "NS - Mardolf's Assistant"
+  },
+  {
+    "comp_val": 255,
+    "id": 6637,
+    "name": "NS - Duck Showcaser"
+  },
+  {
+    "comp_val": 256,
+    "id": 6638,
+    "name": "NS - Embarrassed Minifigure"
+  },
+  {
+    "comp_val": 257,
+    "id": 6649,
+    "name": "rafTestMGWithIcons"
+  },
+  {
+    "comp_val": 258,
+    "id": 6650,
+    "name": "rafTestWithIconsForReview"
+  },
+  {
+    "comp_val": 258,
+    "id": 6672,
+    "name": "GF - PH Pirate Mission Giver"
+  },
+  {
+    "comp_val": 259,
+    "id": 6731,
+    "name": "GF Ninja Prisoner 01"
+  },
+  {
+    "comp_val": 260,
+    "id": 6732,
+    "name": "GF Ninja Prisoner 02"
+  },
+  {
+    "comp_val": 261,
+    "id": 6733,
+    "name": "GF Ninja Prisoner 03"
+  },
+  {
+    "comp_val": 262,
+    "id": 6734,
+    "name": "GF Ninja Prisoner 04"
+  },
+  {
+    "comp_val": 263,
+    "id": 6735,
+    "name": "GF Ninja Prisoner 05"
+  },
+  {
+    "comp_val": 264,
+    "id": 6736,
+    "name": "GF Ninja Prisoner 06"
+  },
+  {
+    "comp_val": 265,
+    "id": 6738,
+    "name": "NS Race Driver"
+  },
+  {
+    "comp_val": 266,
+    "id": 6739,
+    "name": "NS Race Vendor - Race Place"
+  },
+  {
+    "comp_val": 448,
+    "id": 6793,
+    "name": "GF - Pirate Beach"
+  },
+  {
+    "comp_val": 267,
+    "id": 6873,
+    "name": "TEST_IAN_H"
+  },
+  {
+    "comp_val": 269,
+    "id": 6875,
+    "name": "Test commit"
+  },
+  {
+    "comp_val": 270,
+    "id": 6876,
+    "name": "AG - Scared Pirate"
+  },
+  {
+    "comp_val": 271,
+    "id": 6985,
+    "name": "Test delivery giver"
+  },
+  {
+    "comp_val": 272,
+    "id": 6986,
+    "name": "Test delivery receiver"
+  },
+  {
+    "comp_val": 273,
+    "id": 7014,
+    "name": "Darren Test"
+  },
+  {
+    "comp_val": 274,
+    "id": 7083,
+    "name": "Test Doctor"
+  },
+  {
+    "comp_val": 275,
+    "id": 7094,
+    "name": "Sentinel Rep"
+  },
+  {
+    "comp_val": 276,
+    "id": 7095,
+    "name": "Venture Rep"
+  },
+  {
+    "comp_val": 277,
+    "id": 7096,
+    "name": "Assembly Rep"
+  },
+  {
+    "comp_val": 278,
+    "id": 7097,
+    "name": "Paradox Rep"
+  },
+  {
+    "comp_val": 279,
+    "id": 7098,
+    "name": "Nexus Force Recruiter"
+  },
+  {
+    "comp_val": 280,
+    "id": 7099,
+    "name": "AG - Melodie Foxtrot"
+  },
+  {
+    "comp_val": 281,
+    "id": 7117,
+    "name": "Venture Grunt"
+  },
+  {
+    "comp_val": 282,
+    "id": 7128,
+    "name": "Sentinel Battle Engineer"
+  },
+  {
+    "comp_val": 283,
+    "id": 7129,
+    "name": "Lair-Sentinel Grunt"
+  },
+  {
+    "comp_val": 178,
+    "id": 7136,
+    "name": "Test Wisp Mission Giver"
+  },
+  {
+    "comp_val": 285,
+    "id": 7140,
+    "name": "ShowcaseMissionGiver_RAF_test"
+  },
+  {
+    "comp_val": 286,
+    "id": 7147,
+    "name": "NS - Duck Showcase Operator"
+  },
+  {
+    "comp_val": 134,
+    "id": 7222,
+    "name": "Rocketeer"
+  },
+  {
+    "comp_val": 287,
+    "id": 7229,
+    "name": "AmbTemp1"
+  },
+  {
+    "comp_val": 288,
+    "id": 7231,
+    "name": "ambtemp2"
+  },
+  {
+    "comp_val": 289,
+    "id": 7232,
+    "name": "ambtemp3"
+  },
+  {
+    "comp_val": 290,
+    "id": 7233,
+    "name": "ambtemp4"
+  },
+  {
+    "comp_val": 291,
+    "id": 7235,
+    "name": "ambtemp5"
+  },
+  {
+    "comp_val": 292,
+    "id": 7236,
+    "name": "ambtemp6"
+  },
+  {
+    "comp_val": 293,
+    "id": 7237,
+    "name": "ambtemp7"
+  },
+  {
+    "comp_val": 294,
+    "id": 7238,
+    "name": "ambtemp8"
+  },
+  {
+    "comp_val": 295,
+    "id": 7239,
+    "name": "ambtemp9"
+  },
+  {
+    "comp_val": 296,
+    "id": 7240,
+    "name": "mgcrap"
+  },
+  {
+    "comp_val": 297,
+    "id": 7244,
+    "name": "mgtemp1"
+  },
+  {
+    "comp_val": 298,
+    "id": 7245,
+    "name": "mgtemp2"
+  },
+  {
+    "comp_val": 299,
+    "id": 7246,
+    "name": "mgtemp3"
+  },
+  {
+    "comp_val": 300,
+    "id": 7247,
+    "name": "mgtemp4"
+  },
+  {
+    "comp_val": 301,
+    "id": 7248,
+    "name": "mgtemp5"
+  },
+  {
+    "comp_val": 302,
+    "id": 7249,
+    "name": "mgtemp6"
+  },
+  {
+    "comp_val": 303,
+    "id": 7250,
+    "name": "mgtemp7"
+  },
+  {
+    "comp_val": 304,
+    "id": 7251,
+    "name": "mgtemp8"
+  },
+  {
+    "comp_val": 305,
+    "id": 7252,
+    "name": "mgtemp9"
+  },
+  {
+    "comp_val": 306,
+    "id": 7253,
+    "name": "mgtemp10"
+  },
+  {
+    "comp_val": 307,
+    "id": 7254,
+    "name": "mgtemp11"
+  },
+  {
+    "comp_val": 308,
+    "id": 7255,
+    "name": "mgtemp13"
+  },
+  {
+    "comp_val": 309,
+    "id": 7256,
+    "name": "mgtemp14"
+  },
+  {
+    "comp_val": 310,
+    "id": 7257,
+    "name": "mgtemp15"
+  },
+  {
+    "comp_val": 311,
+    "id": 7258,
+    "name": "mgtemp12"
+  },
+  {
+    "comp_val": 312,
+    "id": 7259,
+    "name": "mgtemp16"
+  },
+  {
+    "comp_val": 313,
+    "id": 7290,
+    "name": "mgtemp17"
+  },
+  {
+    "comp_val": 314,
+    "id": 7291,
+    "name": "mgtemp18"
+  },
+  {
+    "comp_val": 315,
+    "id": 7295,
+    "name": "mgtemp19"
+  },
+  {
+    "comp_val": 316,
+    "id": 7296,
+    "name": "mgtemp20"
+  },
+  {
+    "comp_val": 317,
+    "id": 7297,
+    "name": "mgtemp21"
+  },
+  {
+    "comp_val": 318,
+    "id": 7298,
+    "name": "mgtemp22"
+  },
+  {
+    "comp_val": 319,
+    "id": 7299,
+    "name": "mgtemp23"
+  },
+  {
+    "comp_val": 320,
+    "id": 7300,
+    "name": "mgtemp24"
+  },
+  {
+    "comp_val": 321,
+    "id": 7301,
+    "name": "mgtemp25"
+  },
+  {
+    "comp_val": 322,
+    "id": 7302,
+    "name": "mgtemp26"
+  },
+  {
+    "comp_val": 323,
+    "id": 7303,
+    "name": "mgtemp27"
+  },
+  {
+    "comp_val": 324,
+    "id": 7304,
+    "name": "mgtemp28"
+  },
+  {
+    "comp_val": 325,
+    "id": 7329,
+    "name": "Foreman"
+  },
+  {
+    "comp_val": 326,
+    "id": 7332,
+    "name": "mgtemp29"
+  },
+  {
+    "comp_val": 327,
+    "id": 7335,
+    "name": "NPC Blue Mod"
+  },
+  {
+    "comp_val": 328,
+    "id": 7338,
+    "name": "mgtemp30"
+  },
+  {
+    "comp_val": 329,
+    "id": 7411,
+    "name": "FV Ninja 1"
+  },
+  {
+    "comp_val": 330,
+    "id": 7412,
+    "name": "FV Ninja 2 Left"
+  },
+  {
+    "comp_val": 331,
+    "id": 7413,
+    "name": "FV Old Traveler"
+  },
+  {
+    "comp_val": 332,
+    "id": 7414,
+    "name": "FV Dojo Master"
+  },
+  {
+    "comp_val": 333,
+    "id": 7423,
+    "name": "FV Ninja 3"
+  },
+  {
+    "comp_val": 334,
+    "id": 7424,
+    "name": "FV Ninja 4"
+  },
+  {
+    "comp_val": 335,
+    "id": 7425,
+    "name": "FV Ninja 5"
+  },
+  {
+    "comp_val": 336,
+    "id": 7426,
+    "name": "FV Numb Chuck"
+  },
+  {
+    "comp_val": 337,
+    "id": 7427,
+    "name": "OLD FV Brick Fury"
+  },
+  {
+    "comp_val": 338,
+    "id": 7428,
+    "name": "FV Zen Master"
+  },
+  {
+    "comp_val": 455,
+    "id": 7429,
+    "name": "FV Brick Vendor - Facility"
+  },
+  {
+    "comp_val": 453,
+    "id": 7430,
+    "name": "FV Refinery Gear Vendor"
+  },
+  {
+    "comp_val": 342,
+    "id": 7432,
+    "name": "FV Ninja 7"
+  },
+  {
+    "comp_val": 343,
+    "id": 7593,
+    "name": "mgtemp31"
+  },
+  {
+    "comp_val": 344,
+    "id": 7600,
+    "name": "dennis_showcase_test"
+  },
+  {
+    "comp_val": 345,
+    "id": 7642,
+    "name": "PROLD - Coalessa"
+  },
+  {
+    "comp_val": 346,
+    "id": 7663,
+    "name": "Testy"
+  },
+  {
+    "comp_val": 347,
+    "id": 7664,
+    "name": "raf_new_testfordennis"
+  },
+  {
+    "comp_val": 348,
+    "id": 7752,
+    "name": "NS - Nexus Force Grunt"
+  },
+  {
+    "comp_val": 349,
+    "id": 7859,
+    "name": "mgtemp32"
+  },
+  {
+    "comp_val": 350,
+    "id": 8045,
+    "name": "TEST bug checking Dude"
+  },
+  {
+    "comp_val": 351,
+    "id": 8095,
+    "name": "Raf Test For Brett"
+  },
+  {
+    "comp_val": 352,
+    "id": 8104,
+    "name": "epsilon test"
+  },
+  {
+    "comp_val": 353,
+    "id": 8108,
+    "name": "Test for the bug 4659"
+  },
+  {
+    "comp_val": 354,
+    "id": 8205,
+    "name": "NS - Sky Lane"
+  },
+  {
+    "comp_val": 419,
+    "id": 8206,
+    "name": "GF - Swifty McGurk"
+  },
+  {
+    "comp_val": 355,
+    "id": 8212,
+    "name": "AG Gear Vendor - Sentinel"
+  },
+  {
+    "comp_val": 179,
+    "id": 8223,
+    "name": "Ship - Epsilon - Sentinel Scout"
+  },
+  {
+    "comp_val": 246,
+    "id": 8224,
+    "name": "Ship - Spaceship Bob 2.0"
+  },
+  {
+    "comp_val": 357,
+    "id": 8279,
+    "name": "mgtemp33"
+  },
+  {
+    "comp_val": 358,
+    "id": 8282,
+    "name": "mgtemp34"
+  },
+  {
+    "comp_val": 359,
+    "id": 8307,
+    "name": "Panda Spirit"
+  },
+  {
+    "comp_val": 360,
+    "id": 8308,
+    "name": "Mantis Spirit"
+  },
+  {
+    "comp_val": 361,
+    "id": 8309,
+    "name": "Dragon Spirit"
+  },
+  {
+    "comp_val": 362,
+    "id": 8549,
+    "name": "Test new animation column"
+  },
+  {
+    "comp_val": 365,
+    "id": 8657,
+    "name": "Map Pirate 1"
+  },
+  {
+    "comp_val": 366,
+    "id": 8658,
+    "name": "Map Pirate 2"
+  },
+  {
+    "comp_val": 367,
+    "id": 8659,
+    "name": "Map Pirate 3"
+  },
+  {
+    "comp_val": 329,
+    "id": 8663,
+    "name": "FV Ninja Foot Race Starter"
+  },
+  {
+    "comp_val": 371,
+    "id": 8665,
+    "name": "FV - Brick Fury"
+  },
+  {
+    "comp_val": 259,
+    "id": 9256,
+    "name": "FV Rescued Ninja 1"
+  },
+  {
+    "comp_val": 372,
+    "id": 9288,
+    "name": "VFX Guy"
+  },
+  {
+    "comp_val": 373,
+    "id": 9289,
+    "name": "VFX Knight Lvl 3"
+  },
+  {
+    "comp_val": 374,
+    "id": 9290,
+    "name": "VFX Knight Lvl 2"
+  },
+  {
+    "comp_val": 375,
+    "id": 9291,
+    "name": "VFX Samurai Lvl 2"
+  },
+  {
+    "comp_val": 376,
+    "id": 9292,
+    "name": "VFX Samurai Lvl 3"
+  },
+  {
+    "comp_val": 377,
+    "id": 9293,
+    "name": "VFX Epsilon"
+  },
+  {
+    "comp_val": 441,
+    "id": 9298,
+    "name": "FV Rescued Ninja 2"
+  },
+  {
+    "comp_val": 442,
+    "id": 9299,
+    "name": "FV Rescued Ninja 3"
+  },
+  {
+    "comp_val": 440,
+    "id": 9300,
+    "name": "FV Rescued Ninja 4"
+  },
+  {
+    "comp_val": 380,
+    "id": 9457,
+    "name": "FV - Dragon Bill"
+  },
+  {
+    "comp_val": 381,
+    "id": 9499,
+    "name": "VFX Melodie"
+  },
+  {
+    "comp_val": 449,
+    "id": 9502,
+    "name": "GF Race Vendor - Race Scene"
+  },
+  {
+    "comp_val": 382,
+    "id": 9504,
+    "name": "VFX -- Sorcerer Rank 2"
+  },
+  {
+    "comp_val": 383,
+    "id": 9505,
+    "name": "VFX -- Sorcerer Rank 3"
+  },
+  {
+    "comp_val": 384,
+    "id": 9506,
+    "name": "TEST Daredevil Lvl 2"
+  },
+  {
+    "comp_val": 385,
+    "id": 9507,
+    "name": "TEST Daredevil Lvl 3"
+  },
+  {
+    "comp_val": 386,
+    "id": 9508,
+    "name": "TEST Summoner Lvl 2"
+  },
+  {
+    "comp_val": 387,
+    "id": 9509,
+    "name": "TEST Summoner Lvl 3"
+  },
+  {
+    "comp_val": 388,
+    "id": 9510,
+    "name": "TEST Engineer Lvl 2"
+  },
+  {
+    "comp_val": 389,
+    "id": 9511,
+    "name": "TEST Engineer Lvl 3"
+  },
+  {
+    "comp_val": 390,
+    "id": 9512,
+    "name": "TEST Space Marauder Lvl 2"
+  },
+  {
+    "comp_val": 391,
+    "id": 9513,
+    "name": "TEST Space Marauder Lvl 3"
+  },
+  {
+    "comp_val": 392,
+    "id": 9514,
+    "name": "TEST Bucaneer Rank 2"
+  },
+  {
+    "comp_val": 393,
+    "id": 9515,
+    "name": "TEST Bucaneer Rank 3"
+  },
+  {
+    "comp_val": 394,
+    "id": 9632,
+    "name": "Vance Bulwark"
+  },
+  {
+    "comp_val": 396,
+    "id": 9680,
+    "name": "Echs Ray"
+  },
+  {
+    "comp_val": 397,
+    "id": 9692,
+    "name": "NS - Ambient Concert NPC"
+  },
+  {
+    "comp_val": 398,
+    "id": 9693,
+    "name": "NS - Concert Fan D"
+  },
+  {
+    "comp_val": 399,
+    "id": 9694,
+    "name": "NS - Concert Fan E"
+  },
+  {
+    "comp_val": 400,
+    "id": 9705,
+    "name": "FV Brick Vendor - Ninja Gate"
+  },
+  {
+    "comp_val": 401,
+    "id": 9706,
+    "name": "AG Brick Vendor - Picnic"
+  },
+  {
+    "comp_val": 402,
+    "id": 9707,
+    "name": "GF Brick Vendor - Pirate Camp"
+  },
+  {
+    "comp_val": 403,
+    "id": 9708,
+    "name": "GF Gear Vendor - Ravine"
+  },
+  {
+    "comp_val": 404,
+    "id": 9714,
+    "name": "Paradox Foot Race Man"
+  },
+  {
+    "comp_val": 405,
+    "id": 9720,
+    "name": "testBattle"
+  },
+  {
+    "comp_val": 406,
+    "id": 9749,
+    "name": "Club LEGO Vendor"
+  },
+  {
+    "comp_val": 407,
+    "id": 9758,
+    "name": "Sales Agent Nate"
+  },
+  {
+    "comp_val": 329,
+    "id": 9777,
+    "name": "FV Ninja Foot Race Starter DUPE"
+  },
+  {
+    "comp_val": 409,
+    "id": 9793,
+    "name": "VFX Knight Lvl 1"
+  },
+  {
+    "comp_val": 410,
+    "id": 9794,
+    "name": "TEST Daredevil Lvl 1"
+  },
+  {
+    "comp_val": 411,
+    "id": 9795,
+    "name": "TEST Bucaneer Rank 1"
+  },
+  {
+    "comp_val": 412,
+    "id": 9796,
+    "name": "TEST Space Marauder Lvl 1"
+  },
+  {
+    "comp_val": 413,
+    "id": 9797,
+    "name": "VFX -- Sorcerer Rank 1"
+  },
+  {
+    "comp_val": 414,
+    "id": 9798,
+    "name": "VFX Samurai Lvl 1"
+  },
+  {
+    "comp_val": 415,
+    "id": 9799,
+    "name": "TEST Summoner Lvl 1"
+  },
+  {
+    "comp_val": 416,
+    "id": 9800,
+    "name": "TEST Engineer Lvl 1"
+  },
+  {
+    "comp_val": 417,
+    "id": 9821,
+    "name": "Velocity Lane"
+  },
+  {
+    "comp_val": 418,
+    "id": 9822,
+    "name": "NPC Club Max"
+  },
+  {
+    "comp_val": 420,
+    "id": 9831,
+    "name": "Pirate Bob"
+  },
+  {
+    "comp_val": 421,
+    "id": 9836,
+    "name": "Battle NPC MG"
+  },
+  {
+    "comp_val": 422,
+    "id": 9859,
+    "name": "AG Property Mission Giver 01"
+  },
+  {
+    "comp_val": 427,
+    "id": 9890,
+    "name": "Darren Test 02"
+  },
+  {
+    "comp_val": 428,
+    "id": 9891,
+    "name": "DARREN_TEST_03"
+  },
+  {
+    "comp_val": 429,
+    "id": 9893,
+    "name": "Betty the Bag Lady"
+  },
+  {
+    "comp_val": 430,
+    "id": 9897,
+    "name": "NS - Sentinel Grunt"
+  },
+  {
+    "comp_val": 431,
+    "id": 9929,
+    "name": "NS - Sentinel Battle Grunt"
+  },
+  {
+    "comp_val": 432,
+    "id": 9932,
+    "name": "Battle Ninja 01"
+  },
+  {
+    "comp_val": 433,
+    "id": 9983,
+    "name": "Nimbus Racer"
+  },
+  {
+    "comp_val": 434,
+    "id": 10023,
+    "name": "Starbase 3001 Vendor"
+  },
+  {
+    "comp_val": 435,
+    "id": 10026,
+    "name": "AG Model Vendor"
+  },
+  {
+    "comp_val": 436,
+    "id": 10027,
+    "name": "NS Model Vendor"
+  },
+  {
+    "comp_val": 437,
+    "id": 10028,
+    "name": "FV Model Vendor"
+  },
+  {
+    "comp_val": 438,
+    "id": 10029,
+    "name": "GF Model Vendor  - Race Scene"
+  },
+  {
+    "comp_val": 456,
+    "id": 10046,
+    "name": "AG Foot Race Strongman"
+  },
+  {
+    "comp_val": 457,
+    "id": 10099,
+    "name": "Starbase 3001 Mission Giver"
+  },
+  {
+    "comp_val": 458,
+    "id": 10100,
+    "name": "Starbase 3001 Ambient"
+  },
+  {
+    "comp_val": 459,
+    "id": 10101,
+    "name": "AG Starbase 3001 Mission Giver"
+  },
+  {
+    "comp_val": 461,
+    "id": 10137,
+    "name": "Starbase 3001 Welder Ambient"
+  },
+  {
+    "comp_val": 462,
+    "id": 10138,
+    "name": "LEGO Club Station Jetpack Ambient"
+  },
+  {
+    "comp_val": 463,
+    "id": 10146,
+    "name": "Starbase 3001 Window Washer Ambient"
+  },
+  {
+    "comp_val": 464,
+    "id": 10147,
+    "name": "Test Shader Change"
+  },
+  {
+    "comp_val": 465,
+    "id": 10148,
+    "name": "testing for char create stuff"
+  },
+  {
+    "comp_val": 467,
+    "id": 10162,
+    "name": "frontendtemp"
+  },
+  {
+    "comp_val": 470,
+    "id": 10299,
+    "name": "Property Guard 1"
+  },
+  {
+    "comp_val": 471,
+    "id": 10300,
+    "name": "Property Guard 2"
+  },
+  {
+    "comp_val": 472,
+    "id": 10301,
+    "name": "Property Guard 3"
+  },
+  {
+    "comp_val": 474,
+    "id": 10387,
+    "name": "PirateAmbient1"
+  },
+  {
+    "comp_val": 475,
+    "id": 10390,
+    "name": "PirateAmbient2"
+  },
+  {
+    "comp_val": 476,
+    "id": 10391,
+    "name": "PirateAmbient3"
+  },
+  {
+    "comp_val": 477,
+    "id": 10392,
+    "name": "PirateAmbient4"
+  },
+  {
+    "comp_val": 478,
+    "id": 10410,
+    "name": "PirateAmbient5"
+  },
+  {
+    "comp_val": 479,
+    "id": 10411,
+    "name": "PirateAmbient6"
+  },
+  {
+    "comp_val": 480,
+    "id": 10412,
+    "name": "PirateAmbient7"
+  },
+  {
+    "comp_val": 481,
+    "id": 10414,
+    "name": "PirateAmbient8"
+  },
+  {
+    "comp_val": 482,
+    "id": 10415,
+    "name": "PirateAmbient9"
+  },
+  {
+    "comp_val": 483,
+    "id": 10416,
+    "name": "PirateAmbient10"
+  },
+  {
+    "comp_val": 484,
+    "id": 10459,
+    "name": "MissionGiver379"
+  },
+  {
+    "comp_val": 485,
+    "id": 10460,
+    "name": "MissionGiver379"
+  },
+  {
+    "comp_val": 492,
+    "id": 10714,
+    "name": "Login Vignette Red Racer"
+  },
+  {
+    "comp_val": 489,
+    "id": 10715,
+    "name": "Login Vignette Yellow Racer"
+  },
+  {
+    "comp_val": 490,
+    "id": 10716,
+    "name": "Login Vignette Cannon Pusher"
+  },
+  {
+    "comp_val": 491,
+    "id": 10717,
+    "name": "Login Vignette Cannon Launcher"
+  },
+  {
+    "comp_val": 488,
+    "id": 10728,
+    "name": "redracertemp"
+  },
+  {
+    "comp_val": 489,
+    "id": 10729,
+    "name": "yellowracertemp"
+  },
+  {
+    "comp_val": 490,
+    "id": 10730,
+    "name": "cannonlaunchertemp"
+  },
+  {
+    "comp_val": 491,
+    "id": 10731,
+    "name": "cannonlaunchertemp2"
+  },
+  {
+    "comp_val": 492,
+    "id": 10732,
+    "name": "redracertemp2"
+  },
+  {
+    "comp_val": 493,
+    "id": 10995,
+    "name": "WBL - Jailed Piratron"
+  },
+  {
+    "comp_val": 330,
+    "id": 11035,
+    "name": "Ninja Emote Received Test"
+  },
+  {
+    "comp_val": 330,
+    "id": 11128,
+    "name": "FV Ninja 2 Right"
+  },
+  {
+    "comp_val": 494,
+    "id": 11142,
+    "name": "Starbase 3001 Jetpack Ambient NPC"
+  },
+  {
+    "comp_val": 495,
+    "id": 11143,
+    "name": "The Dude"
+  },
+  {
+    "comp_val": 496,
+    "id": 11144,
+    "name": "The Dude"
+  },
+  {
+    "comp_val": 497,
+    "id": 11145,
+    "name": "Dude"
+  },
+  {
+    "comp_val": 498,
+    "id": 11146,
+    "name": "test"
+  },
+  {
+    "comp_val": 499,
+    "id": 11147,
+    "name": "Chicka"
+  },
+  {
+    "comp_val": 500,
+    "id": 11148,
+    "name": "Chicka"
+  },
+  {
+    "comp_val": 501,
+    "id": 11177,
+    "name": "FV Race Vendor - Race scene"
+  },
+  {
+    "comp_val": 502,
+    "id": 11222,
+    "name": "Newtestdude"
+  },
+  {
+    "comp_val": 503,
+    "id": 11223,
+    "name": "Testdude2"
+  },
+  {
+    "comp_val": 504,
+    "id": 11236,
+    "name": "WBL - Moonbase Commander - mission giver"
+  },
+  {
+    "comp_val": 505,
+    "id": 11238,
+    "name": "Muldone"
+  },
+  {
+    "comp_val": 506,
+    "id": 11239,
+    "name": "Muldone"
+  },
+  {
+    "comp_val": 507,
+    "id": 11240,
+    "name": "Muldone"
+  },
+  {
+    "comp_val": 508,
+    "id": 11241,
+    "name": "Muldone"
+  },
+  {
+    "comp_val": 509,
+    "id": 11242,
+    "name": "Muldone"
+  },
+  {
+    "comp_val": 510,
+    "id": 11244,
+    "name": "ND - Seabury Ryan"
+  },
+  {
+    "comp_val": 511,
+    "id": 11245,
+    "name": "ND - puccio matt"
+  },
+  {
+    "comp_val": 512,
+    "id": 11246,
+    "name": "ND - Grundy Peter"
+  },
+  {
+    "comp_val": 513,
+    "id": 11263,
+    "name": "nd - brubaker chris"
+  },
+  {
+    "comp_val": 514,
+    "id": 11294,
+    "name": "nd - brown scott"
+  },
+  {
+    "comp_val": 515,
+    "id": 11504,
+    "name": "nd - sherland chris"
+  },
+  {
+    "comp_val": 516,
+    "id": 11506,
+    "name": "nd - atencio phillip"
+  },
+  {
+    "comp_val": 517,
+    "id": 11894,
+    "name": "nd - beyer erik"
+  },
+  {
+    "comp_val": 518,
+    "id": 11895,
+    "name": "nd - azcona alex"
+  },
+  {
+    "comp_val": 519,
+    "id": 11896,
+    "name": "nd - urdang erik"
+  },
+  {
+    "comp_val": 520,
+    "id": 11897,
+    "name": "nd - jones geoff"
+  },
+  {
+    "comp_val": 521,
+    "id": 11901,
+    "name": "nd - gray nathan"
+  },
+  {
+    "comp_val": 522,
+    "id": 11902,
+    "name": "nd - mecleary brendan"
+  },
+  {
+    "comp_val": 523,
+    "id": 11903,
+    "name": "nd - tarr ben"
+  },
+  {
+    "comp_val": 524,
+    "id": 11904,
+    "name": "nd - woehr ivan"
+  },
+  {
+    "comp_val": 525,
+    "id": 11905,
+    "name": "nd - clements shane"
+  },
+  {
+    "comp_val": 457,
+    "id": 11981,
+    "name": "Starbase 3001 Mission Giver"
+  },
+  {
+    "comp_val": 526,
+    "id": 11991,
+    "name": "AM - Sentinel Guard Geoff"
+  },
+  {
+    "comp_val": 527,
+    "id": 11992,
+    "name": "AM - Sentinel Guard Tyler"
+  },
+  {
+    "comp_val": 528,
+    "id": 11997,
+    "name": "AM - Wounded Trapped Pilot"
+  },
+  {
+    "comp_val": 638,
+    "id": 11998,
+    "name": "AM - Sensei Wu"
+  },
+  {
+    "comp_val": 530,
+    "id": 12044,
+    "name": "FV Zip Lash"
+  },
+  {
+    "comp_val": 531,
+    "id": 12053,
+    "name": "abc"
+  },
+  {
+    "comp_val": 532,
+    "id": 12117,
+    "name": "FB - Peppermint Lane"
+  },
+  {
+    "comp_val": 533,
+    "id": 12118,
+    "name": "FB - Old Man Winter"
+  },
+  {
+    "comp_val": 534,
+    "id": 12119,
+    "name": "FB - Toy Assembler"
+  },
+  {
+    "comp_val": 535,
+    "id": 12121,
+    "name": "FB - Toy Assembler Vendor"
+  },
+  {
+    "comp_val": 536,
+    "id": 12122,
+    "name": "Wenn Wuzzit"
+  },
+  {
+    "comp_val": 537,
+    "id": 12159,
+    "name": "Test Systems Vendor"
+  },
+  {
+    "comp_val": 538,
+    "id": 12214,
+    "name": "Temp AM Temple Ruins Vendor"
+  },
+  {
+    "comp_val": 539,
+    "id": 12215,
+    "name": "Heimlich Stewblaster"
+  },
+  {
+    "comp_val": 603,
+    "id": 12255,
+    "name": "Nexus Naomi"
+  },
+  {
+    "comp_val": 541,
+    "id": 12256,
+    "name": "HaelsGuard"
+  },
+  {
+    "comp_val": 542,
+    "id": 12257,
+    "name": "OverbuildsGaurd"
+  },
+  {
+    "comp_val": 543,
+    "id": 12258,
+    "name": "Hael Storm"
+  },
+  {
+    "comp_val": 545,
+    "id": 12260,
+    "name": "DukesGuard"
+  },
+  {
+    "comp_val": 546,
+    "id": 12261,
+    "name": "DukeExeter"
+  },
+  {
+    "comp_val": 547,
+    "id": 12262,
+    "name": "VandaDarkflame"
+  },
+  {
+    "comp_val": 548,
+    "id": 12263,
+    "name": "VandaGuard"
+  },
+  {
+    "comp_val": 549,
+    "id": 12264,
+    "name": "Temp_PirateBronson"
+  },
+  {
+    "comp_val": 550,
+    "id": 12327,
+    "name": "Temp_BankGuard"
+  },
+  {
+    "comp_val": 552,
+    "id": 12381,
+    "name": "mgtemp100"
+  },
+  {
+    "comp_val": 555,
+    "id": 12538,
+    "name": "TEST Mission Giver Vendor"
+  },
+  {
+    "comp_val": 556,
+    "id": 12540,
+    "name": "AG - testduder"
+  },
+  {
+    "comp_val": 557,
+    "id": 12576,
+    "name": "AG Medium Property Mission Giver 01"
+  },
+  {
+    "comp_val": 558,
+    "id": 12577,
+    "name": "GF Medium Property Mission Giver 01"
+  },
+  {
+    "comp_val": 559,
+    "id": 12578,
+    "name": "FV Medium Property Mission Giver 01"
+  },
+  {
+    "comp_val": 560,
+    "id": 12579,
+    "name": "AG Large Property Mission Giver 01"
+  },
+  {
+    "comp_val": 561,
+    "id": 12580,
+    "name": "GF Large Property Mission Giver 01"
+  },
+  {
+    "comp_val": 562,
+    "id": 12581,
+    "name": "FV Large Property Mission Giver 01"
+  },
+  {
+    "comp_val": 563,
+    "id": 12582,
+    "name": "NS Small Property Mission Giver 01"
+  },
+  {
+    "comp_val": 564,
+    "id": 12583,
+    "name": "TEST NS Medium Property Mission Giver 01"
+  },
+  {
+    "comp_val": 565,
+    "id": 12584,
+    "name": "NS Large Property Mission Giver 01"
+  },
+  {
+    "comp_val": 566,
+    "id": 12640,
+    "name": "Hoppy"
+  },
+  {
+    "comp_val": 567,
+    "id": 12645,
+    "name": "TOOLS_DONOTPLACE_DELETEMEPLEASE"
+  },
+  {
+    "comp_val": 621,
+    "id": 12841,
+    "name": "Nexus Naomi - NT War room"
+  },
+  {
+    "comp_val": 568,
+    "id": 12911,
+    "name": "TEST multimission giver"
+  },
+  {
+    "comp_val": 569,
+    "id": 12999,
+    "name": "Phil"
+  },
+  {
+    "comp_val": 570,
+    "id": 13007,
+    "name": "TEST does ians stuff work"
+  },
+  {
+    "comp_val": 571,
+    "id": 13183,
+    "name": "NS Medium Property Mission Giver 02"
+  },
+  {
+    "comp_val": 572,
+    "id": 13300,
+    "name": "NT Gear Vendor"
+  },
+  {
+    "comp_val": 573,
+    "id": 13376,
+    "name": "NT Sentinel Faction Vendor"
+  },
+  {
+    "comp_val": 574,
+    "id": 13377,
+    "name": "NT Clothing Vendor"
+  },
+  {
+    "comp_val": 575,
+    "id": 13378,
+    "name": "NT Paradox Faction Vendor"
+  },
+  {
+    "comp_val": 576,
+    "id": 13379,
+    "name": "NT Brick Vendor"
+  },
+  {
+    "comp_val": 577,
+    "id": 13380,
+    "name": "NT Assembly Faction Vendor"
+  },
+  {
+    "comp_val": 578,
+    "id": 13381,
+    "name": "NT Model Vendor 1"
+  },
+  {
+    "comp_val": 579,
+    "id": 13382,
+    "name": "NT Model Vendor 2"
+  },
+  {
+    "comp_val": 580,
+    "id": 13383,
+    "name": "NT Modules Vendor"
+  },
+  {
+    "comp_val": 581,
+    "id": 13384,
+    "name": "NT Venture Faction Vendor"
+  },
+  {
+    "comp_val": 582,
+    "id": 13392,
+    "name": "NT Consumable Vendor"
+  },
+  {
+    "comp_val": 585,
+    "id": 13395,
+    "name": "TEST Adventurer Lvl 1"
+  },
+  {
+    "comp_val": 594,
+    "id": 13397,
+    "name": "TEST Adventurer Lvl 2"
+  },
+  {
+    "comp_val": 588,
+    "id": 13398,
+    "name": "TEST Inventor Lvl 1"
+  },
+  {
+    "comp_val": 589,
+    "id": 13399,
+    "name": "TEST Inventor Lvl 2"
+  },
+  {
+    "comp_val": 590,
+    "id": 13400,
+    "name": "VFX -- Inventor Rank 3"
+  },
+  {
+    "comp_val": 591,
+    "id": 13401,
+    "name": "VFX -- Space Ranger Rank 1"
+  },
+  {
+    "comp_val": 592,
+    "id": 13402,
+    "name": "VFX -- Space Ranger Rank 2"
+  },
+  {
+    "comp_val": 593,
+    "id": 13404,
+    "name": "VFX -- Space Ranger Rank 3"
+  },
+  {
+    "comp_val": 595,
+    "id": 13405,
+    "name": "TEST Adventurer Lvl 3"
+  },
+  {
+    "comp_val": 596,
+    "id": 13407,
+    "name": "VFX -- Shinobi Rank 1"
+  },
+  {
+    "comp_val": 597,
+    "id": 13408,
+    "name": "VFX -- Shinobi Rank 2"
+  },
+  {
+    "comp_val": 598,
+    "id": 13409,
+    "name": "VFX -- Shinobi Rank 3"
+  },
+  {
+    "comp_val": 599,
+    "id": 13418,
+    "name": "AG Property Mission Giver Burke Barrelchest"
+  },
+  {
+    "comp_val": 600,
+    "id": 13569,
+    "name": "NT Mr. Ree Shady Vendor"
+  },
+  {
+    "comp_val": 568,
+    "id": 13630,
+    "name": "TEST donation mission giver"
+  },
+  {
+    "comp_val": 601,
+    "id": 13732,
+    "name": "TEST Commendation Vendor"
+  },
+  {
+    "comp_val": 602,
+    "id": 13743,
+    "name": "media-reporter"
+  },
+  {
+    "comp_val": 604,
+    "id": 13783,
+    "name": "NT - Sleepy Knight"
+  },
+  {
+    "comp_val": 605,
+    "id": 13789,
+    "name": "NJ Mon - Sensei Wu"
+  },
+  {
+    "comp_val": 606,
+    "id": 13790,
+    "name": "NJ Mon- Cole Earth Ninja"
+  },
+  {
+    "comp_val": 607,
+    "id": 13791,
+    "name": "NJ Mon- Zane Ice Ninja"
+  },
+  {
+    "comp_val": 608,
+    "id": 13792,
+    "name": "NJ Mon- Jay Lightning Ninja"
+  },
+  {
+    "comp_val": 609,
+    "id": 13793,
+    "name": "NJ Mon- Kai Fire Ninja"
+  },
+  {
+    "comp_val": 610,
+    "id": 13794,
+    "name": "NJ Mon- Ninjago Guard 1 Toshiro Gojira - Ninjago Monastery Guard"
+  },
+  {
+    "comp_val": 611,
+    "id": 13795,
+    "name": "NJ Mon- Cringe Lo"
+  },
+  {
+    "comp_val": 612,
+    "id": 13796,
+    "name": "NJ Mon- Wan Wan"
+  },
+  {
+    "comp_val": 613,
+    "id": 13797,
+    "name": "NJ Mon- Old Man"
+  },
+  {
+    "comp_val": 614,
+    "id": 13798,
+    "name": "NJ Mon- Ninjago Guard 2"
+  },
+  {
+    "comp_val": 615,
+    "id": 13799,
+    "name": "NJ Mon - Nya vendor"
+  },
+  {
+    "comp_val": 616,
+    "id": 13800,
+    "name": "NJ Mon - Johny Umami vendor"
+  },
+  {
+    "comp_val": 617,
+    "id": 13801,
+    "name": "NJ Mon - Bubu Mumu Vendor"
+  },
+  {
+    "comp_val": 618,
+    "id": 13806,
+    "name": "Commendation Vendor"
+  },
+  {
+    "comp_val": 619,
+    "id": 13876,
+    "name": "Test Jason Yegge"
+  },
+  {
+    "comp_val": 620,
+    "id": 13886,
+    "name": "media-reporte2r"
+  },
+  {
+    "comp_val": 622,
+    "id": 14349,
+    "name": "[TEMP] Spaceship Greeter"
+  },
+  {
+    "comp_val": 623,
+    "id": 14398,
+    "name": "NJ Mon- Jook Sonyu"
+  },
+  {
+    "comp_val": 624,
+    "id": 14399,
+    "name": "NJ Mon- Kiki Kawaii"
+  },
+  {
+    "comp_val": 625,
+    "id": 14400,
+    "name": "NJ Mon- Oh Don Piano"
+  },
+  {
+    "comp_val": 626,
+    "id": 14426,
+    "name": "AG - Earth Ninja"
+  },
+  {
+    "comp_val": 627,
+    "id": 14464,
+    "name": "Nics post mission vendor"
+  },
+  {
+    "comp_val": 628,
+    "id": 14481,
+    "name": "TEST gather mission NPC 1"
+  },
+  {
+    "comp_val": 629,
+    "id": 14482,
+    "name": "TEST gather mission NPC 2"
+  },
+  {
+    "comp_val": 630,
+    "id": 15851,
+    "name": "mon - villager 1"
+  },
+  {
+    "comp_val": 631,
+    "id": 15866,
+    "name": "mon - villager 2"
+  },
+  {
+    "comp_val": 633,
+    "id": 15922,
+    "name": "mon - villager 3"
+  },
+  {
+    "comp_val": 634,
+    "id": 15924,
+    "name": "mon - villager 4"
+  },
+  {
+    "comp_val": 635,
+    "id": 15927,
+    "name": "mon - villager 5"
+  },
+  {
+    "comp_val": 636,
+    "id": 15929,
+    "name": "mon - villager 6"
+  },
+  {
+    "comp_val": 637,
+    "id": 16033,
+    "name": "NJ Mon- Cringe Lo_ET"
+  },
+  {
+    "comp_val": 638,
+    "id": 16034,
+    "name": "CP- Ninjago Envoy"
+  },
+  {
+    "comp_val": 639,
+    "id": 16376,
+    "name": "TestingNPC"
+  },
+  {
+    "comp_val": 640,
+    "id": 16377,
+    "name": "TestingNPC"
+  },
+  {
+    "comp_val": 641,
+    "id": 16378,
+    "name": "TestingNPC"
+  }
+]

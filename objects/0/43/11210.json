@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item",
+  "components": {
+    "11": 5491,
+    "2": 10980
+  },
+  "description": "Jadeoria Fly",
+  "displayName": "Jadeoria Fly",
+  "gate_version": null,
+  "id": 11210,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "WBL - Quest - Jadeoria Fly",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

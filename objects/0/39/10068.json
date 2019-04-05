@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9904,
+    "3": 4344
+  },
+  "description": "spawns a null object for playing FX",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10068,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NULL FX BATTLE ACTIVATOR",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

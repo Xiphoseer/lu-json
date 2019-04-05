@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12887,
+    "3": 6377
+  },
+  "description": "This is used to block projectiles",
+  "displayName": null,
+  "gate_version": null,
+  "id": 13111,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CP Shield Generator Blocking Volume",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

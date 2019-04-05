@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Restore 10 LP, 10 AP, 10 IP, +Emote",
+  "components": {
+    "11": 4856,
+    "2": 9865,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Cup of Yo",
+  "gate_version": null,
+  "id": 10038,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cup of Yo",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 759
+    }
+  ],
+  "type": "Loot"
+}

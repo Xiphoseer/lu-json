@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 7166,
+    "2": 14273,
+    "9": 0
+  },
+  "description": "Double-click to use, or drag it to slot 5 in your Action Bar!",
+  "displayName": "Maelstrom Vacuum",
+  "gate_version": "freetrial",
+  "id": 14592,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Maelstrom Vacuum",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 1412
+    }
+  ],
+  "type": "Loot"
+}

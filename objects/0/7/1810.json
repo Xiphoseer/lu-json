@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 1793,
+    "5": 66
+  },
+  "description": "For Outhouse rebuilding vignette",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1810,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Rude Outhouse Minifigure",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 239
+    }
+  ],
+  "type": "NPC"
+}

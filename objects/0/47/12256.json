@@ -1,0 +1,50 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 439,
+    "2": 12003,
+    "3": 1777,
+    "35": 541,
+    "7": 305,
+    "73": 111
+  },
+  "description": "__MG__Hael Storm's Guard",
+  "displayName": "Trek Furino - Venture League Guard",
+  "gate_version": "nexustower",
+  "icons": [
+    {
+      "iconID": 1,
+      "iconState": 1
+    },
+    {
+      "iconID": 3,
+      "iconState": 2
+    },
+    {
+      "iconID": 4,
+      "iconState": 4
+    },
+    {
+      "iconID": 6,
+      "iconState": 9
+    },
+    {
+      "iconID": 3,
+      "iconState": 10
+    },
+    {
+      "iconID": 164,
+      "iconState": 12
+    }
+  ],
+  "id": 12256,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": false,
+  "name": "HaelsGuard",
+  "nametag": true,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

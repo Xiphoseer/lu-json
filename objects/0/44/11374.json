@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11147,
+    "3": 5273
+  },
+  "description": "RACE-FVTrack04_TRACK_FVLair",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11374,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "RACE-FVTrack04_TRACK_FVLair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

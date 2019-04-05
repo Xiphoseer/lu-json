@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 91,
+    "2": 11908,
+    "3": 1777,
+    "35": 537,
+    "7": 306
+  },
+  "description": "Test Vendor for Testing Loot Tables",
+  "displayName": "Test Systems Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 62,
+      "iconState": 66
+    }
+  ],
+  "id": 12159,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Systems Vendor",
+  "nametag": false,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

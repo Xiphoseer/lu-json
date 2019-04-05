@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6556,
+    "3": 3084
+  },
+  "description": "Mouse cursor icon that appears when the player gets close to something interactable",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6977,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Click Me Proximity",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

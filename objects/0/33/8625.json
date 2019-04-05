@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3880,
+    "2": 8182,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Mail Shirt with Belt",
+  "gate_version": null,
+  "id": 8625,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Mail Shirt with Belt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 IP",
+  "components": {
+    "11": 967,
+    "2": 2246,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Binoculars",
+  "gate_version": null,
+  "id": 2634,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Binoculars",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

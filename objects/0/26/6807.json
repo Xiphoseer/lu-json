@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6369,
+    "3": 2997
+  },
+  "description": "Verticle pillar used in jail area",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6807,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Jail Pillar",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

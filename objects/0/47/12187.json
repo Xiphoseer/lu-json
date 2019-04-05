@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11936,
+    "3": 5944,
+    "7": 1667
+  },
+  "description": "smashable broken computer from dropship",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12187,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Broken Computer Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

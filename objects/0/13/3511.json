@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2906,
+    "3": 1700,
+    "48": 30,
+    "5": 459
+  },
+  "description": "A rebuildable quickbuild bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3511,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Quickbuild Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

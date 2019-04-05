@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2 AP 2 IP",
+  "components": {
+    "11": 4933,
+    "2": 9958,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Red Double Breasted Uniform",
+  "gate_version": null,
+  "id": 10121,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Double Breasted Uniform Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

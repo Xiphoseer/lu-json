@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Test for Yegge",
+  "components": {
+    "11": 4754,
+    "2": 9623,
+    "9": 0
+  },
+  "description": "Test for Yegge",
+  "displayName": "Test Dual Wield Sword & Brush",
+  "gate_version": null,
+  "id": 9787,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Dual Wield Sword & Brush",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 524
+    }
+  ],
+  "type": "Loot"
+}

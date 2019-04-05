@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 1776,
+    "5": 85,
+    "7": 12
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1904,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "VO - Glowbug",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

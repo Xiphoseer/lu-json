@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 6/6/9 NJ Smashing",
+  "components": {
+    "11": 7254,
+    "2": 14451,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Axe",
+  "gate_version": "njhub",
+  "id": 14764,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Bone Axe",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1637
+    }
+  ],
+  "type": "Loot"
+}

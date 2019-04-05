@@ -1,0 +1,45 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 IP 3 AP  Restores 5 imagination per 5 hits taken.",
+  "components": {
+    "11": 7388,
+    "2": 14676,
+    "5": 1591,
+    "72": 0,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Imaginite Pack",
+  "gate_version": "njhub",
+  "id": 15975,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imaginite Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1119
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1557
+    }
+  ],
+  "type": "Loot"
+}

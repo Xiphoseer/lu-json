@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 5% speed boost + AoE Emote (group cheer)",
+  "components": {
+    "11": 6972,
+    "2": 13806,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Racemaster Shirt",
+  "gate_version": "nexustower",
+  "id": 14095,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Racemaster Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1354
+    }
+  ],
+  "type": "Loot"
+}

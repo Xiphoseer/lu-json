@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Mission Item - Mission ID 746 - Hidden",
+  "components": {
+    "11": 4395,
+    "2": 8729
+  },
+  "description": "Return this to Captain Jack Knife!",
+  "displayName": "Picture of Jack Knife's Mom",
+  "gate_version": null,
+  "id": 9275,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Picture of Captain Jack Knife's Mom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

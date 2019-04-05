@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6383,
+    "3": 3010,
+    "5": 947,
+    "7": 634
+  },
+  "description": "mission object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6822,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Banana Tree",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

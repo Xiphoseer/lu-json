@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3642,
+    "2": 7842,
+    "39": 41,
+    "5": 882,
+    "9": 0
+  },
+  "description": "GF Zone Control Object for Survival",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8305,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF Survival Zone Control Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Zone Control Object"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12000,
+    "29": 4,
+    "40": 5986,
+    "7": 689
+  },
+  "description": "TEST jetpack launcher cutoff",
+  "displayName": "TEST jetpack launcher cutoff",
+  "gate_version": null,
+  "id": 16045,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST jetpack launcher cutoff",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

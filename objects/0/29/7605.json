@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 3356,
+    "2": 7170,
+    "7": 700,
+    "9": 0
+  },
+  "description": "combo finsher on wand, AOE damage",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7605,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Wand Fireball - 3 splash damage",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 357
+    }
+  ],
+  "type": "Shooting Gallery"
+}

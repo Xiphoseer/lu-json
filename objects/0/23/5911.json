@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5317,
+    "3": 2381
+  },
+  "description": "effect directional trail test object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5911,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "spark flash trail test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

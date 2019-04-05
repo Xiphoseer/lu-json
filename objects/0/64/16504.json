@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 15251,
+    "3": 7897,
+    "5": 1714
+  },
+  "description": "Player Mission Update Object",
+  "displayName": "",
+  "gate_version": "freetrial",
+  "id": 16504,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Player Mission Update Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Zone Control Object"
+}

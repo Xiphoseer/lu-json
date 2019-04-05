@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Object pirates give to you",
+  "components": {
+    "11": 3458,
+    "2": 2233
+  },
+  "description": "Object pirates give to you",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6233,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Piratesicle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

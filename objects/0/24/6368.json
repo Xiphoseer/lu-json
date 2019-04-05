@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5816,
+    "40": 2660,
+    "56": 0
+  },
+  "description": "Placeable 3D ambient sound",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6368,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "3D Ambient Sound",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Smashing",
+  "components": {
+    "11": 3248,
+    "2": 7290,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Push Broom",
+  "gate_version": null,
+  "id": 7734,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Push Broom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 526
+    }
+  ],
+  "type": "Loot"
+}

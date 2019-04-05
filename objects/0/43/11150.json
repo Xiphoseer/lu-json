@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10900,
+    "3": 5052
+  },
+  "description": "ns_racing_spot_light",
+  "displayName": "ns_racing_spot_light",
+  "gate_version": null,
+  "id": 11150,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ns_racing_spot_light",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

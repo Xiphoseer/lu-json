@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13953,
+    "3": 7098,
+    "7": 1989
+  },
+  "description": null,
+  "displayName": "NJ Generic Smashable 1",
+  "gate_version": "njhub",
+  "id": 14264,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ Dish Fountain Smashable",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

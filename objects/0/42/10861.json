@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5317,
+    "2": 10708,
+    "3": 4982,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Guide Model",
+  "gate_version": null,
+  "id": 10861,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward Guide",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

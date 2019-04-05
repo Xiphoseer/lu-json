@@ -1,0 +1,34 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1454,
+    "2": 2720,
+    "26": 4,
+    "5": 350,
+    "7": 397,
+    "9": 0
+  },
+  "description": "Don't use",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 33,
+      "iconState": 109
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 3266,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Wild Reindeer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

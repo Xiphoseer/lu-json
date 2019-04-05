@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "2": 2175,
+    "5": 231
+  },
+  "description": "FV ambient",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2499,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Tai Chi Bricks",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

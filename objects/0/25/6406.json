@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5854,
+    "32": 7,
+    "40": 2682,
+    "5": 1198
+  },
+  "description": "The first showcase display pedestal, for development purposes",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 65,
+      "iconState": 65
+    }
+  ],
+  "id": 6406,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Showcase Display Pedestal - Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Exhibits"
+}

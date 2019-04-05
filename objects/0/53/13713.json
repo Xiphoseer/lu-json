@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6823,
+    "2": 13451,
+    "3": 6771,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Vintage Fortress Model ",
+  "gate_version": "april2011content",
+  "id": 13713,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Vintage Fortress ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

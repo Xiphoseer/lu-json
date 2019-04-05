@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3014,
+    "2": 6715,
+    "3": 3180,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Antique Chair Model",
+  "gate_version": null,
+  "id": 7135,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Chair",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

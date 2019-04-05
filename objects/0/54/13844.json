@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13584,
+    "3": 6852,
+    "7": 1878
+  },
+  "description": "smashable piece hanging on wall",
+  "displayName": "NT-Paradox wall smashable1",
+  "gate_version": null,
+  "id": 13844,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT-Paradox wall smashable1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

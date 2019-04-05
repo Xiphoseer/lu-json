@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 Smashing",
+  "components": {
+    "11": 3743,
+    "2": 8004,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Super Shovel",
+  "gate_version": null,
+  "id": 8449,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Super Shovel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 280
+    }
+  ],
+  "type": "Loot"
+}

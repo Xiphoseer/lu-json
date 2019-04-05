@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "1/1/1Wysiwyg",
+  "components": {
+    "11": 3019,
+    "2": 6728,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 7149,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Wysiwyg long sword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 310
+    }
+  ],
+  "type": "Loot"
+}

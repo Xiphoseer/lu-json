@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7240,
+    "20": 3334,
+    "5": 1018,
+    "7": 26
+  },
+  "description": "Racing Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7680,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - RACING Imagination Powerup 1 point",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 2,
+      "skillID": 585
+    }
+  ],
+  "type": "NPC"
+}

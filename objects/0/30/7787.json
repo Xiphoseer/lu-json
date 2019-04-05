@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Spawn LP powerups, everlasting",
+  "components": {
+    "11": 3295,
+    "2": 7343,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Cauldron of Life",
+  "gate_version": null,
+  "id": 7787,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cauldron of Life",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 789
+    }
+  ],
+  "type": "Loot"
+}

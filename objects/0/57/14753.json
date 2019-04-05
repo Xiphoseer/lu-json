@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7243,
+    "2": 14440,
+    "28": 396,
+    "3": 7439,
+    "42": 0,
+    "63": 37
+  },
+  "description": null,
+  "displayName": "Race Ace Rear Bumper",
+  "gate_version": "ftcommunityitems",
+  "id": 14753,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Blue Indy Car Rear Bumper",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

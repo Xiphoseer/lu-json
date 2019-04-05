@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13193,
+    "3": 6566
+  },
+  "description": null,
+  "displayName": "NJ-Mon_Fire_Dungeon",
+  "gate_version": "njhub",
+  "id": 13458,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ-Mon_Fire_Dungeon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

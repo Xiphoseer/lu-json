@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "40": 1573,
+    "5": 153
+  },
+  "description": "Youreeka fountain: when 2 spouts are plugged, the 3rd spawns this bouncer",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3379,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - Fountain Bouncer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Bouncers"
+}

@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "0 damage bullet. Can smash special targets",
+  "components": {
+    "18": 7186,
+    "2": 14068,
+    "7": 1940,
+    "9": 0
+  },
+  "description": "Plungers shot by the plunger gun",
+  "displayName": null,
+  "gate_version": "freetrial",
+  "id": 14377,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Plunger Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1374
+    }
+  ],
+  "type": "Shooting Gallery"
+}

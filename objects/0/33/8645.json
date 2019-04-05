@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "3 AP 2 IP",
+  "components": {
+    "11": 3897,
+    "2": 8200,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Iron Legs",
+  "gate_version": null,
+  "id": 8645,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Iron Legs",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 362
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 370
+    }
+  ],
+  "type": "Loot"
+}

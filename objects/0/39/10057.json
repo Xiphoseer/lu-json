@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Model will patrol an area",
+  "components": {
+    "11": 4881,
+    "2": 9893
+  },
+  "description": "Model will patrol an area",
+  "displayName": "Patrol Behavior",
+  "gate_version": null,
+  "id": 10057,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Patrol",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

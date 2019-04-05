@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 2607,
+    "5": 344,
+    "7": 243
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 3143,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sheep",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

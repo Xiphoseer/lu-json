@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3451,
+    "2": 7584,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "White Racing Helmet",
+  "gate_version": null,
+  "id": 8038,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "White Racing Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

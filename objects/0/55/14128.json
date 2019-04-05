@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Free Trial Activate - 2 AP",
+  "components": {
+    "11": 7005,
+    "2": 13839,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Atlantis Squid Helm",
+  "gate_version": "nexustower",
+  "id": 14128,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Atlantis Squid Helm",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    }
+  ],
+  "type": "Loot"
+}

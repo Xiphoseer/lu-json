@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7270,
+    "3": 3416,
+    "5": 950
+  },
+  "description": "car modular build body volume",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7714,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Modular Volume Body",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

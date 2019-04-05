@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/2/3 Slashing + lightning chargeup",
+  "components": {
+    "11": 2975,
+    "2": 2199,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Great Longsword of Lightning",
+  "gate_version": null,
+  "id": 2586,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Great Longsword of Lightning",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 808
+    }
+  ],
+  "type": "Loot"
+}

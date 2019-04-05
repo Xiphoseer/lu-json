@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "11": 5502,
+    "2": 9585,
+    "28": 207,
+    "3": 4262,
+    "42": 0
+  },
+  "description": "Modular Build rocket cockpit",
+  "displayName": "Ninja Dragon Rocket Cockpit",
+  "gate_version": null,
+  "id": 9747,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Rocket Ninja Dragon Cockpit",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 835
+    }
+  ],
+  "type": "Rebuildables"
+}

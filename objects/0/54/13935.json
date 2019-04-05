@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13651,
+    "3": 6912
+  },
+  "description": "Imagination signage for Paradox area in Nexus Tower",
+  "displayName": "NT - Portal - Imagination 2",
+  "gate_version": "nexustower",
+  "id": 13935,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NT - Portal - Imagination 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4515,
+    "2": 9286,
+    "28": 171,
+    "3": 4063,
+    "42": 0,
+    "63": 4
+  },
+  "description": null,
+  "displayName": "Paragon Warp Rear Panel 2",
+  "gate_version": null,
+  "id": 9427,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car3_RearPanel2_b",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

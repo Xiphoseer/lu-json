@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6307,
+    "2": 12785,
+    "5": 1426,
+    "7": 1800
+  },
+  "description": "Robot City Lawn Bot",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12925,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "WBL - Lawnbot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

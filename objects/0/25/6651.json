@@ -1,0 +1,33 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3464,
+    "2": 1933,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 6651,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test AoE Hammer Tier 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 225
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 227
+    }
+  ],
+  "type": "Loot"
+}

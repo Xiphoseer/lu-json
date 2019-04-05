@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 373,
+    "2": 9987,
+    "3": 1777,
+    "35": 465,
+    "7": 307
+  },
+  "description": "test and delete",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10148,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "testing for char create stuff",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

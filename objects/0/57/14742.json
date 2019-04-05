@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7232,
+    "2": 14429,
+    "28": 385,
+    "3": 7428,
+    "42": 0,
+    "63": 36
+  },
+  "description": null,
+  "displayName": "Dune Buggy Rear Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14742,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Dune Buggy Rear Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 852
+    }
+  ],
+  "type": "Rebuildables"
+}

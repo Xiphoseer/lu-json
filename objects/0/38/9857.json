@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9689,
+    "3": 4332,
+    "7": 1614
+  },
+  "description": "Smashable Netdevil for FV facility research tube",
+  "displayName": null,
+  "gate_version": null,
+  "id": 9857,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Facility - Netdevil",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 10631,
+    "3": 4907
+  },
+  "description": "Overhead indicator for LEGO Club",
+  "displayName": "LEGO Club Overhead Icon",
+  "gate_version": null,
+  "id": 10784,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LEGO Club Overhead Icon",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Icon"
+}

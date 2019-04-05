@@ -1,0 +1,36 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6888,
+    "11": 6900,
+    "2": 12851,
+    "26": 34,
+    "42": 0,
+    "5": 1437,
+    "7": 1809,
+    "9": 0
+  },
+  "description": "Tamable Pet",
+  "displayName": "Skeleton Dragon Pet",
+  "gate_version": "auramar",
+  "icons": [
+    {
+      "iconID": 93,
+      "iconState": 70
+    },
+    {
+      "iconID": 34,
+      "iconState": 110
+    }
+  ],
+  "id": 13067,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Skeleton Dragon Pet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

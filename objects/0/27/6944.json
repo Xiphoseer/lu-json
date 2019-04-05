@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6506,
+    "3": 3053,
+    "5": 949
+  },
+  "description": "When clicked on this will update the \"burnt butt\" mission task count",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6944,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Scripted Task Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

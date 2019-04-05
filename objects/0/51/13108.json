@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 12884,
+    "40": 6376,
+    "5": 1166,
+    "9": 0
+  },
+  "description": "maelstrom fx removalfor Nimbus Plaza Instance",
+  "displayName": "",
+  "gate_version": "nimbusinstance",
+  "id": 13108,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NSW - maelstrom cloud fx",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

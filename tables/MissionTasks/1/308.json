@@ -1,0 +1,47 @@
+{
+  "id": 308,
+  "tasks": [
+    {
+      "IconID": 2904,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Mission308_nosecone_task.dds",
+      "largeTaskIconID": 2904,
+      "locStatus": 2,
+      "localize": true,
+      "target": 7080,
+      "targetGroup": "14444,14451,14454, 4713",
+      "targetValue": 1,
+      "taskParam1": "5",
+      "taskType": 11,
+      "uid": 469
+    },
+    {
+      "IconID": 2905,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Mission308_cockpit_task.dds",
+      "largeTaskIconID": 2905,
+      "locStatus": 2,
+      "localize": true,
+      "target": 7081,
+      "targetGroup": "14445,14452,14455, 4714",
+      "targetValue": 1,
+      "taskParam1": "5",
+      "taskType": 11,
+      "uid": 470
+    },
+    {
+      "IconID": 2906,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Mission308_engine_task.dds",
+      "largeTaskIconID": 2906,
+      "locStatus": 2,
+      "localize": true,
+      "target": 7082,
+      "targetGroup": "14446,14453,14456, 4715",
+      "targetValue": 1,
+      "taskParam1": "5",
+      "taskType": 11,
+      "uid": 471
+    }
+  ]
+}

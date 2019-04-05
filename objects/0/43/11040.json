@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Duplicate, to be deprecated - do not drop",
+  "components": {
+    "11": 5375,
+    "2": 10791,
+    "3": 1757
+  },
+  "description": null,
+  "displayName": "Cone 1x1",
+  "gate_version": null,
+  "id": 11040,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "m4589",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "LEGO brick"
+}

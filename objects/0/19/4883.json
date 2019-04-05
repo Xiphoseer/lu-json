@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/1 Smashing",
+  "components": {
+    "11": 1733,
+    "2": 4319,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Basic Hammer",
+  "gate_version": null,
+  "id": 4883,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Basic Hammer",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 150
+    }
+  ],
+  "type": "Loot"
+}

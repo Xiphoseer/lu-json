@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11667,
+    "3": 5753
+  },
+  "description": "",
+  "displayName": "",
+  "gate_version": null,
+  "id": 11919,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Armor Powerup 10 points",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 2,
+      "skillID": 912
+    }
+  ],
+  "type": "Powerup"
+}

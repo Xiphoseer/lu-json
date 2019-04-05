@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "25 damage long cooldown activatable",
+  "components": {
+    "11": 6181,
+    "2": 12388,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Witch's Surf-Broom",
+  "gate_version": "nimbusinstance",
+  "id": 12598,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Witch's Surf-Broom",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 4,
+      "skillID": 988
+    }
+  ],
+  "type": "Loot"
+}

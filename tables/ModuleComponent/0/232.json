@@ -1,0 +1,8 @@
+{
+  "assembledEffectID": null,
+  "buildType": 3,
+  "id": 232,
+  "partCode": 2,
+  "primarySoundGUID": null,
+  "xml": "<ModuleInfo moduleLOT=\"8298\" name=\"Rocket Deep Freeze Bottom\"> <PlacementRotation x=\"0.5\" y=\"0.5\" z=\"-0.5\" w=\"0.5\" /><PlacementPosition x=\"0\" y=\"0\" z=\"-4.81\" /><BuildingPosition x=\"0\" y=\"-9.978\" z=\"0\"/><BuildingRotation x=\"0\" y=\"0\" z=\"0\" w=\"1\" /> <connection name=\"CP_A1\"> <translation x=\"0\" y=\"0\" z=\"5.2096\" /> </connection> </ModuleInfo>"
+}

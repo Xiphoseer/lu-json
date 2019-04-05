@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 6874,
+    "11": 6353,
+    "2": 12596,
+    "26": 1,
+    "42": 0,
+    "7": 1775,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "TEST Shane Pet",
+  "gate_version": null,
+  "id": 12806,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "TEST Untamable Pet for Property",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

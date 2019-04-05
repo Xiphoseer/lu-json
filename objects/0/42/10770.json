@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5230,
+    "2": 10617,
+    "3": 4893,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Wall Gate Sliding Door Model",
+  "gate_version": null,
+  "id": 10770,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Wall Gate Sliding Door",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

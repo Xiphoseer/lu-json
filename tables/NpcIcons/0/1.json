@@ -1,0 +1,17 @@
+{
+  "LOT": 13849,
+  "Texture": "mesh\\\\overhead_indicators\\\\icon_mission_accept.dds",
+  "color": 24,
+  "compositeConnectionNode": "Multimission_locator",
+  "compositeHorizOffset": null,
+  "compositeIconTexture": null,
+  "compositeLOTMultiMission": 14204,
+  "compositeLOTMultiMissionVentor": 14205,
+  "compositeScale": 1.0,
+  "compositeVertOffset": null,
+  "id": 1,
+  "isClickable": false,
+  "offset": 4.5,
+  "rotateToFace": true,
+  "scale": 1.0
+}

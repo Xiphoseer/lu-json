@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP 1 IP",
+  "components": {
+    "11": 3819,
+    "2": 8084,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Imagination Tanks",
+  "gate_version": null,
+  "id": 8530,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Imagination Tanks",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 369
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4822,
+    "2": 9783,
+    "53": 38
+  },
+  "description": "Double-click to get the blue Starter Car modules!",
+  "displayName": "Hyperstarter Blue Pack for Beta",
+  "gate_version": null,
+  "id": 9955,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Hyperstarter Blue Pack for Beta",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

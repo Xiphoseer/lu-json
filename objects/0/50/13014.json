@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NT mission Item",
+  "components": {
+    "11": 6481,
+    "2": 12798,
+    "9": 0
+  },
+  "description": "Clean up Nexus Tower with this!",
+  "displayName": "Soap Gun",
+  "gate_version": "nexustower",
+  "id": 13014,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Soap Gun",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1196
+    }
+  ],
+  "type": "Loot"
+}

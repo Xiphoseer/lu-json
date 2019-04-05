@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Nexus Tower Mission Item",
+  "components": {
+    "11": 7046,
+    "2": 13920
+  },
+  "description": "Return this to Ace Warprider in Nexus Tower.",
+  "displayName": "Ace's Jetpack",
+  "gate_version": "nexustower",
+  "id": 14219,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Delivery Package",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

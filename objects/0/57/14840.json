@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Superior Black Heavy Spear of Whirlwind",
+  "components": {
+    "11": 7312,
+    "2": 14534,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Spinning Yari",
+  "gate_version": "njhub",
+  "id": 14840,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Spinning Yari",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1456
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1545
+    }
+  ],
+  "type": "Loot"
+}

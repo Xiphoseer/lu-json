@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4306,
+    "39": 51,
+    "40": 2187,
+    "5": 4
+  },
+  "description": null,
+  "displayName": "Activity Object",
+  "gate_version": null,
+  "id": 8435,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "mg Spider Boss Activity Object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

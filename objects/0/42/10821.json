@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5277,
+    "2": 10668,
+    "3": 4942,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "King Bed Model",
+  "gate_version": null,
+  "id": 10821,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "LUP Model Reward KingBed",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

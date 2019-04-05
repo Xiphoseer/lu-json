@@ -1,0 +1,27 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1743,
+    "3": 1777,
+    "5": 335
+  },
+  "description": "NC guild master",
+  "displayName": null,
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 12,
+      "iconState": 65
+    }
+  ],
+  "id": 3001,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Guild Master",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

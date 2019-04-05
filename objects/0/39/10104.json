@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9941,
+    "3": 4471
+  },
+  "description": "Animated UV Test Object 1",
+  "displayName": "fx_rotation_locator",
+  "gate_version": null,
+  "id": 10104,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "fx_rotation_locator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

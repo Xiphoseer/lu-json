@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6806,
+    "3": 3260,
+    "48": 114,
+    "5": 997,
+    "57": 0,
+    "7": 683,
+    "9": 0
+  },
+  "description": "Land Mine",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7226,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "New QB Land Mine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 1,
+      "castOnType": 0,
+      "skillID": 317
+    }
+  ],
+  "type": "Rebuildables"
+}

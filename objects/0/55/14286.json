@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 13975,
+    "3": 7120,
+    "7": 2011
+  },
+  "description": null,
+  "displayName": "NJ WeaponRack 5",
+  "gate_version": "njhub",
+  "id": 14286,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ WeaponRack 5",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

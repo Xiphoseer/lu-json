@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 2164,
+    "2": 4207,
+    "9": 0
+  },
+  "description": "Projectile for Bow",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4797,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Arrow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 78
+    }
+  ],
+  "type": "Shooting Gallery"
+}

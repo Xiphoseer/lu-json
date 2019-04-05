@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5237,
+    "2": 10624,
+    "3": 4900,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Fortress Zen Garden Model 6",
+  "gate_version": null,
+  "id": 10777,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Fortress Zen Garden 6",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

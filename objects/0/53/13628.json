@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for the Spike Platform model.",
+  "components": {
+    "11": 6746,
+    "2": 13365
+  },
+  "description": "A behavior that makes a model spin around.",
+  "displayName": "Spike Platform Behavior",
+  "gate_version": null,
+  "id": 13628,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spike Platform Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

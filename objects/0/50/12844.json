@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "18": 6259,
+    "2": 12633
+  },
+  "description": "used by shinobi shuriken Barrage skill",
+  "displayName": null,
+  "gate_version": null,
+  "id": 12844,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Shinobi Shuriken Barrage Projectile Bullet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Shooting Gallery"
+}

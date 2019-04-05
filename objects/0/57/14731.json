@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "2/3/3 7/7/8 NJ Smashing",
+  "components": {
+    "11": 7225,
+    "2": 14418,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Purified Bone",
+  "gate_version": "njhub",
+  "id": 14731,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Purified Bone",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1423
+    }
+  ],
+  "type": "Loot"
+}

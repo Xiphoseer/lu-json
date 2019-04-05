@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/2/3 Piercing",
+  "components": {
+    "11": 3806,
+    "2": 8062,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Superior Trident",
+  "gate_version": null,
+  "id": 8507,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Superior Trident",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 548
+    }
+  ],
+  "type": "Loot"
+}

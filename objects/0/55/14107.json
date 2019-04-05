@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - Color Variant - 2/2/2 damage with knockdown on each bullet",
+  "components": {
+    "11": 6984,
+    "2": 13818,
+    "9": 0
+  },
+  "description": "Requires Imagination to fire.",
+  "displayName": "Exceptional Pea Shooter MK Ia",
+  "gate_version": "nexustower",
+  "id": 14107,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Exceptional Pea Shooter Mk Ia",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 990
+    }
+  ],
+  "type": "Loot"
+}

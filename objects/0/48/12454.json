@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12206,
+    "3": 6115,
+    "5": 1358
+  },
+  "description": "smaller blue rocket launch",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12454,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Sentinel Landing Beacon Rocket Launch",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

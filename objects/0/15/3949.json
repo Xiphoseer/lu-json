@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1856,
+    "3": 980,
+    "48": 36
+  },
+  "description": "Rebuild that spawns Life",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3949,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "LIFE BBQ Grill",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

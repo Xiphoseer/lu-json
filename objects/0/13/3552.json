@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2141,
+    "3": 1186,
+    "48": 29
+  },
+  "description": "Test for quickbuilds that have requirements",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3552,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "TEST - Quickbuild requirements test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

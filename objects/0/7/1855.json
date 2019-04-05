@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1737,
+    "3": 679,
+    "5": 69,
+    "9": 0
+  },
+  "description": "Test object for firefly in flower activity implementation",
+  "displayName": null,
+  "gate_version": null,
+  "id": 1855,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Firefly Flower Test",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 33
+    }
+  ],
+  "type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11893,
+    "3": 5902
+  },
+  "description": "Nexus Tower G13-Shell",
+  "displayName": "NT G13-Shell",
+  "gate_version": null,
+  "id": 12144,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT G13-Shell",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

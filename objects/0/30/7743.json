@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1 AP",
+  "components": {
+    "11": 3257,
+    "2": 7299,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Police Jacket",
+  "gate_version": null,
+  "id": 7743,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Police Shirt",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 360
+    }
+  ],
+  "type": "Loot"
+}

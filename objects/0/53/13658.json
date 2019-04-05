@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Reward Model",
+  "components": {
+    "11": 6768,
+    "2": 13396,
+    "3": 6716,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Zoo Wooden Fence Gate Model",
+  "gate_version": "april2011content",
+  "id": 13658,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Zoo Fence Wooden Gate ",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

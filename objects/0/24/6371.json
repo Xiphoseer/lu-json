@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5819,
+    "3": 2663,
+    "7": 521
+  },
+  "description": "Collectible Spawner for GF imagination brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6371,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Maelstrom Collection",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

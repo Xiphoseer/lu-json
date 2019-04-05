@@ -1,0 +1,41 @@
+{
+  "LootTableIndex": 618,
+  "elements": [
+    {
+      "MissionDrop": false,
+      "id": 18570,
+      "itemid": 7444,
+      "sortPriority": 3140
+    },
+    {
+      "MissionDrop": false,
+      "id": 18573,
+      "itemid": 7468,
+      "sortPriority": 3150
+    },
+    {
+      "MissionDrop": false,
+      "id": 18576,
+      "itemid": 7492,
+      "sortPriority": 3160
+    },
+    {
+      "MissionDrop": false,
+      "id": 18579,
+      "itemid": 7516,
+      "sortPriority": 3170
+    },
+    {
+      "MissionDrop": false,
+      "id": 18580,
+      "itemid": 7538,
+      "sortPriority": 3190
+    },
+    {
+      "MissionDrop": false,
+      "id": 18582,
+      "itemid": 7545,
+      "sortPriority": 3180
+    }
+  ]
+}

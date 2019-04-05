@@ -1,0 +1,25 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 194,
+    "2": 6107,
+    "35": 240,
+    "5": 863,
+    "62": 0,
+    "7": 305
+  },
+  "description": "__MG__This is the first run at a directed exhibit related mission giver",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6542,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Randall_TestWithNewShowcaseVals",
+  "nametag": false,
+  "npcTemplateID": 15,
+  "placeable": true,
+  "type": "NPC"
+}

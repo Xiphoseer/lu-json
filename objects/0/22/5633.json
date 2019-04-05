@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 5052,
+    "40": 2319,
+    "5": 313
+  },
+  "description": "Death Plane special made for AG at size of map 640x640",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5633,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Death Plane 640x640",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "BlockingVolume"
+}

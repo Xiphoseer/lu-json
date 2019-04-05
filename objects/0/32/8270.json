@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 3630,
+    "2": 7808,
+    "3": 3854,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Double Lamppost Model",
+  "gate_version": null,
+  "id": 8270,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Double Lamp",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

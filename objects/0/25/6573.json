@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2123,
+    "3": 1169,
+    "48": 82,
+    "5": 913,
+    "7": 225
+  },
+  "description": "Siege QB Capture Object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6573,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Defender Capture-Object QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

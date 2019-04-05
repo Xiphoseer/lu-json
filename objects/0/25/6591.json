@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 2768,
+    "2": 6128,
+    "28": 11,
+    "3": 2844,
+    "42": 0,
+    "63": 10
+  },
+  "description": "Old don't use",
+  "displayName": "Modular Car Chassis #2",
+  "gate_version": null,
+  "id": 6591,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Old MOD Car Chassis 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 848
+    }
+  ],
+  "type": "Rebuildables"
+}

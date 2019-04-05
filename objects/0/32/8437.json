@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7993,
+    "3": 3919,
+    "7": 835
+  },
+  "description": "Smashable fence for FV Ninja Tree",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8437,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Smashable Tree Fence",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

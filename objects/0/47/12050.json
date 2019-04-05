@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11799,
+    "23": 37,
+    "40": 5845,
+    "7": 1656
+  },
+  "description": "Collectible Spawner for Aura Mar Backpack Flag",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12050,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Collectable Flag Spawner - Backpack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

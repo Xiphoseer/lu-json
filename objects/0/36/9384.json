@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4472,
+    "2": 9243,
+    "28": 128,
+    "3": 4046,
+    "42": 0,
+    "63": 3
+  },
+  "description": null,
+  "displayName": "Bolt Ox Engine Panel 2",
+  "gate_version": null,
+  "id": 9384,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car2_EnginePanel4_b",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6663,
+    "2": 13243,
+    "28": 330,
+    "3": 6616,
+    "42": 0,
+    "63": 27
+  },
+  "description": null,
+  "displayName": "Sentinel Stalwart Rear Bumper",
+  "gate_version": "factionvehicles",
+  "id": 13509,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarSE_RearBumper_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 851
+    }
+  ],
+  "type": "Rebuildables"
+}

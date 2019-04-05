@@ -1,0 +1,32 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 3639,
+    "2": 7860,
+    "3": 3870,
+    "48": 128,
+    "5": 1207,
+    "7": 871,
+    "9": 0
+  },
+  "description": "claim marker in property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8302,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Property Claim Marker",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 10,
+      "castOnType": 0,
+      "skillID": 499
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1076,
+    "2": 1970,
+    "5": 306
+  },
+  "description": "Team 11",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2923,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GC 11 Intro NPC",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "NPC"
+}

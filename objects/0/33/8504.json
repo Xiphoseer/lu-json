@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "1/1/2 Slashing",
+  "components": {
+    "11": 3803,
+    "2": 8059,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Improved Longsword",
+  "gate_version": null,
+  "id": 8504,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Improved Longsword",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 524
+    }
+  ],
+  "type": "Loot"
+}

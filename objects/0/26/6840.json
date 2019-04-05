@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 2861,
+    "2": 6391,
+    "3": 3153,
+    "42": 0
+  },
+  "description": "Place this animated creature model on your Property!",
+  "displayName": "Cat Model",
+  "gate_version": null,
+  "id": 6840,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Ambient Cat",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "AoE 2 dmg",
+  "components": {
+    "11": 1015,
+    "2": 2508,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "BBQ Blast Hot Dog",
+  "gate_version": null,
+  "id": 3011,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "BBQ Blast Hot Dog",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 55
+    }
+  ],
+  "type": "Loot"
+}

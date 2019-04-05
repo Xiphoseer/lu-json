@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11166,
+    "20": 5291,
+    "5": 1284,
+    "7": 1615
+  },
+  "description": "Mealstrom chest that explodes when player smashes",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11390,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FV - Racing Maelstrom statue",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

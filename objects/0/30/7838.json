@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7394,
+    "3": 3508
+  },
+  "description": "Test mesh for AG battlefield explosion",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7838,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG Battlefield Exploded Glom Test 4",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

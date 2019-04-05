@@ -1,0 +1,18 @@
+{
+  "airSpeed": 5.0,
+  "boundaryAsset": null,
+  "collisionGroup": 1,
+  "doublejump": 0.0,
+  "friction": 10.0,
+  "gravityVolumeAsset": null,
+  "id": 7421,
+  "jump": 0.0,
+  "jumpAirSpeed": 25.0,
+  "pcShapeType": 0,
+  "physics_asset": "env/NG_NinjaGo/env_nj_monastery_core_left.HKX",
+  "playerHeight": null,
+  "playerRadius": null,
+  "rotSpeed": null,
+  "speed": null,
+  "static": 1.0
+}

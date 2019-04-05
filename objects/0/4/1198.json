@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1043,
+    "3": 318
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 1198,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ambi_sound_box",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "HFHelper"
+}

@@ -1,0 +1,24 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 2360,
+    "25": 0,
+    "3": 1368,
+    "40": 2356,
+    "41": 0,
+    "48": 54
+  },
+  "description": "Test for a moving platform springpad",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6341,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test - Moving Platform Springpad",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

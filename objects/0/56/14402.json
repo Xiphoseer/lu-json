@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14092,
+    "25": 0,
+    "27": 0,
+    "3": 7209
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": "njhub",
+  "id": 14402,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - Ninjago Platform 10 x 10 Moving",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4448,
+    "25": 0,
+    "3": 2305,
+    "5": 723
+  },
+  "description": "AG Scene 3 Platform side 1 to golden brick",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5027,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AG - Concert Platform 1",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

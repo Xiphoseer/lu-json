@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1676,
+    "40": 1223,
+    "41": 0,
+    "5": 224
+  },
+  "description": "Spring-Pad",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2438,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spring-Pad Test - Fern",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Spring-Pads"
+}

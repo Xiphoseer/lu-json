@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Promo Item",
+  "components": {
+    "11": 4635,
+    "2": 9456,
+    "3": 4184,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "Mini Car Model",
+  "gate_version": null,
+  "id": 9605,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Mini Car",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

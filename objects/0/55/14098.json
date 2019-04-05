@@ -1,0 +1,33 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Community Reward - 3 IP 2 AP",
+  "components": {
+    "11": 6975,
+    "2": 13809,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Race Ace Helmet",
+  "gate_version": "nexustower",
+  "id": 14098,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Race Ace Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 371
+    }
+  ],
+  "type": "Loot"
+}

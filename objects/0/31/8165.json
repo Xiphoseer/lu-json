@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 7709,
+    "20": 3777,
+    "5": 1060,
+    "7": 862
+  },
+  "description": "Standard Crate used for racing",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8165,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Racing crate",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Reward Behavior for Reward Model",
+  "components": {
+    "11": 5448,
+    "2": 10867
+  },
+  "description": "Test Behavior",
+  "displayName": "Black Sheep Behavior",
+  "gate_version": null,
+  "id": 11115,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Black Sheep Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

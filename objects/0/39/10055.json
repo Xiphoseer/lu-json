@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 9891,
+    "3": 4442,
+    "48": 150,
+    "7": 987
+  },
+  "description": "NS - Paradox  Control Panel",
+  "displayName": "",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 155,
+      "iconState": 69
+    }
+  ],
+  "id": 10055,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Paradox  Control Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 13547,
+    "40": 6817,
+    "7": 1871
+  },
+  "description": "the fx object loaded in CP by the blue X",
+  "displayName": "NT - Blue X FX object",
+  "gate_version": "nexustower",
+  "id": 13808,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT - Blue X FX object",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

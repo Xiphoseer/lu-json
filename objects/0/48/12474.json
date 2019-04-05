@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "5 Damage Ballistics",
+  "components": {
+    "11": 6113,
+    "2": 12238,
+    "9": 0
+  },
+  "description": "Double-click to use!",
+  "displayName": "Cherry Blast",
+  "gate_version": "nexustower",
+  "id": 12474,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Cherry Blast",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 3,
+      "skillID": 977
+    }
+  ],
+  "type": "Loot"
+}

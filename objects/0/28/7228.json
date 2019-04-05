@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1467,
+    "2": 4164,
+    "5": 998
+  },
+  "description": "Showing all monkey anims",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7228,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "New Ambient Monkey",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

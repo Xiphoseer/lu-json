@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Rocket Part",
+  "components": {
+    "2": 12962,
+    "28": 290,
+    "3": 6421,
+    "42": 0
+  },
+  "description": "Modular Build Rocket Engine",
+  "displayName": "TEST ROCKET Ian Hall Engine",
+  "gate_version": null,
+  "id": 13180,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "MOD TEST ROCKET Ian Hall Engine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Rebuildables"
+}

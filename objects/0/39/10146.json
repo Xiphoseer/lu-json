@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 371,
+    "2": 9985,
+    "3": 1777,
+    "35": 463,
+    "7": 307
+  },
+  "description": "Ambient Window Washer NPC for LUP Station",
+  "displayName": null,
+  "gate_version": null,
+  "id": 10146,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Starbase 3001 Window Washer Ambient",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

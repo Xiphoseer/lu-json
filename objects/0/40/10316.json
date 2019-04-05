@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Promo Item - Contains randomly selected small reward model",
+  "components": {
+    "11": 5066,
+    "2": 10162,
+    "53": 44
+  },
+  "description": "Double-click to open this pack of models!",
+  "displayName": "Surprise Model Pack",
+  "gate_version": null,
+  "id": 10316,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "DVD Order Model Pack",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

@@ -1,0 +1,43 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "NJ Acolyte Earth Kit",
+  "components": {
+    "11": 7008,
+    "2": 13847,
+    "9": 0
+  },
+  "description": "Wear this to look like a Ninja of Earth and rocket directly to the Ninjago Caves!",
+  "displayName": "Hood of Quakes",
+  "gate_version": "njhub",
+  "id": 14136,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Earth Spinjitzu Hood Hood of Quakes",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 361
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 372
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1371
+    },
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 1537
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "test A model for your property",
+  "components": {
+    "11": 3581,
+    "2": 7714,
+    "3": 3780
+  },
+  "description": "test A model for your property",
+  "displayName": null,
+  "gate_version": null,
+  "id": 8170,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Model Candle Holder",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

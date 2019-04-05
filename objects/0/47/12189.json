@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11938,
+    "3": 5946,
+    "5": 1368,
+    "7": 1669,
+    "9": 0
+  },
+  "description": "bomb that fell off downed dropship, but didnt explode",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12189,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM - Unexploded Bomb",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1159
+    }
+  ],
+  "type": "Environmental"
+}

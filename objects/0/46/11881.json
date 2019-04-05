@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5932,
+    "2": 11633,
+    "3": 5725,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Winter Penguin Model",
+  "gate_version": "dec2010content",
+  "id": 11881,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Winter Penguin",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

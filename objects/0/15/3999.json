@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 3443,
+    "3": 1971,
+    "5": 622,
+    "7": 342,
+    "9": 0
+  },
+  "description": "once 3997 is smashed, this spawns in in its place",
+  "displayName": null,
+  "gate_version": null,
+  "id": 3999,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "ZP - broken fire hydrant",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 116
+    }
+  ],
+  "type": "Environmental"
+}

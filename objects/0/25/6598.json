@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6153,
+    "3": 2809,
+    "5": 876,
+    "7": 580,
+    "9": 0
+  },
+  "description": "Spider Cave Egg without crappy shader",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6598,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spider Cave Egg 2",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 305
+    }
+  ],
+  "type": "Enemies"
+}

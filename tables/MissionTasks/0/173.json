@@ -1,0 +1,19 @@
+{
+  "id": 173,
+  "tasks": [
+    {
+      "IconID": 953,
+      "gate_version": null,
+      "largeTaskIcon": "..\\..\\textures\\ui\\missioncomics\\Wonderland\\Avant_Gardens\\Task_Icons\\Mission1_Task.DDS",
+      "largeTaskIconID": 953,
+      "locStatus": 2,
+      "localize": true,
+      "target": 4768,
+      "targetGroup": null,
+      "targetValue": 6,
+      "taskParam1": null,
+      "taskType": 3,
+      "uid": 297
+    }
+  ]
+}

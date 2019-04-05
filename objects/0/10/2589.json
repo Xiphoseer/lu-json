@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "wand",
+  "components": {
+    "11": 951,
+    "2": 2202,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "Celebration Wand",
+  "gate_version": null,
+  "id": 2589,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Celebration Wand",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 843
+    }
+  ],
+  "type": "Loot"
+}

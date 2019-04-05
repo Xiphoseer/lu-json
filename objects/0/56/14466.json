@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 14155,
+    "40": 7264,
+    "7": 1981,
+    "9": 0
+  },
+  "description": "Point of attack for Spider Boss Rain of Fire skill",
+  "displayName": "FT - Spider Boss ROF Target",
+  "gate_version": null,
+  "id": 14466,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "FT - Spider Boss ROF Target",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1376
+    }
+  ],
+  "type": "Environmental"
+}

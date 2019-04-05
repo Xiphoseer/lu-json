@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7240,
+    "2": 14437,
+    "28": 393,
+    "3": 7436,
+    "42": 0,
+    "63": 34
+  },
+  "description": null,
+  "displayName": "Race Ace Engine Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14750,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Blue Indy Car Engine Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

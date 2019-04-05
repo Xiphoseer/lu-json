@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "16": 97,
+    "17": 120,
+    "2": 4391,
+    "3": 1777,
+    "35": 146,
+    "7": 305
+  },
+  "description": "NS Accessory Vendor - Concert",
+  "displayName": "Dominic Knack - Gear Vendor",
+  "gate_version": null,
+  "icons": [
+    {
+      "iconID": 119,
+      "iconState": 66
+    }
+  ],
+  "id": 4968,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NS Gear Vendor - Concert",
+  "nametag": true,
+  "npcTemplateID": 16,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

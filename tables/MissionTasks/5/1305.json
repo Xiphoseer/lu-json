@@ -1,0 +1,47 @@
+{
+  "id": 1305,
+  "tasks": [
+    {
+      "IconID": 4017,
+      "gate_version": "auramar",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4017,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12341,
+      "targetGroup": "",
+      "targetValue": 2,
+      "taskParam1": "",
+      "taskType": 1,
+      "uid": 1810
+    },
+    {
+      "IconID": 3908,
+      "gate_version": "auramar",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 3908,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12344,
+      "targetGroup": null,
+      "targetValue": 2,
+      "taskParam1": null,
+      "taskType": 1,
+      "uid": 1823
+    },
+    {
+      "IconID": 4016,
+      "gate_version": "auramar",
+      "largeTaskIcon": null,
+      "largeTaskIconID": 4016,
+      "locStatus": 2,
+      "localize": true,
+      "target": 12168,
+      "targetGroup": null,
+      "targetValue": 4,
+      "taskParam1": null,
+      "taskType": 1,
+      "uid": 1824
+    }
+  ]
+}

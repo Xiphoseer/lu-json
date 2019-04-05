@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1825,
+    "3": 3013,
+    "5": 1161,
+    "60": 19,
+    "7": 839
+  },
+  "description": "mission object",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6718,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "GF - Banana Cluster",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Smashables"
+}

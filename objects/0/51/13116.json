@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 12892,
+    "3": 6379,
+    "40": 6380,
+    "48": 189,
+    "6": 0
+  },
+  "description": "QB bouncer object for AuraMar",
+  "displayName": "AM Dropship Turbine",
+  "gate_version": "auramar",
+  "id": 13116,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "AM - Dropship Turbine",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Bouncers"
+}

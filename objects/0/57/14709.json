@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 7206,
+    "2": 14397,
+    "28": 378,
+    "3": 7416,
+    "42": 0,
+    "63": 34
+  },
+  "description": null,
+  "displayName": "Duck Car Engine Panel",
+  "gate_version": "ftcommunityitems",
+  "id": 14709,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "MOD Car Duck Engine Panel",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

@@ -1,0 +1,28 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 4852,
+    "2": 9846,
+    "9": 0
+  },
+  "description": null,
+  "displayName": "",
+  "gate_version": null,
+  "id": 10019,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Test Ryans Helmet",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 368
+    }
+  ],
+  "type": "Loot"
+}

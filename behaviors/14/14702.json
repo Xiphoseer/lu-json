@@ -1,0 +1,17 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/14/14702.json"
+    }
+  },
+  "behaviorID": 14702,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "cant_attack": 0.0,
+    "cant_move": 1.0,
+    "cant_turn": 1.0,
+    "stun_caster": 1.0
+  },
+  "templateID": 15
+}

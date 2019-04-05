@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Smash an object and rebuild it",
+  "components": {
+    "11": 4870,
+    "2": 9879
+  },
+  "description": "Smash an object and rebuild it",
+  "displayName": "Basic Smash Behavior",
+  "gate_version": null,
+  "id": 10044,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Behavior - Basic Smash",
+  "nametag": true,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

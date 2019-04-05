@@ -1,0 +1,15 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/5/6066.json"
+    }
+  },
+  "behaviorID": 6066,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "arc_height": 2.0,
+    "distance_offset": 25.0
+  },
+  "templateID": 58
+}

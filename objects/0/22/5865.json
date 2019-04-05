@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1746,
+    "3": 895,
+    "5": 764,
+    "7": 348
+  },
+  "description": "Choice Build Cannon",
+  "displayName": null,
+  "gate_version": null,
+  "id": 5865,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Choice Build Cannon Slow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

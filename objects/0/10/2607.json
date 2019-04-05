@@ -1,0 +1,21 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 991,
+    "2": 1968,
+    "5": 233
+  },
+  "description": "FV scenario master",
+  "displayName": null,
+  "gate_version": null,
+  "id": 2607,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Pirate Siege Director",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "NPC"
+}

@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11688,
+    "25": 0,
+    "27": 0,
+    "3": 5760
+  },
+  "description": "NT Venture Stairs Low",
+  "displayName": "NT Venture Stairs Low",
+  "gate_version": null,
+  "id": 11938,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NT Venture Stairs Low",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "MovingPlatforms"
+}

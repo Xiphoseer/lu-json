@@ -1,0 +1,31 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 4542,
+    "2": 7770,
+    "28": 198,
+    "3": 3818,
+    "42": 0,
+    "63": 3
+  },
+  "description": null,
+  "displayName": "Thrust Bucket Engine Panel 2",
+  "gate_version": null,
+  "id": 8232,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Car Module - Car 2 Engine Panel 2 Yellow",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 850
+    }
+  ],
+  "type": "Rebuildables"
+}

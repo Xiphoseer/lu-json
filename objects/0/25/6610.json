@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "1": 1777,
+    "17": 416,
+    "2": 6167,
+    "35": 247,
+    "7": 307
+  },
+  "description": "special purpose NPC for CWF demo sprint 909",
+  "displayName": null,
+  "gate_version": null,
+  "id": 6610,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "CWF generic NPC",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

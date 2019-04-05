@@ -1,0 +1,30 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 1899,
+    "40": 1041,
+    "5": 630,
+    "7": 430,
+    "9": 0
+  },
+  "description": "Powerup Spawner",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4036,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Spawner - Imagination Powerup 2 points",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 129
+    }
+  ],
+  "type": "NPC"
+}

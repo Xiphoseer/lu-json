@@ -1,0 +1,19 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/22/23077.json"
+    }
+  },
+  "behaviorID": 23077,
+  "effectHandle": "",
+  "effectID": 0,
+  "parameters": {
+    "angle": 0.0,
+    "orient_caster": 0.0,
+    "relative": 0.0,
+    "to_angle": 0.0,
+    "to_point": 0.0,
+    "to_target": 1.0
+  },
+  "templateID": 39
+}

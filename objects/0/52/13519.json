@@ -1,0 +1,31 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Modular Car Part",
+  "components": {
+    "11": 6673,
+    "2": 13253,
+    "28": 338,
+    "3": 6625,
+    "42": 0,
+    "63": 35
+  },
+  "description": null,
+  "displayName": "Venture League Hinterlander Side Panels",
+  "gate_version": "factionvehicles",
+  "id": 13519,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "CarVE_SidePanels_",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 853
+    }
+  ],
+  "type": "Rebuildables"
+}

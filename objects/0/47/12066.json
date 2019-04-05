@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 11815,
+    "3": 5860
+  },
+  "description": "Test of the Pit Section D of Aura Mar",
+  "displayName": "AM Pit Section D",
+  "gate_version": null,
+  "id": 12066,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "AM Pit Section D",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

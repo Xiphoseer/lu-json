@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5081,
+    "2": 10180,
+    "3": 4572,
+    "42": 0
+  },
+  "description": "A model for your Property!",
+  "displayName": "House Closed Door Model 2",
+  "gate_version": null,
+  "id": 10332,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Cottage Door 2 closed",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

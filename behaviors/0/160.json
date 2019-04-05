@@ -1,0 +1,20 @@
+{
+  "_links": {
+    "self": {
+      "href": "/lu-json/behaviors/0/160.json"
+    }
+  },
+  "behaviorID": 160,
+  "effectHandle": null,
+  "effectID": 0,
+  "parameters": {
+    "distance": 3.5,
+    "forceflat": 1.0,
+    "forcelay": 1.0,
+    "maxbricks": 6.0,
+    "offset_forward": 3.9000000953674316,
+    "offset_up": 0.8999999761581421,
+    "templateID": 2838.0
+  },
+  "templateID": 28
+}

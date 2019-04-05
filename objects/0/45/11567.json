@@ -1,0 +1,22 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": null,
+  "components": {
+    "11": 5618,
+    "2": 11319,
+    "3": 5411,
+    "42": 0
+  },
+  "description": "A model for your property!",
+  "displayName": "Airport Red Lights Model",
+  "gate_version": null,
+  "id": 11567,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Model Reward Airport Lights Red",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

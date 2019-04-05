@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 6090,
+    "2": 12181
+  },
+  "description": "NPC Large Bone Sickle",
+  "displayName": "",
+  "gate_version": null,
+  "id": 12428,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "NPC Large Bone Sickle",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

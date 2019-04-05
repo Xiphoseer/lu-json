@@ -1,0 +1,23 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "17": 413,
+    "2": 11012,
+    "3": 1777,
+    "35": 508,
+    "7": 307
+  },
+  "description": "Muldone - Lego Club Station",
+  "displayName": null,
+  "gate_version": null,
+  "id": 11241,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Muldone",
+  "nametag": false,
+  "npcTemplateID": 17,
+  "placeable": true,
+  "type": "UserGeneratedNPCs"
+}

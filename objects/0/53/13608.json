@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "A reward behavior for Food models",
+  "components": {
+    "11": 6728,
+    "2": 13345
+  },
+  "description": "A behavior that makes a model give power-ups and smash when interacted with.",
+  "displayName": "Food Behavior",
+  "gate_version": null,
+  "id": 13608,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Food Behavior",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Loot"
+}

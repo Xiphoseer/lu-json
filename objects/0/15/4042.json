@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 4300,
+    "3": 2195,
+    "48": 125,
+    "5": 673
+  },
+  "description": "Concert Instrument",
+  "displayName": null,
+  "gate_version": null,
+  "id": 4042,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "NS - Drum QB",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Rebuildables"
+}

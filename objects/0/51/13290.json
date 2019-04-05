@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "Space Ranger Valiant Weapon Proxy",
+  "components": {
+    "11": 6581,
+    "2": 13020
+  },
+  "description": "",
+  "displayName": "Space Ranger Valiant Weapon Proxy",
+  "gate_version": "factionkit2",
+  "id": 13290,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "Space Ranger Valiant Weapon Proxy",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

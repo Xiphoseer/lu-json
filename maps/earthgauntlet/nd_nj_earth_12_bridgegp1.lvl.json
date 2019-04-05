@@ -1,0 +1,111 @@
+{
+  "chunks": [
+    {
+      "_type": 1000,
+      "value_1": 10,
+      "value_2": 64,
+      "value_3": 352,
+      "value_4": 0,
+      "version": 45
+    },
+    {
+      "_type": 2000,
+      "floats": [
+        10.0,
+        0.41960784792900085,
+        0.6196078658103943,
+        0.7490196228027344,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        -2500.0,
+        1500.0,
+        300.0,
+        800.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0,
+        300.0,
+        500.0,
+        100.0,
+        100.0,
+        1000.0,
+        350.0
+      ],
+      "ids": [],
+      "sky": [
+        "mesh\\env\\env_sky_won_nim_hills.nif",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)",
+        "(invalid)"
+      ]
+    },
+    {
+      "_type": 2001,
+      "objects": [
+        {
+          "id": 3298534883331,
+          "lot": 4734,
+          "pos": {
+            "pos": {
+              "x": 789.0131225585938,
+              "y": 200.0,
+              "z": -332.4872131347656
+            },
+            "rot": {
+              "w": 0.4999999403953552,
+              "x": -0.4999999403953552,
+              "y": 0.5,
+              "z": 0.5000000596046448
+            }
+          },
+          "scale": 18.360000610351563,
+          "settings": {
+            "CheckPrecondition": "",
+            "NDAEG": "",
+            "add_to_navmesh": true,
+            "camBehaviorDirectional": false,
+            "camBehaviorPitch": false,
+            "camBehaviorYaw": false,
+            "camGradSnap": false,
+            "camPitchAngleDown": 120.0,
+            "camPitchAngleUp": 60.0,
+            "camPrefersToFadeObject": true,
+            "cancelBehaviorMovement": false,
+            "carver_only": false,
+            "create_physics": true,
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001drenderDisabled",
+            "custom_script_client": "",
+            "custom_script_server": "",
+            "fxpriority": 0,
+            "ignoreCameraCollision": true,
+            "interaction_distance": 16.0,
+            "is_smashable": false,
+            "loadOnClientOnly": false,
+            "navmesh_carver": false,
+            "renderCullingGroup": 0,
+            "renderDisabled": true,
+            "respawnVol": true,
+            "respawnVolName": "",
+            "rspPos": "719.5036\u001f200.0000\u001f-317.5439",
+            "rspRot": "0.7126 \u001f 0.0000 \u001f 0.7015 \u001f 0.0000",
+            "sceneIDOverride": 255,
+            "sceneIDOverrideEnabled": false,
+            "sceneLayerIDOverride": 0,
+            "template": -1
+          },
+          "value_1": 1,
+          "value_2": 0,
+          "value_3": 0
+        }
+      ]
+    }
+  ]
+}

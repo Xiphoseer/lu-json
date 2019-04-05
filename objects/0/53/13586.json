@@ -1,0 +1,28 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "",
+  "components": {
+    "11": 6713,
+    "2": 13323,
+    "9": 0
+  },
+  "description": "",
+  "displayName": "Launcher",
+  "gate_version": "nexustower",
+  "id": 13586,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Launcher",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 0,
+      "skillID": 1246
+    }
+  ],
+  "type": "Loot"
+}

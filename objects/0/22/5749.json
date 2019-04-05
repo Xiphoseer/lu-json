@@ -1,0 +1,20 @@
+{
+  "HQ_valid": true,
+  "_internalNotes": "Character create shirt",
+  "components": {
+    "11": 2387,
+    "2": 5178
+  },
+  "description": null,
+  "displayName": "Mission Giver Shirt",
+  "gate_version": null,
+  "id": 5749,
+  "interactionDistance": null,
+  "locStatus": 2,
+  "localize": true,
+  "name": "Dark Green Shirt 36",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Loot"
+}

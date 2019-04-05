@@ -1,0 +1,22 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": "",
+  "components": {
+    "2": 14882,
+    "40": 7615,
+    "5": 1637,
+    "7": 2127
+  },
+  "description": "Pet Dig Treasure Chest",
+  "displayName": "",
+  "gate_version": "njhub",
+  "id": 16164,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": true,
+  "name": "NJ - mission Pet Dig 4 M1921",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": true,
+  "type": "Environmental"
+}

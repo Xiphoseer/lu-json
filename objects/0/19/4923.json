@@ -1,0 +1,29 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "11": 1739,
+    "2": 2460,
+    "5": 690,
+    "9": 0
+  },
+  "description": null,
+  "displayName": null,
+  "gate_version": null,
+  "id": 4923,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "PvP Blue Flag Loot",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "skills": [
+    {
+      "AICombatWeight": 0,
+      "castOnType": 1,
+      "skillID": 182
+    }
+  ],
+  "type": "Loot"
+}

@@ -1,0 +1,20 @@
+{
+  "HQ_valid": false,
+  "_internalNotes": null,
+  "components": {
+    "2": 6586,
+    "3": 3102
+  },
+  "description": "In game activator for level 2 builds",
+  "displayName": null,
+  "gate_version": null,
+  "id": 7006,
+  "interactionDistance": null,
+  "locStatus": 0,
+  "localize": false,
+  "name": "Level 2 Build Activator",
+  "nametag": false,
+  "npcTemplateID": null,
+  "placeable": false,
+  "type": "Environmental"
+}
